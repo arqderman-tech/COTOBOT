@@ -129,20 +129,28 @@ def agrupar_graficos_por_principal(graficos):
         # Categorías — ya son principales con "pct"
         cats_raw = datos.get("categorias", {})
         cats_ordenadas = {}
-        for cat in ORDEN_CATS:
-            if cat in cats_raw:
-                serie = cats_raw[cat]
-                if serie and "pct" in serie[0]:
-                    cats_ordenadas[cat] = serie
-                else:
-                    cats_ordenadas[cat] = _a_pct(serie)
-        # Las que no están en ORDEN_CATS
-        for cat, serie in cats_raw.items():
-            if cat not in cats_ordenadas:
-                if serie and "pct" in serie[0]:
-                    cats_ordenadas[cat] = serie
-                else:
-                    cats_ordenadas[cat] = _a_pct(serie)
+
+        # Si no hay categorías (primer día), crear punto 0% para cada cat principal
+        # usando la fecha del total
+        if not cats_raw and serie_total:
+            fecha_0 = serie_total[0]["fecha"]
+            for cat in ORDEN_CATS:
+                cats_ordenadas[cat] = [{"fecha": fecha_0, "pct": 0.0}]
+        else:
+            for cat in ORDEN_CATS:
+                if cat in cats_raw:
+                    serie = cats_raw[cat]
+                    if serie and "pct" in serie[0]:
+                        cats_ordenadas[cat] = serie
+                    else:
+                        cats_ordenadas[cat] = _a_pct(serie)
+            # Las que no están en ORDEN_CATS
+            for cat, serie in cats_raw.items():
+                if cat not in cats_ordenadas:
+                    if serie and "pct" in serie[0]:
+                        cats_ordenadas[cat] = serie
+                    else:
+                        cats_ordenadas[cat] = _a_pct(serie)
 
         resultado[periodo]["categorias"] = cats_ordenadas
 
