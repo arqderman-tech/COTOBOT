@@ -20,6 +20,9 @@ jobs:
       - name: Instalar dependencias
         run: pip install pandas
 
+      - name: Analizar precios
+        run: python analizar_precios.py
+
       - name: Generar web
         run: python generar_web.py
 
