@@ -34,7 +34,7 @@ jobs:
           mkdir -p data/snapshots
 
       - name: Correr scraper Bebidas
-        run: python "coto_bebidas (1).py"
+        run: python "coto_bebidas.py"
         env:
           PYTHONPATH: .
 
@@ -44,7 +44,7 @@ jobs:
           mv output_bebidas/*.json outputs/output_bebidas/ 2>/dev/null || true
 
       - name: Correr scraper Alimentos
-        run: python "coto_alimentos (1).py"
+        run: python "coto_alimentos.py"
         env:
           PYTHONPATH: .
 
@@ -54,7 +54,7 @@ jobs:
           mv output_alimentos/*.json outputs/output_alimentos/ 2>/dev/null || true
 
       - name: Correr scraper Hogar
-        run: python "coto_hogar (1).py"
+        run: python "coto_hogar.py"
         env:
           PYTHONPATH: .
 
