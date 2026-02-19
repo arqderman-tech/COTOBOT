@@ -21,7 +21,7 @@ jobs:
         run: pip install pandas
 
       - name: Analizar precios
-        run: python analizar_precios.py
+        run: python analizar_precios.py --solo-graficos
 
       - name: Generar web
         run: python generar_web.py
