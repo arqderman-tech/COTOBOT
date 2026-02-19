@@ -13,9 +13,6 @@ from pathlib import Path
 CATEGORIAS = [
     # ── LIMPIEZA ──────────────────────────────────────────────────────────────
     {"n": "t2y8zd",  "nombre": "Lavado"},                        # 252
-    {"n": "ff27jr",  "nombre": "Papeles (Papel de Cocina/Hig)"},  # 74
-    {"n": "6bv3h3",  "nombre": "Insecticidas"},                   # 36
-    {"n": "1ap445v", "nombre": "Calzado de Limpieza"},            # 17
     {"n": "ohywgy",  "nombre": "Accesorios De Limpieza"},         # 421
     {"n": "1annh67", "nombre": "Desodorantes De Ambiente"},       # 169
     {"n": "pz78zm",  "nombre": "Limpieza De Baño"},               # 63
@@ -30,13 +27,8 @@ CATEGORIAS = [
     {"n": "sstxyh",  "nombre": "Cuidado Personal"},               # 74
     {"n": "iak9sv",  "nombre": "Cuidado Bucal"},                  # 225
     {"n": "1csoql4", "nombre": "Protección Femenina"},            # 124
-    {"n": "jpga0a",  "nombre": "Cremas De Belleza"},              # 156
     {"n": "7d4hhu",  "nombre": "Cuidado De La Piel"},             # 94
     {"n": "14mninw", "nombre": "Accesorios Perfumería"},          # 127
-    {"n": "1c9xpsw", "nombre": "Cuidado Del Bebé Y La Mamá"},     # 85
-    {"n": "hooak",   "nombre": "Farmacia"},                       # 134
-    {"n": "6hnf6f",  "nombre": "Colonias Y Perfumes"},            # 9
-    {"n": "85l8um",  "nombre": "Cosméticos"},                     # 81
 ]
 
 OUTPUT_DIR = Path("output_hogar")
