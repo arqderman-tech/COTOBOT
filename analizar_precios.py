@@ -171,7 +171,7 @@ def guardar_compacto(df_dia, fecha_str):
     df_guardar = df_dia[[c for c in cols_guardar if c in df_dia.columns]].copy()
 
     if PRECIOS_COMPACTO.exists():
-        df_hist = pd.read_csv(PRECIOS_COMPACTO, dtype={"plu": str})
+        df_hist = pd.read_csv(PRECIOS_COMPACTO, dtype={"plu": str, "fecha": str})
         if "cat_principal" not in df_hist.columns:
             df_hist["cat_principal"] = df_hist["categoria"].apply(a_principal)
         df_hist = df_hist[df_hist["fecha"] != fecha_str]
@@ -326,22 +326,37 @@ def generar_graficos_data(df_hist):
 
 # ── MAIN ─────────────────────────────────────────────────────────────────────
 def main():
+    import sys
+    solo_graficos = "--solo-graficos" in sys.argv
+
     print(f"\n{'='*60}")
     print(f"  ANALISIS COTO — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    if solo_graficos:
+        print(f"  MODO: solo gráficos (sin scraping)")
     print(f"{'='*60}\n")
 
     fecha_hoy = datetime.now().strftime("%Y%m%d")
     DIR_DATA.mkdir(parents=True, exist_ok=True)
 
-    print("[1/5] Cargando CSVs de hoy ...")
-    df_raw = cargar_csvs_hoy()
-    if df_raw is None:
-        return
-
-    df_dia = preparar_df_dia(df_raw, fecha_hoy)
-
-    print("\n[2/5] Guardando precios_compacto (1 fila/producto/día) ...")
-    df_hist = guardar_compacto(df_dia, fecha_hoy)
+    if solo_graficos:
+        # Usar precios_compacto.csv ya existente, tomar el último día como "hoy"
+        if not PRECIOS_COMPACTO.exists():
+            print("ERROR: No existe precios_compacto.csv")
+            return
+        df_hist = pd.read_csv(PRECIOS_COMPACTO, dtype={"plu": str, "fecha": str})
+        if "cat_principal" not in df_hist.columns:
+            df_hist["cat_principal"] = df_hist["categoria"].apply(a_principal)
+        fecha_hoy = sorted(df_hist["fecha"].unique())[-1]
+        df_dia = df_hist[df_hist["fecha"] == fecha_hoy].copy()
+        print(f"  Usando fecha más reciente: {fecha_hoy} ({len(df_dia)} prods)")
+    else:
+        print("[1/5] Cargando CSVs de hoy ...")
+        df_raw = cargar_csvs_hoy()
+        if df_raw is None:
+            return
+        df_dia = preparar_df_dia(df_raw, fecha_hoy)
+        print("\n[2/5] Guardando precios_compacto (1 fila/producto/día) ...")
+        df_hist = guardar_compacto(df_dia, fecha_hoy)
 
     print("\n[3/5] Calculando variaciones ...")
     resumen = {
