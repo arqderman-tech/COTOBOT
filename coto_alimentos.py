@@ -37,7 +37,6 @@ CATEGORIAS = [
     {"n": "mz3nfh",   "nombre": "Rebozador Y Pan Rallado"},# 25
     {"n": "1yw5bwj",  "nombre": "Leche En Polvo"},        # 26
     {"n": "qe3p7f",   "nombre": "Suplementos Dietarios"}, # 31
-    {"n": "b9ra0a",   "nombre": "Productos Orgánicos"},   # 11
     # ── FRESCOS ───────────────────────────────────────────────────────────────
     {"n": "1d443r9",  "nombre": "Lácteos"},               # 570
     {"n": "1j6o93y",  "nombre": "Fiambres"},              # 290
