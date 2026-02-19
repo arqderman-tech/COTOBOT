@@ -109,53 +109,40 @@ def a_principal(cat):
 
 def agrupar_graficos_por_principal(graficos):
     """
-    Convierte graficos[periodo][categorias][subcat] → graficos[periodo][categorias][cat_principal]
-    Los valores son precio promedio ponderado entre subcategorías.
-    Y convierte precios absolutos → índice % (base 0 = primer punto).
+    El nuevo analizar_precios.py ya genera graficos.json con:
+    - categorías principales (no subcategorías)
+    - campo "pct" (no "precio")
+    Esta función simplemente reordena según ORDEN_CATS.
     """
     resultado = {}
     for periodo, datos in graficos.items():
         resultado[periodo] = {"total": [], "categorias": {}}
 
-        # Serie total → convertir a %
+        # Serie total — ya tiene "pct"
         serie_total = datos.get("total", [])
-        resultado[periodo]["total"] = _a_pct(serie_total)
+        if serie_total and "pct" in serie_total[0]:
+            resultado[periodo]["total"] = serie_total
+        else:
+            # Compatibilidad con formato viejo que tenía "precio"
+            resultado[periodo]["total"] = _a_pct(serie_total)
 
-        # Categorías: agrupar subcats en principales
+        # Categorías — ya son principales con "pct"
         cats_raw = datos.get("categorias", {})
-        # Acumular: {cat_principal: {fecha: [precios]}}
-        acum = {}
-        for subcat, serie in cats_raw.items():
-            principal = a_principal(subcat)
-            if principal not in acum:
-                acum[principal] = {}
-            for punto in serie:
-                f = punto["fecha"]
-                p = punto.get("precio")
-                if p is None:
-                    continue
-                if f not in acum[principal]:
-                    acum[principal][f] = []
-                acum[principal][f].append(p)
-
-        # Promediar y ordenar
-        cats_agrupadas = {}
-        for principal, fechas in acum.items():
-            serie = sorted(
-                [{"fecha": f, "precio": sum(ps) / len(ps)} for f, ps in fechas.items()],
-                key=lambda x: x["fecha"]
-            )
-            cats_agrupadas[principal] = _a_pct(serie)
-
-        # Ordenar según ORDEN_CATS
         cats_ordenadas = {}
         for cat in ORDEN_CATS:
-            if cat in cats_agrupadas:
-                cats_ordenadas[cat] = cats_agrupadas[cat]
-        # Agregar las que no están en ORDEN_CATS
-        for cat, serie in cats_agrupadas.items():
+            if cat in cats_raw:
+                serie = cats_raw[cat]
+                if serie and "pct" in serie[0]:
+                    cats_ordenadas[cat] = serie
+                else:
+                    cats_ordenadas[cat] = _a_pct(serie)
+        # Las que no están en ORDEN_CATS
+        for cat, serie in cats_raw.items():
             if cat not in cats_ordenadas:
-                cats_ordenadas[cat] = serie
+                if serie and "pct" in serie[0]:
+                    cats_ordenadas[cat] = serie
+                else:
+                    cats_ordenadas[cat] = _a_pct(serie)
 
         resultado[periodo]["categorias"] = cats_ordenadas
 
