@@ -3,6 +3,11 @@ generar_web.py
 ==============
 Lee los JSONs en data/ y genera docs/index.html
 para GitHub Pages con graficos, rankings y resumen.
+
+Cambios:
+- Graficos en % (base 100 = primer punto = 0%)
+- Categorias principales solamente (no subcategorias)
+- Tabla de variacion por categoria principal
 """
 
 import json
@@ -12,6 +17,82 @@ from datetime import datetime
 DIR_DATA = Path("data")
 DIR_DOCS = Path("docs")
 
+# Mapeo de subcategoria → categoria principal
+# Cualquier categoria que no esté acá se muestra tal cual
+CATEGORIA_PRINCIPAL = {
+    # ALIMENTOS
+    "Golosinas":                  "Almacén",
+    "Panadería":                  "Almacén",
+    "Snacks":                     "Almacén",
+    "Cereales":                   "Almacén",
+    "Endulzantes":                "Almacén",
+    "Aderezos Y Salsas":          "Almacén",
+    "Infusiones":                 "Almacén",
+    "Conservas":                  "Almacén",
+    "Harinas":                    "Almacén",
+    "Encurtidos":                 "Almacén",
+    "Mermeladas Y Dulces":        "Almacén",
+    "Salsas Y Puré De Tomate":   "Almacén",
+    "Aceites Y Condimentos":      "Almacén",
+    "Alimento Bebés Y Niños":     "Almacén",
+    "Arroz Y Legumbres":          "Almacén",
+    "Especias":                   "Almacén",
+    "Pasta Seca Y Rellenas":      "Almacén",
+    "Repostería":                 "Almacén",
+    "Sopas Y Saborizantes":       "Almacén",
+    "Rebozador Y Pan Rallado":    "Almacén",
+    "Leche En Polvo":             "Almacén",
+    "Suplementos Dietarios":      "Almacén",
+    # FRESCOS
+    "Lácteos":                    "Frescos",
+    "Fiambres":                   "Frescos",
+    "Quesos":                     "Frescos",
+    "Carnicería":                 "Frescos",
+    "Aves":                       "Frescos",
+    "Pastas Frescas Y Tapas":     "Frescos",
+    "Comidas Elaboradas":         "Frescos",
+    "Frutas Y Verduras":          "Frescos",
+    "Pescadería":                 "Frescos",
+    "Huevos":                     "Frescos",
+    # CONGELADOS
+    "Pescadería Congelada":       "Congelados",
+    "Nuggets Y Bocaditos":        "Congelados",
+    "Hamburguesas Y Milanesas":   "Congelados",
+    "Papas Congeladas":           "Congelados",
+    "Helados Y Postres":          "Congelados",
+    "Comidas Congeladas":         "Congelados",
+    "Vegetales Congelados":       "Congelados",
+    "Frutas Congeladas":          "Congelados",
+    # BEBIDAS
+    "Bebidas Con Alcohol":        "Bebidas Con Alcohol",
+    "Bebidas Sin Alcohol":        "Bebidas Sin Alcohol",
+    # LIMPIEZA
+    "Lavado":                     "Limpieza",
+    "Accesorios De Limpieza":     "Limpieza",
+    "Desodorantes De Ambiente":   "Limpieza",
+    "Limpieza De Baño":           "Limpieza",
+    "Limpieza De Cocina":         "Limpieza",
+    "Limpieza De Pisos Y Superficies": "Limpieza",
+    "Lavandinas":                 "Limpieza",
+    # PERFUMERIA / CUIDADO PERSONAL
+    "Cuidado Del Cabello":        "Cuidado Personal",
+    "Higiene Personal":           "Cuidado Personal",
+    "Desodorantes Y Antitranspirantes": "Cuidado Personal",
+    "Pañales E Incontinencia":    "Cuidado Personal",
+    "Cuidado Personal":           "Cuidado Personal",
+    "Cuidado Bucal":              "Cuidado Personal",
+    "Protección Femenina":        "Cuidado Personal",
+    "Cuidado De La Piel":         "Cuidado Personal",
+    "Accesorios Perfumería":      "Cuidado Personal",
+}
+
+# Orden de display de categorías principales
+ORDEN_CATS = [
+    "Almacén", "Frescos", "Congelados",
+    "Bebidas Con Alcohol", "Bebidas Sin Alcohol",
+    "Limpieza", "Cuidado Personal",
+]
+
 
 def leer_json(nombre):
     ruta = DIR_DATA / nombre
@@ -19,6 +100,115 @@ def leer_json(nombre):
         with open(ruta, encoding="utf-8") as f:
             return json.load(f)
     return None
+
+
+def a_principal(cat):
+    """Devuelve la categoría principal para una subcategoría."""
+    return CATEGORIA_PRINCIPAL.get(cat, cat)
+
+
+def agrupar_graficos_por_principal(graficos):
+    """
+    Convierte graficos[periodo][categorias][subcat] → graficos[periodo][categorias][cat_principal]
+    Los valores son precio promedio ponderado entre subcategorías.
+    Y convierte precios absolutos → índice % (base 0 = primer punto).
+    """
+    resultado = {}
+    for periodo, datos in graficos.items():
+        resultado[periodo] = {"total": [], "categorias": {}}
+
+        # Serie total → convertir a %
+        serie_total = datos.get("total", [])
+        resultado[periodo]["total"] = _a_pct(serie_total)
+
+        # Categorías: agrupar subcats en principales
+        cats_raw = datos.get("categorias", {})
+        # Acumular: {cat_principal: {fecha: [precios]}}
+        acum = {}
+        for subcat, serie in cats_raw.items():
+            principal = a_principal(subcat)
+            if principal not in acum:
+                acum[principal] = {}
+            for punto in serie:
+                f = punto["fecha"]
+                p = punto.get("precio")
+                if p is None:
+                    continue
+                if f not in acum[principal]:
+                    acum[principal][f] = []
+                acum[principal][f].append(p)
+
+        # Promediar y ordenar
+        cats_agrupadas = {}
+        for principal, fechas in acum.items():
+            serie = sorted(
+                [{"fecha": f, "precio": sum(ps) / len(ps)} for f, ps in fechas.items()],
+                key=lambda x: x["fecha"]
+            )
+            cats_agrupadas[principal] = _a_pct(serie)
+
+        # Ordenar según ORDEN_CATS
+        cats_ordenadas = {}
+        for cat in ORDEN_CATS:
+            if cat in cats_agrupadas:
+                cats_ordenadas[cat] = cats_agrupadas[cat]
+        # Agregar las que no están en ORDEN_CATS
+        for cat, serie in cats_agrupadas.items():
+            if cat not in cats_ordenadas:
+                cats_ordenadas[cat] = serie
+
+        resultado[periodo]["categorias"] = cats_ordenadas
+
+    return resultado
+
+
+def _a_pct(serie):
+    """Convierte una serie [{fecha, precio}] a índice % donde el primer punto = 0%."""
+    if not serie:
+        return []
+    base = serie[0].get("precio")
+    if not base or base == 0:
+        return [{"fecha": p["fecha"], "pct": 0} for p in serie]
+    return [
+        {"fecha": p["fecha"], "pct": round((p.get("precio", base) / base - 1) * 100, 2)}
+        for p in serie
+    ]
+
+
+def agrupar_cats_dia(cats_dia):
+    """Agrupa la tabla de categorías del día en categorías principales."""
+    acum = {}
+    for cat in cats_dia:
+        nombre = cat.get("categoria", "")
+        principal = a_principal(nombre)
+        if principal not in acum:
+            acum[principal] = {
+                "categoria": principal,
+                "variacion_sum": 0,
+                "count": 0,
+                "productos_subieron": 0,
+                "productos_bajaron": 0,
+                "total_productos": 0,
+            }
+        pct = cat.get("variacion_pct_promedio", 0) or 0
+        acum[principal]["variacion_sum"] += pct
+        acum[principal]["count"] += 1
+        acum[principal]["productos_subieron"] += cat.get("productos_subieron", 0)
+        acum[principal]["productos_bajaron"] += cat.get("productos_bajaron", 0)
+        acum[principal]["total_productos"] += cat.get("total_productos", 0)
+
+    resultado = []
+    for principal in ORDEN_CATS:
+        if principal in acum:
+            d = acum[principal]
+            d["variacion_pct_promedio"] = d["variacion_sum"] / d["count"] if d["count"] else 0
+            resultado.append(d)
+    # Las que no están en ORDEN_CATS
+    for principal, d in acum.items():
+        if principal not in ORDEN_CATS:
+            d["variacion_pct_promedio"] = d["variacion_sum"] / d["count"] if d["count"] else 0
+            resultado.append(d)
+    return resultado
 
 
 def main():
@@ -30,6 +220,9 @@ def main():
     rank_mes  = leer_json("ranking_mes.json") or []
     rank_anio = leer_json("ranking_anio.json") or []
 
+    # Agrupar graficos por categoría principal y convertir a %
+    graficos_agrupados = agrupar_graficos_por_principal(graficos)
+
     fecha_str = datetime.now().strftime("%d/%m/%Y %H:%M")
     var_dia   = resumen.get("variacion_dia")
     var_mes   = resumen.get("variacion_mes")
@@ -39,6 +232,9 @@ def main():
     baja      = resumen.get("productos_bajaron_dia", 0)
     igual     = resumen.get("productos_sin_cambio_dia", 0)
     cats_dia  = resumen.get("categorias_dia", [])
+
+    # Agrupar tabla de categorías
+    cats_dia_agrupadas = agrupar_cats_dia(cats_dia)
 
     def fmt_pct(v):
         if v is None: return "—"
@@ -52,14 +248,14 @@ def main():
         return "#888"
 
     # Serializar datos para JS
-    graficos_js = json.dumps(graficos, ensure_ascii=False)
-    rank_dia_js = json.dumps(rank_dia[:20], ensure_ascii=False)
-    rank_mes_js = json.dumps(rank_mes[:20], ensure_ascii=False)
+    graficos_js  = json.dumps(graficos_agrupados, ensure_ascii=False)
+    rank_dia_js  = json.dumps(rank_dia[:20], ensure_ascii=False)
+    rank_mes_js  = json.dumps(rank_mes[:20], ensure_ascii=False)
     rank_anio_js = json.dumps(rank_anio[:20], ensure_ascii=False)
 
-    # Generar filas de categorias
+    # Generar filas de categorias (ya agrupadas)
     filas_cats = ""
-    for cat in cats_dia:
+    for cat in cats_dia_agrupadas:
         pct = cat.get("variacion_pct_promedio", 0)
         color = color_pct(pct)
         filas_cats += f"""
@@ -110,7 +306,6 @@ def main():
 
   .container {{ max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }}
 
-  /* HERO STATS */
   .hero {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 2rem; }}
   .stat-card {{
     background: var(--surface);
@@ -123,7 +318,6 @@ def main():
   .stat-card .value {{ font-family: 'IBM Plex Mono', monospace; font-size: 2rem; font-weight: 700; }}
   .stat-card .sub {{ font-size: 0.8rem; color: var(--muted); margin-top: 0.3rem; }}
 
-  /* SECCION */
   .section {{ margin-bottom: 2.5rem; }}
   .section-title {{
     font-family: 'IBM Plex Mono', monospace;
@@ -136,7 +330,6 @@ def main():
     border-bottom: 1px solid var(--border);
   }}
 
-  /* TABS */
   .tabs {{ display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }}
   .tab {{
     padding: 0.4rem 1rem;
@@ -155,7 +348,6 @@ def main():
     border-color: var(--accent);
   }}
 
-  /* GRAFICO */
   .chart-container {{
     background: var(--surface);
     border: 1px solid var(--border);
@@ -165,7 +357,6 @@ def main():
     height: 320px;
   }}
 
-  /* TABLA */
   .table-wrap {{ overflow-x: auto; }}
   table {{ width: 100%; border-collapse: collapse; font-size: 0.88rem; }}
   th {{
@@ -182,7 +373,6 @@ def main():
   tr:hover td {{ background: rgba(255,255,255,0.02); }}
   .rank-num {{ font-family: 'IBM Plex Mono', monospace; color: var(--muted); font-size: 0.75rem; }}
 
-  /* RANKING TABS */
   .rank-tabs {{ display: flex; gap: 0.5rem; margin-bottom: 1rem; }}
   .rank-tab {{
     padding: 0.35rem 0.9rem;
@@ -196,7 +386,6 @@ def main():
   }}
   .rank-tab.active {{ background: var(--surface); color: var(--text); border-color: var(--accent); }}
 
-  /* GRID 2 COL */
   .grid2 {{ display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }}
   @media (max-width: 700px) {{ .grid2 {{ grid-template-columns: 1fr; }} }}
 
@@ -222,7 +411,6 @@ def main():
 
 <div class="container">
 
-  <!-- HERO -->
   <div class="hero" style="margin-top:1.5rem">
     <div class="stat-card">
       <div class="label">Variación Hoy</div>
@@ -247,7 +435,7 @@ def main():
     </div>
   </div>
 
-  <!-- GRAFICO HISTORICO -->
+  <!-- GRAFICO HISTORICO EN % -->
   <div class="section">
     <div class="section-title">📈 Evolución de precios</div>
     <div class="tabs">
@@ -261,7 +449,7 @@ def main():
     </div>
   </div>
 
-  <!-- GRAFICO POR CATEGORIA -->
+  <!-- GRAFICO POR CATEGORIA PRINCIPAL EN % -->
   <div class="section">
     <div class="section-title">📊 Evolución por categoría</div>
     <div id="selectorCat" style="margin-bottom:1rem;display:flex;gap:0.5rem;flex-wrap:wrap"></div>
@@ -270,7 +458,7 @@ def main():
     </div>
   </div>
 
-  <!-- VARIACION POR CATEGORIA HOY -->
+  <!-- TABLA CATEGORIAS PRINCIPALES -->
   <div class="section">
     <div class="section-title">🗂 Variación por categoría — hoy</div>
     <div class="table-wrap">
@@ -299,7 +487,6 @@ def main():
       <button class="rank-tab" onclick="mostrarRanking('mes', this)">📆 30 días</button>
       <button class="rank-tab" onclick="mostrarRanking('anio', this)">📅 1 año</button>
     </div>
-
     <div class="grid2">
       <div>
         <div style="font-size:0.8rem;color:var(--muted);margin-bottom:0.7rem">🔥 Los que más SUBIERON</div>
@@ -341,7 +528,7 @@ let chartGeneral = null;
 let chartCat = null;
 let catActual = null;
 
-// ── GRAFICO GENERAL ──────────────────────────────────────────────────────────
+// ── GRAFICO GENERAL EN % ─────────────────────────────────────────────────────
 function cambiarPeriodo(periodo, btn) {{
   periodoActual = periodo;
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
@@ -353,17 +540,16 @@ function cambiarPeriodo(periodo, btn) {{
 function renderChartGeneral(periodo) {{
   const datos = GRAFICOS[periodo]?.total || [];
   const labels = datos.map(d => d.fecha);
-  const values = datos.map(d => d.precio);
+  const values = datos.map(d => d.pct);          // YA en %
 
   if (chartGeneral) chartGeneral.destroy();
-
   const ctx = document.getElementById('chartGeneral').getContext('2d');
   chartGeneral = new Chart(ctx, {{
     type: 'line',
     data: {{
       labels,
       datasets: [{{
-        label: 'Precio promedio ($)',
+        label: 'Variación acumulada %',
         data: values,
         borderColor: '#f59e0b',
         backgroundColor: 'rgba(245,158,11,0.08)',
@@ -379,13 +565,24 @@ function renderChartGeneral(periodo) {{
       plugins: {{ legend: {{ display: false }} }},
       scales: {{
         x: {{ ticks: {{ color: '#64748b', maxTicksLimit: 8 }}, grid: {{ color: '#2a2d3a' }} }},
-        y: {{ ticks: {{ color: '#64748b', callback: v => '$' + v.toLocaleString('es-AR') }}, grid: {{ color: '#2a2d3a' }} }}
+        y: {{
+          ticks: {{
+            color: '#64748b',
+            callback: v => (v > 0 ? '+' : '') + v.toFixed(1) + '%'
+          }},
+          grid: {{ color: '#2a2d3a' }},
+          // Línea de base en 0
+          afterDataLimits: axis => {{
+            if (axis.min > 0) axis.min = 0;
+            if (axis.max < 0) axis.max = 0;
+          }}
+        }}
       }}
     }}
   }});
 }}
 
-// ── GRAFICO POR CATEGORIA ────────────────────────────────────────────────────
+// ── GRAFICO POR CATEGORIA PRINCIPAL EN % ─────────────────────────────────────
 function renderSelectorCats(periodo) {{
   const cats = Object.keys(GRAFICOS[periodo]?.categorias || {{}});
   const cont = document.getElementById('selectorCat');
@@ -410,17 +607,16 @@ function renderSelectorCats(periodo) {{
 function renderChartCat(periodo, cat) {{
   const datos = GRAFICOS[periodo]?.categorias?.[cat] || [];
   const labels = datos.map(d => d.fecha);
-  const values = datos.map(d => d.precio);
+  const values = datos.map(d => d.pct);          // YA en %
 
   if (chartCat) chartCat.destroy();
-
   const ctx = document.getElementById('chartCat').getContext('2d');
   chartCat = new Chart(ctx, {{
     type: 'line',
     data: {{
       labels,
       datasets: [{{
-        label: cat,
+        label: cat + ' — variación %',
         data: values,
         borderColor: '#60a5fa',
         backgroundColor: 'rgba(96,165,250,0.08)',
@@ -436,7 +632,17 @@ function renderChartCat(periodo, cat) {{
       plugins: {{ legend: {{ display: false }} }},
       scales: {{
         x: {{ ticks: {{ color: '#64748b', maxTicksLimit: 8 }}, grid: {{ color: '#2a2d3a' }} }},
-        y: {{ ticks: {{ color: '#64748b', callback: v => '$' + v.toLocaleString('es-AR') }}, grid: {{ color: '#2a2d3a' }} }}
+        y: {{
+          ticks: {{
+            color: '#64748b',
+            callback: v => (v > 0 ? '+' : '') + v.toFixed(1) + '%'
+          }},
+          grid: {{ color: '#2a2d3a' }},
+          afterDataLimits: axis => {{
+            if (axis.min > 0) axis.min = 0;
+            if (axis.max < 0) axis.max = 0;
+          }}
+        }}
       }}
     }}
   }});
@@ -446,7 +652,6 @@ function renderChartCat(periodo, cat) {{
 function mostrarRanking(periodo, btn) {{
   document.querySelectorAll('.rank-tab').forEach(t => t.classList.remove('active'));
   btn.classList.add('active');
-
   const mapas = {{ dia: RANK_DIA, mes: RANK_MES, anio: RANK_ANIO }};
   const data = mapas[periodo] || [];
   renderTablaRanking('tabla-sube', data, false);
