@@ -1,84 +1,59 @@
 name: Scraper Diario Coto
-
 on:
   schedule:
     # Corre todos los dias a las 8:00 AM hora Argentina (UTC-3 = 11:00 UTC)
     - cron: '0 11 * * *'
   workflow_dispatch:  # permite correrlo manualmente desde GitHub
-
 jobs:
   scraper:
     runs-on: ubuntu-latest
     timeout-minutes: 120
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Instalar dependencias
         run: |
           pip install pandas requests tweepy selectolax
-
       - name: Crear directorios de output
         run: |
           mkdir -p outputs/output_bebidas
           mkdir -p outputs/output_alimentos
           mkdir -p outputs/output_hogar
           mkdir -p data/snapshots
-
       - name: Correr scraper Bebidas
         run: python "coto_bebidas.py"
         env:
           PYTHONPATH: .
-
       - name: Mover output bebidas
         run: |
           mv output_bebidas/*.csv outputs/output_bebidas/ 2>/dev/null || true
           mv output_bebidas/*.json outputs/output_bebidas/ 2>/dev/null || true
-
       - name: Correr scraper Alimentos
         run: python "coto_alimentos.py"
         env:
           PYTHONPATH: .
-
       - name: Mover output alimentos
         run: |
           mv output_alimentos/*.csv outputs/output_alimentos/ 2>/dev/null || true
           mv output_alimentos/*.json outputs/output_alimentos/ 2>/dev/null || true
-
       - name: Correr scraper Hogar
         run: python "coto_hogar.py"
         env:
           PYTHONPATH: .
-
       - name: Mover output hogar
         run: |
           mv output_hogar/*.csv outputs/output_hogar/ 2>/dev/null || true
           mv output_hogar/*.json outputs/output_hogar/ 2>/dev/null || true
-
       - name: Analizar precios y generar datos
         run: python analizar_precios.py
-
       - name: Generar web (GitHub Pages)
         run: python generar_web.py
-
-      - name: Publicar en X (Twitter)
-        run: python tweetear_resumen.py
-        env:
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          WEB_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-
       - name: Commit y push datos + web
         run: |
           git config user.name "github-actions[bot]"
@@ -88,3 +63,13 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publicar en X (Twitter)
+        run: python tweetear_resumen.py
+        continue-on-error: true
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          WEB_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
