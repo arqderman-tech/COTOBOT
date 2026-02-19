@@ -571,10 +571,12 @@ function renderChartGeneral(periodo) {{
 
 // ── GRAFICO POR CATEGORIA PRINCIPAL EN % ─────────────────────────────────────
 function renderSelectorCats(periodo) {{
-  const cats = Object.keys(GRAFICOS[periodo]?.categorias || {{}});
+  // Usar categorías del JSON; si no hay, mostrar las 7 principales igual
+  const CATS_DEFAULT = ['Almacén','Frescos','Congelados','Bebidas Con Alcohol','Bebidas Sin Alcohol','Limpieza','Cuidado Personal'];
+  const catsJSON = Object.keys(GRAFICOS[periodo]?.categorias || {{}});
+  const cats = catsJSON.length ? catsJSON : CATS_DEFAULT;
   const cont = document.getElementById('selectorCat');
   cont.innerHTML = '';
-  if (!cats.length) return;
   if (!catActual || !cats.includes(catActual)) catActual = cats[0];
   cats.forEach(cat => {{
     const btn = document.createElement('button');
