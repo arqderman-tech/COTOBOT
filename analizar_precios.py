@@ -116,7 +116,13 @@ PERIODOS = {
 
 
 def a_principal(cat):
-    return CATEGORIA_PRINCIPAL.get(str(cat).strip(), str(cat).strip())
+    cat = str(cat).strip()
+    # Buscar en cada segmento de la ruta (ej: "Golosinas > Chocolates > Almacén")
+    for segmento in cat.split('>'):
+        segmento = segmento.strip()
+        if segmento in CATEGORIA_PRINCIPAL:
+            return CATEGORIA_PRINCIPAL[segmento]
+    return cat
 
 
 # ── CARGA ────────────────────────────────────────────────────────────────────
