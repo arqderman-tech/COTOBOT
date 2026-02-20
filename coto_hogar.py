@@ -2,13 +2,13 @@
 Coto Digital — Scraper HOGAR Y OTROS
 Categorías: Limpieza + Perfumería (cuidado personal, farmacia, cosméticos, etc.)
 N-codes validados contra el catálogo en vivo.
-
 Uso: python coto_hogar.py
 """
 import sys
 sys.path.insert(0, str(__import__('pathlib').Path(__file__).parent))
-from coto_base import scrape_categoria, guardar, log
+from coto_base import scrape_categoria, guardar, log, MAX_WORKERS
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
 
 CATEGORIAS = [
     # ── LIMPIEZA ──────────────────────────────────────────────────────────────
@@ -34,10 +34,19 @@ CATEGORIAS = [
 OUTPUT_DIR = Path("output_hogar")
 
 if __name__ == "__main__":
+    resultados = {}
+
+    def scrape_cat(cat):
+        prods = scrape_categoria(cat["n"], cat["nombre"])
+        return cat["n"], prods
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        for n_code, prods in ex.map(scrape_cat, CATEGORIAS):
+            resultados[n_code] = prods
+
     todos = []
     for cat in CATEGORIAS:
-        prods = scrape_categoria(cat["n"], cat["nombre"])
-        todos.extend(prods)
+        todos.extend(resultados[cat["n"]])
         log.info(f"  acumulado: {len(todos)}")
 
     # Deduplicar por PLU
