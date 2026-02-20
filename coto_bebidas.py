@@ -1,31 +1,39 @@
 """
 Coto Digital - Scraper BEBIDAS
 Categorias: Bebidas Con Alcohol + Bebidas Sin Alcohol
-
 Uso: python coto_bebidas.py
 """
 import sys
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
 
-# Directorio del script (funciona sin importar desde donde se ejecute)
 SCRIPT_DIR = Path(__file__).parent
 sys.path.insert(0, str(SCRIPT_DIR))
-
-from coto_base import scrape_categoria, guardar, log
+from coto_base import scrape_categoria, guardar, log, MAX_WORKERS
 
 CATEGORIAS = [
     {"n": "4hulsc",  "nombre": "Bebidas Con Alcohol"},
     {"n": "j9f2pv",  "nombre": "Bebidas Sin Alcohol"},
 ]
 
-# Guarda en output_bebidas/ dentro de la misma carpeta que este script
 OUTPUT_DIR = SCRIPT_DIR / "output_bebidas"
 
 if __name__ == "__main__":
+    # Ambas categorías en paralelo
+    resultados = {}
+
+    def scrape_cat(cat):
+        prods = scrape_categoria(cat["n"], cat["nombre"])
+        return cat["n"], prods
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        for n_code, prods in ex.map(scrape_cat, CATEGORIAS):
+            resultados[n_code] = prods
+
+    # Acumular en orden original
     todos = []
     for cat in CATEGORIAS:
-        prods = scrape_categoria(cat["n"], cat["nombre"])
-        todos.extend(prods)
+        todos.extend(resultados[cat["n"]])
         log.info(f"  acumulado: {len(todos)}")
 
     # Deduplicar por PLU
