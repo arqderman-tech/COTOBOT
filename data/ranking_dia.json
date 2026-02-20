@@ -1,0 +1,222 @@
+[
+  {
+    "plu": "35074",
+    "nombre": "Zapallito Redondo Esp. X   Xkg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Zapallito > Verduras > Hortalizas > Frutas Y Verduras > Frescos",
+    "precio_antes": 1499.0,
+    "precio_hoy": 1799.0,
+    "precio_actual_hoy": 1799.0,
+    "diff_abs": 300.0,
+    "diff_pct": 20.01
+  },
+  {
+    "plu": "191997",
+    "nombre": "Invisibles TAO Bli 24 Uni",
+    "marca": "Tao",
+    "categoria": "Perfumería > Accesorios Femeninos > Accesorios",
+    "precio_antes": 1174.99,
+    "precio_hoy": 1385.99,
+    "precio_actual_hoy": 1385.99,
+    "diff_abs": 211.0,
+    "diff_pct": 17.96
+  },
+  {
+    "plu": "13744",
+    "nombre": "Chocolate KINDER Bueno Tab 43 Grm",
+    "marca": "Kinder",
+    "categoria": "Golosinas > Chocolates > Barras De Chocolate > Almacén",
+    "precio_antes": 2749.99,
+    "precio_hoy": 3149.0,
+    "precio_actual_hoy": 2676.65,
+    "diff_abs": 399.01,
+    "diff_pct": 14.51
+  },
+  {
+    "plu": "691",
+    "nombre": "Zapallito Redondo   Xkg",
+    "marca": NaN,
+    "categoria": "Zapallito > Verduras > Hortalizas > Frutas Y Verduras > Frescos",
+    "precio_antes": 1399.0,
+    "precio_hoy": 1599.0,
+    "precio_actual_hoy": 1599.0,
+    "diff_abs": 200.0,
+    "diff_pct": 14.3
+  },
+  {
+    "plu": "602179",
+    "nombre": "Bombón Con Coco Y Almendras Raffaello 90g",
+    "marca": "Raffaello",
+    "categoria": "Golosinas > Bombones Y Bocaditos > Bombones > Almacén",
+    "precio_antes": 7524.99,
+    "precio_hoy": 8600.0,
+    "precio_actual_hoy": 7310.0,
+    "diff_abs": 1075.01,
+    "diff_pct": 14.29
+  },
+  {
+    "plu": "201690",
+    "nombre": "Bombón Ferrero Raffaello 30g",
+    "marca": "Raffaello",
+    "categoria": "Golosinas > Bombones Y Bocaditos > Bombones > Almacén",
+    "precio_antes": 2629.99,
+    "precio_hoy": 3000.0,
+    "precio_actual_hoy": 2550.0,
+    "diff_abs": 370.01,
+    "diff_pct": 14.07
+  },
+  {
+    "plu": "245925",
+    "nombre": "Pastillas TIC TAC Naranja Est 49 Grm",
+    "marca": "Tic Tac",
+    "categoria": "Varios > Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 2429.99,
+    "precio_hoy": 2751.0,
+    "precio_actual_hoy": 2338.35,
+    "diff_abs": 321.01,
+    "diff_pct": 13.21
+  },
+  {
+    "plu": "245926",
+    "nombre": "Pastillas Menta Tic Tac Pas 49 Grm",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 2429.99,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2337.5,
+    "diff_abs": 320.01,
+    "diff_pct": 13.17
+  },
+  {
+    "plu": "457326",
+    "nombre": "Pastillas Surtido Tic Tac Cja 49 Grm",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 2429.99,
+    "precio_hoy": 2749.0,
+    "precio_actual_hoy": 2336.65,
+    "diff_abs": 319.01,
+    "diff_pct": 13.13
+  },
+  {
+    "plu": "594626",
+    "nombre": "Bombón Cubierto De Chocolate Ferrero 50g",
+    "marca": "Ferrero Rocher",
+    "categoria": "Golosinas > Bombones Y Bocaditos > Bombones > Almacén",
+    "precio_antes": 4749.99,
+    "precio_hoy": 5368.0,
+    "precio_actual_hoy": 4562.8,
+    "diff_abs": 618.01,
+    "diff_pct": 13.01
+  },
+  {
+    "plu": "109329",
+    "nombre": "Bombones FERRERO ROCHER 100g",
+    "marca": "Ferrero Rocher",
+    "categoria": "Golosinas > Bombones Y Bocaditos > Bombones > Almacén",
+    "precio_antes": 9499.99,
+    "precio_hoy": 10735.0,
+    "precio_actual_hoy": 9124.75,
+    "diff_abs": 1235.01,
+    "diff_pct": 13.0
+  },
+  {
+    "plu": "580873",
+    "nombre": "Pastillas De Goma Menta Fresca Tic Tac 16g",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 929.99,
+    "precio_hoy": 1050.0,
+    "precio_actual_hoy": 892.5,
+    "diff_abs": 120.01,
+    "diff_pct": 12.9
+  },
+  {
+    "plu": "490657",
+    "nombre": "Bombones FERRERO ROCHER 150g",
+    "marca": "Ferrero Rocher",
+    "categoria": "Golosinas > Bombones Y Bocaditos > Bombones > Almacén",
+    "precio_antes": 14359.99,
+    "precio_hoy": 16199.0,
+    "precio_actual_hoy": 13769.15,
+    "diff_abs": 1839.01,
+    "diff_pct": 12.81
+  },
+  {
+    "plu": "608703",
+    "nombre": "Pastillas Sabor Frutilla Y Crema Tic Tac 16g",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 929.99,
+    "precio_hoy": 1049.0,
+    "precio_actual_hoy": 891.65,
+    "diff_abs": 119.01,
+    "diff_pct": 12.8
+  },
+  {
+    "plu": "72183",
+    "nombre": "Pastillas TIC TAC Naranja Cja 16 Grm",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 929.99,
+    "precio_hoy": 1049.0,
+    "precio_actual_hoy": 891.65,
+    "diff_abs": 119.01,
+    "diff_pct": 12.8
+  },
+  {
+    "plu": "72184",
+    "nombre": "Pastillas TIC TAC Menta Cja 16 Grm",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 929.99,
+    "precio_hoy": 1049.0,
+    "precio_actual_hoy": 891.65,
+    "diff_abs": 119.01,
+    "diff_pct": 12.8
+  },
+  {
+    "plu": "457325",
+    "nombre": "Pastillas Surtido Tic Tac Cja 16 Grm",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Chicles > Almacén",
+    "precio_antes": 929.99,
+    "precio_hoy": 1049.0,
+    "precio_actual_hoy": 891.65,
+    "diff_abs": 119.01,
+    "diff_pct": 12.8
+  },
+  {
+    "plu": "592889",
+    "nombre": "Pastillas De Goma Citrus Mix Tic Tac 16g",
+    "marca": "Tic Tac",
+    "categoria": "Pastillas > Golosinas > Chicles Y Pastillas > Almacén",
+    "precio_antes": 929.99,
+    "precio_hoy": 1049.0,
+    "precio_actual_hoy": 891.65,
+    "diff_abs": 119.01,
+    "diff_pct": 12.8
+  },
+  {
+    "plu": "513097",
+    "nombre": "Crema De Avellanas Con Cacao NUTELLA 350g",
+    "marca": "Nutella",
+    "categoria": "Repostería > Rellenos > Polvo Para Postres Y Reposteria > Almacén",
+    "precio_antes": 9749.99,
+    "precio_hoy": 10998.0,
+    "precio_actual_hoy": 9348.3,
+    "diff_abs": 1248.01,
+    "diff_pct": 12.8
+  },
+  {
+    "plu": "172427",
+    "nombre": "Bombones Chocolate Y Avellana FERRERO ROCHER 37.5g",
+    "marca": "Ferrero Rocher",
+    "categoria": "Golosinas > Bombones Y Bocaditos > Bombones > Almacén",
+    "precio_antes": 3169.99,
+    "precio_hoy": 3571.0,
+    "precio_actual_hoy": 3035.35,
+    "diff_abs": 401.01,
+    "diff_pct": 12.65
+  }
+]
