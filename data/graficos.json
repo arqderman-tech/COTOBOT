@@ -10,7 +10,78 @@
         "pct": 0.01
       }
     ],
-    "categorias": {}
+    "categorias": {
+      "Almacén": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": -0.06
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Bebidas Con Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Bebidas Sin Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.01
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   },
   "30d": {
     "total": [
@@ -23,7 +94,78 @@
         "pct": 0.01
       }
     ],
-    "categorias": {}
+    "categorias": {
+      "Almacén": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": -0.06
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Bebidas Con Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Bebidas Sin Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.01
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   },
   "6m": {
     "total": [
@@ -36,7 +178,78 @@
         "pct": 0.01
       }
     ],
-    "categorias": {}
+    "categorias": {
+      "Almacén": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": -0.06
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Bebidas Con Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Bebidas Sin Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.01
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   },
   "1y": {
     "total": [
@@ -49,6 +262,77 @@
         "pct": 0.01
       }
     ],
-    "categorias": {}
+    "categorias": {
+      "Almacén": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Frescos": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": -0.06
+        }
+      ],
+      "Congelados": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.07
+        }
+      ],
+      "Bebidas Con Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Bebidas Sin Alcohol": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.01
+        }
+      ],
+      "Limpieza": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ],
+      "Cuidado Personal": [
+        {
+          "fecha": "2026-02-19",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-02-20",
+          "pct": 0.0
+        }
+      ]
+    }
   }
 }
