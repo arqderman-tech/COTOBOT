@@ -7,8 +7,9 @@ Uso: python coto_alimentos.py
 """
 import sys
 sys.path.insert(0, str(__import__('pathlib').Path(__file__).parent))
-from coto_base import scrape_categoria, guardar, log
+from coto_base import scrape_categoria, guardar, log, MAX_WORKERS
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
 
 # N-codes obtenidos navegando el árbol endeca en vivo
 # Solo se obtienen productos con stock vigente (filtro automático del endeca)
@@ -62,12 +63,26 @@ CATEGORIAS = [
 OUTPUT_DIR = Path("output_alimentos")
 
 if __name__ == "__main__":
-    todos = []
-    # Usar subcategorías para no duplicar (evitar la raíz "Almacén" que contiene todo)
+    # Excluir la raíz "Almacén" para no duplicar
     cats_sin_raiz = [c for c in CATEGORIAS if c["n"] != "8pub5z"]
-    for cat in cats_sin_raiz:
+
+    # ── Todas las categorías en paralelo ─────────────────────────────────────
+    resultados = {}   # n_code → lista de productos
+
+    def scrape_cat(cat):
         prods = scrape_categoria(cat["n"], cat["nombre"])
-        todos.extend(prods)
+        return cat["n"], prods
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        futures = {ex.submit(scrape_cat, cat): cat for cat in cats_sin_raiz}
+        for future in futures:
+            n_code, prods = future.result()
+            resultados[n_code] = prods
+
+    # Acumular en el orden original de CATEGORIAS
+    todos = []
+    for cat in cats_sin_raiz:
+        todos.extend(resultados[cat["n"]])
         log.info(f"  acumulado: {len(todos)}")
 
     # Deduplicar por PLU (puede haber solapamiento entre subcategorías hermanas)
