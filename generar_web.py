@@ -103,8 +103,13 @@ def leer_json(nombre):
 
 
 def a_principal(cat):
-    """Devuelve la categoría principal para una subcategoría."""
-    return CATEGORIA_PRINCIPAL.get(cat, cat)
+    """Devuelve la categoría principal para una subcategoría (busca en cada segmento de la ruta)."""
+    cat = str(cat).strip()
+    for segmento in cat.split('>'):
+        segmento = segmento.strip()
+        if segmento in CATEGORIA_PRINCIPAL:
+            return CATEGORIA_PRINCIPAL[segmento]
+    return cat
 
 
 def agrupar_graficos_por_principal(graficos):
