@@ -8,16 +8,16 @@ from urllib.request import urlopen, Request
 from urllib.error import HTTPError, URLError
 from pathlib import Path
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import ssl
 import random
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(message)s", datefmt="%H:%M:%S")
 log = logging.getLogger(__name__)
 
-BASE_BROWSE = "https://www.cotodigital3.com.ar/sitios/cdigi/browse/_"
-NRPP  = 50
-DELAY = 1.0
-DELAY_JITTER = 0.5
+BASE_BROWSE  = "https://www.cotodigital3.com.ar/sitios/cdigi/browse/_"
+NRPP         = 50
+MAX_WORKERS  = 20   # workers paralelos
 
 SSL_CTX = ssl.create_default_context()
 SSL_CTX.check_hostname = False
@@ -178,46 +178,65 @@ def extraer_producto(rec_outer, cat_nombre):
     }
 
 
+def _fetch_page(args):
+    """Worker: descarga una página y devuelve (n_code, offset, records, total)."""
+    n_code, offset, cat_nombre = args
+    url  = f"{BASE_BROWSE}/N-{n_code}?Nrpp={NRPP}&No={offset}&format=json"
+    data = get_json(url)
+    if not data:
+        log.warning(f"  WARNING {cat_nombre}: sin respuesta en offset {offset}")
+        return n_code, offset, [], 0
+
+    main = _find_results(data)
+    if main is None:
+        try:
+            claves = list(data["contents"][0].keys())
+        except Exception:
+            claves = list(data.keys())
+        log.warning(f"  WARNING {cat_nombre}: no se encontro bloque de resultados. Claves raiz: {claves}")
+        return n_code, offset, [], 0
+
+    records = main.get("records", [])
+    total   = int(main.get("totalNumRecs", 0))
+
+    if not records:
+        log.warning(f"  WARNING {cat_nombre}: 0 registros en offset {offset} (totalNumRecs={total})")
+
+    return n_code, offset, records, total
+
+
 def scrape_categoria(n_code, cat_nombre):
-    """Scrapea todas las paginas de una categoria usando N-code Endeca."""
-    todos  = []
-    offset = 0
+    """Scrapea todas las páginas de una categoría usando N-code Endeca."""
     log.info(f"-> {cat_nombre} (N-{n_code})")
 
-    while True:
-        url  = f"{BASE_BROWSE}/N-{n_code}?Nrpp={NRPP}&No={offset}&format=json"
-        data = get_json(url)
+    # ── Página 0: obtener total ───────────────────────────────────────────────
+    _, _, records_p0, total = _fetch_page((n_code, 0, cat_nombre))
+    if not records_p0:
+        return []
 
-        if not data:
-            log.warning(f"  WARNING {cat_nombre}: sin respuesta en offset {offset}")
-            break
+    todos = [extraer_producto(r, cat_nombre) for r in records_p0]
+    log.info(f"  offset 0 | {len(todos)}/{total}")
 
-        main = _find_results(data)
+    if total <= NRPP:
+        return todos
 
-        if main is None:
-            try:
-                claves = list(data["contents"][0].keys())
-            except Exception:
-                claves = list(data.keys())
-            log.warning(f"  WARNING {cat_nombre}: no se encontro bloque de resultados. Claves raiz: {claves}")
-            break
+    # ── Páginas restantes en paralelo ─────────────────────────────────────────
+    offsets = list(range(NRPP, total, NRPP))
+    page_args = [(n_code, off, cat_nombre) for off in offsets]
 
-        records = main.get("records", [])
-        total   = int(main.get("totalNumRecs", 0))
+    # Guardar resultados indexados por offset para mantener orden
+    paginas = {}
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        futures = {ex.submit(_fetch_page, args): args[1] for args in page_args}
+        for future in as_completed(futures):
+            _, offset, records, _ = future.result()
+            paginas[offset] = records
+            log.info(f"  offset {offset} | {len(todos) + sum(len(v) for v in paginas.values())}/{total}")
 
-        if not records:
-            log.warning(f"  WARNING {cat_nombre}: 0 registros en offset {offset} (totalNumRecs={total})")
-            break
-
-        for rec_outer in records:
-            todos.append(extraer_producto(rec_outer, cat_nombre))
-
-        log.info(f"  offset {offset} | {len(todos)}/{total}")
-        offset += NRPP
-        if offset >= total:
-            break
-
-        time.sleep(DELAY + random.uniform(0, DELAY_JITTER))
+    # Agregar en orden de offset
+    for off in offsets:
+        for rec in paginas.get(off, []):
+            todos.append(extraer_producto(rec, cat_nombre))
 
     return todos
 
