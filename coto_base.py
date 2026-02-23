@@ -30,15 +30,21 @@ HEADERS = {
 }
 
 
-def get_json(url, retries=3):
+def get_json(url, retries=5, espera=3):
+    ultimo_error = None
     for i in range(retries):
         try:
             req = Request(url, headers=HEADERS)
             with urlopen(req, context=SSL_CTX, timeout=20) as r:
-                return json.loads(r.read())
-        except (HTTPError, URLError) as e:
-            log.warning(f"  intento {i+1}: {e}  url={url[:80]}")
-            time.sleep(2 ** i)
+                contenido = r.read()
+            if not contenido:
+                raise ValueError("Respuesta vacía del servidor")
+            return json.loads(contenido)
+        except (HTTPError, URLError, ValueError, json.JSONDecodeError) as e:
+            ultimo_error = e
+            log.warning(f"  intento {i+1}/{retries}: {e}  url={url[:80]}")
+            time.sleep(espera * (i + 1))  # backoff: 3s, 6s, 9s, 12s, 15s
+    log.error(f"  FALLO DEFINITIVO tras {retries} intentos: {url[:80]}")
     return None
 
 
@@ -266,3 +272,4 @@ def guardar(todos, output_dir: Path, nombre_archivo: str):
     log.info(f"OK CSV  -> {ruta_csv}  ({len(todos)} prods)")
     log.info(f"OK JSON -> {ruta_json}")
     return ruta_csv
+    
