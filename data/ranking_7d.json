@@ -1,0 +1,222 @@
+[
+  {
+    "plu": "17117",
+    "nombre": "Pelon Blanco X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Pelon > Frutas Y Verduras > Frutas > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.69
+  },
+  {
+    "plu": "672",
+    "nombre": "Pimiento Verde   Xkg",
+    "marca": "-",
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas Y Verduras > Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3299.0,
+    "precio_actual_hoy": 3299.0,
+    "diff_abs": 1300.0,
+    "diff_pct": 65.03
+  },
+  {
+    "plu": "17719",
+    "nombre": "Pera William .   Xkg",
+    "marca": NaN,
+    "categoria": "Peras > Frutas Y Verduras > Frutas > Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 60.02
+  },
+  {
+    "plu": "35071",
+    "nombre": "Pimiento Verde  Especial Bja X Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas Y Verduras > Frescos",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3799.0,
+    "precio_actual_hoy": 3799.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 58.36
+  },
+  {
+    "plu": "42216",
+    "nombre": "Pata Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "Por Kg > Pollo Trozado Congelado > Pata Con Piel > Frescos > Aves",
+    "precio_antes": 3999.0,
+    "precio_hoy": 6299.0,
+    "precio_actual_hoy": 6299.0,
+    "diff_abs": 2300.0,
+    "diff_pct": 57.51
+  },
+  {
+    "plu": "18380",
+    "nombre": "Salame Colonia Caroya Familia Grion Xkg",
+    "marca": "Familia Grion",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 29999.0,
+    "precio_hoy": 46999.0,
+    "precio_actual_hoy": 46999.0,
+    "diff_abs": 17000.0,
+    "diff_pct": 56.67
+  },
+  {
+    "plu": "93988",
+    "nombre": "Tararira Filet X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Frescos > Filete",
+    "precio_antes": 10990.0,
+    "precio_hoy": 16999.0,
+    "precio_actual_hoy": 13599.2,
+    "diff_abs": 6009.0,
+    "diff_pct": 54.68
+  },
+  {
+    "plu": "13517",
+    "nombre": "Naranja Jugo Cosecha Criolla (Peso Aproximado 1.5 Kg)",
+    "marca": "Cosecha Criolla",
+    "categoria": "Naranjas > Frutas Y Verduras > Frutas > Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2699.0,
+    "precio_actual_hoy": 2699.0,
+    "diff_abs": 900.0,
+    "diff_pct": 50.03
+  },
+  {
+    "plu": "618916",
+    "nombre": "Jugo   Pura Frutta Naranja   Tetrabrik 2 L",
+    "marca": "Pura Frutta",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 5849.35,
+    "diff_abs": 3000.0,
+    "diff_pct": 50.01
+  },
+  {
+    "plu": "17474",
+    "nombre": "Milancito Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "17007",
+    "nombre": "Longaniza Calabres Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "17139",
+    "nombre": "Salame Colonia Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "808",
+    "nombre": "Chorizo Candelario EBRO X Kg",
+    "marca": "Ebro",
+    "categoria": "Frescos > Fiambres > Chorizo",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "728",
+    "nombre": "Milancito Largo Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "212",
+    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Frescos > Fiambres > Cantimpalo",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "27396",
+    "nombre": "Salame Canastero Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "197",
+    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Longaniza > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "17008",
+    "nombre": "Salamin F/G . Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "36242",
+    "nombre": "Salame Milan Campo Austral Feteado X Kg",
+    "marca": "Campo Austral",
+    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 19999.0,
+    "precio_hoy": 28709.0,
+    "precio_actual_hoy": 28709.0,
+    "diff_abs": 8710.0,
+    "diff_pct": 43.55
+  },
+  {
+    "plu": "17885",
+    "nombre": "Sabalo Entero Eviscerado Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado De Rio > Pescaderia > Congelados",
+    "precio_antes": 5590.0,
+    "precio_hoy": 7990.0,
+    "precio_actual_hoy": 6392.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 42.93
+  }
+]
