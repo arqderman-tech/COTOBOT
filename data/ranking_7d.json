@@ -1,36 +1,14 @@
 [
   {
-    "plu": "17117",
-    "nombre": "Pelon Blanco X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pelon > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.69
-  },
-  {
     "plu": "672",
     "nombre": "Pimiento Verde   Xkg",
     "marca": "-",
     "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas Y Verduras > Frescos",
     "precio_antes": 1999.0,
-    "precio_hoy": 3299.0,
-    "precio_actual_hoy": 3299.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 65.03
-  },
-  {
-    "plu": "17719",
-    "nombre": "Pera William .   Xkg",
-    "marca": NaN,
-    "categoria": "Peras > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 2499.0,
     "precio_hoy": 3999.0,
     "precio_actual_hoy": 3999.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.02
+    "diff_abs": 2000.0,
+    "diff_pct": 100.05
   },
   {
     "plu": "35071",
@@ -38,10 +16,10 @@
     "marca": "Cosecha Criolla",
     "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas Y Verduras > Frescos",
     "precio_antes": 2399.0,
-    "precio_hoy": 3799.0,
-    "precio_actual_hoy": 3799.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 58.36
+    "precio_hoy": 4599.0,
+    "precio_actual_hoy": 4599.0,
+    "diff_abs": 2200.0,
+    "diff_pct": 91.7
   },
   {
     "plu": "42216",
@@ -99,8 +77,8 @@
     "diff_pct": 50.01
   },
   {
-    "plu": "17474",
-    "nombre": "Milancito Familiar Ebro Xkg",
+    "plu": "17139",
+    "nombre": "Salame Colonia Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -110,10 +88,10 @@
     "diff_pct": 44.74
   },
   {
-    "plu": "17007",
-    "nombre": "Longaniza Calabres Ebro Xkg",
+    "plu": "17008",
+    "nombre": "Salamin F/G . Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
@@ -121,8 +99,30 @@
     "diff_pct": 44.74
   },
   {
-    "plu": "17139",
-    "nombre": "Salame Colonia Ebro Xkg",
+    "plu": "212",
+    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Frescos > Fiambres > Cantimpalo",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "197",
+    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Longaniza > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "17474",
+    "nombre": "Milancito Familiar Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -154,17 +154,6 @@
     "diff_pct": 44.74
   },
   {
-    "plu": "212",
-    "nombre": "Cantimpalo Familiar Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Frescos > Fiambres > Cantimpalo",
-    "precio_antes": 18999.0,
-    "precio_hoy": 27499.0,
-    "precio_actual_hoy": 27499.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 44.74
-  },
-  {
     "plu": "27396",
     "nombre": "Salame Canastero Ebro Xkg",
     "marca": "Ebro",
@@ -176,21 +165,10 @@
     "diff_pct": 44.74
   },
   {
-    "plu": "197",
-    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "plu": "17007",
+    "nombre": "Longaniza Calabres Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "Longaniza > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 27499.0,
-    "precio_actual_hoy": 27499.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 44.74
-  },
-  {
-    "plu": "17008",
-    "nombre": "Salamin F/G . Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
+    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 6392.0,
     "diff_abs": 2400.0,
     "diff_pct": 42.93
+  },
+  {
+    "plu": "17893",
+    "nombre": "Tararira Entera Congelada X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado De Rio > Pescaderia > Congelados",
+    "precio_antes": 5990.0,
+    "precio_hoy": 8499.0,
+    "precio_actual_hoy": 6799.2,
+    "diff_abs": 2509.0,
+    "diff_pct": 41.89
+  },
+  {
+    "plu": "37751",
+    "nombre": "Mortadela Feteada Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Mortadela > Frescos > Fiambres",
+    "precio_antes": 9999.0,
+    "precio_hoy": 13999.0,
+    "precio_actual_hoy": 13999.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 40.0
   }
 ]
