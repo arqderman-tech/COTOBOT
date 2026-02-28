@@ -77,10 +77,32 @@
     "diff_pct": 50.01
   },
   {
-    "plu": "17139",
-    "nombre": "Salame Colonia Ebro Xkg",
+    "plu": "27396",
+    "nombre": "Salame Canastero Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
+    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "17007",
+    "nombre": "Longaniza Calabres Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "197",
+    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Longaniza > Frescos > Fiambres",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
@@ -110,10 +132,10 @@
     "diff_pct": 44.74
   },
   {
-    "plu": "197",
-    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "plu": "17139",
+    "nombre": "Salame Colonia Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "Longaniza > Frescos > Fiambres",
+    "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
@@ -147,28 +169,6 @@
     "nombre": "Milancito Largo Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 27499.0,
-    "precio_actual_hoy": 27499.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 44.74
-  },
-  {
-    "plu": "27396",
-    "nombre": "Salame Canastero Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 18999.0,
-    "precio_hoy": 27499.0,
-    "precio_actual_hoy": 27499.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 44.74
-  },
-  {
-    "plu": "17007",
-    "nombre": "Longaniza Calabres Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
