@@ -77,10 +77,10 @@
     "diff_pct": 50.01
   },
   {
-    "plu": "27396",
-    "nombre": "Salame Canastero Ebro Xkg",
+    "plu": "17008",
+    "nombre": "Salamin F/G . Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
@@ -99,10 +99,10 @@
     "diff_pct": 44.74
   },
   {
-    "plu": "197",
-    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "plu": "808",
+    "nombre": "Chorizo Candelario EBRO X Kg",
     "marca": "Ebro",
-    "categoria": "Longaniza > Frescos > Fiambres",
+    "categoria": "Frescos > Fiambres > Chorizo",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
@@ -110,10 +110,32 @@
     "diff_pct": 44.74
   },
   {
-    "plu": "17008",
-    "nombre": "Salamin F/G . Ebro Xkg",
+    "plu": "728",
+    "nombre": "Milancito Largo Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "27396",
+    "nombre": "Salame Canastero Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27499.0,
+    "precio_actual_hoy": 27499.0,
+    "diff_abs": 8500.0,
+    "diff_pct": 44.74
+  },
+  {
+    "plu": "197",
+    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Longaniza > Frescos > Fiambres",
     "precio_antes": 18999.0,
     "precio_hoy": 27499.0,
     "precio_actual_hoy": 27499.0,
@@ -145,28 +167,6 @@
   {
     "plu": "17474",
     "nombre": "Milancito Familiar Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 27499.0,
-    "precio_actual_hoy": 27499.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 44.74
-  },
-  {
-    "plu": "808",
-    "nombre": "Chorizo Candelario EBRO X Kg",
-    "marca": "Ebro",
-    "categoria": "Frescos > Fiambres > Chorizo",
-    "precio_antes": 18999.0,
-    "precio_hoy": 27499.0,
-    "precio_actual_hoy": 27499.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 44.74
-  },
-  {
-    "plu": "728",
-    "nombre": "Milancito Largo Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -209,14 +209,14 @@
     "diff_pct": 41.89
   },
   {
-    "plu": "37751",
-    "nombre": "Mortadela Feteada Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Mortadela > Frescos > Fiambres",
-    "precio_antes": 9999.0,
-    "precio_hoy": 13999.0,
-    "precio_actual_hoy": 13999.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 40.0
+    "plu": "511651",
+    "nombre": "Queso Untable La Serenísima Cremón 280 Gr",
+    "marca": "La Serenisima",
+    "categoria": "Sin Tacc > Quesos Blancos/crema > Quesos > Queso Crema Y Untables > Frescos",
+    "precio_antes": 2590.0,
+    "precio_hoy": 3637.0,
+    "precio_actual_hoy": 3637.0,
+    "diff_abs": 1047.0,
+    "diff_pct": 40.42
   }
 ]
