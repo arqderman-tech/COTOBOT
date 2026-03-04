@@ -17,20 +17,9 @@
     "categoria": "Frescos > Fiambres > Chorizo",
     "precio_antes": 19999.0,
     "precio_hoy": 39999.0,
-    "precio_actual_hoy": 39999.0,
+    "precio_actual_hoy": 19999.5,
     "diff_abs": 20000.0,
     "diff_pct": 100.01
-  },
-  {
-    "plu": "13517",
-    "nombre": "Naranja Jugo Cosecha Criolla (Peso Aproximado 1.5 Kg)",
-    "marca": "Cosecha Criolla",
-    "categoria": "Naranjas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 3499.0,
-    "precio_actual_hoy": 3499.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 94.5
   },
   {
     "plu": "42212",
@@ -44,17 +33,6 @@
     "diff_pct": 70.02
   },
   {
-    "plu": "590295",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
-    "marca": "Gran Compra",
-    "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
-    "precio_antes": 1800.0,
-    "precio_hoy": 3020.0,
-    "precio_actual_hoy": 3020.0,
-    "diff_abs": 1220.0,
-    "diff_pct": 67.78
-  },
-  {
     "plu": "590294",
     "nombre": "Yogur Bebible Parcialmente Descremado Sabor Frutilla GRAN COMPRA 900g",
     "marca": "Gran Compra",
@@ -66,15 +44,15 @@
     "diff_pct": 67.78
   },
   {
-    "plu": "13376",
-    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
-    "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Bondiola",
-    "precio_antes": 8999.0,
-    "precio_hoy": 14999.0,
-    "precio_actual_hoy": 14999.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 66.67
+    "plu": "590295",
+    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
+    "marca": "Gran Compra",
+    "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
+    "precio_antes": 1800.0,
+    "precio_hoy": 3020.0,
+    "precio_actual_hoy": 3020.0,
+    "diff_abs": 1220.0,
+    "diff_pct": 67.78
   },
   {
     "plu": "13375",
@@ -96,6 +74,17 @@
     "precio_hoy": 35999.0,
     "precio_actual_hoy": 35999.0,
     "diff_abs": 14400.0,
+    "diff_pct": 66.67
+  },
+  {
+    "plu": "13376",
+    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
+    "marca": "Lario",
+    "categoria": "Frescos > Fiambres > Bondiola",
+    "precio_antes": 8999.0,
+    "precio_hoy": 14999.0,
+    "precio_actual_hoy": 14999.0,
+    "diff_abs": 6000.0,
     "diff_pct": 66.67
   },
   {
@@ -209,14 +198,25 @@
     "diff_pct": 45.38
   },
   {
-    "plu": "456",
-    "nombre": "Sandia Nacional Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Sandias > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 699.0,
-    "precio_hoy": 999.0,
-    "precio_actual_hoy": 999.0,
-    "diff_abs": 300.0,
-    "diff_pct": 42.92
+    "plu": "498279",
+    "nombre": "Duopack Chorizo+Salami LOURISIERRA Paq 40 Grm",
+    "marca": "Lourisierra",
+    "categoria": "Tabla De Fiambres > Frescos > Fiambres",
+    "precio_antes": 4899.0,
+    "precio_hoy": 6999.0,
+    "precio_actual_hoy": 3499.5,
+    "diff_abs": 2100.0,
+    "diff_pct": 42.87
+  },
+  {
+    "plu": "18099",
+    "nombre": "Poroto Alubia Cosecha Criolla 500g",
+    "marca": "Cosecha Criolla",
+    "categoria": "Legumbres > Frutas Y Verduras > Frescos",
+    "precio_antes": 2699.0,
+    "precio_hoy": 3799.0,
+    "precio_actual_hoy": 3799.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 40.76
   }
 ]
