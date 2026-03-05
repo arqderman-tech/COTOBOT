@@ -33,6 +33,17 @@
     "diff_pct": 70.02
   },
   {
+    "plu": "590295",
+    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
+    "marca": "Gran Compra",
+    "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
+    "precio_antes": 1800.0,
+    "precio_hoy": 3020.0,
+    "precio_actual_hoy": 3020.0,
+    "diff_abs": 1220.0,
+    "diff_pct": 67.78
+  },
+  {
     "plu": "590294",
     "nombre": "Yogur Bebible Parcialmente Descremado Sabor Frutilla GRAN COMPRA 900g",
     "marca": "Gran Compra",
@@ -44,15 +55,26 @@
     "diff_pct": 67.78
   },
   {
-    "plu": "590295",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
-    "marca": "Gran Compra",
-    "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
-    "precio_antes": 1800.0,
-    "precio_hoy": 3020.0,
-    "precio_actual_hoy": 3020.0,
-    "diff_abs": 1220.0,
-    "diff_pct": 67.78
+    "plu": "15241",
+    "nombre": "Jamon Cocido Feteado. Primera Mar . 1 Kgm",
+    "marca": "Campo Austral",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 11999.0,
+    "precio_hoy": 20099.0,
+    "precio_actual_hoy": 20099.0,
+    "diff_abs": 8100.0,
+    "diff_pct": 67.51
+  },
+  {
+    "plu": "13376",
+    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
+    "marca": "Lario",
+    "categoria": "Frescos > Fiambres > Bondiola",
+    "precio_antes": 8999.0,
+    "precio_hoy": 14999.0,
+    "precio_actual_hoy": 14999.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 66.67
   },
   {
     "plu": "13375",
@@ -74,17 +96,6 @@
     "precio_hoy": 35999.0,
     "precio_actual_hoy": 35999.0,
     "diff_abs": 14400.0,
-    "diff_pct": 66.67
-  },
-  {
-    "plu": "13376",
-    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
-    "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Bondiola",
-    "precio_antes": 8999.0,
-    "precio_hoy": 14999.0,
-    "precio_actual_hoy": 14999.0,
-    "diff_abs": 6000.0,
     "diff_pct": 66.67
   },
   {
@@ -110,17 +121,6 @@
     "diff_pct": 62.5
   },
   {
-    "plu": "15241",
-    "nombre": "Jamon Cocido Feteado. Primera Mar . 1 Kgm",
-    "marca": "Campo Austral",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 12499.0,
-    "precio_hoy": 20099.0,
-    "precio_actual_hoy": 20099.0,
-    "diff_abs": 7600.0,
-    "diff_pct": 60.8
-  },
-  {
     "plu": "40612",
     "nombre": "Queso De Maquina Xkg",
     "marca": "Primera Marca",
@@ -141,6 +141,17 @@
     "precio_actual_hoy": 6490.0,
     "diff_abs": 2291.0,
     "diff_pct": 54.56
+  },
+  {
+    "plu": "63594",
+    "nombre": "Ciruela X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Frutas Y Verduras > Frutas > Frescos > Ciruelas",
+    "precio_antes": 3299.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 1700.0,
+    "diff_pct": 51.53
   },
   {
     "plu": "18119",
@@ -198,25 +209,14 @@
     "diff_pct": 45.38
   },
   {
-    "plu": "498279",
-    "nombre": "Duopack Chorizo+Salami LOURISIERRA Paq 40 Grm",
-    "marca": "Lourisierra",
-    "categoria": "Tabla De Fiambres > Frescos > Fiambres",
-    "precio_antes": 4899.0,
-    "precio_hoy": 6999.0,
-    "precio_actual_hoy": 3499.5,
-    "diff_abs": 2100.0,
-    "diff_pct": 42.87
-  },
-  {
-    "plu": "18099",
-    "nombre": "Poroto Alubia Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas Y Verduras > Frescos",
-    "precio_antes": 2699.0,
-    "precio_hoy": 3799.0,
-    "precio_actual_hoy": 3799.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 40.76
+    "plu": "11973",
+    "nombre": "Leche Larga Vida Parcialmente Descremada COTO 1l",
+    "marca": "Coto",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1399.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 600.0,
+    "diff_pct": 42.89
   }
 ]
