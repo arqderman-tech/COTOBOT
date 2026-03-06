@@ -33,8 +33,8 @@
     "diff_pct": 70.02
   },
   {
-    "plu": "590295",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
+    "plu": "590294",
+    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Frutilla GRAN COMPRA 900g",
     "marca": "Gran Compra",
     "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
     "precio_antes": 1800.0,
@@ -44,8 +44,8 @@
     "diff_pct": 67.78
   },
   {
-    "plu": "590294",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Frutilla GRAN COMPRA 900g",
+    "plu": "590295",
+    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
     "marca": "Gran Compra",
     "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
     "precio_antes": 1800.0,
@@ -66,10 +66,10 @@
     "diff_pct": 67.51
   },
   {
-    "plu": "13376",
-    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
+    "plu": "13375",
+    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
     "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Bondiola",
+    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
     "precio_antes": 8999.0,
     "precio_hoy": 14999.0,
     "precio_actual_hoy": 14999.0,
@@ -77,10 +77,10 @@
     "diff_pct": 66.67
   },
   {
-    "plu": "13375",
-    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
+    "plu": "13376",
+    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
     "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
+    "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 8999.0,
     "precio_hoy": 14999.0,
     "precio_actual_hoy": 14999.0,
