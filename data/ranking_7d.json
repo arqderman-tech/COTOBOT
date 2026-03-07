@@ -1,5 +1,16 @@
 [
   {
+    "plu": "861",
+    "nombre": "Uva Red Globe   Xkg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
+    "precio_antes": 3999.0,
+    "precio_hoy": 11999.0,
+    "precio_actual_hoy": 11999.0,
+    "diff_abs": 8000.0,
+    "diff_pct": 200.05
+  },
+  {
     "plu": "18114",
     "nombre": "Maíz Pisado Blanco Cosecha Criolla 500g",
     "marca": "Cosecha Criolla",
@@ -9,6 +20,17 @@
     "precio_actual_hoy": 1899.0,
     "diff_abs": 1000.0,
     "diff_pct": 111.23
+  },
+  {
+    "plu": "53647",
+    "nombre": "Uva Moscatel Rosada X Kg",
+    "marca": "Coto",
+    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
+    "precio_antes": 3999.0,
+    "precio_hoy": 7999.0,
+    "precio_actual_hoy": 7999.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 100.03
   },
   {
     "plu": "45170",
@@ -33,8 +55,8 @@
     "diff_pct": 70.02
   },
   {
-    "plu": "590294",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Frutilla GRAN COMPRA 900g",
+    "plu": "590295",
+    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
     "marca": "Gran Compra",
     "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
     "precio_antes": 1800.0,
@@ -44,8 +66,8 @@
     "diff_pct": 67.78
   },
   {
-    "plu": "590295",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
+    "plu": "590294",
+    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Frutilla GRAN COMPRA 900g",
     "marca": "Gran Compra",
     "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
     "precio_antes": 1800.0,
@@ -64,17 +86,6 @@
     "precio_actual_hoy": 20099.0,
     "diff_abs": 8100.0,
     "diff_pct": 67.51
-  },
-  {
-    "plu": "13375",
-    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
-    "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
-    "precio_antes": 8999.0,
-    "precio_hoy": 14999.0,
-    "precio_actual_hoy": 14999.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 66.67
   },
   {
     "plu": "13376",
@@ -99,6 +110,17 @@
     "diff_pct": 66.67
   },
   {
+    "plu": "13375",
+    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
+    "marca": "Lario",
+    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
+    "precio_antes": 8999.0,
+    "precio_hoy": 14999.0,
+    "precio_actual_hoy": 14999.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 66.67
+  },
+  {
     "plu": "18118",
     "nombre": "Poroto De Soja Cosecha Criolla 500g",
     "marca": "Cosecha Criolla",
@@ -119,6 +141,17 @@
     "precio_actual_hoy": 129999.0,
     "diff_abs": 50000.0,
     "diff_pct": 62.5
+  },
+  {
+    "plu": "550",
+    "nombre": "Uva Blanca X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 7999.0,
+    "precio_actual_hoy": 7999.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.01
   },
   {
     "plu": "40612",
@@ -185,38 +218,5 @@
     "precio_actual_hoy": 29399.0,
     "diff_abs": 9400.0,
     "diff_pct": 47.0
-  },
-  {
-    "plu": "45192",
-    "nombre": "Lomo Feteado Paladini . 1 Kgm",
-    "marca": "Paladini",
-    "categoria": "Lomo > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 27899.0,
-    "precio_actual_hoy": 27899.0,
-    "diff_abs": 8900.0,
-    "diff_pct": 46.84
-  },
-  {
-    "plu": "35172",
-    "nombre": "Pechuga Pavo Feteada   Xkg",
-    "marca": NaN,
-    "categoria": "Pechuga De Pavo > Frescos > Fiambres",
-    "precio_antes": 28999.0,
-    "precio_hoy": 42159.0,
-    "precio_actual_hoy": 42159.0,
-    "diff_abs": 13160.0,
-    "diff_pct": 45.38
-  },
-  {
-    "plu": "11973",
-    "nombre": "Leche Larga Vida Parcialmente Descremada COTO 1l",
-    "marca": "Coto",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1399.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 600.0,
-    "diff_pct": 42.89
   }
 ]
