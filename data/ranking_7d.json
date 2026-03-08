@@ -1,14 +1,25 @@
 [
   {
-    "plu": "861",
-    "nombre": "Uva Red Globe   Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 11999.0,
-    "precio_actual_hoy": 11999.0,
-    "diff_abs": 8000.0,
-    "diff_pct": 200.05
+    "plu": "16188",
+    "nombre": "Jamón Crudo Italiano Culatta Emilia Devodier X Kg ",
+    "marca": "Devodier",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 39999.0,
+    "precio_hoy": 109900.0,
+    "precio_actual_hoy": 109900.0,
+    "diff_abs": 69901.0,
+    "diff_pct": 174.76
+  },
+  {
+    "plu": "20039",
+    "nombre": "Jamón Crudo Italiano Culatello Clasico Devodier X Kg",
+    "marca": "Devodier",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 69999.0,
+    "precio_hoy": 179900.0,
+    "precio_actual_hoy": 179900.0,
+    "diff_abs": 109901.0,
+    "diff_pct": 157.0
   },
   {
     "plu": "18114",
@@ -20,17 +31,6 @@
     "precio_actual_hoy": 1899.0,
     "diff_abs": 1000.0,
     "diff_pct": 111.23
-  },
-  {
-    "plu": "53647",
-    "nombre": "Uva Moscatel Rosada X Kg",
-    "marca": "Coto",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 7999.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 100.03
   },
   {
     "plu": "45170",
@@ -88,10 +88,10 @@
     "diff_pct": 67.51
   },
   {
-    "plu": "13376",
-    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
+    "plu": "13375",
+    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
     "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Bondiola",
+    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
     "precio_antes": 8999.0,
     "precio_hoy": 14999.0,
     "precio_actual_hoy": 14999.0,
@@ -110,10 +110,10 @@
     "diff_pct": 66.67
   },
   {
-    "plu": "13375",
-    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
+    "plu": "13376",
+    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
     "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
+    "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 8999.0,
     "precio_hoy": 14999.0,
     "precio_actual_hoy": 14999.0,
@@ -141,17 +141,6 @@
     "precio_actual_hoy": 129999.0,
     "diff_abs": 50000.0,
     "diff_pct": 62.5
-  },
-  {
-    "plu": "550",
-    "nombre": "Uva Blanca X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 7999.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.01
   },
   {
     "plu": "40612",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 29399.0,
     "diff_abs": 9400.0,
     "diff_pct": 47.0
+  },
+  {
+    "plu": "45192",
+    "nombre": "Lomo Feteado Paladini . 1 Kgm",
+    "marca": "Paladini",
+    "categoria": "Lomo > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 27899.0,
+    "precio_actual_hoy": 27899.0,
+    "diff_abs": 8900.0,
+    "diff_pct": 46.84
   }
 ]

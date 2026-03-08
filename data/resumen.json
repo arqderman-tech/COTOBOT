@@ -1,27 +1,27 @@
 {
-  "fecha": "20260307",
-  "total_productos": 13810,
-  "variacion_dia": 0.02,
-  "variacion_7d": 0.59,
+  "fecha": "20260308",
+  "total_productos": 13823,
+  "variacion_dia": 0.01,
+  "variacion_7d": 0.58,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 45,
-      "productos_bajaron": 6,
-      "productos_sin_cambio": 3740,
-      "total_productos": 3791
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3792,
+      "total_productos": 3792
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.05,
-      "productos_subieron": 24,
-      "productos_bajaron": 87,
-      "productos_sin_cambio": 1941,
-      "total_productos": 2052
+      "variacion_pct_promedio": 0.08,
+      "productos_subieron": 2,
+      "productos_bajaron": 6,
+      "productos_sin_cambio": 2041,
+      "total_productos": 2049
     },
     {
       "categoria": "Congelados",
@@ -36,16 +36,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1967,
-      "total_productos": 1967
+      "productos_sin_cambio": 1964,
+      "total_productos": 1964
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 571,
-      "total_productos": 571
+      "productos_sin_cambio": 569,
+      "total_productos": 569
     },
     {
       "categoria": "Limpieza",
@@ -60,8 +60,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1700,
-      "total_productos": 1700
+      "productos_sin_cambio": 1699,
+      "total_productos": 1699
     },
     {
       "categoria": "Cereales Infantiles > Almacén > Alimentos Para Bebé > Alimento De Bebés Y Niños",
@@ -124,8 +124,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 12,
-      "total_productos": 12
+      "productos_sin_cambio": 13,
+      "total_productos": 13
     },
     {
       "categoria": "Frescos > Carniceria > Carnes",
@@ -596,8 +596,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Panificados > Panaderia > Budines > Almacén",
@@ -972,8 +972,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 20,
-      "total_productos": 20
+      "productos_sin_cambio": 19,
+      "total_productos": 19
     },
     {
       "categoria": "Para Hamburguesa > Panificados > Panaderia Propia > Panaderia > Pan De Hamburguesa > Almacén",
@@ -1068,8 +1068,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 38,
-      "total_productos": 38
+      "productos_sin_cambio": 37,
+      "total_productos": 37
     },
     {
       "categoria": "Pastas Secas > Pasta Seca, Lista Y Rellenas > Huevo > Fideos > Almacén",
@@ -1220,8 +1220,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Pescaderia > Mariscos > Congelados",
@@ -1270,14 +1270,6 @@
       "productos_bajaron": 0,
       "productos_sin_cambio": 16,
       "total_productos": 16
-    },
-    {
-      "categoria": "Pescado De Mar > Pescaderia > PESCADOS Y MARISCOS > MARISCOS > Entero Eviscerado > Congelados > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
     },
     {
       "categoria": "Pescado De Mar > Pescaderia > PESCADOS Y MARISCOS > PESCADOS > Filete > Congelados > ALIMENTOS FRESCOS",
@@ -1780,8 +1772,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 19,
-      "total_productos": 19
+      "productos_sin_cambio": 15,
+      "total_productos": 15
     },
     {
       "categoria": "Talle P > Perfumería > Pañales Y Productos Para Incontinencia > Pañales Para Bebé",
@@ -2058,117 +2050,117 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "513703",
-      "nombre": "Lechuga Hidroponic Crispy Vequa Bol 220 Grm",
-      "marca": "Vequa",
-      "categoria": "Verduras De Hoja > Verduras > Lechuga > Frutas Y Verduras > Frescos",
-      "precio_antes": 2499.0,
-      "precio_hoy": 2249.0,
-      "precio_actual_hoy": 2249.0,
-      "diff_abs": -250.0,
-      "diff_pct": -10.0
-    },
-    {
-      "plu": "526342",
-      "nombre": "Lechuga Bicolor Vequa Bol 200 Grm",
-      "marca": "Vequa",
-      "categoria": "Verduras De Hoja > Verduras > Lechuga > Frutas Y Verduras > Frescos",
-      "precio_antes": 2599.0,
-      "precio_hoy": 2349.0,
-      "precio_actual_hoy": 2349.0,
-      "diff_abs": -250.0,
-      "diff_pct": -9.62
-    },
-    {
-      "plu": "526575",
-      "nombre": "Albahaca Hidropónica Vequa Bol 80 Grm",
-      "marca": "Vequa",
-      "categoria": "Verduras De Hoja > Verduras > Frutas Y Verduras > Frescos > Albahaca",
-      "precio_antes": 2199.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -200.0,
-      "diff_pct": -9.1
-    },
-    {
-      "plu": "40365",
-      "nombre": "Choclo Dulce Rocky Ban 500 Grm",
-      "marca": "Rocky",
-      "categoria": "Verduras > Verdura Empacada > Frutas Y Verduras > Frescos",
-      "precio_antes": 5499.0,
-      "precio_hoy": 4999.0,
-      "precio_actual_hoy": 4999.0,
-      "diff_abs": -500.0,
-      "diff_pct": -9.09
-    },
-    {
-      "plu": "513707",
-      "nombre": "Rucula Hidropónica Vequa Ban 100 Grm",
-      "marca": "Vequa",
-      "categoria": "Verduras > Verdura Empacada > Frutas Y Verduras > Frescos",
-      "precio_antes": 2799.0,
-      "precio_hoy": 2549.0,
-      "precio_actual_hoy": 2549.0,
-      "diff_abs": -250.0,
-      "diff_pct": -8.93
-    },
-    {
-      "plu": "490013",
-      "nombre": "Lechuga Hidroponica Francesa VEQUA X Uni",
-      "marca": "Vequa",
-      "categoria": "Verduras De Hoja > Verduras > Lechuga > Frutas Y Verduras > Frescos",
-      "precio_antes": 2499.0,
-      "precio_hoy": 2299.0,
-      "precio_actual_hoy": 2299.0,
-      "diff_abs": -200.0,
-      "diff_pct": -8.0
-    },
-    {
-      "plu": "590969",
-      "nombre": "Rúcula Selvática Santa Maria 100g",
-      "marca": "Santa Maria",
-      "categoria": "Verduras > Verdura Empacada > Frutas Y Verduras > Frescos",
-      "precio_antes": 3999.0,
-      "precio_hoy": 3699.0,
-      "precio_actual_hoy": 3699.0,
-      "diff_abs": -300.0,
-      "diff_pct": -7.5
-    },
-    {
-      "plu": "283274",
-      "nombre": "Romero SUEÑO VERDE X 35 Grm",
-      "marca": "Sueño Verde",
-      "categoria": "Verduras > Verdura Empacada > Frutas Y Verduras > Frescos",
-      "precio_antes": 3999.0,
-      "precio_hoy": 3699.0,
-      "precio_actual_hoy": 3699.0,
-      "diff_abs": -300.0,
-      "diff_pct": -7.5
-    },
-    {
-      "plu": "578921",
-      "nombre": "Rucula Hidroponica Compostela 1u",
-      "marca": "Compostela",
-      "categoria": "Verduras > Verdura Empacada > Frutas Y Verduras > Frescos",
-      "precio_antes": 1399.0,
-      "precio_hoy": 1299.0,
-      "precio_actual_hoy": 1299.0,
-      "diff_abs": -100.0,
-      "diff_pct": -7.15
-    },
-    {
-      "plu": "532418",
-      "nombre": "Acelga Fresca Santa Maria Bol 300 Grm",
-      "marca": "Santa Maria",
-      "categoria": "Verduras > Verdura Empacada > Frutas Y Verduras > Frescos",
-      "precio_antes": 4299.0,
+      "plu": "861",
+      "nombre": "Uva Red Globe   Xkg",
+      "marca": "Nuestras Frutas",
+      "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
+      "precio_antes": 11999.0,
       "precio_hoy": 3999.0,
       "precio_actual_hoy": 3999.0,
-      "diff_abs": -300.0,
-      "diff_pct": -6.98
+      "diff_abs": -8000.0,
+      "diff_pct": -66.67
+    },
+    {
+      "plu": "53647",
+      "nombre": "Uva Moscatel Rosada X Kg",
+      "marca": "Coto",
+      "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
+      "precio_antes": 7999.0,
+      "precio_hoy": 3999.0,
+      "precio_actual_hoy": 3999.0,
+      "diff_abs": -4000.0,
+      "diff_pct": -50.01
+    },
+    {
+      "plu": "550",
+      "nombre": "Uva Blanca X Kg",
+      "marca": "Nuestras Frutas",
+      "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
+      "precio_antes": 7999.0,
+      "precio_hoy": 4999.0,
+      "precio_actual_hoy": 4999.0,
+      "diff_abs": -3000.0,
+      "diff_pct": -37.5
+    },
+    {
+      "plu": "619",
+      "nombre": "Coliflor X Kg",
+      "marca": "Nuestras Verduras",
+      "categoria": "Verduras De Hoja > Verduras > Frutas Y Verduras > Frescos > Coliflor",
+      "precio_antes": 4499.0,
+      "precio_hoy": 3999.0,
+      "precio_actual_hoy": 3999.0,
+      "diff_abs": -500.0,
+      "diff_pct": -11.11
+    },
+    {
+      "plu": "648",
+      "nombre": "Lechuga Capuchina X Kg",
+      "marca": "Nuestras Verduras",
+      "categoria": "Verduras De Hoja > Verduras > Lechuga > Frutas Y Verduras > Frescos",
+      "precio_antes": 2899.0,
+      "precio_hoy": 2699.0,
+      "precio_actual_hoy": 2699.0,
+      "diff_abs": -200.0,
+      "diff_pct": -6.9
+    },
+    {
+      "plu": "598",
+      "nombre": "Brocoli X Kg",
+      "marca": "Nuestras Verduras",
+      "categoria": "Verduras De Hoja > Verduras > Frutas Y Verduras > Frescos > Brocoli",
+      "precio_antes": 4799.0,
+      "precio_hoy": 4599.0,
+      "precio_actual_hoy": 4599.0,
+      "diff_abs": -200.0,
+      "diff_pct": -4.17
+    },
+    {
+      "plu": "44341",
+      "nombre": "Fideos Cordón X Kg",
+      "marca": "Pastas Elaboracion Propia",
+      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
+      "precio_antes": 6999.0,
+      "precio_hoy": 6999.0,
+      "precio_actual_hoy": 4198.7,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "12541",
+      "nombre": "Medallones Pollo Y Espinaca Congelado X Kg",
+      "marca": "Coto",
+      "categoria": "X Kg > Rebozados De Pollo > Medallones De Pollo > Frescos > Aves",
+      "precio_antes": 12199.0,
+      "precio_hoy": 12199.0,
+      "precio_actual_hoy": 12199.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "48445",
+      "nombre": "Alitas Con Piel X Uni (421 Gr) Refrigerado",
+      "marca": "Coto",
+      "categoria": "X Unidad > Por Tamaño > Pollo Trozado Fresco > Frescos > Aves > Alitas",
+      "precio_antes": 1138.04,
+      "precio_hoy": 1138.04,
+      "precio_actual_hoy": 1138.04,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "290327",
+      "nombre": "Tapa Para Pascualina Criolla COTO 400g",
+      "marca": "Coto",
+      "categoria": "Tapas Para Pascualinas > Tapas Para Pascualina Y Empanadas > Pastas Frescas Y Tapas > Frescos",
+      "precio_antes": 1679.0,
+      "precio_hoy": 1679.0,
+      "precio_actual_hoy": 1259.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 69,
-  "productos_bajaron_dia": 93,
-  "productos_sin_cambio_dia": 13622
+  "productos_subieron_dia": 2,
+  "productos_bajaron_dia": 6,
+  "productos_sin_cambio_dia": 13763
 }
