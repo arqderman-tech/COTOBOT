@@ -55,98 +55,10 @@
     "diff_pct": 76.52
   },
   {
-    "plu": "590295",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Vainilla GRAN COMPRA 900g",
-    "marca": "Gran Compra",
-    "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
-    "precio_antes": 1800.0,
-    "precio_hoy": 3020.0,
-    "precio_actual_hoy": 3020.0,
-    "diff_abs": 1220.0,
-    "diff_pct": 67.78
-  },
-  {
-    "plu": "590294",
-    "nombre": "Yogur Bebible Parcialmente Descremado Sabor Frutilla GRAN COMPRA 900g",
-    "marca": "Gran Compra",
-    "categoria": "Yogures > Yogur Entero > Lácteos > Frescos",
-    "precio_antes": 1800.0,
-    "precio_hoy": 3020.0,
-    "precio_actual_hoy": 3020.0,
-    "diff_abs": 1220.0,
-    "diff_pct": 67.78
-  },
-  {
-    "plu": "197",
-    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Longaniza > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17008",
-    "nombre": "Salamin F/G . Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "27396",
-    "nombre": "Salame Canastero Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17139",
-    "nombre": "Salame Colonia Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
     "plu": "212",
     "nombre": "Cantimpalo Familiar Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Frescos > Fiambres > Cantimpalo",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17474",
-    "nombre": "Milancito Familiar Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17007",
-    "nombre": "Longaniza Calabres Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
     "precio_antes": 18999.0,
     "precio_hoy": 29499.0,
     "precio_actual_hoy": 29499.0,
@@ -176,15 +88,70 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "271780",
-    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
-    "marca": "Gatorade",
-    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 880.0,
-    "diff_pct": 54.32
+    "plu": "17474",
+    "nombre": "Milancito Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "27396",
+    "nombre": "Salame Canastero Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "17007",
+    "nombre": "Longaniza Calabres Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "197",
+    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Longaniza > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "17139",
+    "nombre": "Salame Colonia Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "17008",
+    "nombre": "Salamin F/G . Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
   },
   {
     "plu": "271779",
@@ -198,6 +165,28 @@
     "diff_pct": 54.32
   },
   {
+    "plu": "271780",
+    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
+    "marca": "Gatorade",
+    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 880.0,
+    "diff_pct": 54.32
+  },
+  {
+    "plu": "45268",
+    "nombre": "Panceta Salada . Paladini . 1 Kgm",
+    "marca": "Paladini",
+    "categoria": "Panceta > Frescos > Fiambres",
+    "precio_antes": 29999.0,
+    "precio_hoy": 46119.0,
+    "precio_actual_hoy": 46119.0,
+    "diff_abs": 16120.0,
+    "diff_pct": 53.74
+  },
+  {
     "plu": "63594",
     "nombre": "Ciruela X Kg",
     "marca": "Nuestras Frutas",
@@ -207,6 +196,17 @@
     "precio_actual_hoy": 4999.0,
     "diff_abs": 1700.0,
     "diff_pct": 51.53
+  },
+  {
+    "plu": "481455",
+    "nombre": "Uva Blanca Sin Sem Boñar Ban 500 Grm",
+    "marca": "..",
+    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
+    "precio_antes": 3999.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.01
   },
   {
     "plu": "199",
