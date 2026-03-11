@@ -55,10 +55,21 @@
     "diff_pct": 76.52
   },
   {
-    "plu": "212",
-    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "plu": "647",
+    "nombre": "Hinojo X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras De Hoja > Verduras > Hinojo > Frutas Y Verduras > Frescos",
+    "precio_antes": 2699.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 4499.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 66.69
+  },
+  {
+    "plu": "17008",
+    "nombre": "Salamin F/G . Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "Frescos > Fiambres > Cantimpalo",
+    "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
     "precio_hoy": 29499.0,
     "precio_actual_hoy": 29499.0,
@@ -66,8 +77,19 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "728",
-    "nombre": "Milancito Largo Ebro Xkg",
+    "plu": "17007",
+    "nombre": "Longaniza Calabres Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "17474",
+    "nombre": "Milancito Familiar Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -88,8 +110,30 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "17474",
-    "nombre": "Milancito Familiar Ebro Xkg",
+    "plu": "212",
+    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Frescos > Fiambres > Cantimpalo",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "197",
+    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Longaniza > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "728",
+    "nombre": "Milancito Largo Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -110,41 +154,8 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "17007",
-    "nombre": "Longaniza Calabres Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "197",
-    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Longaniza > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
     "plu": "17139",
     "nombre": "Salame Colonia Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17008",
-    "nombre": "Salamin F/G . Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -207,16 +218,5 @@
     "precio_actual_hoy": 5999.0,
     "diff_abs": 2000.0,
     "diff_pct": 50.01
-  },
-  {
-    "plu": "199",
-    "nombre": "Queso Cremoso Fraccionado LA PAULINA Xkg",
-    "marca": "La Paulina",
-    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
-    "precio_antes": 7999.0,
-    "precio_hoy": 11899.0,
-    "precio_actual_hoy": 11899.0,
-    "diff_abs": 3900.0,
-    "diff_pct": 48.76
   }
 ]
