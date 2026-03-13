@@ -1,14 +1,14 @@
 [
   {
-    "plu": "861",
-    "nombre": "Uva Red Globe   Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 11999.0,
-    "precio_actual_hoy": 11999.0,
-    "diff_abs": 8000.0,
-    "diff_pct": 200.05
+    "plu": "30401",
+    "nombre": "Arandano Bja 125 Gr",
+    "marca": NaN,
+    "categoria": "Frutas Y Verduras > Frutas > Frescos > Arándanos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 9999.0,
+    "precio_actual_hoy": 9999.0,
+    "diff_abs": 7500.0,
+    "diff_pct": 300.12
   },
   {
     "plu": "16188",
@@ -20,17 +20,6 @@
     "precio_actual_hoy": 109900.0,
     "diff_abs": 69901.0,
     "diff_pct": 174.76
-  },
-  {
-    "plu": "553",
-    "nombre": "Uva Cereza X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 7999.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 166.72
   },
   {
     "plu": "20039",
@@ -66,6 +55,17 @@
     "diff_pct": 88.91
   },
   {
+    "plu": "17809",
+    "nombre": "Cachete De Abadejo Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado De Mar > Pescaderia > PESCADOS Y MARISCOS > MARISCOS > Entero Eviscerado > Congelados > ALIMENTOS FRESCOS",
+    "precio_antes": 15990.0,
+    "precio_hoy": 29999.0,
+    "precio_actual_hoy": 23999.2,
+    "diff_abs": 14009.0,
+    "diff_pct": 87.61
+  },
+  {
     "plu": "17833",
     "nombre": "Cornalito Congelado X Kg\r\n",
     "marca": "Nuestra Pescaderia",
@@ -75,17 +75,6 @@
     "precio_actual_hoy": 8792.0,
     "diff_abs": 4991.0,
     "diff_pct": 83.2
-  },
-  {
-    "plu": "17117",
-    "nombre": "Pelon Blanco X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pelon > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 2799.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2200.0,
-    "diff_pct": 78.6
   },
   {
     "plu": "17939",
@@ -99,65 +88,10 @@
     "diff_pct": 76.52
   },
   {
-    "plu": "66589",
-    "nombre": "Pelon Blanco Seleccio Xkg",
-    "marca": NaN,
-    "categoria": "Pelon > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2200.0,
-    "diff_pct": 66.69
-  },
-  {
-    "plu": "799",
-    "nombre": "Uva Negra . Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 7999.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.01
-  },
-  {
-    "plu": "550",
-    "nombre": "Uva Blanca X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 7999.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 60.01
-  },
-  {
-    "plu": "212",
-    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "plu": "17007",
+    "nombre": "Longaniza Calabres Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "Frescos > Fiambres > Cantimpalo",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17474",
-    "nombre": "Milancito Familiar Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17139",
-    "nombre": "Salame Colonia Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
+    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
     "precio_antes": 18999.0,
     "precio_hoy": 29499.0,
     "precio_actual_hoy": 29499.0,
@@ -176,19 +110,8 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "197",
-    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Longaniza > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "728",
-    "nombre": "Milancito Largo Ebro Xkg",
+    "plu": "17474",
+    "nombre": "Milancito Familiar Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -209,14 +132,91 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "17007",
-    "nombre": "Longaniza Calabres Ebro Xkg",
+    "plu": "27396",
+    "nombre": "Salame Canastero Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "categoria": "Salame > SALAMES Y SALAMINES > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
     "precio_antes": 18999.0,
     "precio_hoy": 29499.0,
     "precio_actual_hoy": 29499.0,
     "diff_abs": 10500.0,
     "diff_pct": 55.27
+  },
+  {
+    "plu": "212",
+    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Frescos > Fiambres > Cantimpalo",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "728",
+    "nombre": "Milancito Largo Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "197",
+    "nombre": "Longaniza Espa¤Ola Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Longaniza > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "17139",
+    "nombre": "Salame Colonia Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "271779",
+    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 750 Cc",
+    "marca": "Gatorade",
+    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 880.0,
+    "diff_pct": 54.32
+  },
+  {
+    "plu": "271780",
+    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
+    "marca": "Gatorade",
+    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 880.0,
+    "diff_pct": 54.32
+  },
+  {
+    "plu": "45268",
+    "nombre": "Panceta Salada . Paladini . 1 Kgm",
+    "marca": "Paladini",
+    "categoria": "Panceta > Frescos > Fiambres",
+    "precio_antes": 29999.0,
+    "precio_hoy": 46119.0,
+    "precio_actual_hoy": 46119.0,
+    "diff_abs": 16120.0,
+    "diff_pct": 53.74
   }
 ]
