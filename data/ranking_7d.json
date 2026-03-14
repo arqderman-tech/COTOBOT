@@ -17,7 +17,7 @@
     "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
     "precio_antes": 39999.0,
     "precio_hoy": 109900.0,
-    "precio_actual_hoy": 109900.0,
+    "precio_actual_hoy": 76930.0,
     "diff_abs": 69901.0,
     "diff_pct": 174.76
   },
@@ -28,20 +28,9 @@
     "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
     "precio_antes": 69999.0,
     "precio_hoy": 179900.0,
-    "precio_actual_hoy": 179900.0,
+    "precio_actual_hoy": 125930.0,
     "diff_abs": 109901.0,
     "diff_pct": 157.0
-  },
-  {
-    "plu": "53647",
-    "nombre": "Uva Moscatel Rosada X Kg",
-    "marca": "Coto",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 7999.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 100.03
   },
   {
     "plu": "42210",
@@ -88,41 +77,8 @@
     "diff_pct": 76.52
   },
   {
-    "plu": "17007",
-    "nombre": "Longaniza Calabres Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "808",
-    "nombre": "Chorizo Candelario EBRO X Kg",
-    "marca": "Ebro",
-    "categoria": "Frescos > Fiambres > Chorizo",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17474",
-    "nombre": "Milancito Familiar Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "17008",
-    "nombre": "Salamin F/G . Ebro Xkg",
+    "plu": "17139",
+    "nombre": "Salame Colonia Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -143,10 +99,21 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "212",
-    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "plu": "17007",
+    "nombre": "Longaniza Calabres Ebro Xkg",
     "marca": "Ebro",
-    "categoria": "Frescos > Fiambres > Cantimpalo",
+    "categoria": "SALAMES Y SALAMINES > Longaniza > Frescos > Fiambres > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "17008",
+    "nombre": "Salamin F/G . Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
     "precio_hoy": 29499.0,
     "precio_actual_hoy": 29499.0,
@@ -165,6 +132,39 @@
     "diff_pct": 55.27
   },
   {
+    "plu": "17474",
+    "nombre": "Milancito Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "212",
+    "nombre": "Cantimpalo Familiar Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Frescos > Fiambres > Cantimpalo",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
+    "plu": "808",
+    "nombre": "Chorizo Candelario EBRO X Kg",
+    "marca": "Ebro",
+    "categoria": "Frescos > Fiambres > Chorizo",
+    "precio_antes": 18999.0,
+    "precio_hoy": 29499.0,
+    "precio_actual_hoy": 29499.0,
+    "diff_abs": 10500.0,
+    "diff_pct": 55.27
+  },
+  {
     "plu": "197",
     "nombre": "Longaniza Espa¤Ola Ebro Xkg",
     "marca": "Ebro",
@@ -176,19 +176,8 @@
     "diff_pct": 55.27
   },
   {
-    "plu": "17139",
-    "nombre": "Salame Colonia Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 29499.0,
-    "precio_actual_hoy": 29499.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 55.27
-  },
-  {
-    "plu": "271779",
-    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 750 Cc",
+    "plu": "271780",
+    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
     "marca": "Gatorade",
     "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
     "precio_antes": 1620.0,
@@ -198,8 +187,8 @@
     "diff_pct": 54.32
   },
   {
-    "plu": "271780",
-    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
+    "plu": "271779",
+    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 750 Cc",
     "marca": "Gatorade",
     "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
     "precio_antes": 1620.0,
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 46119.0,
     "diff_abs": 16120.0,
     "diff_pct": 53.74
+  },
+  {
+    "plu": "17885",
+    "nombre": "Sabalo Entero Eviscerado Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado De Rio > Pescaderia > Congelados",
+    "precio_antes": 5990.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 7199.2,
+    "diff_abs": 3009.0,
+    "diff_pct": 50.23
   }
 ]
