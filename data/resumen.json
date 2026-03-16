@@ -1,66 +1,66 @@
 {
-  "fecha": "20260315",
-  "total_productos": 13904,
-  "variacion_dia": 0.01,
-  "variacion_7d": 0.48,
+  "fecha": "20260316",
+  "total_productos": 13948,
+  "variacion_dia": 0.15,
+  "variacion_7d": 0.5,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 3829,
-      "total_productos": 3829
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 28,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 3844,
+      "total_productos": 3873
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 2066,
-      "total_productos": 2066
+      "variacion_pct_promedio": 0.66,
+      "productos_subieron": 108,
+      "productos_bajaron": 29,
+      "productos_sin_cambio": 1937,
+      "total_productos": 2074
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 485,
+      "variacion_pct_promedio": 0.37,
+      "productos_subieron": 32,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 452,
       "total_productos": 485
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1960,
-      "total_productos": 1960
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 4,
+      "productos_bajaron": 17,
+      "productos_sin_cambio": 1936,
+      "total_productos": 1957
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.26,
+      "productos_subieron": 18,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 567,
-      "total_productos": 567
+      "productos_sin_cambio": 550,
+      "total_productos": 568
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1271,
-      "total_productos": 1271
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 16,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 1255,
+      "total_productos": 1272
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1698,
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 21,
+      "productos_bajaron": 7,
+      "productos_sin_cambio": 1670,
       "total_productos": 1698
     },
     {
@@ -73,18 +73,18 @@
     },
     {
       "categoria": "Frescos > Carniceria > Carnes > Bovinos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.28,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 33,
+      "productos_sin_cambio": 32,
       "total_productos": 33
     },
     {
       "categoria": "Frescos > Carniceria > Carnes > CARNICERIA > CARNES > Bovinos > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.35,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
+      "productos_sin_cambio": 7,
       "total_productos": 8
     },
     {
@@ -105,10 +105,10 @@
     },
     {
       "categoria": "Frescos > Carniceria > Carnes Elaboradas > CARNICERIA > CARNES ELABORADAS > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 2.31,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
+      "productos_sin_cambio": 4,
       "total_productos": 5
     },
     {
@@ -116,16 +116,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 8
+      "productos_sin_cambio": 9,
+      "total_productos": 9
     },
     {
       "categoria": "Frescos > Embutidos > EMBUTIDOS > Carniceria > CARNICERIA > ALIMENTOS FRESCOS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 14,
-      "total_productos": 14
+      "productos_sin_cambio": 13,
+      "total_productos": 13
     },
     {
       "categoria": "Frescos > Carniceria > Carnes",
@@ -244,8 +244,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 25,
-      "total_productos": 25
+      "productos_sin_cambio": 26,
+      "total_productos": 26
     },
     {
       "categoria": "Panaderia > Budines > Bizcochuelos, Budines Y Otros > Bizcochuelos Y Especialidades > Almacén",
@@ -329,10 +329,10 @@
     },
     {
       "categoria": "Panaderia > Galletitas Crackers > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.39,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 12,
+      "productos_sin_cambio": 11,
       "total_productos": 12
     },
     {
@@ -361,10 +361,10 @@
     },
     {
       "categoria": "Panaderia > Galletitas Dulces > Galletitas > Con Relleno > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.25,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 76,
+      "productos_sin_cambio": 75,
       "total_productos": 76
     },
     {
@@ -1020,8 +1020,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Pastas Secas > Pasta Seca, Lista Y Rellenas > Fideos > Dkt > Almacén",
@@ -1153,30 +1153,22 @@
     },
     {
       "categoria": "Pescaderia > Congelados",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -3.57,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 6,
       "total_productos": 7
     },
     {
       "categoria": "Pescaderia > Especiales > Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 10,
+      "variacion_pct_promedio": -1.99,
+      "productos_subieron": 1,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 8,
       "total_productos": 10
     },
     {
       "categoria": "Pescaderia > Frescos > Entero Eviscerado",
-      "variacion_pct_promedio": 3.13,
-      "productos_subieron": 2,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 5
-    },
-    {
-      "categoria": "Pescaderia > Frescos > Filete",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -1184,19 +1176,27 @@
       "total_productos": 5
     },
     {
-      "categoria": "Pescaderia > Mariscos > Congelados",
-      "variacion_pct_promedio": 0.26,
-      "productos_subieron": 4,
+      "categoria": "Pescaderia > Frescos > Filete",
+      "variacion_pct_promedio": 7.26,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 27,
+      "productos_sin_cambio": 3,
+      "total_productos": 5
+    },
+    {
+      "categoria": "Pescaderia > Mariscos > Congelados",
+      "variacion_pct_promedio": 1.18,
+      "productos_subieron": 3,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 24,
       "total_productos": 31
     },
     {
       "categoria": "Pescaderia > Mariscos > Congelados > Camarones Y Langostinos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 11.33,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
+      "productos_sin_cambio": 1,
       "total_productos": 2
     },
     {
@@ -1225,10 +1225,10 @@
     },
     {
       "categoria": "Pescado De Mar > Pescaderia > Filete > Congelados",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -2.55,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 16,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 14,
       "total_productos": 16
     },
     {
@@ -1249,11 +1249,11 @@
     },
     {
       "categoria": "Pescado De Rio > Pescaderia > Congelados",
-      "variacion_pct_promedio": 0.74,
+      "variacion_pct_promedio": 0.7,
       "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 14,
-      "total_productos": 15
+      "productos_sin_cambio": 15,
+      "total_productos": 16
     },
     {
       "categoria": "Pescado De Rio > Pescaderia > PESCADOS Y MARISCOS > PESCADOS > Congelados > ALIMENTOS FRESCOS",
@@ -1268,8 +1268,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     },
     {
       "categoria": "Piononos > Panaderia Propia > Panaderia > Bizcochuelos Y Piononos > Almacén",
@@ -1289,10 +1289,10 @@
     },
     {
       "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 22,
+      "variacion_pct_promedio": -0.14,
+      "productos_subieron": 3,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 15,
       "total_productos": 22
     },
     {
@@ -1388,15 +1388,15 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
-      "total_productos": 9
+      "productos_sin_cambio": 10,
+      "total_productos": 10
     },
     {
       "categoria": "Rebozados > Pescaderia > Congelados",
-      "variacion_pct_promedio": 0.23,
-      "productos_subieron": 2,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 37,
+      "variacion_pct_promedio": 0.89,
+      "productos_subieron": 5,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 30,
       "total_productos": 39
     },
     {
@@ -1481,18 +1481,18 @@
     },
     {
       "categoria": "Salmón Y Trucha > Pescaderia > Congelados",
-      "variacion_pct_promedio": 2.87,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 1.62,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
+      "productos_sin_cambio": 9,
       "total_productos": 10
     },
     {
       "categoria": "Salmón Y Trucha > Pescaderia > PESCADOS Y MARISCOS > PESCADOS > Congelados > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -14.85,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 0,
       "total_productos": 1
     },
     {
@@ -1532,8 +1532,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 44,
-      "total_productos": 44
+      "productos_sin_cambio": 45,
+      "total_productos": 45
     },
     {
       "categoria": "Sandwiches De Miga > Sandwiches > Pizzas Y Sándwiches > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Almacén",
@@ -1620,8 +1620,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 121,
-      "total_productos": 121
+      "productos_sin_cambio": 122,
+      "total_productos": 122
     },
     {
       "categoria": "Semola > Pastas Secas > Pasta Seca, Lista Y Rellenas > Fideos > Almacén",
@@ -1732,8 +1732,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 21,
-      "total_productos": 21
+      "productos_sin_cambio": 22,
+      "total_productos": 22
     },
     {
       "categoria": "Talle M > Perfumería > Pañales Y Productos Para Incontinencia > Pañales Para Bebé",
@@ -1896,14 +1896,6 @@
       "total_productos": 4
     },
     {
-      "categoria": "Turrones Y Confituras > Productos Navideños > Panaderia > Confituras > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
       "categoria": "Turrones Y Confituras > Turrones > Productos Navideños > Panaderia > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
@@ -1985,10 +1977,10 @@
     },
     {
       "categoria": "Varitas De Surimi > Pescaderia > Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
+      "variacion_pct_promedio": 0.31,
+      "productos_subieron": 1,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 4,
       "total_productos": 6
     },
     {
@@ -2010,117 +2002,117 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "44283",
-      "nombre": "Ravioles De Ricota Y Nuez 520g",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Rellenas > Pastas Frescas Y Tapas > Frescos",
-      "precio_antes": 7599.0,
-      "precio_hoy": 7599.0,
-      "precio_actual_hoy": 3798.74,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "468426",
+      "nombre": "Cepillo De Dientes COLGATE Pro Cuidado Suave 4u",
+      "marca": "Colgate",
+      "categoria": "Perfumería > Cuidado Bucal > Cepillos Dentales Para Adultos > Cepillos Dentales",
+      "precio_antes": 10696.0,
+      "precio_hoy": 1096.0,
+      "precio_actual_hoy": 1096.0,
+      "diff_abs": -9600.0,
+      "diff_pct": -89.75
     },
     {
-      "plu": "12528",
-      "nombre": "Bastoncitos De Pollo Congelado X Kg",
+      "plu": "42210",
+      "nombre": "Pata Muslo Con Piel X Kg Congelados",
       "marca": "Coto",
-      "categoria": "X Kg > Rebozados De Pollo > Frescos > Bocaditos De Pollo > Aves",
-      "precio_antes": 11599.0,
-      "precio_hoy": 11599.0,
-      "precio_actual_hoy": 11599.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "categoria": "X Kg > Por Kg > Pollo Trozado Congelado > Pata Muslo Con Piel > Frescos > Aves",
+      "precio_antes": 6799.0,
+      "precio_hoy": 3999.0,
+      "precio_actual_hoy": 3999.0,
+      "diff_abs": -2800.0,
+      "diff_pct": -41.18
     },
     {
-      "plu": "44643",
-      "nombre": "Fideos Finos X Kg",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
-      "precio_antes": 7249.0,
-      "precio_hoy": 7249.0,
-      "precio_actual_hoy": 5074.3,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "34878",
+      "nombre": "Jamon Cocido Feteado Paladini Xkg",
+      "marca": "Paladini",
+      "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+      "precio_antes": 31459.0,
+      "precio_hoy": 21399.0,
+      "precio_actual_hoy": 21399.0,
+      "diff_abs": -10060.0,
+      "diff_pct": -31.98
     },
     {
-      "plu": "44340",
-      "nombre": "Fideos Cordón De Espinaca X Kg",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
+      "plu": "603734",
+      "nombre": "Jamón Crudo De Bellota Cortado A Cuchillo Beher 50g",
+      "marca": "Beher",
+      "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+      "precio_antes": 46119.0,
+      "precio_hoy": 31999.0,
+      "precio_actual_hoy": 31999.0,
+      "diff_abs": -14120.0,
+      "diff_pct": -30.62
+    },
+    {
+      "plu": "157",
+      "nombre": "Muzzarella X Kg",
+      "marca": "Primera Calidad",
+      "categoria": "Quesos Blandos > Quesos > Queso Muzzarella > Frescos",
+      "precio_antes": 14199.0,
+      "precio_hoy": 9899.0,
+      "precio_actual_hoy": 9899.0,
+      "diff_abs": -4300.0,
+      "diff_pct": -30.28
+    },
+    {
+      "plu": "603732",
+      "nombre": "Jamón Crudo Corte A Cuchillo Único Beher 50g",
+      "marca": "Beher",
+      "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+      "precio_antes": 34199.0,
+      "precio_hoy": 23899.0,
+      "precio_actual_hoy": 23899.0,
+      "diff_abs": -10300.0,
+      "diff_pct": -30.12
+    },
+    {
+      "plu": "17859",
+      "nombre": "Mejillon Pelado Cocido Chileno Congelado X Kg\r\n",
+      "marca": "Nuestra Pescaderia",
+      "categoria": "Pescaderia > Mariscos > Congelados",
+      "precio_antes": 19999.0,
+      "precio_hoy": 13990.0,
+      "precio_actual_hoy": 13990.0,
+      "diff_abs": -6009.0,
+      "diff_pct": -30.05
+    },
+    {
+      "plu": "40612",
+      "nombre": "Queso De Maquina Xkg",
+      "marca": "Primera Marca",
+      "categoria": "Quesos > Queso Semiduro > Frescos > Danbo",
+      "precio_antes": 14999.0,
+      "precio_hoy": 10999.0,
+      "precio_actual_hoy": 10999.0,
+      "diff_abs": -4000.0,
+      "diff_pct": -26.67
+    },
+    {
+      "plu": "148408",
+      "nombre": "Mejillon Entero Cocido En Su Jugo Chileno Congelado St. Andrews Al Vino Blanco Caja 500 Gr\r\n",
+      "marca": "St. Andrews",
+      "categoria": "Pescaderia > Mariscos > Congelados",
       "precio_antes": 6999.0,
-      "precio_hoy": 6999.0,
-      "precio_actual_hoy": 4899.3,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "precio_hoy": 5199.0,
+      "precio_actual_hoy": 5199.0,
+      "diff_abs": -1800.0,
+      "diff_pct": -25.72
     },
     {
-      "plu": "44230",
-      "nombre": "Macarron Coto X Kg",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
-      "precio_antes": 6999.0,
-      "precio_hoy": 6999.0,
-      "precio_actual_hoy": 4899.3,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "44225",
-      "nombre": "Fideos X Kg",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
-      "precio_antes": 7249.0,
-      "precio_hoy": 7249.0,
-      "precio_actual_hoy": 5074.3,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "44341",
-      "nombre": "Fideos Cordón X Kg",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
-      "precio_antes": 6999.0,
-      "precio_hoy": 6999.0,
-      "precio_actual_hoy": 4899.3,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "11730",
-      "nombre": "Sorrentinos Nuez/Albahaca/Ricota Coto 320g",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Rellenas > Pastas Frescas Y Tapas > Frescos",
-      "precio_antes": 4499.0,
-      "precio_hoy": 4499.0,
-      "precio_actual_hoy": 2249.05,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "44231",
-      "nombre": "Mostachol Coto X Kg",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
-      "precio_antes": 6999.0,
-      "precio_hoy": 6999.0,
-      "precio_actual_hoy": 4899.3,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "44228",
-      "nombre": "Fideos Fusilli X Kg",
-      "marca": "Pastas Elaboracion Propia",
-      "categoria": "Pastas Frescas Y Tapas > Frescos > Fideos Y Ñoquis > Fideos",
-      "precio_antes": 5889.0,
-      "precio_hoy": 5889.0,
-      "precio_actual_hoy": 4122.3,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "161",
+      "nombre": "Queso Cremoso PUNTA DEL AGUA X Kg",
+      "marca": "Punta Del Agua",
+      "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
+      "precio_antes": 12899.0,
+      "precio_hoy": 9599.0,
+      "precio_actual_hoy": 9599.0,
+      "diff_abs": -3300.0,
+      "diff_pct": -25.58
     }
   ],
-  "productos_subieron_dia": 13,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 13813
+  "productos_subieron_dia": 250,
+  "productos_bajaron_dia": 74,
+  "productos_sin_cambio_dia": 13556
 }
