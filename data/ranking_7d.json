@@ -5,10 +5,10 @@
     "marca": NaN,
     "categoria": "Frutas Y Verduras > Frutas > Frescos > Arándanos",
     "precio_antes": 2499.0,
-    "precio_hoy": 9999.0,
-    "precio_actual_hoy": 9999.0,
-    "diff_abs": 7500.0,
-    "diff_pct": 300.12
+    "precio_hoy": 6999.0,
+    "precio_actual_hoy": 6999.0,
+    "diff_abs": 4500.0,
+    "diff_pct": 180.07
   },
   {
     "plu": "17088",
@@ -20,17 +20,6 @@
     "precio_actual_hoy": 4999.0,
     "diff_abs": 2700.0,
     "diff_pct": 117.44
-  },
-  {
-    "plu": "17940",
-    "nombre": "Surtido De Mariscos Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Mariscos > Congelados",
-    "precio_antes": 14990.0,
-    "precio_hoy": 26990.0,
-    "precio_actual_hoy": 21592.0,
-    "diff_abs": 12000.0,
-    "diff_pct": 80.05
   },
   {
     "plu": "40333",
@@ -110,6 +99,17 @@
     "diff_pct": 54.62
   },
   {
+    "plu": "87682",
+    "nombre": "Manteca La Paulina 200gr",
+    "marca": "La Paulina",
+    "categoria": "Mantecas Y Margarinas > Mantecas > Lácteos > Frescos",
+    "precio_antes": 2699.0,
+    "precio_hoy": 4160.0,
+    "precio_actual_hoy": 4160.0,
+    "diff_abs": 1461.0,
+    "diff_pct": 54.13
+  },
+  {
     "plu": "72042",
     "nombre": "Tomate Larga Vida Racimo X Kg",
     "marca": NaN,
@@ -119,28 +119,6 @@
     "precio_actual_hoy": 4499.0,
     "diff_abs": 1500.0,
     "diff_pct": 50.02
-  },
-  {
-    "plu": "647",
-    "nombre": "Hinojo X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras De Hoja > Verduras > Hinojo > Frutas Y Verduras > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 50.02
-  },
-  {
-    "plu": "481455",
-    "nombre": "Uva Blanca Sin Sem Boñar Ban 500 Grm",
-    "marca": "..",
-    "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.01
   },
   {
     "plu": "34896",
@@ -165,37 +143,26 @@
     "diff_pct": 47.23
   },
   {
-    "plu": "602234",
-    "nombre": "Queso Parmesano QUATA 160g",
-    "marca": "Quata",
-    "categoria": "Quesos Duros > Quesos > Queso Parmesano > Frescos",
-    "precio_antes": 8699.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 12599.0,
-    "diff_abs": 3900.0,
-    "diff_pct": 44.83
+    "plu": "511651",
+    "nombre": "Queso Untable La Serenísima Cremón 280 Gr",
+    "marca": "La Serenisima",
+    "categoria": "Sin Tacc > Quesos Blancos/crema > Quesos > Queso Crema Y Untables > Frescos",
+    "precio_antes": 2690.0,
+    "precio_hoy": 3750.0,
+    "precio_actual_hoy": 3750.0,
+    "diff_abs": 1060.0,
+    "diff_pct": 39.41
   },
   {
-    "plu": "602231",
-    "nombre": "Queso Parrillero Con Orégano Quata 300g",
-    "marca": "Quata",
-    "categoria": "Quesos > Frescos",
-    "precio_antes": 8899.0,
-    "precio_hoy": 12799.0,
-    "precio_actual_hoy": 12799.0,
-    "diff_abs": 3900.0,
-    "diff_pct": 43.83
-  },
-  {
-    "plu": "34890",
-    "nombre": "Salchichon Primav. Fetead Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salchichón > Frescos > Fiambres",
-    "precio_antes": 8399.0,
-    "precio_hoy": 11579.0,
-    "precio_actual_hoy": 11579.0,
-    "diff_abs": 3180.0,
-    "diff_pct": 37.86
+    "plu": "511652",
+    "nombre": "Queso Untable La Serenísima Cremón Original 280 Gr",
+    "marca": "La Serenisima",
+    "categoria": "Sin Tacc > Quesos Blancos/crema > Quesos > Queso Crema Y Untables > Frescos",
+    "precio_antes": 2690.0,
+    "precio_hoy": 3750.0,
+    "precio_actual_hoy": 3750.0,
+    "diff_abs": 1060.0,
+    "diff_pct": 39.41
   },
   {
     "plu": "34891",
@@ -209,6 +176,28 @@
     "diff_pct": 37.86
   },
   {
+    "plu": "34890",
+    "nombre": "Salchichon Primav. Fetead Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salchichón > Frescos > Fiambres",
+    "precio_antes": 8399.0,
+    "precio_hoy": 11579.0,
+    "precio_actual_hoy": 11579.0,
+    "diff_abs": 3180.0,
+    "diff_pct": 37.86
+  },
+  {
+    "plu": "10187",
+    "nombre": "Tomate Raf X Kg",
+    "marca": "Coto",
+    "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas Y Verduras > Frescos",
+    "precio_antes": 3999.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 37.51
+  },
+  {
     "plu": "42212",
     "nombre": "Muslo Con Piel X Kg Congelados",
     "marca": "Coto",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 6799.0,
     "diff_abs": 1800.0,
     "diff_pct": 36.01
+  },
+  {
+    "plu": "13230",
+    "nombre": "Q.Barra Tybo Light Estilo Real X 1 Kgm",
+    "marca": "Estilo Real",
+    "categoria": "Quesos Untables > Quesos > Queso Crema Y Untables > Frescos",
+    "precio_antes": 11999.0,
+    "precio_hoy": 16299.0,
+    "precio_actual_hoy": 16299.0,
+    "diff_abs": 4300.0,
+    "diff_pct": 35.84
   }
 ]
