@@ -1,14 +1,14 @@
 [
   {
-    "plu": "30401",
-    "nombre": "Arandano Bja 125 Gr",
-    "marca": NaN,
-    "categoria": "Frutas Y Verduras > Frutas > Frescos > Arándanos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 6999.0,
-    "precio_actual_hoy": 6999.0,
-    "diff_abs": 4500.0,
-    "diff_pct": 180.07
+    "plu": "490185",
+    "nombre": "SCHWEPPES Zero Pomelo 500 Ml",
+    "marca": "Schweppes",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 630.0,
+    "precio_hoy": 1620.0,
+    "precio_actual_hoy": 1620.0,
+    "diff_abs": 990.0,
+    "diff_pct": 157.14
   },
   {
     "plu": "17088",
@@ -66,10 +66,10 @@
     "diff_pct": 63.65
   },
   {
-    "plu": "13376",
-    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
+    "plu": "13375",
+    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
     "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Bondiola",
+    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
     "precio_antes": 9999.0,
     "precio_hoy": 16049.0,
     "precio_actual_hoy": 16049.0,
@@ -77,10 +77,10 @@
     "diff_pct": 60.51
   },
   {
-    "plu": "13375",
-    "nombre": "Fiamb.D/Cerdo Feteado- Lario X Kg",
+    "plu": "13376",
+    "nombre": "Fiambre De Cerdo Lario X 1 Kgm",
     "marca": "Lario",
-    "categoria": "Frescos > Fiambres > Fiambre De Cerdo",
+    "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 9999.0,
     "precio_hoy": 16049.0,
     "precio_actual_hoy": 16049.0,
@@ -110,17 +110,6 @@
     "diff_pct": 54.13
   },
   {
-    "plu": "72042",
-    "nombre": "Tomate Larga Vida Racimo X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas Y Verduras > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 50.02
-  },
-  {
     "plu": "34896",
     "nombre": "Fiamb.D/Cerdo Feteado Campo Austra Xkg",
     "marca": "Campo Austral",
@@ -143,26 +132,59 @@
     "diff_pct": 47.23
   },
   {
-    "plu": "511651",
-    "nombre": "Queso Untable La Serenísima Cremón 280 Gr",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Quesos Blancos/crema > Quesos > Queso Crema Y Untables > Frescos",
-    "precio_antes": 2690.0,
-    "precio_hoy": 3750.0,
-    "precio_actual_hoy": 3750.0,
-    "diff_abs": 1060.0,
-    "diff_pct": 39.41
+    "plu": "581942",
+    "nombre": "Cerveza Blond Monastere 500ml",
+    "marca": "Monastere",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5839.0,
+    "precio_hoy": 8549.0,
+    "precio_actual_hoy": 8549.0,
+    "diff_abs": 2710.0,
+    "diff_pct": 46.41
   },
   {
-    "plu": "511652",
-    "nombre": "Queso Untable La Serenísima Cremón Original 280 Gr",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Quesos Blancos/crema > Quesos > Queso Crema Y Untables > Frescos",
-    "precio_antes": 2690.0,
-    "precio_hoy": 3750.0,
-    "precio_actual_hoy": 3750.0,
-    "diff_abs": 1060.0,
-    "diff_pct": 39.41
+    "plu": "474658",
+    "nombre": "Cerveza Lager ORANJEBOOM Original Lata 500 Cc",
+    "marca": "Oranjeboom",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4669.0,
+    "precio_hoy": 6739.0,
+    "precio_actual_hoy": 6739.0,
+    "diff_abs": 2070.0,
+    "diff_pct": 44.33
+  },
+  {
+    "plu": "581941",
+    "nombre": "Cerveza Extra Stout Trio 500ml",
+    "marca": "Trio",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5429.0,
+    "precio_hoy": 7829.0,
+    "precio_actual_hoy": 7829.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 44.21
+  },
+  {
+    "plu": "8899",
+    "nombre": "Leche Larga Vida Entera COTO Ttb 1 L",
+    "marca": "Coto",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "precio_antes": 1399.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 600.0,
+    "diff_pct": 42.89
+  },
+  {
+    "plu": "11973",
+    "nombre": "Leche Larga Vida Parcialmente Descremada COTO 1l",
+    "marca": "Coto",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1399.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 600.0,
+    "diff_pct": 42.89
   },
   {
     "plu": "34891",
@@ -196,27 +218,5 @@
     "precio_actual_hoy": 5499.0,
     "diff_abs": 1500.0,
     "diff_pct": 37.51
-  },
-  {
-    "plu": "42212",
-    "nombre": "Muslo Con Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "Por Kg > Pollo Trozado Congelado > Muslo Con Piel > Frescos > Aves",
-    "precio_antes": 4999.0,
-    "precio_hoy": 6799.0,
-    "precio_actual_hoy": 6799.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 36.01
-  },
-  {
-    "plu": "13230",
-    "nombre": "Q.Barra Tybo Light Estilo Real X 1 Kgm",
-    "marca": "Estilo Real",
-    "categoria": "Quesos Untables > Quesos > Queso Crema Y Untables > Frescos",
-    "precio_antes": 11999.0,
-    "precio_hoy": 16299.0,
-    "precio_actual_hoy": 16299.0,
-    "diff_abs": 4300.0,
-    "diff_pct": 35.84
   }
 ]
