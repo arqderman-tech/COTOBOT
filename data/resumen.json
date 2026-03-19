@@ -1,75 +1,75 @@
 {
-  "fecha": "20260318",
-  "total_productos": 13871,
-  "variacion_dia": 0.11,
-  "variacion_7d": 0.43,
+  "fecha": "20260319",
+  "total_productos": 13925,
+  "variacion_dia": 0.15,
+  "variacion_7d": 0.46,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 58,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 3806,
-      "total_productos": 3864
+      "variacion_pct_promedio": 0.2,
+      "productos_subieron": 105,
+      "productos_bajaron": 5,
+      "productos_sin_cambio": 3747,
+      "total_productos": 3857
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 38,
-      "productos_bajaron": 23,
-      "productos_sin_cambio": 1986,
-      "total_productos": 2047
+      "variacion_pct_promedio": -0.1,
+      "productos_subieron": 37,
+      "productos_bajaron": 43,
+      "productos_sin_cambio": 1949,
+      "total_productos": 2029
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.65,
-      "productos_subieron": 40,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 445,
+      "productos_sin_cambio": 485,
       "total_productos": 485
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.22,
-      "productos_subieron": 67,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1886,
-      "total_productos": 1954
+      "variacion_pct_promedio": 0.26,
+      "productos_subieron": 125,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 1825,
+      "total_productos": 1952
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.28,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 4,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 568,
-      "total_productos": 569
+      "productos_sin_cambio": 566,
+      "total_productos": 570
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 11,
+      "variacion_pct_promedio": 0.48,
+      "productos_subieron": 60,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1263,
-      "total_productos": 1274
+      "productos_sin_cambio": 1213,
+      "total_productos": 1273
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.1,
-      "productos_subieron": 46,
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 31,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1653,
-      "total_productos": 1699
+      "productos_sin_cambio": 1672,
+      "total_productos": 1703
     },
     {
       "categoria": "Cereales Infantiles > Almacén > Alimentos Para Bebé > Alimento De Bebés Y Niños",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Frescos > Carniceria > Carnes > Bovinos",
@@ -121,11 +121,11 @@
     },
     {
       "categoria": "Frescos > Embutidos > EMBUTIDOS > Carniceria > CARNICERIA > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": 1.95,
-      "productos_subieron": 5,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 13
+      "productos_sin_cambio": 12,
+      "total_productos": 12
     },
     {
       "categoria": "Frescos > Carniceria > Carnes",
@@ -153,10 +153,10 @@
     },
     {
       "categoria": "Leches En Polvo > Infusiones Infantiles > Almacén > Alimento De Bebés Y Niños",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 35,
+      "variacion_pct_promedio": -0.48,
+      "productos_subieron": 1,
+      "productos_bajaron": 5,
+      "productos_sin_cambio": 29,
       "total_productos": 35
     },
     {
@@ -193,10 +193,10 @@
     },
     {
       "categoria": "Nuggets, Patitas Y Bocaditos > Nuggets > Congelados",
-      "variacion_pct_promedio": 0.92,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 10,
+      "productos_sin_cambio": 13,
       "total_productos": 13
     },
     {
@@ -241,10 +241,10 @@
     },
     {
       "categoria": "Panaderia > Budines > Almacén",
-      "variacion_pct_promedio": 0.23,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 26,
+      "productos_sin_cambio": 28,
       "total_productos": 28
     },
     {
@@ -353,10 +353,10 @@
     },
     {
       "categoria": "Panaderia > Galletitas Dulces > Galletitas > Chip Cookies > Almacén",
-      "variacion_pct_promedio": 0.19,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 20,
+      "productos_sin_cambio": 21,
       "total_productos": 21
     },
     {
@@ -465,11 +465,11 @@
     },
     {
       "categoria": "Panaderia > Obleas > Galletitas Rellenas Y Obleas > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.32,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 20,
-      "total_productos": 21
+      "total_productos": 20
     },
     {
       "categoria": "Panaderia > Obleas > Galletitas Y Bizcochos > Galletitas Rellenas Y Obleas > Galletitas Rellenas > Galletitas > Almacén",
@@ -617,10 +617,10 @@
     },
     {
       "categoria": "Panificados > Panaderia > Molde > Almacén",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 61,
+      "productos_sin_cambio": 63,
       "total_productos": 63
     },
     {
@@ -1553,7 +1553,7 @@
     },
     {
       "categoria": "Secas > Panaderia > Galletitas Dulces > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.05,
+      "variacion_pct_promedio": 0.02,
       "productos_subieron": 1,
       "productos_bajaron": 0,
       "productos_sin_cambio": 122,
@@ -1721,10 +1721,10 @@
     },
     {
       "categoria": "Sopas, Caldos, Puré Y Saborizantes > Puré De Papas > Mezcla Lista > Almacén",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.35,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 13,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 9,
       "total_productos": 13
     },
     {
@@ -1737,26 +1737,26 @@
     },
     {
       "categoria": "Talle G > Perfumería > Pañales Y Productos Para Incontinencia > Pañales Para Bebé",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.03,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 22,
+      "productos_sin_cambio": 20,
       "total_productos": 22
     },
     {
       "categoria": "Talle M > Perfumería > Pañales Y Productos Para Incontinencia > Pañales Para Bebé",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.19,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 19,
+      "productos_sin_cambio": 17,
       "total_productos": 19
     },
     {
       "categoria": "Talle P > Perfumería > Pañales Y Productos Para Incontinencia > Pañales Para Bebé",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.42,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
+      "productos_sin_cambio": 7,
       "total_productos": 8
     },
     {
@@ -1769,18 +1769,18 @@
     },
     {
       "categoria": "Talle Xg > Perfumería > Pañales Y Productos Para Incontinencia > Pañales Para Bebé",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.26,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 18,
+      "productos_sin_cambio": 16,
       "total_productos": 18
     },
     {
       "categoria": "Talle Xxg > Perfumería > Pañales Y Productos Para Incontinencia > Pañales Para Bebé",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.33,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 17,
+      "productos_sin_cambio": 15,
       "total_productos": 17
     },
     {
@@ -1900,8 +1900,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Turrones Y Confituras > Turrones > Productos Navideños > Panaderia > Almacén",
@@ -2010,117 +2010,117 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "14175",
-      "nombre": "Pategras . La Maria Pi X 1 Kgm",
-      "marca": "La Maria Pilar",
-      "categoria": "Quesos > Queso Semiduro > Pategras > Frescos",
-      "precio_antes": 22699.0,
-      "precio_hoy": 15999.0,
-      "precio_actual_hoy": 15999.0,
-      "diff_abs": -6700.0,
-      "diff_pct": -29.52
+      "plu": "21121",
+      "nombre": "Port Salut con semillas LAS TRES x Kg",
+      "marca": "Las Tres",
+      "categoria": "Quesos Blandos > Quesos > Queso Port Salut > Frescos",
+      "precio_antes": 17299.0,
+      "precio_hoy": 11799.0,
+      "precio_actual_hoy": 11799.0,
+      "diff_abs": -5500.0,
+      "diff_pct": -31.79
     },
     {
-      "plu": "14174",
-      "nombre": "Q.Barra Dambo . La Maria Pi X 1 Kgm",
-      "marca": "La Maria Pilar",
-      "categoria": "Quesos > Queso Semiduro > Queso Feteado > Frescos > Danbo > Barras",
-      "precio_antes": 17599.0,
-      "precio_hoy": 12599.0,
-      "precio_actual_hoy": 12599.0,
-      "diff_abs": -5000.0,
-      "diff_pct": -28.41
+      "plu": "21120",
+      "nombre": "Queso magro Profit LAS TRES x Kg",
+      "marca": "Las Tres",
+      "categoria": "Quesos > Frescos",
+      "precio_antes": 18899.0,
+      "precio_hoy": 12999.0,
+      "precio_actual_hoy": 12999.0,
+      "diff_abs": -5900.0,
+      "diff_pct": -31.22
     },
     {
-      "plu": "511652",
-      "nombre": "Queso Untable La Serenísima Cremón Original 280 Gr",
-      "marca": "La Serenisima",
-      "categoria": "Sin Tacc > Quesos Blancos/crema > Quesos > Queso Crema Y Untables > Frescos",
-      "precio_antes": 3750.0,
-      "precio_hoy": 2727.0,
-      "precio_actual_hoy": 2727.0,
-      "diff_abs": -1023.0,
-      "diff_pct": -27.28
+      "plu": "11973",
+      "nombre": "Leche Larga Vida Parcialmente Descremada COTO 1l",
+      "marca": "Coto",
+      "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+      "precio_antes": 1999.0,
+      "precio_hoy": 1399.0,
+      "precio_actual_hoy": 1399.0,
+      "diff_abs": -600.0,
+      "diff_pct": -30.02
     },
     {
-      "plu": "511651",
-      "nombre": "Queso Untable La Serenísima Cremón 280 Gr",
-      "marca": "La Serenisima",
-      "categoria": "Sin Tacc > Quesos Blancos/crema > Quesos > Queso Crema Y Untables > Frescos",
-      "precio_antes": 3750.0,
-      "precio_hoy": 2727.0,
-      "precio_actual_hoy": 2727.0,
-      "diff_abs": -1023.0,
-      "diff_pct": -27.28
+      "plu": "8899",
+      "nombre": "Leche Larga Vida Entera COTO Ttb 1 L",
+      "marca": "Coto",
+      "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+      "precio_antes": 1999.0,
+      "precio_hoy": 1399.0,
+      "precio_actual_hoy": 1399.0,
+      "diff_abs": -600.0,
+      "diff_pct": -30.02
     },
     {
-      "plu": "17577",
-      "nombre": "Uva Blanca Brasileña   Xkg",
-      "marca": NaN,
-      "categoria": "Uvas > Frutas Y Verduras > Frutas > Frescos",
-      "precio_antes": 9999.0,
-      "precio_hoy": 7999.0,
-      "precio_actual_hoy": 7999.0,
-      "diff_abs": -2000.0,
+      "plu": "13517",
+      "nombre": "Naranja Jugo Cosecha Criolla (Peso Aproximado 1.5 Kg)",
+      "marca": "Cosecha Criolla",
+      "categoria": "Naranjas > Frutas Y Verduras > Frutas > Frescos",
+      "precio_antes": 3499.0,
+      "precio_hoy": 2499.0,
+      "precio_actual_hoy": 2499.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -28.58
+    },
+    {
+      "plu": "623341",
+      "nombre": "Leche descremada larga vida con proteína LAS TRES NIÑAS 1L",
+      "marca": "Las Tres Niñas",
+      "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+      "precio_antes": 2700.0,
+      "precio_hoy": 2025.0,
+      "precio_actual_hoy": 2025.0,
+      "diff_abs": -675.0,
+      "diff_pct": -25.0
+    },
+    {
+      "plu": "453",
+      "nombre": "Ciruela Negra   Xkg",
+      "marca": "Nuestras Frutas",
+      "categoria": "Frutas Y Verduras > Frutas > Frescos > Ciruelas",
+      "precio_antes": 6399.0,
+      "precio_hoy": 4999.0,
+      "precio_actual_hoy": 4999.0,
+      "diff_abs": -1400.0,
+      "diff_pct": -21.88
+    },
+    {
+      "plu": "63594",
+      "nombre": "Ciruela X Kg",
+      "marca": "Nuestras Frutas",
+      "categoria": "Frutas Y Verduras > Frutas > Frescos > Ciruelas",
+      "precio_antes": 4999.0,
+      "precio_hoy": 3999.0,
+      "precio_actual_hoy": 3999.0,
+      "diff_abs": -1000.0,
       "diff_pct": -20.0
     },
     {
-      "plu": "651",
-      "nombre": "Lechuga Morada X Kg",
-      "marca": "Coto",
-      "categoria": "Verduras De Hoja > Verduras > VERDURAS DE HOJA > Lechuga > Frutas Y Verduras > Frescos > FRUTAS Y VERDURAS > ALIMENTOS FRESCOS",
-      "precio_antes": 4399.0,
-      "precio_hoy": 3699.0,
-      "precio_actual_hoy": 3699.0,
-      "diff_abs": -700.0,
-      "diff_pct": -15.91
+      "plu": "454",
+      "nombre": "Coco X Kg",
+      "marca": "Nuestras Frutas",
+      "categoria": "Frutas Y Verduras > Frutas > Frescos > FRUTAS Y VERDURAS > FRUTAS > Coco > ALIMENTOS FRESCOS",
+      "precio_antes": 4999.0,
+      "precio_hoy": 3999.0,
+      "precio_actual_hoy": 3999.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.0
     },
     {
-      "plu": "691",
-      "nombre": "Zapallito Redondo   Xkg",
-      "marca": NaN,
-      "categoria": "Zapallito > Verduras > Hortalizas > Frutas Y Verduras > Frescos",
-      "precio_antes": 1299.0,
-      "precio_hoy": 1099.0,
-      "precio_actual_hoy": 1099.0,
-      "diff_abs": -200.0,
-      "diff_pct": -15.4
-    },
-    {
-      "plu": "511510",
-      "nombre": "Leche Multidefensas 3% LA SERENISIMA Sachet 1l",
-      "marca": "La Serenisima",
-      "categoria": "Sin Tacc > Lácteos > Leches Frescas > Leches Enteras > Leches > Frescos",
-      "precio_antes": 1930.0,
-      "precio_hoy": 1650.0,
-      "precio_actual_hoy": 1650.0,
-      "diff_abs": -280.0,
-      "diff_pct": -14.51
-    },
-    {
-      "plu": "483689",
-      "nombre": "Leche Descremada LA SERENISIMA 2% Sachet 1 L",
-      "marca": "La Serenisima",
-      "categoria": "Lácteos > Leches Frescas > Leches Descremadas > Leches > Frescos",
-      "precio_antes": 1930.0,
-      "precio_hoy": 1650.0,
-      "precio_actual_hoy": 1650.0,
-      "diff_abs": -280.0,
-      "diff_pct": -14.51
-    },
-    {
-      "plu": "9955",
-      "nombre": "Leche Parcialmente Descremada Liviana LA SERENISIMA Sachet 1l",
-      "marca": "La Serenisima",
-      "categoria": "Lácteos > Leches Frescas > Leches Descremadas > Leches > Frescos",
-      "precio_antes": 1930.0,
-      "precio_hoy": 1650.0,
-      "precio_actual_hoy": 1650.0,
-      "diff_abs": -280.0,
-      "diff_pct": -14.51
+      "plu": "573",
+      "nombre": "Mango .   Xkg",
+      "marca": "Nuestras Frutas",
+      "categoria": "Mango > Frutas Y Verduras > Frutas > Frescos",
+      "precio_antes": 4999.0,
+      "precio_hoy": 3999.0,
+      "precio_actual_hoy": 3999.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.0
     }
   ],
-  "productos_subieron_dia": 276,
-  "productos_bajaron_dia": 24,
-  "productos_sin_cambio_dia": 13549
+  "productos_subieron_dia": 373,
+  "productos_bajaron_dia": 59,
+  "productos_sin_cambio_dia": 13391
 }

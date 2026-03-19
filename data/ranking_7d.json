@@ -1,5 +1,16 @@
 [
   {
+    "plu": "30401",
+    "nombre": "Arandano Bja 125 Gr",
+    "marca": NaN,
+    "categoria": "Frutas Y Verduras > Frutas > Frescos > Arándanos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 6999.0,
+    "precio_actual_hoy": 6999.0,
+    "diff_abs": 4500.0,
+    "diff_pct": 180.07
+  },
+  {
     "plu": "490185",
     "nombre": "SCHWEPPES Zero Pomelo 500 Ml",
     "marca": "Schweppes",
@@ -11,15 +22,15 @@
     "diff_pct": 157.14
   },
   {
-    "plu": "17088",
-    "nombre": "Mandioca Seleccion X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Mandioca > Hortalizas > HORTALIZAS PESADAS > Frutas Y Verduras > Frescos > FRUTAS Y VERDURAS > ALIMENTOS FRESCOS",
-    "precio_antes": 2299.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2700.0,
-    "diff_pct": 117.44
+    "plu": "17809",
+    "nombre": "Cachete De Abadejo Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado De Mar > Pescaderia > PESCADOS Y MARISCOS > MARISCOS > Entero Eviscerado > Congelados > ALIMENTOS FRESCOS",
+    "precio_antes": 15990.0,
+    "precio_hoy": 29999.0,
+    "precio_actual_hoy": 23999.2,
+    "diff_abs": 14009.0,
+    "diff_pct": 87.61
   },
   {
     "plu": "40333",
@@ -165,28 +176,6 @@
     "diff_pct": 44.21
   },
   {
-    "plu": "8899",
-    "nombre": "Leche Larga Vida Entera COTO Ttb 1 L",
-    "marca": "Coto",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
-    "precio_antes": 1399.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 600.0,
-    "diff_pct": 42.89
-  },
-  {
-    "plu": "11973",
-    "nombre": "Leche Larga Vida Parcialmente Descremada COTO 1l",
-    "marca": "Coto",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1399.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 600.0,
-    "diff_pct": 42.89
-  },
-  {
     "plu": "34891",
     "nombre": "Salchichon C/Jam. Feteado Ebro Xkg",
     "marca": "Ebro",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 5499.0,
     "diff_abs": 1500.0,
     "diff_pct": 37.51
+  },
+  {
+    "plu": "607384",
+    "nombre": "Mermelada De Frutilla Alco 454g",
+    "marca": "Alco",
+    "categoria": "Mermeladas Y Dulces > Mermeladas > Almacén",
+    "precio_antes": 3243.0,
+    "precio_hoy": 4438.0,
+    "precio_actual_hoy": 4438.0,
+    "diff_abs": 1195.0,
+    "diff_pct": 36.85
   }
 ]
