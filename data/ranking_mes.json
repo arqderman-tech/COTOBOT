@@ -1,0 +1,222 @@
+[
+  {
+    "plu": "490185",
+    "nombre": "SCHWEPPES Zero Pomelo 500 Ml",
+    "marca": "Schweppes",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 630.0,
+    "precio_hoy": 1620.0,
+    "precio_actual_hoy": 1620.0,
+    "diff_abs": 990.0,
+    "diff_pct": 157.14
+  },
+  {
+    "plu": "618916",
+    "nombre": "Jugo   Pura Frutta Naranja   Tetrabrik 2 L",
+    "marca": "Pura Frutta",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5999.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 5848.45,
+    "diff_abs": 3000.0,
+    "diff_pct": 50.01
+  },
+  {
+    "plu": "201931",
+    "nombre": "Vino Cab.Sauv Gran Reserva F.D.Cave Bot 750 Cmq",
+    "marca": "Fond De Cave",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 20301.0,
+    "precio_hoy": 26688.0,
+    "precio_actual_hoy": 16012.8,
+    "diff_abs": 6387.0,
+    "diff_pct": 31.46
+  },
+  {
+    "plu": "121600",
+    "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
+    "marca": "Altos Las Hormigas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12519.0,
+    "precio_hoy": 14333.0,
+    "precio_actual_hoy": 8599.8,
+    "diff_abs": 1814.0,
+    "diff_pct": 14.49
+  },
+  {
+    "plu": "473144",
+    "nombre": "Gaseosa PRITTY  Limón Botella 1 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1500.0,
+    "precio_hoy": 1700.0,
+    "precio_actual_hoy": 1445.0,
+    "diff_abs": 200.0,
+    "diff_pct": 13.33
+  },
+  {
+    "plu": "567032",
+    "nombre": "Vino Malbec Cuesta Añada Cuesta Del Madero 750ml",
+    "marca": "Cuesta Del Madero",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4986.0,
+    "precio_hoy": 5600.0,
+    "precio_actual_hoy": 3360.0,
+    "diff_abs": 614.0,
+    "diff_pct": 12.31
+  },
+  {
+    "plu": "576972",
+    "nombre": "Vino Cabernet Sauvignon Familia Pacheco Pereda 750ml",
+    "marca": "Pacheco Pereda",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5268.0,
+    "precio_hoy": 5900.0,
+    "precio_actual_hoy": 3540.0,
+    "diff_abs": 632.0,
+    "diff_pct": 12.0
+  },
+  {
+    "plu": "576969",
+    "nombre": "Vino Malbec Familia Pacheco Pereda 750ml",
+    "marca": "Pacheco Pereda",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5268.0,
+    "precio_hoy": 5900.0,
+    "precio_actual_hoy": 3540.0,
+    "diff_abs": 632.0,
+    "diff_pct": 12.0
+  },
+  {
+    "plu": "501367",
+    "nombre": "Espum.Blanco Dulce Dilema Bot 750 Ml",
+    "marca": "Dilema",
+    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 8319.0,
+    "precio_hoy": 9317.0,
+    "precio_actual_hoy": 6986.82,
+    "diff_abs": 998.0,
+    "diff_pct": 12.0
+  },
+  {
+    "plu": "561220",
+    "nombre": "Soda Saldan 2.25l",
+    "marca": "Saldan",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "precio_antes": 1350.0,
+    "precio_hoy": 1500.0,
+    "precio_actual_hoy": 1125.0,
+    "diff_abs": 150.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "186590",
+    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
+    "plu": "291339",
+    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
+    "plu": "532961",
+    "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
+    "marca": "Magna",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1575.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
+    "plu": "548599",
+    "nombre": "Jugo Naranja Tutti 1 Ltr",
+    "marca": "Tutti",
+    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1970.0,
+    "precio_hoy": 2175.0,
+    "precio_actual_hoy": 2175.0,
+    "diff_abs": 205.0,
+    "diff_pct": 10.41
+  },
+  {
+    "plu": "460769",
+    "nombre": "Jugo TUTTI Manzana Tetrabrik 1 L",
+    "marca": "Tutti",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1596.0,
+    "precio_hoy": 1760.0,
+    "precio_actual_hoy": 1760.0,
+    "diff_abs": 164.0,
+    "diff_pct": 10.28
+  },
+  {
+    "plu": "460767",
+    "nombre": "Jugo TUTTI Multifruta Tetrabrik 1 L",
+    "marca": "Tutti",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1596.0,
+    "precio_hoy": 1760.0,
+    "precio_actual_hoy": 1760.0,
+    "diff_abs": 164.0,
+    "diff_pct": 10.28
+  },
+  {
+    "plu": "484651",
+    "nombre": "Jugo Durazno TUTTI Ttb 1 Ltr",
+    "marca": "Tutti",
+    "categoria": "Sin Tacc > Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1596.0,
+    "precio_hoy": 1760.0,
+    "precio_actual_hoy": 1760.0,
+    "diff_abs": 164.0,
+    "diff_pct": 10.28
+  },
+  {
+    "plu": "471009",
+    "nombre": "Cerveza Ipa IMPERIAL   Botella 1 L",
+    "marca": "Imperial",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4420.0,
+    "precio_hoy": 4873.0,
+    "precio_actual_hoy": 3654.75,
+    "diff_abs": 453.0,
+    "diff_pct": 10.25
+  },
+  {
+    "plu": "576917",
+    "nombre": "Cerveza Belgian White Blue Moon 473ml",
+    "marca": "Blue Moon",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 3800.0,
+    "precio_hoy": 4189.0,
+    "precio_actual_hoy": 2094.5,
+    "diff_abs": 389.0,
+    "diff_pct": 10.24
+  },
+  {
+    "plu": "79713",
+    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  }
+]
