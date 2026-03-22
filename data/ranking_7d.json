@@ -44,17 +44,6 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "291339",
-    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
-    "marca": "Pritty",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1900.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1785.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
-  },
-  {
     "plu": "532961",
     "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
     "marca": "Magna",
@@ -77,30 +66,19 @@
     "diff_pct": 10.53
   },
   {
+    "plu": "291339",
+    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
     "plu": "485076",
     "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
-    "marca": "Doble Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2200.0,
-    "precio_actual_hoy": 1650.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "79713",
-    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
-    "marca": "Doble Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2200.0,
-    "precio_actual_hoy": 1650.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "485078",
-    "nombre": "Gaseosa Doble Cola   Botella 2.25 L ",
     "marca": "Doble Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2000.0,
@@ -121,15 +99,26 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "69616",
-    "nombre": "Jugo Concentrado Sabor Naranja Saldan 1.5l",
-    "marca": "Saldan",
-    "categoria": "Jugos Concentrados > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1950.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1785.0,
-    "diff_abs": 150.0,
-    "diff_pct": 7.69
+    "plu": "485078",
+    "nombre": "Gaseosa Doble Cola   Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "79713",
+    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
   },
   {
     "plu": "69614",
@@ -143,15 +132,26 @@
     "diff_pct": 7.69
   },
   {
-    "plu": "598152",
-    "nombre": "Agus Sin Gas Pomelo H2oh!! 2l",
-    "marca": "H2 Oh!",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2850.0,
-    "precio_hoy": 3050.0,
-    "precio_actual_hoy": 3050.0,
-    "diff_abs": 200.0,
-    "diff_pct": 7.02
+    "plu": "69616",
+    "nombre": "Jugo Concentrado Sabor Naranja Saldan 1.5l",
+    "marca": "Saldan",
+    "categoria": "Jugos Concentrados > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1950.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
+    "diff_abs": 150.0,
+    "diff_pct": 7.69
+  },
+  {
+    "plu": "501778",
+    "nombre": "Vino Cabernet Franc Orgánico ARTESANO 750cc",
+    "marca": "Artesano",
+    "categoria": "Vinos Tintos > Vinos > Orgánicos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 10413.0,
+    "precio_hoy": 11200.0,
+    "precio_actual_hoy": 6720.0,
+    "diff_abs": 787.0,
+    "diff_pct": 7.56
   },
   {
     "plu": "598151",
@@ -160,25 +160,25 @@
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2850.0,
     "precio_hoy": 3050.0,
-    "precio_actual_hoy": 3050.0,
+    "precio_actual_hoy": 1677.5,
     "diff_abs": 200.0,
     "diff_pct": 7.02
   },
   {
-    "plu": "502986",
-    "nombre": "Vino Malbec Bonard Tintillo Santa Julia Lat 269 Ml",
-    "marca": "Santa Julia",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 2857.0,
-    "precio_hoy": 3057.0,
-    "precio_actual_hoy": 1834.2,
+    "plu": "598152",
+    "nombre": "Agus Sin Gas Pomelo H2oh!! 2l",
+    "marca": "H2 Oh!",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2850.0,
+    "precio_hoy": 3050.0,
+    "precio_actual_hoy": 1677.5,
     "diff_abs": 200.0,
-    "diff_pct": 7.0
+    "diff_pct": 7.02
   },
   {
-    "plu": "121600",
-    "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
+    "plu": "165613",
+    "nombre": "Vino Bonarda Colonia Las Liebres Bot 750 Cmq",
+    "marca": "Colonia Las Liebres",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 13395.0,
     "precio_hoy": 14333.0,
@@ -187,36 +187,36 @@
     "diff_pct": 7.0
   },
   {
-    "plu": "612748",
-    "nombre": "Vino Tinto Malbec Bonarda Chances 750ml",
-    "marca": "Chances",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6405.0,
-    "precio_hoy": 6853.0,
-    "precio_actual_hoy": 4111.8,
-    "diff_abs": 448.0,
-    "diff_pct": 6.99
-  },
-  {
-    "plu": "612746",
-    "nombre": "Vino Rosado Torrontés Chenin Malbec Chances 750ml",
-    "marca": "Chances",
+    "plu": "502985",
+    "nombre": "Vino Tinto Orgánic Malbec - Rosé Santa Julia Lat 269 Ml",
+    "marca": "Santa Julia",
     "categoria": "Vinos Rosados > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6405.0,
-    "precio_hoy": 6853.0,
-    "precio_actual_hoy": 4111.8,
-    "diff_abs": 448.0,
-    "diff_pct": 6.99
+    "precio_antes": 2830.0,
+    "precio_hoy": 3028.0,
+    "precio_actual_hoy": 1816.8,
+    "diff_abs": 198.0,
+    "diff_pct": 7.0
   },
   {
-    "plu": "612747",
-    "nombre": "Vino Tinto Malbec Cabernet Sauvignon Chances 750ml",
-    "marca": "Chances",
+    "plu": "595151",
+    "nombre": "Vino Tinto Blend La Danza 750ml",
+    "marca": "La Danza",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6405.0,
-    "precio_hoy": 6853.0,
-    "precio_actual_hoy": 4111.8,
-    "diff_abs": 448.0,
+    "precio_antes": 11577.0,
+    "precio_hoy": 12387.0,
+    "precio_actual_hoy": 7432.2,
+    "diff_abs": 810.0,
+    "diff_pct": 7.0
+  },
+  {
+    "plu": "510567",
+    "nombre": "Vino Tinto Dulce Natural Santa Julia Lat 269 Ml",
+    "marca": "Santa Julia",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 2803.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 1799.4,
+    "diff_abs": 196.0,
     "diff_pct": 6.99
   }
 ]
