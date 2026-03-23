@@ -17,7 +17,7 @@
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5999.0,
     "precio_hoy": 8999.0,
-    "precio_actual_hoy": 5848.45,
+    "precio_actual_hoy": 8999.0,
     "diff_abs": 3000.0,
     "diff_pct": 50.01
   },
@@ -33,14 +33,25 @@
     "diff_pct": 31.46
   },
   {
-    "plu": "165613",
-    "nombre": "Vino Bonarda Colonia Las Liebres Bot 750 Cmq",
+    "plu": "209279",
+    "nombre": "Vino Malbec Reserva Altos Las Hormigas Bot 750 Cmq",
+    "marca": "Altos Las Hormigas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 35606.0,
+    "precio_hoy": 40765.0,
+    "precio_actual_hoy": 24459.0,
+    "diff_abs": 5159.0,
+    "diff_pct": 14.49
+  },
+  {
+    "plu": "595150",
+    "nombre": "Vino Malbec Orgánico Colonia Las Liebres 750ml",
     "marca": "Colonia Las Liebres",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12519.0,
-    "precio_hoy": 14333.0,
-    "precio_actual_hoy": 8599.8,
-    "diff_abs": 1814.0,
+    "precio_antes": 16487.0,
+    "precio_hoy": 18876.0,
+    "precio_actual_hoy": 11325.6,
+    "diff_abs": 2389.0,
     "diff_pct": 14.49
   },
   {
@@ -66,8 +77,8 @@
     "diff_pct": 13.33
   },
   {
-    "plu": "579948",
-    "nombre": "Vino Cabernet Sauvignon Roble Cuesta Del Madero 750ml",
+    "plu": "567032",
+    "nombre": "Vino Malbec Cuesta Añada Cuesta Del Madero 750ml",
     "marca": "Cuesta Del Madero",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 4986.0,
@@ -77,14 +88,14 @@
     "diff_pct": 12.31
   },
   {
-    "plu": "576972",
-    "nombre": "Vino Cabernet Sauvignon Familia Pacheco Pereda 750ml",
-    "marca": "Pacheco Pereda",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5268.0,
-    "precio_hoy": 5900.0,
-    "precio_actual_hoy": 3540.0,
-    "diff_abs": 632.0,
+    "plu": "501367",
+    "nombre": "Espum.Blanco Dulce Dilema Bot 750 Ml",
+    "marca": "Dilema",
+    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 8319.0,
+    "precio_hoy": 9317.0,
+    "precio_actual_hoy": 5590.2,
+    "diff_abs": 998.0,
     "diff_pct": 12.0
   },
   {
@@ -110,17 +121,6 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "186590",
-    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
-    "marca": "Pritty",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1900.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1785.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
-  },
-  {
     "plu": "532961",
     "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
     "marca": "Magna",
@@ -143,6 +143,17 @@
     "diff_pct": 10.53
   },
   {
+    "plu": "186590",
+    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
     "plu": "548599",
     "nombre": "Jugo Naranja Tutti 1 Ltr",
     "marca": "Tutti",
@@ -154,69 +165,58 @@
     "diff_pct": 10.41
   },
   {
-    "plu": "460767",
-    "nombre": "Jugo TUTTI Multifruta Tetrabrik 1 L",
+    "plu": "618087",
+    "nombre": "Jugo Xtreme Sabor Acido Tutti Ttb 200 Ml",
     "marca": "Tutti",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1596.0,
-    "precio_hoy": 1760.0,
-    "precio_actual_hoy": 1760.0,
-    "diff_abs": 164.0,
-    "diff_pct": 10.28
+    "precio_antes": 689.0,
+    "precio_hoy": 760.0,
+    "precio_actual_hoy": 494.0,
+    "diff_abs": 71.0,
+    "diff_pct": 10.3
   },
   {
-    "plu": "460769",
-    "nombre": "Jugo TUTTI Manzana Tetrabrik 1 L",
+    "plu": "530172",
+    "nombre": "Jugo Durazno Tutti Ttb 200 Ml",
     "marca": "Tutti",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1596.0,
-    "precio_hoy": 1760.0,
-    "precio_actual_hoy": 1760.0,
-    "diff_abs": 164.0,
-    "diff_pct": 10.28
+    "precio_antes": 689.0,
+    "precio_hoy": 760.0,
+    "precio_actual_hoy": 494.0,
+    "diff_abs": 71.0,
+    "diff_pct": 10.3
   },
   {
-    "plu": "484651",
-    "nombre": "Jugo Durazno TUTTI Ttb 1 Ltr",
+    "plu": "618086",
+    "nombre": "Jugo Sabor Chicle Tutti Ttb 200 Ml",
     "marca": "Tutti",
-    "categoria": "Sin Tacc > Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1596.0,
-    "precio_hoy": 1760.0,
-    "precio_actual_hoy": 1760.0,
-    "diff_abs": 164.0,
-    "diff_pct": 10.28
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 689.0,
+    "precio_hoy": 760.0,
+    "precio_actual_hoy": 494.0,
+    "diff_abs": 71.0,
+    "diff_pct": 10.3
   },
   {
-    "plu": "471009",
-    "nombre": "Cerveza Ipa IMPERIAL   Botella 1 L",
-    "marca": "Imperial",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 4420.0,
-    "precio_hoy": 4873.0,
-    "precio_actual_hoy": 3654.75,
-    "diff_abs": 453.0,
-    "diff_pct": 10.25
+    "plu": "575359",
+    "nombre": "Jugo Uva Tutti 200ml",
+    "marca": "Tutti",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 689.0,
+    "precio_hoy": 760.0,
+    "precio_actual_hoy": 494.0,
+    "diff_abs": 71.0,
+    "diff_pct": 10.3
   },
   {
-    "plu": "576917",
-    "nombre": "Cerveza Belgian White Blue Moon 473ml",
-    "marca": "Blue Moon",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3800.0,
-    "precio_hoy": 4189.0,
-    "precio_actual_hoy": 2094.5,
-    "diff_abs": 389.0,
-    "diff_pct": 10.24
-  },
-  {
-    "plu": "79713",
-    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
-    "marca": "Doble Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2200.0,
-    "precio_actual_hoy": 1650.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.0
+    "plu": "460765",
+    "nombre": "Jugo TUTTI Manzana Tetrabrik 200 Cc",
+    "marca": "Tutti",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 689.0,
+    "precio_hoy": 760.0,
+    "precio_actual_hoy": 494.0,
+    "diff_abs": 71.0,
+    "diff_pct": 10.3
   }
 ]
