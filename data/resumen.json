@@ -1,9 +1,9 @@
 {
-  "fecha": "20260326",
-  "total_productos": 300,
+  "fecha": "20260327",
+  "total_productos": 1612,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.35,
-  "variacion_mes": 1.59,
+  "variacion_7d": 0.2,
+  "variacion_mes": 1.43,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -20,8 +20,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 200,
-      "total_productos": 200
+      "productos_sin_cambio": 198,
+      "total_productos": 198
     }
   ],
   "ranking_baja_dia": [
@@ -138,5 +138,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 250
+  "productos_sin_cambio_dia": 248
 }
