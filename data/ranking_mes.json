@@ -44,28 +44,6 @@
     "diff_pct": 31.46
   },
   {
-    "plu": "517464",
-    "nombre": "Cerveza Torobayo Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3440.0,
-    "precio_hoy": 4000.0,
-    "precio_actual_hoy": 2600.0,
-    "diff_abs": 560.0,
-    "diff_pct": 16.28
-  },
-  {
-    "plu": "517468",
-    "nombre": "Cerveza Session Ipa Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3440.0,
-    "precio_hoy": 4000.0,
-    "precio_actual_hoy": 2600.0,
-    "diff_abs": 560.0,
-    "diff_pct": 16.28
-  },
-  {
     "plu": "165613",
     "nombre": "Vino Bonarda Colonia Las Liebres Bot 750 Cmq",
     "marca": "Colonia Las Liebres",
@@ -77,14 +55,14 @@
     "diff_pct": 14.49
   },
   {
-    "plu": "242682",
-    "nombre": "Vino Malbec Terroir Altos Las Hormigas Bot 750 Cmq",
+    "plu": "209279",
+    "nombre": "Vino Malbec Reserva Altos Las Hormigas Bot 750 Cmq",
     "marca": "Altos Las Hormigas",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 21639.0,
-    "precio_hoy": 24775.0,
-    "precio_actual_hoy": 16517.49,
-    "diff_abs": 3136.0,
+    "precio_antes": 35606.0,
+    "precio_hoy": 40765.0,
+    "precio_actual_hoy": 27178.03,
+    "diff_abs": 5159.0,
     "diff_pct": 14.49
   },
   {
@@ -121,28 +99,6 @@
     "diff_pct": 12.31
   },
   {
-    "plu": "567032",
-    "nombre": "Vino Malbec Cuesta Añada Cuesta Del Madero 750ml",
-    "marca": "Cuesta Del Madero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 4986.0,
-    "precio_hoy": 5600.0,
-    "precio_actual_hoy": 3733.52,
-    "diff_abs": 614.0,
-    "diff_pct": 12.31
-  },
-  {
-    "plu": "576969",
-    "nombre": "Vino Malbec Familia Pacheco Pereda 750ml",
-    "marca": "Pacheco Pereda",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5268.0,
-    "precio_hoy": 5900.0,
-    "precio_actual_hoy": 3933.53,
-    "diff_abs": 632.0,
-    "diff_pct": 12.0
-  },
-  {
     "plu": "257242",
     "nombre": "Champaña Extra Brut Estancia Mendoza Bot 750 Cmq",
     "marca": "Estancia Mendoza",
@@ -151,17 +107,6 @@
     "precio_hoy": 8959.0,
     "precio_actual_hoy": 5972.97,
     "diff_abs": 960.0,
-    "diff_pct": 12.0
-  },
-  {
-    "plu": "576972",
-    "nombre": "Vino Cabernet Sauvignon Familia Pacheco Pereda 750ml",
-    "marca": "Pacheco Pereda",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5268.0,
-    "precio_hoy": 5900.0,
-    "precio_actual_hoy": 3933.53,
-    "diff_abs": 632.0,
     "diff_pct": 12.0
   },
   {
@@ -176,15 +121,15 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "572862",
-    "nombre": "Vino Chenin Dulce Etnia 750ml",
-    "marca": "Etnia",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3477.0,
-    "precio_hoy": 3847.0,
-    "precio_actual_hoy": 2564.79,
-    "diff_abs": 370.0,
-    "diff_pct": 10.64
+    "plu": "517464",
+    "nombre": "Cerveza Torobayo Kunstmann Lat 470 Cmq",
+    "marca": "Kunstmann",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 3612.0,
+    "precio_hoy": 4000.0,
+    "precio_actual_hoy": 2600.0,
+    "diff_abs": 388.0,
+    "diff_pct": 10.74
   },
   {
     "plu": "572863",
@@ -218,5 +163,60 @@
     "precio_actual_hoy": 1575.0,
     "diff_abs": 200.0,
     "diff_pct": 10.53
+  },
+  {
+    "plu": "291339",
+    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
+    "plu": "186590",
+    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
+    "plu": "485076",
+    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "525612",
+    "nombre": "Vino Malbec Orgánico ARGENTO Estate Bottled",
+    "marca": "Argento",
+    "categoria": "Vinos Tintos > Vinos > Orgánicos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7318.0,
+    "precio_hoy": 8050.0,
+    "precio_actual_hoy": 5366.94,
+    "diff_abs": 732.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "485078",
+    "nombre": "Gaseosa Doble Cola   Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
   }
 ]

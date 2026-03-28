@@ -1,9 +1,9 @@
 {
-  "fecha": "20260327",
-  "total_productos": 1612,
+  "fecha": "20260328",
+  "total_productos": 1610,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.2,
-  "variacion_mes": 1.43,
+  "variacion_7d": 0.21,
+  "variacion_mes": 1.25,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,30 +12,19 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 50,
-      "total_productos": 50
+      "productos_sin_cambio": 789,
+      "total_productos": 789
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 198,
-      "total_productos": 198
+      "productos_sin_cambio": 559,
+      "total_productos": 559
     }
   ],
   "ranking_baja_dia": [
-    {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-      "marca": "Alfredo Coto",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 7590.0,
-      "precio_hoy": 7590.0,
-      "precio_actual_hoy": 5060.25,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
     {
       "plu": "460802",
       "nombre": "Vino ALFREDO COTO Malbec 750ml",
@@ -48,13 +37,13 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460803",
-      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
-      "marca": "Don Alfredo",
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 15000.0,
-      "precio_hoy": 15000.0,
-      "precio_actual_hoy": 10000.5,
+      "precio_antes": 7590.0,
+      "precio_hoy": 7590.0,
+      "precio_actual_hoy": 5060.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -70,21 +59,21 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "238214",
-      "nombre": "Cerveza  QUILMES   Botella 1 L",
-      "marca": "Quilmes",
-      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-      "precio_antes": 4200.0,
-      "precio_hoy": 4200.0,
-      "precio_actual_hoy": 3150.0,
+      "plu": "460803",
+      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 15000.0,
+      "precio_hoy": 15000.0,
+      "precio_actual_hoy": 10000.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "238217",
-      "nombre": "Cerveza Stout QUILMES   Botella 1 L",
+      "plu": "238214",
+      "nombre": "Cerveza  QUILMES   Botella 1 L",
       "marca": "Quilmes",
-      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
       "precio_antes": 4200.0,
       "precio_hoy": 4200.0,
       "precio_actual_hoy": 3150.0,
@@ -103,13 +92,24 @@
       "diff_pct": 0.0
     },
     {
+      "plu": "238217",
+      "nombre": "Cerveza Stout QUILMES   Botella 1 L",
+      "marca": "Quilmes",
+      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 4200.0,
+      "precio_hoy": 4200.0,
+      "precio_actual_hoy": 3150.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
       "plu": "271680",
       "nombre": "Cerveza  QUILMES   Porron 340 Cc",
       "marca": "Quilmes",
       "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
       "precio_antes": 1500.0,
       "precio_hoy": 1500.0,
-      "precio_actual_hoy": 1125.0,
+      "precio_actual_hoy": 975.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -138,5 +138,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 248
+  "productos_sin_cambio_dia": 1348
 }
