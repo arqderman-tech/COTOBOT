@@ -1,9 +1,9 @@
 {
-  "fecha": "20260328",
-  "total_productos": 1610,
+  "fecha": "20260329",
+  "total_productos": 850,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.21,
-  "variacion_mes": 1.25,
+  "variacion_7d": 0.14,
+  "variacion_mes": 1.2,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,16 +12,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 789,
-      "total_productos": 789
+      "productos_sin_cambio": 635,
+      "total_productos": 635
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 559,
-      "total_productos": 559
+      "productos_sin_cambio": 50,
+      "total_productos": 50
     }
   ],
   "ranking_baja_dia": [
@@ -48,6 +48,17 @@
       "diff_pct": 0.0
     },
     {
+      "plu": "460803",
+      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 15000.0,
+      "precio_hoy": 15000.0,
+      "precio_actual_hoy": 10000.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
       "plu": "460804",
       "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
       "marca": "Don Alfredo",
@@ -59,13 +70,35 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460803",
-      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
-      "marca": "Don Alfredo",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 15000.0,
-      "precio_hoy": 15000.0,
-      "precio_actual_hoy": 10000.5,
+      "plu": "8750",
+      "nombre": "Anana Fizz REAL 720c",
+      "marca": "Real",
+      "categoria": "Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 5699.0,
+      "precio_hoy": 5699.0,
+      "precio_actual_hoy": 4274.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "479243",
+      "nombre": "Sidra REAL 750ml",
+      "marca": "Real",
+      "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 4899.0,
+      "precio_hoy": 4899.0,
+      "precio_actual_hoy": 3674.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "6300",
+      "nombre": "Sidra Etiqueta Negra REAL 720c",
+      "marca": "Real",
+      "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 6699.0,
+      "precio_hoy": 6699.0,
+      "precio_actual_hoy": 5024.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -101,42 +134,9 @@
       "precio_actual_hoy": 3150.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
-    },
-    {
-      "plu": "271680",
-      "nombre": "Cerveza  QUILMES   Porron 340 Cc",
-      "marca": "Quilmes",
-      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-      "precio_antes": 1500.0,
-      "precio_hoy": 1500.0,
-      "precio_actual_hoy": 975.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "189589",
-      "nombre": "Cerveza  CORONA   Botella 710 Cc",
-      "marca": "Corona",
-      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-      "precio_antes": 6550.0,
-      "precio_hoy": 6550.0,
-      "precio_actual_hoy": 4912.5,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "9696",
-      "nombre": "Cerveza  CORONA   Porron 330 Cc",
-      "marca": "Corona",
-      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 4050.0,
-      "precio_hoy": 4050.0,
-      "precio_actual_hoy": 3037.5,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
     }
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1348
+  "productos_sin_cambio_dia": 685
 }
