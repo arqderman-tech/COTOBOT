@@ -1,5 +1,60 @@
 [
   {
+    "plu": "490185",
+    "nombre": "SCHWEPPES Zero Pomelo 500 Ml",
+    "marca": "Schweppes",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 630.0,
+    "precio_hoy": 1620.0,
+    "precio_actual_hoy": 1620.0,
+    "diff_abs": 990.0,
+    "diff_pct": 157.14
+  },
+  {
+    "plu": "271780",
+    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
+    "marca": "Gatorade",
+    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 880.0,
+    "diff_pct": 54.32
+  },
+  {
+    "plu": "271779",
+    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 750 Cc",
+    "marca": "Gatorade",
+    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 880.0,
+    "diff_pct": 54.32
+  },
+  {
+    "plu": "470498",
+    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 760.0,
+    "precio_hoy": 1000.0,
+    "precio_actual_hoy": 750.0,
+    "diff_abs": 240.0,
+    "diff_pct": 31.58
+  },
+  {
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 760.0,
+    "precio_hoy": 1000.0,
+    "precio_actual_hoy": 750.0,
+    "diff_abs": 240.0,
+    "diff_pct": 31.58
+  },
+  {
     "plu": "201931",
     "nombre": "Vino Cab.Sauv Gran Reserva F.D.Cave Bot 750 Cmq",
     "marca": "Fond De Cave",
@@ -22,17 +77,6 @@
     "diff_pct": 23.14
   },
   {
-    "plu": "595150",
-    "nombre": "Vino Malbec Orgánico Colonia Las Liebres 750ml",
-    "marca": "Colonia Las Liebres",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 16487.0,
-    "precio_hoy": 18876.0,
-    "precio_actual_hoy": 12584.63,
-    "diff_abs": 2389.0,
-    "diff_pct": 14.49
-  },
-  {
     "plu": "165613",
     "nombre": "Vino Bonarda Colonia Las Liebres Bot 750 Cmq",
     "marca": "Colonia Las Liebres",
@@ -41,6 +85,17 @@
     "precio_hoy": 14333.0,
     "precio_actual_hoy": 9555.81,
     "diff_abs": 1814.0,
+    "diff_pct": 14.49
+  },
+  {
+    "plu": "242682",
+    "nombre": "Vino Malbec Terroir Altos Las Hormigas Bot 750 Cmq",
+    "marca": "Altos Las Hormigas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 21639.0,
+    "precio_hoy": 24775.0,
+    "precio_actual_hoy": 16517.49,
+    "diff_abs": 3136.0,
     "diff_pct": 14.49
   },
   {
@@ -55,6 +110,17 @@
     "diff_pct": 14.49
   },
   {
+    "plu": "209279",
+    "nombre": "Vino Malbec Reserva Altos Las Hormigas Bot 750 Cmq",
+    "marca": "Altos Las Hormigas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 35606.0,
+    "precio_hoy": 40765.0,
+    "precio_actual_hoy": 27178.03,
+    "diff_abs": 5159.0,
+    "diff_pct": 14.49
+  },
+  {
     "plu": "595151",
     "nombre": "Vino Tinto Blend La Danza 750ml",
     "marca": "La Danza",
@@ -66,15 +132,37 @@
     "diff_pct": 14.48
   },
   {
-    "plu": "257242",
-    "nombre": "Champaña Extra Brut Estancia Mendoza Bot 750 Cmq",
-    "marca": "Estancia Mendoza",
-    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7999.0,
-    "precio_hoy": 8959.0,
-    "precio_actual_hoy": 5972.97,
-    "diff_abs": 960.0,
-    "diff_pct": 12.0
+    "plu": "473144",
+    "nombre": "Gaseosa PRITTY  Limón Botella 1 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1500.0,
+    "precio_hoy": 1700.0,
+    "precio_actual_hoy": 1445.0,
+    "diff_abs": 200.0,
+    "diff_pct": 13.33
+  },
+  {
+    "plu": "579948",
+    "nombre": "Vino Cabernet Sauvignon Roble Cuesta Del Madero 750ml",
+    "marca": "Cuesta Del Madero",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4986.0,
+    "precio_hoy": 5600.0,
+    "precio_actual_hoy": 3733.52,
+    "diff_abs": 614.0,
+    "diff_pct": 12.31
+  },
+  {
+    "plu": "567032",
+    "nombre": "Vino Malbec Cuesta Añada Cuesta Del Madero 750ml",
+    "marca": "Cuesta Del Madero",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4986.0,
+    "precio_hoy": 5600.0,
+    "precio_actual_hoy": 3733.52,
+    "diff_abs": 614.0,
+    "diff_pct": 12.31
   },
   {
     "plu": "576972",
@@ -88,135 +176,47 @@
     "diff_pct": 12.0
   },
   {
-    "plu": "572862",
-    "nombre": "Vino Chenin Dulce Etnia 750ml",
+    "plu": "257242",
+    "nombre": "Champaña Extra Brut Estancia Mendoza Bot 750 Cmq",
+    "marca": "Estancia Mendoza",
+    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7999.0,
+    "precio_hoy": 8959.0,
+    "precio_actual_hoy": 5972.97,
+    "diff_abs": 960.0,
+    "diff_pct": 12.0
+  },
+  {
+    "plu": "561220",
+    "nombre": "Soda Saldan 2.25l",
+    "marca": "Saldan",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "precio_antes": 1350.0,
+    "precio_hoy": 1500.0,
+    "precio_actual_hoy": 1125.0,
+    "diff_abs": 150.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "517468",
+    "nombre": "Cerveza Session Ipa Kunstmann Lat 470 Cmq",
+    "marca": "Kunstmann",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 3612.0,
+    "precio_hoy": 4000.0,
+    "precio_actual_hoy": 2600.0,
+    "diff_abs": 388.0,
+    "diff_pct": 10.74
+  },
+  {
+    "plu": "572863",
+    "nombre": "Vino Rosado Dulce Etnia 750ml",
     "marca": "Etnia",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Vinos Rosados > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 3477.0,
     "precio_hoy": 3847.0,
     "precio_actual_hoy": 2564.79,
     "diff_abs": 370.0,
     "diff_pct": 10.64
-  },
-  {
-    "plu": "584751",
-    "nombre": "Aperitivo Rosato Ramazzotti 700ml",
-    "marca": "Ramazzotti",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 10896.0,
-    "precio_hoy": 11877.0,
-    "precio_actual_hoy": 8907.75,
-    "diff_abs": 981.0,
-    "diff_pct": 9.0
-  },
-  {
-    "plu": "535422",
-    "nombre": "Vino Cabernet Franc Orgánico Argento 750 Ml",
-    "marca": "Argento",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 9653.0,
-    "precio_hoy": 10400.0,
-    "precio_actual_hoy": 6933.68,
-    "diff_abs": 747.0,
-    "diff_pct": 7.74
-  },
-  {
-    "plu": "524786",
-    "nombre": "Vino Tinto Blend Merlot Syrah Malbec Canciller Cja 3 Ltr",
-    "marca": "Canciller",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11479.0,
-    "precio_hoy": 12331.0,
-    "precio_actual_hoy": 8221.08,
-    "diff_abs": 852.0,
-    "diff_pct": 7.42
-  },
-  {
-    "plu": "598152",
-    "nombre": "Agus Sin Gas Pomelo H2oh!! 2l",
-    "marca": "H2 Oh!",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2850.0,
-    "precio_hoy": 3050.0,
-    "precio_actual_hoy": 1677.5,
-    "diff_abs": 200.0,
-    "diff_pct": 7.02
-  },
-  {
-    "plu": "502985",
-    "nombre": "Vino Tinto Orgánic Malbec - Rosé Santa Julia Lat 269 Ml",
-    "marca": "Santa Julia",
-    "categoria": "Vinos Rosados > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 2830.0,
-    "precio_hoy": 3028.0,
-    "precio_actual_hoy": 2018.77,
-    "diff_abs": 198.0,
-    "diff_pct": 7.0
-  },
-  {
-    "plu": "502986",
-    "nombre": "Vino Malbec Bonard Tintillo Santa Julia Lat 269 Ml",
-    "marca": "Santa Julia",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 2857.0,
-    "precio_hoy": 3057.0,
-    "precio_actual_hoy": 2038.1,
-    "diff_abs": 200.0,
-    "diff_pct": 7.0
-  },
-  {
-    "plu": "612748",
-    "nombre": "Vino Tinto Malbec Bonarda Chances 750ml",
-    "marca": "Chances",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6405.0,
-    "precio_hoy": 6853.0,
-    "precio_actual_hoy": 4568.9,
-    "diff_abs": 448.0,
-    "diff_pct": 6.99
-  },
-  {
-    "plu": "612745",
-    "nombre": "Vino Chenin Torrontés Chances 750ml",
-    "marca": "Chances",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6405.0,
-    "precio_hoy": 6853.0,
-    "precio_actual_hoy": 4568.9,
-    "diff_abs": 448.0,
-    "diff_pct": 6.99
-  },
-  {
-    "plu": "612747",
-    "nombre": "Vino Tinto Malbec Cabernet Sauvignon Chances 750ml",
-    "marca": "Chances",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6405.0,
-    "precio_hoy": 6853.0,
-    "precio_actual_hoy": 4568.9,
-    "diff_abs": 448.0,
-    "diff_pct": 6.99
-  },
-  {
-    "plu": "510567",
-    "nombre": "Vino Tinto Dulce Natural Santa Julia Lat 269 Ml",
-    "marca": "Santa Julia",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 2803.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 1999.43,
-    "diff_abs": 196.0,
-    "diff_pct": 6.99
-  },
-  {
-    "plu": "66881",
-    "nombre": "Amargo Tacconi Limon Botella 1.5 L",
-    "marca": "Tacconi",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
-    "precio_antes": 1539.0,
-    "precio_hoy": 1640.0,
-    "precio_actual_hoy": 1066.0,
-    "diff_abs": 101.0,
-    "diff_pct": 6.56
   }
 ]
