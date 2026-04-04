@@ -77,8 +77,8 @@
     "diff_pct": 9.66
   },
   {
-    "plu": "528912",
-    "nombre": "Jugo De Pomelo C/Pulpa Citric Ttb 1 Ltr",
+    "plu": "528909",
+    "nombre": "Jugo De Naranja/Mango Citric Ttb 1 Ltr",
     "marca": "Citric",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5425.0,
@@ -88,8 +88,8 @@
     "diff_pct": 9.66
   },
   {
-    "plu": "528909",
-    "nombre": "Jugo De Naranja/Mango Citric Ttb 1 Ltr",
+    "plu": "528912",
+    "nombre": "Jugo De Pomelo C/Pulpa Citric Ttb 1 Ltr",
     "marca": "Citric",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5425.0,
@@ -165,6 +165,39 @@
     "diff_pct": 9.43
   },
   {
+    "plu": "264547",
+    "nombre": "Bebida Isotónica POWERADE Frutas Tropicales 995 Ml",
+    "marca": "Powerade",
+    "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2200.0,
+    "precio_hoy": 2400.0,
+    "precio_actual_hoy": 1800.0,
+    "diff_abs": 200.0,
+    "diff_pct": 9.09
+  },
+  {
+    "plu": "207650",
+    "nombre": "Jugo CEPITA DEL VALLE Manzana 200 Ml",
+    "marca": "Cepita",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1100.0,
+    "precio_hoy": 1200.0,
+    "precio_actual_hoy": 1200.0,
+    "diff_abs": 100.0,
+    "diff_pct": 9.09
+  },
+  {
+    "plu": "264545",
+    "nombre": "Bebida Isotónica POWERADE Mountain Blast 995 Ml",
+    "marca": "Powerade",
+    "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2200.0,
+    "precio_hoy": 2400.0,
+    "precio_actual_hoy": 1800.0,
+    "diff_abs": 200.0,
+    "diff_pct": 9.09
+  },
+  {
     "plu": "216342",
     "nombre": "Jugo CEPITA DEL VALLE Naranja 200 Ml",
     "marca": "Cepita",
@@ -184,39 +217,6 @@
     "precio_hoy": 1200.0,
     "precio_actual_hoy": 1200.0,
     "diff_abs": 100.0,
-    "diff_pct": 9.09
-  },
-  {
-    "plu": "264546",
-    "nombre": "Bebida Isotónica POWERADE Manzana 995 Ml",
-    "marca": "Powerade",
-    "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 2200.0,
-    "precio_hoy": 2400.0,
-    "precio_actual_hoy": 1800.0,
-    "diff_abs": 200.0,
-    "diff_pct": 9.09
-  },
-  {
-    "plu": "264545",
-    "nombre": "Bebida Isotónica POWERADE Mountain Blast 995 Ml",
-    "marca": "Powerade",
-    "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 2200.0,
-    "precio_hoy": 2400.0,
-    "precio_actual_hoy": 1800.0,
-    "diff_abs": 200.0,
-    "diff_pct": 9.09
-  },
-  {
-    "plu": "264547",
-    "nombre": "Bebida Isotónica POWERADE Frutas Tropicales 995 Ml",
-    "marca": "Powerade",
-    "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 2200.0,
-    "precio_hoy": 2400.0,
-    "precio_actual_hoy": 1800.0,
-    "diff_abs": 200.0,
     "diff_pct": 9.09
   }
 ]

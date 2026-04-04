@@ -1,9 +1,9 @@
 {
-  "fecha": "20260403",
-  "total_productos": 1605,
+  "fecha": "20260404",
+  "total_productos": 1603,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.74,
-  "variacion_mes": 1.81,
+  "variacion_7d": 0.72,
+  "variacion_mes": 1.78,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,8 +12,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 815,
-      "total_productos": 815
+      "productos_sin_cambio": 812,
+      "total_productos": 812
     },
     {
       "categoria": "Bebidas Sin Alcohol",
@@ -26,8 +26,8 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "460802",
-      "nombre": "Vino ALFREDO COTO Malbec 750ml",
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
       "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
       "precio_antes": 7590.0,
@@ -37,8 +37,8 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "plu": "460802",
+      "nombre": "Vino ALFREDO COTO Malbec 750ml",
       "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
       "precio_antes": 7590.0,
@@ -70,13 +70,13 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "8750",
-      "nombre": "Anana Fizz REAL 720c",
+      "plu": "479243",
+      "nombre": "Sidra REAL 750ml",
       "marca": "Real",
-      "categoria": "Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 5699.0,
-      "precio_hoy": 5699.0,
-      "precio_actual_hoy": 4274.25,
+      "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 4899.0,
+      "precio_hoy": 4899.0,
+      "precio_actual_hoy": 3674.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -88,17 +88,6 @@
       "precio_antes": 6699.0,
       "precio_hoy": 6699.0,
       "precio_actual_hoy": 5024.25,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "479243",
-      "nombre": "Sidra REAL 750ml",
-      "marca": "Real",
-      "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 4899.0,
-      "precio_hoy": 4899.0,
-      "precio_actual_hoy": 3674.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -134,9 +123,20 @@
       "precio_actual_hoy": 9899.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
+    },
+    {
+      "plu": "245786",
+      "nombre": "Cerveza Extra Lager IMPERIAL   Botella 1 L",
+      "marca": "Imperial",
+      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 4600.0,
+      "precio_hoy": 4600.0,
+      "precio_actual_hoy": 3450.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1367
+  "productos_sin_cambio_dia": 1364
 }
