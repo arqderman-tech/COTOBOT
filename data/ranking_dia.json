@@ -1,16 +1,5 @@
 [
   {
-    "plu": "460805",
-    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-    "marca": "Alfredo Coto",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7590.0,
-    "precio_hoy": 7590.0,
-    "precio_actual_hoy": 4554.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "460802",
     "nombre": "Vino ALFREDO COTO Malbec 750ml",
     "marca": "Alfredo Coto",
@@ -22,13 +11,13 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460804",
-    "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
-    "marca": "Don Alfredo",
+    "plu": "460805",
+    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+    "marca": "Alfredo Coto",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 37500.0,
-    "precio_hoy": 37500.0,
-    "precio_actual_hoy": 22500.0,
+    "precio_antes": 7590.0,
+    "precio_hoy": 7590.0,
+    "precio_actual_hoy": 4554.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -40,6 +29,17 @@
     "precio_antes": 15000.0,
     "precio_hoy": 15000.0,
     "precio_actual_hoy": 9000.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "460804",
+    "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+    "marca": "Don Alfredo",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 37500.0,
+    "precio_hoy": 37500.0,
+    "precio_actual_hoy": 22500.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -121,17 +121,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "481306",
-    "nombre": "Cerveza Ipa Imperial  Lata 473 CC",
-    "marca": "Imperial",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 2900.0,
-    "precio_hoy": 2900.0,
-    "precio_actual_hoy": 2175.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "245428",
     "nombre": "Cerveza Lager IMPERIAL   Lata 473 Cc",
     "marca": "Imperial",
@@ -139,6 +128,17 @@
     "precio_antes": 2700.0,
     "precio_hoy": 2700.0,
     "precio_actual_hoy": 2025.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "481306",
+    "nombre": "Cerveza Ipa Imperial  Lata 473 CC",
+    "marca": "Imperial",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 2900.0,
+    "precio_hoy": 2900.0,
+    "precio_actual_hoy": 2175.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -209,13 +209,13 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "478593",
-    "nombre": "Cerveza  Brahma  Pack Latas 473 CC 6 Unidades",
+    "plu": "298226",
+    "nombre": "Cerveza  BRAHMA Chopp Porron 340 Cc",
     "marca": "Brahma",
     "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 15000.0,
-    "precio_hoy": 15000.0,
-    "precio_actual_hoy": 11250.0,
+    "precio_antes": 1600.0,
+    "precio_hoy": 1600.0,
+    "precio_actual_hoy": 1200.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }

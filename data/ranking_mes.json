@@ -11,28 +11,6 @@
     "diff_pct": 157.14
   },
   {
-    "plu": "271779",
-    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 750 Cc",
-    "marca": "Gatorade",
-    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 880.0,
-    "diff_pct": 54.32
-  },
-  {
-    "plu": "271780",
-    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
-    "marca": "Gatorade",
-    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 880.0,
-    "diff_pct": 54.32
-  },
-  {
     "plu": "470499",
     "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
     "marca": "Coca Cola",
@@ -53,72 +31,6 @@
     "precio_actual_hoy": 750.0,
     "diff_abs": 240.0,
     "diff_pct": 31.58
-  },
-  {
-    "plu": "201931",
-    "nombre": "Vino Cab.Sauv Gran Reserva F.D.Cave Bot 750 Cmq",
-    "marca": "Fond De Cave",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 20301.0,
-    "precio_hoy": 26688.0,
-    "precio_actual_hoy": 16012.8,
-    "diff_abs": 6387.0,
-    "diff_pct": 31.46
-  },
-  {
-    "plu": "228612",
-    "nombre": "Agua Saborizada  H2OH!   Citrus Botella 2.25 L",
-    "marca": "H2Oh!",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Aguas Saborizadas > Aguas > AGUAS SABORIZADAS",
-    "precio_antes": 2290.0,
-    "precio_hoy": 2820.0,
-    "precio_actual_hoy": 1692.0,
-    "diff_abs": 530.0,
-    "diff_pct": 23.14
-  },
-  {
-    "plu": "121600",
-    "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12519.0,
-    "precio_hoy": 14333.0,
-    "precio_actual_hoy": 8599.8,
-    "diff_abs": 1814.0,
-    "diff_pct": 14.49
-  },
-  {
-    "plu": "209279",
-    "nombre": "Vino Malbec Reserva Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 35606.0,
-    "precio_hoy": 40765.0,
-    "precio_actual_hoy": 24459.0,
-    "diff_abs": 5159.0,
-    "diff_pct": 14.49
-  },
-  {
-    "plu": "242682",
-    "nombre": "Vino Malbec Terroir Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 21639.0,
-    "precio_hoy": 24775.0,
-    "precio_actual_hoy": 14865.0,
-    "diff_abs": 3136.0,
-    "diff_pct": 14.49
-  },
-  {
-    "plu": "595151",
-    "nombre": "Vino Tinto Blend La Danza 750ml",
-    "marca": "La Danza",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 10820.0,
-    "precio_hoy": 12387.0,
-    "precio_actual_hoy": 7432.2,
-    "diff_abs": 1567.0,
-    "diff_pct": 14.48
   },
   {
     "plu": "473144",
@@ -154,17 +66,6 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "517468",
-    "nombre": "Cerveza Session Ipa Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3612.0,
-    "precio_hoy": 4000.0,
-    "precio_actual_hoy": 2600.0,
-    "diff_abs": 388.0,
-    "diff_pct": 10.74
-  },
-  {
     "plu": "582627",
     "nombre": "Agua Sin Gas Pureza De Las Sierras 1.5l",
     "marca": "Pureza De Las Sierras",
@@ -176,17 +77,6 @@
     "diff_pct": 10.61
   },
   {
-    "plu": "186590",
-    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
-    "marca": "Pritty",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1900.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1785.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
-  },
-  {
     "plu": "532961",
     "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
     "marca": "Magna",
@@ -194,6 +84,17 @@
     "precio_antes": 1900.0,
     "precio_hoy": 2100.0,
     "precio_actual_hoy": 1575.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
+    "plu": "186590",
+    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1785.0,
     "diff_abs": 200.0,
     "diff_pct": 10.53
   },
@@ -209,6 +110,39 @@
     "diff_pct": 10.53
   },
   {
+    "plu": "485076",
+    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "485077",
+    "nombre": "Gaseosa Doble Cola   Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "485078",
+    "nombre": "Gaseosa Doble Cola   Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  },
+  {
     "plu": "79713",
     "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
     "marca": "Doble Cola",
@@ -218,5 +152,71 @@
     "precio_actual_hoy": 1650.0,
     "diff_abs": 200.0,
     "diff_pct": 10.0
+  },
+  {
+    "plu": "529645",
+    "nombre": "Jugo De Naranja S/Pulpa Citric Ttb 1 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 4929.0,
+    "precio_hoy": 5419.0,
+    "precio_actual_hoy": 3522.35,
+    "diff_abs": 490.0,
+    "diff_pct": 9.94
+  },
+  {
+    "plu": "522536",
+    "nombre": "Jugo C/Pulpa Naranja Clásico Citric Ttb 1 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 4929.0,
+    "precio_hoy": 5419.0,
+    "precio_actual_hoy": 3522.35,
+    "diff_abs": 490.0,
+    "diff_pct": 9.94
+  },
+  {
+    "plu": "578685",
+    "nombre": "Jugo Con Pulpa Naranja Y Zanahoria Citric 1l",
+    "marca": "Citric",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5530.0,
+    "precio_hoy": 6079.0,
+    "precio_actual_hoy": 3951.35,
+    "diff_abs": 549.0,
+    "diff_pct": 9.93
+  },
+  {
+    "plu": "522541",
+    "nombre": "Jugo C/Pulpa Naranja Clásic Citric Bid 3 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 13800.0,
+    "precio_hoy": 15150.0,
+    "precio_actual_hoy": 9847.5,
+    "diff_abs": 1350.0,
+    "diff_pct": 9.78
+  },
+  {
+    "plu": "483462",
+    "nombre": "Jugo CITRIC Limonada Con Menta 910 CC",
+    "marca": "Citric",
+    "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2480.0,
+    "precio_hoy": 2720.0,
+    "precio_actual_hoy": 1768.0,
+    "diff_abs": 240.0,
+    "diff_pct": 9.68
+  },
+  {
+    "plu": "483460",
+    "nombre": "Jugo CITRIC Pomelo, Menta Y Jengibre 910 CC",
+    "marca": "Citric",
+    "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2480.0,
+    "precio_hoy": 2720.0,
+    "precio_actual_hoy": 1768.0,
+    "diff_abs": 240.0,
+    "diff_pct": 9.68
   }
 ]
