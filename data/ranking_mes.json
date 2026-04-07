@@ -11,8 +11,8 @@
     "diff_pct": 157.14
   },
   {
-    "plu": "271780",
-    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
+    "plu": "271779",
+    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 750 Cc",
     "marca": "Gatorade",
     "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
     "precio_antes": 1620.0,
@@ -22,8 +22,8 @@
     "diff_pct": 54.32
   },
   {
-    "plu": "271779",
-    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 750 Cc",
+    "plu": "271780",
+    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
     "marca": "Gatorade",
     "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
     "precio_antes": 1620.0,
@@ -66,6 +66,28 @@
     "diff_pct": 31.46
   },
   {
+    "plu": "165613",
+    "nombre": "Vino Bonarda Colonia Las Liebres Bot 750 Cmq",
+    "marca": "Colonia Las Liebres",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12519.0,
+    "precio_hoy": 14333.0,
+    "precio_actual_hoy": 8599.8,
+    "diff_abs": 1814.0,
+    "diff_pct": 14.49
+  },
+  {
+    "plu": "595150",
+    "nombre": "Vino Malbec Orgánico Colonia Las Liebres 750ml",
+    "marca": "Colonia Las Liebres",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 16487.0,
+    "precio_hoy": 18876.0,
+    "precio_actual_hoy": 11325.6,
+    "diff_abs": 2389.0,
+    "diff_pct": 14.49
+  },
+  {
     "plu": "121600",
     "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
     "marca": "Altos Las Hormigas",
@@ -77,14 +99,14 @@
     "diff_pct": 14.49
   },
   {
-    "plu": "209279",
-    "nombre": "Vino Malbec Reserva Altos Las Hormigas Bot 750 Cmq",
+    "plu": "242682",
+    "nombre": "Vino Malbec Terroir Altos Las Hormigas Bot 750 Cmq",
     "marca": "Altos Las Hormigas",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 35606.0,
-    "precio_hoy": 40765.0,
-    "precio_actual_hoy": 24459.0,
-    "diff_abs": 5159.0,
+    "precio_antes": 21639.0,
+    "precio_hoy": 24775.0,
+    "precio_actual_hoy": 14865.0,
+    "diff_abs": 3136.0,
     "diff_pct": 14.49
   },
   {
@@ -143,28 +165,6 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "517468",
-    "nombre": "Cerveza Session Ipa Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3612.0,
-    "precio_hoy": 4000.0,
-    "precio_actual_hoy": 2600.0,
-    "diff_abs": 388.0,
-    "diff_pct": 10.74
-  },
-  {
-    "plu": "517464",
-    "nombre": "Cerveza Torobayo Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3612.0,
-    "precio_hoy": 4000.0,
-    "precio_actual_hoy": 2600.0,
-    "diff_abs": 388.0,
-    "diff_pct": 10.74
-  },
-  {
     "plu": "582627",
     "nombre": "Agua Sin Gas Pureza De Las Sierras 1.5l",
     "marca": "Pureza De Las Sierras",
@@ -174,6 +174,17 @@
     "precio_actual_hoy": 990.0,
     "diff_abs": 95.0,
     "diff_pct": 10.61
+  },
+  {
+    "plu": "532961",
+    "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
+    "marca": "Magna",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
   },
   {
     "plu": "186590",
@@ -198,25 +209,14 @@
     "diff_pct": 10.53
   },
   {
-    "plu": "532961",
-    "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
-    "marca": "Magna",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1900.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
-  },
-  {
-    "plu": "485076",
-    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
-    "marca": "Doble Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2200.0,
-    "precio_actual_hoy": 2200.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.0
+    "plu": "66882",
+    "nombre": "Amargo TACCONI LIGHT Serrano Botella 1.5 L",
+    "marca": "Tacconi",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
+    "precio_antes": 1539.0,
+    "precio_hoy": 1700.0,
+    "precio_actual_hoy": 1700.0,
+    "diff_abs": 161.0,
+    "diff_pct": 10.46
   }
 ]

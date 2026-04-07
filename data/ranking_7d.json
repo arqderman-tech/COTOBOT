@@ -1,9 +1,9 @@
 [
   {
-    "plu": "529645",
-    "nombre": "Jugo De Naranja S/Pulpa Citric Ttb 1 Ltr",
+    "plu": "522536",
+    "nombre": "Jugo C/Pulpa Naranja Clásico Citric Ttb 1 Ltr",
     "marca": "Citric",
-    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 4929.0,
     "precio_hoy": 5419.0,
     "precio_actual_hoy": 3522.35,
@@ -11,10 +11,10 @@
     "diff_pct": 9.94
   },
   {
-    "plu": "522536",
-    "nombre": "Jugo C/Pulpa Naranja Clásico Citric Ttb 1 Ltr",
+    "plu": "529645",
+    "nombre": "Jugo De Naranja S/Pulpa Citric Ttb 1 Ltr",
     "marca": "Citric",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 4929.0,
     "precio_hoy": 5419.0,
     "precio_actual_hoy": 3522.35,
@@ -44,8 +44,8 @@
     "diff_pct": 9.78
   },
   {
-    "plu": "483460",
-    "nombre": "Jugo CITRIC Pomelo, Menta Y Jengibre 910 CC",
+    "plu": "483462",
+    "nombre": "Jugo CITRIC Limonada Con Menta 910 CC",
     "marca": "Citric",
     "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2480.0,
@@ -55,8 +55,8 @@
     "diff_pct": 9.68
   },
   {
-    "plu": "483462",
-    "nombre": "Jugo CITRIC Limonada Con Menta 910 CC",
+    "plu": "483460",
+    "nombre": "Jugo CITRIC Pomelo, Menta Y Jengibre 910 CC",
     "marca": "Citric",
     "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2480.0,
@@ -77,8 +77,8 @@
     "diff_pct": 9.66
   },
   {
-    "plu": "528908",
-    "nombre": "Jugo De Naranja/Durazno Citric Ttb 1 Ltr",
+    "plu": "528912",
+    "nombre": "Jugo De Pomelo C/Pulpa Citric Ttb 1 Ltr",
     "marca": "Citric",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5425.0,
@@ -88,8 +88,8 @@
     "diff_pct": 9.66
   },
   {
-    "plu": "528912",
-    "nombre": "Jugo De Pomelo C/Pulpa Citric Ttb 1 Ltr",
+    "plu": "528908",
+    "nombre": "Jugo De Naranja/Durazno Citric Ttb 1 Ltr",
     "marca": "Citric",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5425.0,
@@ -121,10 +121,10 @@
     "diff_pct": 9.63
   },
   {
-    "plu": "529644",
-    "nombre": "Jugos Pomelo C/Pulpa Citric Ttb 500 Ml",
+    "plu": "135293",
+    "nombre": "Jugo CITRIC Naranja Con Pulpa Ttb 500 CC",
     "marca": "Citric",
-    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Sin Tacc > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2830.0,
     "precio_hoy": 3100.0,
     "precio_actual_hoy": 2015.0,
@@ -132,10 +132,10 @@
     "diff_pct": 9.54
   },
   {
-    "plu": "135293",
-    "nombre": "Jugo CITRIC Naranja Con Pulpa Ttb 500 CC",
+    "plu": "529644",
+    "nombre": "Jugos Pomelo C/Pulpa Citric Ttb 500 Ml",
     "marca": "Citric",
-    "categoria": "Sin Tacc > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2830.0,
     "precio_hoy": 3100.0,
     "precio_actual_hoy": 2015.0,
@@ -165,58 +165,58 @@
     "diff_pct": 9.43
   },
   {
-    "plu": "207650",
-    "nombre": "Jugo CEPITA DEL VALLE Manzana 200 Ml",
-    "marca": "Cepita",
+    "plu": "528910",
+    "nombre": "Jugo De Manzana Citric Ttb 1 Ltr",
+    "marca": "Citric",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1100.0,
-    "precio_hoy": 1200.0,
-    "precio_actual_hoy": 1200.0,
-    "diff_abs": 100.0,
-    "diff_pct": 9.09
+    "precio_antes": 5425.0,
+    "precio_hoy": 5865.0,
+    "precio_actual_hoy": 3812.25,
+    "diff_abs": 440.0,
+    "diff_pct": 8.11
   },
   {
-    "plu": "207652",
-    "nombre": "Jugo CEPITA DEL VALLE Multifruta 200 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1100.0,
-    "precio_hoy": 1200.0,
-    "precio_actual_hoy": 1200.0,
-    "diff_abs": 100.0,
-    "diff_pct": 9.09
+    "plu": "500956",
+    "nombre": "Cerveza Scotch ANTARES   Lata 473 Cc",
+    "marca": "Antares",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 3771.0,
+    "precio_hoy": 4071.0,
+    "precio_actual_hoy": 2442.6,
+    "diff_abs": 300.0,
+    "diff_pct": 7.96
   },
   {
-    "plu": "216342",
-    "nombre": "Jugo CEPITA DEL VALLE Naranja 200 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 1100.0,
-    "precio_hoy": 1200.0,
-    "precio_actual_hoy": 1200.0,
-    "diff_abs": 100.0,
-    "diff_pct": 9.09
+    "plu": "501512",
+    "nombre": "Vino Malbec Pasionado ANDELUNA Bot 750 Ml",
+    "marca": " Andeluna",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 31556.0,
+    "precio_hoy": 34050.0,
+    "precio_actual_hoy": 20430.0,
+    "diff_abs": 2494.0,
+    "diff_pct": 7.9
   },
   {
-    "plu": "264545",
-    "nombre": "Bebida Isotónica POWERADE Mountain Blast 995 Ml",
-    "marca": "Powerade",
-    "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 2200.0,
-    "precio_hoy": 2400.0,
-    "precio_actual_hoy": 1800.0,
-    "diff_abs": 200.0,
-    "diff_pct": 9.09
+    "plu": "501508",
+    "nombre": "Vino Tinto Pasionado 4 Ce ANDELUNA Bot 750 Ml",
+    "marca": " Andeluna",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 31556.0,
+    "precio_hoy": 34050.0,
+    "precio_actual_hoy": 20430.0,
+    "diff_abs": 2494.0,
+    "diff_pct": 7.9
   },
   {
-    "plu": "264547",
-    "nombre": "Bebida Isotónica POWERADE Frutas Tropicales 995 Ml",
-    "marca": "Powerade",
-    "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 2200.0,
-    "precio_hoy": 2400.0,
-    "precio_actual_hoy": 1800.0,
-    "diff_abs": 200.0,
-    "diff_pct": 9.09
+    "plu": "522537",
+    "nombre": "Jugo C/Pulpa Naranja Clásico Citric Ttb 1.5 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 7150.0,
+    "precio_hoy": 7700.0,
+    "precio_actual_hoy": 5005.0,
+    "diff_abs": 550.0,
+    "diff_pct": 7.69
   }
 ]
