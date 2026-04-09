@@ -11,17 +11,6 @@
     "diff_pct": 157.14
   },
   {
-    "plu": "592067",
-    "nombre": "Gin Añejo Reserva 5 Años Heredero 700ml",
-    "marca": "Heredero",
-    "categoria": "Gin > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 28499.0,
-    "precio_hoy": 49000.0,
-    "precio_actual_hoy": 49000.0,
-    "diff_abs": 20501.0,
-    "diff_pct": 71.94
-  },
-  {
     "plu": "474658",
     "nombre": "Cerveza Lager ORANJEBOOM Original Lata 500 Cc",
     "marca": "Oranjeboom",
@@ -31,17 +20,6 @@
     "precio_actual_hoy": 6739.0,
     "diff_abs": 2070.0,
     "diff_pct": 44.33
-  },
-  {
-    "plu": "581941",
-    "nombre": "Cerveza Extra Stout Trio 500ml",
-    "marca": "Trio",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5429.0,
-    "precio_hoy": 7829.0,
-    "precio_actual_hoy": 7829.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 44.21
   },
   {
     "plu": "470498",
@@ -77,10 +55,10 @@
     "diff_pct": 31.46
   },
   {
-    "plu": "16202",
-    "nombre": "Gaseosa Coca-Cola Sabor Original  1,5 Lt",
+    "plu": "179043",
+    "nombre": "Coca-Cola Zero 1,5 Lt",
     "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 3090.0,
     "precio_hoy": 3600.0,
     "precio_actual_hoy": 3600.0,
@@ -88,10 +66,10 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "179043",
-    "nombre": "Coca-Cola Zero 1,5 Lt",
+    "plu": "16202",
+    "nombre": "Gaseosa Coca-Cola Sabor Original  1,5 Lt",
     "marca": "Coca Cola",
-    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 3090.0,
     "precio_hoy": 3600.0,
     "precio_actual_hoy": 3600.0,
@@ -110,15 +88,15 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "517464",
-    "nombre": "Cerveza Torobayo Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3612.0,
-    "precio_hoy": 4200.0,
-    "precio_actual_hoy": 4200.0,
-    "diff_abs": 588.0,
-    "diff_pct": 16.28
+    "plu": "242682",
+    "nombre": "Vino Malbec Terroir Altos Las Hormigas Bot 750 Cmq",
+    "marca": "Altos Las Hormigas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 21639.0,
+    "precio_hoy": 24775.0,
+    "precio_actual_hoy": 24775.0,
+    "diff_abs": 3136.0,
+    "diff_pct": 14.49
   },
   {
     "plu": "121600",
@@ -130,6 +108,28 @@
     "precio_actual_hoy": 14333.0,
     "diff_abs": 1814.0,
     "diff_pct": 14.49
+  },
+  {
+    "plu": "209279",
+    "nombre": "Vino Malbec Reserva Altos Las Hormigas Bot 750 Cmq",
+    "marca": "Altos Las Hormigas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 35606.0,
+    "precio_hoy": 40765.0,
+    "precio_actual_hoy": 40765.0,
+    "diff_abs": 5159.0,
+    "diff_pct": 14.49
+  },
+  {
+    "plu": "595151",
+    "nombre": "Vino Tinto Blend La Danza 750ml",
+    "marca": "La Danza",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 10820.0,
+    "precio_hoy": 12387.0,
+    "precio_actual_hoy": 12387.0,
+    "diff_abs": 1567.0,
+    "diff_pct": 14.48
   },
   {
     "plu": "473144",
@@ -176,15 +176,15 @@
     "diff_pct": 10.61
   },
   {
-    "plu": "291339",
-    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
-    "marca": "Pritty",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1900.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
+    "plu": "559191",
+    "nombre": "Vino Cabernet Franc Cuchillo De Palo 750ml",
+    "marca": "Cuchillo De Palo",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 17000.0,
+    "precio_hoy": 18795.0,
+    "precio_actual_hoy": 18795.0,
+    "diff_abs": 1795.0,
+    "diff_pct": 10.56
   },
   {
     "plu": "186590",
@@ -209,14 +209,14 @@
     "diff_pct": 10.53
   },
   {
-    "plu": "485078",
-    "nombre": "Gaseosa Doble Cola   Botella 2.25 L ",
-    "marca": "Doble Cola",
+    "plu": "291339",
+    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
+    "marca": "Pritty",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2200.0,
-    "precio_actual_hoy": 2200.0,
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
     "diff_abs": 200.0,
-    "diff_pct": 10.0
+    "diff_pct": 10.53
   }
 ]
