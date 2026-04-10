@@ -22,8 +22,8 @@
     "diff_pct": 44.33
   },
   {
-    "plu": "470498",
-    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 760.0,
@@ -33,8 +33,8 @@
     "diff_pct": 31.58
   },
   {
-    "plu": "470499",
-    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "plu": "470498",
+    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 760.0,
@@ -66,17 +66,6 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "16202",
-    "nombre": "Gaseosa Coca-Cola Sabor Original  1,5 Lt",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3090.0,
-    "precio_hoy": 3600.0,
-    "precio_actual_hoy": 3600.0,
-    "diff_abs": 510.0,
-    "diff_pct": 16.5
-  },
-  {
     "plu": "8685",
     "nombre": "Coca-Cola Sabor Liviano 1,5 Lt",
     "marca": "Coca Cola",
@@ -88,48 +77,15 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "242682",
-    "nombre": "Vino Malbec Terroir Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 21639.0,
-    "precio_hoy": 24775.0,
-    "precio_actual_hoy": 24775.0,
-    "diff_abs": 3136.0,
-    "diff_pct": 14.49
-  },
-  {
-    "plu": "121600",
-    "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12519.0,
-    "precio_hoy": 14333.0,
-    "precio_actual_hoy": 14333.0,
-    "diff_abs": 1814.0,
-    "diff_pct": 14.49
-  },
-  {
-    "plu": "209279",
-    "nombre": "Vino Malbec Reserva Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 35606.0,
-    "precio_hoy": 40765.0,
-    "precio_actual_hoy": 40765.0,
-    "diff_abs": 5159.0,
-    "diff_pct": 14.49
-  },
-  {
-    "plu": "595151",
-    "nombre": "Vino Tinto Blend La Danza 750ml",
-    "marca": "La Danza",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 10820.0,
-    "precio_hoy": 12387.0,
-    "precio_actual_hoy": 12387.0,
-    "diff_abs": 1567.0,
-    "diff_pct": 14.48
+    "plu": "16202",
+    "nombre": "Gaseosa Coca-Cola Sabor Original  1,5 Lt",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3090.0,
+    "precio_hoy": 3600.0,
+    "precio_actual_hoy": 3600.0,
+    "diff_abs": 510.0,
+    "diff_pct": 16.5
   },
   {
     "plu": "473144",
@@ -176,15 +132,15 @@
     "diff_pct": 10.61
   },
   {
-    "plu": "559191",
-    "nombre": "Vino Cabernet Franc Cuchillo De Palo 750ml",
-    "marca": "Cuchillo De Palo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 17000.0,
-    "precio_hoy": 18795.0,
-    "precio_actual_hoy": 18795.0,
-    "diff_abs": 1795.0,
-    "diff_pct": 10.56
+    "plu": "291339",
+    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
+    "marca": "Pritty",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
   },
   {
     "plu": "186590",
@@ -209,14 +165,58 @@
     "diff_pct": 10.53
   },
   {
-    "plu": "291339",
-    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
-    "marca": "Pritty",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1900.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
+    "plu": "594596",
+    "nombre": "Agua Con Gas Perrier 330ml",
+    "marca": "Perrier",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
+    "precio_antes": 4999.0,
+    "precio_hoy": 5500.0,
+    "precio_actual_hoy": 5500.0,
+    "diff_abs": 501.0,
+    "diff_pct": 10.02
+  },
+  {
+    "plu": "255632",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Manzana Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "118457",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "255639",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Pomelo Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "255635",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Naranja Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
   }
 ]
