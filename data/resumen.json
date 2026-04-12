@@ -1,9 +1,9 @@
 {
-  "fecha": "20260411",
-  "total_productos": 1604,
+  "fecha": "20260412",
+  "total_productos": 505,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.68,
-  "variacion_mes": 2.07,
+  "variacion_7d": 1.08,
+  "variacion_mes": 3.34,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,16 +12,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 929,
-      "total_productos": 929
+      "productos_sin_cambio": 50,
+      "total_productos": 50
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 548,
-      "total_productos": 548
+      "productos_sin_cambio": 453,
+      "total_productos": 453
     }
   ],
   "ranking_baja_dia": [
@@ -138,5 +138,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1477
+  "productos_sin_cambio_dia": 503
 }
