@@ -1,7 +1,7 @@
 [
   {
-    "plu": "179043",
-    "nombre": "Coca-Cola Zero 1,5 Lt",
+    "plu": "8685",
+    "nombre": "Coca-Cola Sabor Liviano 1,5 Lt",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 3090.0,
@@ -11,8 +11,8 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "8685",
-    "nombre": "Coca-Cola Sabor Liviano 1,5 Lt",
+    "plu": "179043",
+    "nombre": "Coca-Cola Zero 1,5 Lt",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 3090.0,
@@ -66,30 +66,19 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "118457",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2750.0,
-    "diff_abs": 250.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "136220",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Manzana Botella 1.5 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2750.0,
-    "diff_abs": 250.0,
-    "diff_pct": 10.0
-  },
-  {
     "plu": "255639",
     "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Pomelo Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "168710",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 1.5 L",
     "marca": "Villa Del Sur Levite",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2500.0,
@@ -132,8 +121,19 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "168710",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 1.5 L",
+    "plu": "118457",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "136220",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Manzana Botella 1.5 L",
     "marca": "Villa Del Sur Levite",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2500.0,
@@ -176,28 +176,6 @@
     "diff_pct": 9.35
   },
   {
-    "plu": "258265",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 2.25 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 3100.0,
-    "precio_hoy": 3390.0,
-    "precio_actual_hoy": 3390.0,
-    "diff_abs": 290.0,
-    "diff_pct": 9.35
-  },
-  {
-    "plu": "245090",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Manzana Botella 2.25 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 3100.0,
-    "precio_hoy": 3390.0,
-    "precio_actual_hoy": 3390.0,
-    "diff_abs": 290.0,
-    "diff_pct": 9.35
-  },
-  {
     "plu": "255633",
     "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Naranja Botella 2.25 L",
     "marca": "Villa Del Sur Levite",
@@ -209,9 +187,31 @@
     "diff_pct": 9.35
   },
   {
-    "plu": "609761",
-    "nombre": "Agua Sin Gas Limonada Villa Del Sur Levite 2.25l",
-    "marca": "Levite",
+    "plu": "255640",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Manzana Botella 2.25 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 3100.0,
+    "precio_hoy": 3390.0,
+    "precio_actual_hoy": 3390.0,
+    "diff_abs": 290.0,
+    "diff_pct": 9.35
+  },
+  {
+    "plu": "258265",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 2.25 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 3100.0,
+    "precio_hoy": 3390.0,
+    "precio_actual_hoy": 3390.0,
+    "diff_abs": 290.0,
+    "diff_pct": 9.35
+  },
+  {
+    "plu": "202114",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 2.25 L",
+    "marca": "Villa Del Sur Levite",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 3100.0,
     "precio_hoy": 3390.0,

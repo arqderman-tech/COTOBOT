@@ -22,6 +22,17 @@
     "diff_pct": 71.94
   },
   {
+    "plu": "581942",
+    "nombre": "Cerveza Blond Monastere 500ml",
+    "marca": "Monastere",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5839.0,
+    "precio_hoy": 8549.0,
+    "precio_actual_hoy": 8549.0,
+    "diff_abs": 2710.0,
+    "diff_pct": 46.41
+  },
+  {
     "plu": "474658",
     "nombre": "Cerveza Lager ORANJEBOOM Original Lata 500 Cc",
     "marca": "Oranjeboom",
@@ -33,8 +44,19 @@
     "diff_pct": 44.33
   },
   {
-    "plu": "470499",
-    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "plu": "581941",
+    "nombre": "Cerveza Extra Stout Trio 500ml",
+    "marca": "Trio",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5429.0,
+    "precio_hoy": 7829.0,
+    "precio_actual_hoy": 7829.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 44.21
+  },
+  {
+    "plu": "470498",
+    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 760.0,
@@ -44,8 +66,8 @@
     "diff_pct": 31.58
   },
   {
-    "plu": "470498",
-    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 760.0,
@@ -66,10 +88,10 @@
     "diff_pct": 31.46
   },
   {
-    "plu": "8685",
-    "nombre": "Coca-Cola Sabor Liviano 1,5 Lt",
+    "plu": "16202",
+    "nombre": "Gaseosa Coca-Cola Sabor Original  1,5 Lt",
     "marca": "Coca Cola",
-    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 3090.0,
     "precio_hoy": 3600.0,
     "precio_actual_hoy": 3600.0,
@@ -88,10 +110,10 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "16202",
-    "nombre": "Gaseosa Coca-Cola Sabor Original  1,5 Lt",
+    "plu": "8685",
+    "nombre": "Coca-Cola Sabor Liviano 1,5 Lt",
     "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 3090.0,
     "precio_hoy": 3600.0,
     "precio_actual_hoy": 3600.0,
@@ -121,17 +143,6 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "517464",
-    "nombre": "Cerveza Torobayo Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3792.0,
-    "precio_hoy": 4200.0,
-    "precio_actual_hoy": 4200.0,
-    "diff_abs": 408.0,
-    "diff_pct": 10.76
-  },
-  {
     "plu": "582627",
     "nombre": "Agua Sin Gas Pureza De Las Sierras 1.5l",
     "marca": "Pureza De Las Sierras",
@@ -143,9 +154,9 @@
     "diff_pct": 10.61
   },
   {
-    "plu": "532961",
-    "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
-    "marca": "Magna",
+    "plu": "291339",
+    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
+    "marca": "Pritty",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1900.0,
     "precio_hoy": 2100.0,
@@ -165,9 +176,9 @@
     "diff_pct": 10.53
   },
   {
-    "plu": "291339",
-    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
-    "marca": "Pritty",
+    "plu": "532961",
+    "nombre": "Gaseosa Tónica Magna Bot 1.5 Ltr",
+    "marca": "Magna",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1900.0,
     "precio_hoy": 2100.0,
@@ -187,36 +198,25 @@
     "diff_pct": 10.02
   },
   {
-    "plu": "609760",
-    "nombre": "Agua Sin Gas Limonada Villa Del Sur Levite 1.5l",
-    "marca": "Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2750.0,
-    "diff_abs": 250.0,
+    "plu": "485076",
+    "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1870.0,
+    "diff_abs": 200.0,
     "diff_pct": 10.0
   },
   {
-    "plu": "255639",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Pomelo Botella 1.5 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2750.0,
-    "diff_abs": 250.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "255635",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Naranja Botella 1.5 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2750.0,
-    "diff_abs": 250.0,
+    "plu": "485077",
+    "nombre": "Gaseosa Doble Cola   Botella 2.25 L ",
+    "marca": "Doble Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1870.0,
+    "diff_abs": 200.0,
     "diff_pct": 10.0
   }
 ]
