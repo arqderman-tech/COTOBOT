@@ -6,7 +6,7 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 4874.0,
     "precio_hoy": 4874.0,
-    "precio_actual_hoy": 3410.83,
+    "precio_actual_hoy": 3249.5,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -22,61 +22,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "59002",
-    "nombre": "Vino Cab.Sauv . Intimo Bot 750 Cmq",
-    "marca": "Intimo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12636.0,
-    "precio_hoy": 12636.0,
-    "precio_actual_hoy": 9477.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "209630",
-    "nombre": "Vodka Raspberry (Frambuesa) SMIRNOFF 700 Ml",
-    "marca": "Smirnoff",
-    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 12285.0,
-    "precio_hoy": 12285.0,
-    "precio_actual_hoy": 9212.52,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "466631",
-    "nombre": "Vodka Sabor Sandia SMIRNOFF 750ml",
-    "marca": "Smirnoff",
-    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 12285.0,
-    "precio_hoy": 12285.0,
-    "precio_actual_hoy": 9212.52,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "181878",
-    "nombre": "Vino Cabernet-Malbec-Merlot INTIMO Bot 750 CC",
-    "marca": "Intimo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12636.0,
-    "precio_hoy": 12636.0,
-    "precio_actual_hoy": 9477.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "469193",
-    "nombre": "Vino Semillon . INTIMO Bot 750 Ml",
-    "marca": "Intimo",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12636.0,
-    "precio_hoy": 12636.0,
-    "precio_actual_hoy": 9477.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "51215",
     "nombre": "Whisky Johnnie Walker 12 Años 1 L Black Label",
     "marca": "Johnnie Walker",
@@ -84,28 +29,6 @@
     "precio_antes": 91245.0,
     "precio_hoy": 91245.0,
     "precio_actual_hoy": 68433.75,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "165168",
-    "nombre": "Vino Bco Tardio Santa Julia Bot 500 Cmq",
-    "marca": "Santa Isabel",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 8262.0,
-    "precio_hoy": 8262.0,
-    "precio_actual_hoy": 6609.6,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "205599",
-    "nombre": "HAVANA CLUB Añejo Especial Ron Dorado Botella De 750 Ml",
-    "marca": "Havana Club",
-    "categoria": "Ron > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 20190.0,
-    "precio_hoy": 20190.0,
-    "precio_actual_hoy": 15142.5,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -121,57 +44,90 @@
     "diff_pct": 0.0
   },
   {
+    "plu": "205599",
+    "nombre": "HAVANA CLUB Añejo Especial Ron Dorado Botella De 750 Ml",
+    "marca": "Havana Club",
+    "categoria": "Ron > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
+    "precio_antes": 20190.0,
+    "precio_hoy": 20190.0,
+    "precio_actual_hoy": 13123.5,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
     "plu": "181879",
     "nombre": "Vino Malbec INTIMO Bot 750 CC",
     "marca": "Intimo",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 12636.0,
     "precio_hoy": 12636.0,
-    "precio_actual_hoy": 9477.0,
+    "precio_actual_hoy": 8424.42,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "plu": "225543",
-    "nombre": "Vino Syrah Elementos Bot 750 CC",
-    "marca": "Elementos",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6369.0,
-    "precio_hoy": 6369.0,
-    "precio_actual_hoy": 4458.3,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "36530",
-    "nombre": "Vino Cabernet Sauvignon Escorihuela Gascon Bot 750 CC",
-    "marca": "Escorih Gascon",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12000.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 10200.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "206974",
-    "nombre": "Vodka SMIRNOFF 700 Ml",
+    "plu": "466631",
+    "nombre": "Vodka Sabor Sandia SMIRNOFF 750ml",
     "marca": "Smirnoff",
     "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 11130.0,
-    "precio_hoy": 11130.0,
-    "precio_actual_hoy": 8347.5,
+    "precio_antes": 12285.0,
+    "precio_hoy": 12285.0,
+    "precio_actual_hoy": 9212.52,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "plu": "115607",
-    "nombre": "Vino Altos Del Plata Syrah 750ml\r\n",
-    "marca": "Altos Del Plata",
+    "plu": "469193",
+    "nombre": "Vino Semillon . INTIMO Bot 750 Ml",
+    "marca": "Intimo",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12636.0,
+    "precio_hoy": 12636.0,
+    "precio_actual_hoy": 8424.42,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "181878",
+    "nombre": "Vino Cabernet-Malbec-Merlot INTIMO Bot 750 CC",
+    "marca": "Intimo",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 9590.0,
-    "precio_hoy": 9590.0,
-    "precio_actual_hoy": 6393.65,
+    "precio_antes": 12636.0,
+    "precio_hoy": 12636.0,
+    "precio_actual_hoy": 8424.42,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "165168",
+    "nombre": "Vino Bco Tardio Santa Julia Bot 500 Cmq",
+    "marca": "Santa Isabel",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 8262.0,
+    "precio_hoy": 8262.0,
+    "precio_actual_hoy": 5508.28,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "209630",
+    "nombre": "Vodka Raspberry (Frambuesa) SMIRNOFF 700 Ml",
+    "marca": "Smirnoff",
+    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
+    "precio_antes": 12285.0,
+    "precio_hoy": 12285.0,
+    "precio_actual_hoy": 9212.52,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "59002",
+    "nombre": "Vino Cab.Sauv . Intimo Bot 750 Cmq",
+    "marca": "Intimo",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12636.0,
+    "precio_hoy": 12636.0,
+    "precio_actual_hoy": 8424.42,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -187,17 +143,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "16297",
-    "nombre": "Whisky Johnnie Walker 12 Años 750 Ml Black Label",
-    "marca": "Johnnie Walker",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 76335.0,
-    "precio_hoy": 76335.0,
-    "precio_actual_hoy": 57251.25,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "74164",
     "nombre": "Vino Altos Del Plata Malbec 750ml",
     "marca": "Altos Del Plata",
@@ -209,13 +154,68 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "268143",
-    "nombre": "Vino Blanco Tocai Dulce Natural Goyenechea Bot 750 Ml",
-    "marca": "Goyenechea",
+    "plu": "164970",
+    "nombre": "Vino Chardon . Elementos Bot 750 Cmq",
+    "marca": "Elementos",
     "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6458.0,
-    "precio_hoy": 6458.0,
-    "precio_actual_hoy": 4842.85,
+    "precio_antes": 6364.0,
+    "precio_hoy": 6364.0,
+    "precio_actual_hoy": 4242.88,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "225543",
+    "nombre": "Vino Syrah Elementos Bot 750 CC",
+    "marca": "Elementos",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6369.0,
+    "precio_hoy": 6369.0,
+    "precio_actual_hoy": 4246.21,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "36530",
+    "nombre": "Vino Cabernet Sauvignon Escorihuela Gascon Bot 750 CC",
+    "marca": "Escorih Gascon",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12000.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 8000.4,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "74165",
+    "nombre": "Vino Altos Del Plata Chardonnay 750ml\r\n",
+    "marca": "Altos Del Plata",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 9590.0,
+    "precio_hoy": 9590.0,
+    "precio_actual_hoy": 6393.65,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "457107",
+    "nombre": "Vino F.Blanco Dulce Natural Familia Gas Bot 750 Ml",
+    "marca": "Familia Gascon",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7550.0,
+    "precio_hoy": 7550.0,
+    "precio_actual_hoy": 5033.59,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "115607",
+    "nombre": "Vino Altos Del Plata Syrah 750ml\r\n",
+    "marca": "Altos Del Plata",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 9590.0,
+    "precio_hoy": 9590.0,
+    "precio_actual_hoy": 6393.65,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }

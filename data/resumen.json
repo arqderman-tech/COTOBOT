@@ -1,9 +1,9 @@
 {
-  "fecha": "20260415",
-  "total_productos": 546,
+  "fecha": "20260416",
+  "total_productos": 2255,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.69,
-  "variacion_mes": 0.77,
+  "variacion_7d": 0.32,
+  "variacion_mes": 2.07,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -20,8 +20,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 198,
-      "total_productos": 198
+      "productos_sin_cambio": 199,
+      "total_productos": 199
     }
   ],
   "ranking_baja_dia": [
@@ -32,7 +32,7 @@
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
       "precio_antes": 4874.0,
       "precio_hoy": 4874.0,
-      "precio_actual_hoy": 3410.83,
+      "precio_actual_hoy": 3249.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -48,24 +48,46 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "59002",
-      "nombre": "Vino Cab.Sauv . Intimo Bot 750 Cmq",
-      "marca": "Intimo",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 12636.0,
-      "precio_hoy": 12636.0,
-      "precio_actual_hoy": 9477.0,
+      "plu": "51215",
+      "nombre": "Whisky Johnnie Walker 12 Años 1 L Black Label",
+      "marca": "Johnnie Walker",
+      "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 91245.0,
+      "precio_hoy": 91245.0,
+      "precio_actual_hoy": 68433.75,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "209630",
-      "nombre": "Vodka Raspberry (Frambuesa) SMIRNOFF 700 Ml",
+      "plu": "212544",
+      "nombre": "Vodka Green Apple (Manzana Verde) SMIRNOFF 700 Ml",
       "marca": "Smirnoff",
       "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
       "precio_antes": 12285.0,
       "precio_hoy": 12285.0,
       "precio_actual_hoy": 9212.52,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "205599",
+      "nombre": "HAVANA CLUB Añejo Especial Ron Dorado Botella De 750 Ml",
+      "marca": "Havana Club",
+      "categoria": "Ron > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
+      "precio_antes": 20190.0,
+      "precio_hoy": 20190.0,
+      "precio_actual_hoy": 13123.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "181879",
+      "nombre": "Vino Malbec INTIMO Bot 750 CC",
+      "marca": "Intimo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 12636.0,
+      "precio_hoy": 12636.0,
+      "precio_actual_hoy": 8424.42,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -81,35 +103,24 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "181878",
-      "nombre": "Vino Cabernet-Malbec-Merlot INTIMO Bot 750 CC",
-      "marca": "Intimo",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 12636.0,
-      "precio_hoy": 12636.0,
-      "precio_actual_hoy": 9477.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
       "plu": "469193",
       "nombre": "Vino Semillon . INTIMO Bot 750 Ml",
       "marca": "Intimo",
       "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
       "precio_antes": 12636.0,
       "precio_hoy": 12636.0,
-      "precio_actual_hoy": 9477.0,
+      "precio_actual_hoy": 8424.42,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "51215",
-      "nombre": "Whisky Johnnie Walker 12 Años 1 L Black Label",
-      "marca": "Johnnie Walker",
-      "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 91245.0,
-      "precio_hoy": 91245.0,
-      "precio_actual_hoy": 68433.75,
+      "plu": "181878",
+      "nombre": "Vino Cabernet-Malbec-Merlot INTIMO Bot 750 CC",
+      "marca": "Intimo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 12636.0,
+      "precio_hoy": 12636.0,
+      "precio_actual_hoy": 8424.42,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -120,23 +131,12 @@
       "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
       "precio_antes": 8262.0,
       "precio_hoy": 8262.0,
-      "precio_actual_hoy": 6609.6,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "205599",
-      "nombre": "HAVANA CLUB Añejo Especial Ron Dorado Botella De 750 Ml",
-      "marca": "Havana Club",
-      "categoria": "Ron > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-      "precio_antes": 20190.0,
-      "precio_hoy": 20190.0,
-      "precio_actual_hoy": 15142.5,
+      "precio_actual_hoy": 5508.28,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 248
+  "productos_sin_cambio_dia": 249
 }
