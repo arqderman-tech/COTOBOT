@@ -22,61 +22,6 @@
     "diff_pct": 9.0
   },
   {
-    "plu": "13867",
-    "nombre": "Whisky . Old Smugg Bot 750 Cmq",
-    "marca": "Old Smuggler",
-    "categoria": "Whiskys > WHISKYS > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 8899.0,
-    "precio_hoy": 9599.0,
-    "precio_actual_hoy": 9599.0,
-    "diff_abs": 700.0,
-    "diff_pct": 7.87
-  },
-  {
-    "plu": "473211",
-    "nombre": "Ron Signature Blen Appleton St Bot 750 Ml",
-    "marca": "Appleton Estate",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 48299.0,
-    "precio_hoy": 51999.0,
-    "precio_actual_hoy": 51999.0,
-    "diff_abs": 3700.0,
-    "diff_pct": 7.66
-  },
-  {
-    "plu": "234894",
-    "nombre": "Tequila Silver CUERVO 750 Cmq",
-    "marca": "Cuervo",
-    "categoria": "Tequila > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 49699.0,
-    "precio_hoy": 53499.0,
-    "precio_actual_hoy": 53499.0,
-    "diff_abs": 3800.0,
-    "diff_pct": 7.65
-  },
-  {
-    "plu": "1247",
-    "nombre": "Tequila Esp. Cuervo Bot 750 Cmq",
-    "marca": "Cuervo",
-    "categoria": "Tequila > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
-    "precio_antes": 49699.0,
-    "precio_hoy": 53499.0,
-    "precio_actual_hoy": 53499.0,
-    "diff_abs": 3800.0,
-    "diff_pct": 7.65
-  },
-  {
-    "plu": "3952",
-    "nombre": "Aperitivo Cynar Botella 750 CC",
-    "marca": "Cynar",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Aperitivo Hierbas",
-    "precio_antes": 11799.0,
-    "precio_hoy": 12699.0,
-    "precio_actual_hoy": 12699.0,
-    "diff_abs": 900.0,
-    "diff_pct": 7.63
-  },
-  {
     "plu": "41773",
     "nombre": "Aperitivo Campari Botella 750 CC",
     "marca": "Campari",
@@ -88,125 +33,15 @@
     "diff_pct": 7.58
   },
   {
-    "plu": "247365",
-    "nombre": "Aperitivo APEROL Botella 750 Cc",
-    "marca": "Aperol",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Aperitivo Hierbas",
-    "precio_antes": 13199.0,
-    "precio_hoy": 14199.0,
-    "precio_actual_hoy": 9229.35,
-    "diff_abs": 1000.0,
-    "diff_pct": 7.58
-  },
-  {
-    "plu": "10182",
-    "nombre": "Licor Livian . Frangelic Bot 700 Cmq",
-    "marca": "Frangelico",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 46199.0,
-    "precio_hoy": 49699.0,
-    "precio_actual_hoy": 49699.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 7.58
-  },
-  {
-    "plu": "466957",
-    "nombre": "Aperitivo Cynar Botella 750 CC",
-    "marca": "Cynar",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Aperitivo Hierbas",
-    "precio_antes": 13199.0,
-    "precio_hoy": 14199.0,
-    "precio_actual_hoy": 14199.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 7.58
-  },
-  {
-    "plu": "567037",
-    "nombre": "Vino Cabernet Sirah Clásico San Huberto 750ml",
-    "marca": "San Huberto",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 4275.0,
-    "precio_hoy": 4595.0,
-    "precio_actual_hoy": 3063.49,
-    "diff_abs": 320.0,
-    "diff_pct": 7.49
-  },
-  {
-    "plu": "2506",
-    "nombre": "Vermouth CINZANO Rosso Botella 1 L",
-    "marca": "Cinzano",
-    "categoria": "Vermouth > Bebidas Con Alcohol > Bebidas > Aperitivos",
-    "precio_antes": 9599.0,
-    "precio_hoy": 10299.0,
-    "precio_actual_hoy": 10299.0,
-    "diff_abs": 700.0,
-    "diff_pct": 7.29
-  },
-  {
-    "plu": "83404",
-    "nombre": "Vermouth CINZANO Bianco Botella 1 L",
-    "marca": "Cinzano",
-    "categoria": "Vermouth > Bebidas Con Alcohol > Bebidas > Aperitivos",
-    "precio_antes": 9599.0,
-    "precio_hoy": 10299.0,
-    "precio_actual_hoy": 10299.0,
-    "diff_abs": 700.0,
-    "diff_pct": 7.29
-  },
-  {
-    "plu": "2528",
-    "nombre": "Cognac RESERVA SAN JUAN Bot 750 Cmq",
-    "marca": "Reserva San Juan",
-    "categoria": "Cognac > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 8699.0,
-    "precio_hoy": 9299.0,
-    "precio_actual_hoy": 9299.0,
-    "diff_abs": 600.0,
-    "diff_pct": 6.9
-  },
-  {
-    "plu": "576918",
-    "nombre": "Vodka Blood Orange Skyy 750ml",
-    "marca": "Skyy",
-    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 11799.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 8189.35,
-    "diff_abs": 800.0,
-    "diff_pct": 6.78
-  },
-  {
-    "plu": "464660",
-    "nombre": "Vodka Raspberry SKYY Bot 750 Ml",
-    "marca": "Skyy",
-    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 11799.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 8189.35,
-    "diff_abs": 800.0,
-    "diff_pct": 6.78
-  },
-  {
-    "plu": "490655",
-    "nombre": "Vodka Infusions Apri SKYY Bot 750 Ml",
-    "marca": "Skyy",
-    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 11799.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 8189.35,
-    "diff_abs": 800.0,
-    "diff_pct": 6.78
-  },
-  {
-    "plu": "620486",
-    "nombre": "Vodka infusions cosmic SKYY 700ml",
-    "marca": "Skyy",
-    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 11799.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 8189.35,
-    "diff_abs": 800.0,
-    "diff_pct": 6.78
+    "plu": "521341",
+    "nombre": "Jugo En Polvo Sabor Manzana BC 7g",
+    "marca": "Bc",
+    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 346.0,
+    "precio_hoy": 365.0,
+    "precio_actual_hoy": 182.5,
+    "diff_abs": 19.0,
+    "diff_pct": 5.49
   },
   {
     "plu": "594296",
@@ -218,5 +53,170 @@
     "precio_actual_hoy": 182.5,
     "diff_abs": 19.0,
     "diff_pct": 5.49
+  },
+  {
+    "plu": "617704",
+    "nombre": "Gaseosa Naranja Manaos 2.25l",
+    "marca": "Manaos",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2199.0,
+    "precio_hoy": 2310.0,
+    "precio_actual_hoy": 1963.5,
+    "diff_abs": 111.0,
+    "diff_pct": 5.05
+  },
+  {
+    "plu": "617697",
+    "nombre": "Gaseosa Cola Manaos 2.25l",
+    "marca": "Manaos",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2199.0,
+    "precio_hoy": 2310.0,
+    "precio_actual_hoy": 1963.5,
+    "diff_abs": 111.0,
+    "diff_pct": 5.05
+  },
+  {
+    "plu": "617703",
+    "nombre": "Gaseosa Lima Limón Manaos 2.25l",
+    "marca": "Manaos",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2199.0,
+    "precio_hoy": 2310.0,
+    "precio_actual_hoy": 1963.5,
+    "diff_abs": 111.0,
+    "diff_pct": 5.05
+  },
+  {
+    "plu": "573406",
+    "nombre": "Vino Cabernet Franc Nina Gold 750ml",
+    "marca": "Nina",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 9541.0,
+    "precio_hoy": 10018.0,
+    "precio_actual_hoy": 6679.0,
+    "diff_abs": 477.0,
+    "diff_pct": 5.0
+  },
+  {
+    "plu": "573401",
+    "nombre": "Vino Petit Verdot Nina Gran 750 Ml",
+    "marca": "Nina",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 16461.0,
+    "precio_hoy": 17284.0,
+    "precio_actual_hoy": 11523.24,
+    "diff_abs": 823.0,
+    "diff_pct": 5.0
+  },
+  {
+    "plu": "573400",
+    "nombre": "Vino Cabernet Franc Nina Gran 750 Ml",
+    "marca": "Nina",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 16461.0,
+    "precio_hoy": 17284.0,
+    "precio_actual_hoy": 11523.24,
+    "diff_abs": 823.0,
+    "diff_pct": 5.0
+  },
+  {
+    "plu": "13051",
+    "nombre": "Vino Pinot NAVARRO CORREAS Bot 750 CC",
+    "marca": "Navarro Correas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 9777.0,
+    "precio_hoy": 10071.0,
+    "precio_actual_hoy": 6714.34,
+    "diff_abs": 294.0,
+    "diff_pct": 3.01
+  },
+  {
+    "plu": "13644",
+    "nombre": "Vino Malbec NAVARRO CORREAS 750cc",
+    "marca": "Navarro Correas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 9768.0,
+    "precio_hoy": 10061.0,
+    "precio_actual_hoy": 6707.67,
+    "diff_abs": 293.0,
+    "diff_pct": 3.0
+  },
+  {
+    "plu": "457296",
+    "nombre": "Champaña Dulce Rosado Dada Bot 750 Ml",
+    "marca": "Dada",
+    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 10015.0,
+    "precio_hoy": 10315.0,
+    "precio_actual_hoy": 6877.01,
+    "diff_abs": 300.0,
+    "diff_pct": 3.0
+  },
+  {
+    "plu": "79720",
+    "nombre": "Vino Cabernet Sauvignon NAVARRO CORREAS Bot 750 CC",
+    "marca": "Navarro Correas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 9768.0,
+    "precio_hoy": 10061.0,
+    "precio_actual_hoy": 6707.67,
+    "diff_abs": 293.0,
+    "diff_pct": 3.0
+  },
+  {
+    "plu": "231463",
+    "nombre": "Vino Cabernet Sauvignon Navarro Correa Reserv Bot 750c",
+    "marca": "Navarro Correas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12877.0,
+    "precio_hoy": 13132.0,
+    "precio_actual_hoy": 8755.1,
+    "diff_abs": 255.0,
+    "diff_pct": 1.98
+  },
+  {
+    "plu": "231464",
+    "nombre": "Vino Malbec Reserva Navarro Cor Bot 750 Cmq",
+    "marca": "Navarro Correas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12877.0,
+    "precio_hoy": 13132.0,
+    "precio_actual_hoy": 8755.1,
+    "diff_abs": 255.0,
+    "diff_pct": 1.98
+  },
+  {
+    "plu": "208279",
+    "nombre": "Champaña Brut Malbec Rose Navarro Cor Bot 750 Cmq",
+    "marca": "Navarro Correas",
+    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 13250.0,
+    "precio_hoy": 13456.0,
+    "precio_actual_hoy": 8971.12,
+    "diff_abs": 206.0,
+    "diff_pct": 1.55
+  },
+  {
+    "plu": "44942",
+    "nombre": "NAVARRO CORREAS Extra Brut 750 Ml ",
+    "marca": "Navarro Correas",
+    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 13250.0,
+    "precio_hoy": 13455.0,
+    "precio_actual_hoy": 8970.45,
+    "diff_abs": 205.0,
+    "diff_pct": 1.55
+  },
+  {
+    "plu": "44943",
+    "nombre": "NAVARRO CORREAS Nature 750 Ml ",
+    "marca": "Navarro Correas",
+    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 13250.0,
+    "precio_hoy": 13454.0,
+    "precio_actual_hoy": 8969.78,
+    "diff_abs": 204.0,
+    "diff_pct": 1.54
   }
 ]
