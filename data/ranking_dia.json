@@ -22,17 +22,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460804",
-    "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
-    "marca": "Don Alfredo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 37500.0,
-    "precio_hoy": 37500.0,
-    "precio_actual_hoy": 25001.25,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "460803",
     "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
     "marca": "Don Alfredo",
@@ -40,6 +29,17 @@
     "precio_antes": 15000.0,
     "precio_hoy": 15000.0,
     "precio_actual_hoy": 10000.5,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "460804",
+    "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+    "marca": "Don Alfredo",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 37500.0,
+    "precio_hoy": 37500.0,
+    "precio_actual_hoy": 25001.25,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -77,17 +77,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "6300",
-    "nombre": "Sidra Etiqueta Negra REAL 720c",
-    "marca": "Real",
-    "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6699.0,
-    "precio_hoy": 6699.0,
-    "precio_actual_hoy": 5024.25,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "479243",
     "nombre": "Sidra REAL 750ml",
     "marca": "Real",
@@ -95,6 +84,17 @@
     "precio_antes": 4899.0,
     "precio_hoy": 4899.0,
     "precio_actual_hoy": 3674.25,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "6300",
+    "nombre": "Sidra Etiqueta Negra REAL 720c",
+    "marca": "Real",
+    "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6699.0,
+    "precio_hoy": 6699.0,
+    "precio_actual_hoy": 5024.25,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -176,17 +176,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "245786",
-    "nombre": "Cerveza Extra Lager IMPERIAL   Botella 1 L",
-    "marca": "Imperial",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 4800.0,
-    "precio_hoy": 4800.0,
-    "precio_actual_hoy": 3600.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "471009",
     "nombre": "Cerveza Ipa IMPERIAL   Botella 1 L",
     "marca": "Imperial",
@@ -198,8 +187,19 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "466643",
-    "nombre": "Cerveza Imperial Cream Stout Lat 473 Ml",
+    "plu": "245786",
+    "nombre": "Cerveza Extra Lager IMPERIAL   Botella 1 L",
+    "marca": "Imperial",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4800.0,
+    "precio_hoy": 4800.0,
+    "precio_actual_hoy": 3600.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "481306",
+    "nombre": "Cerveza Ipa Imperial  Lata 473 CC",
     "marca": "Imperial",
     "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 3025.0,

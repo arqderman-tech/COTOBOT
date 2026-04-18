@@ -1,9 +1,9 @@
 {
-  "fecha": "20260417",
-  "total_productos": 400,
+  "fecha": "20260418",
+  "total_productos": 750,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.21,
-  "variacion_mes": 2.54,
+  "variacion_7d": 0.23,
+  "variacion_mes": 1.27,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,16 +12,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 99,
-      "total_productos": 99
+      "productos_sin_cambio": 59,
+      "total_productos": 59
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 299,
-      "total_productos": 299
+      "productos_sin_cambio": 50,
+      "total_productos": 50
     }
   ],
   "ranking_baja_dia": [
@@ -48,17 +48,6 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460804",
-      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
-      "marca": "Don Alfredo",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 37500.0,
-      "precio_hoy": 37500.0,
-      "precio_actual_hoy": 25001.25,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
       "plu": "460803",
       "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
       "marca": "Don Alfredo",
@@ -66,6 +55,17 @@
       "precio_antes": 15000.0,
       "precio_hoy": 15000.0,
       "precio_actual_hoy": 10000.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460804",
+      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 37500.0,
+      "precio_hoy": 37500.0,
+      "precio_actual_hoy": 25001.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -103,17 +103,6 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "6300",
-      "nombre": "Sidra Etiqueta Negra REAL 720c",
-      "marca": "Real",
-      "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 6699.0,
-      "precio_hoy": 6699.0,
-      "precio_actual_hoy": 5024.25,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
       "plu": "479243",
       "nombre": "Sidra REAL 750ml",
       "marca": "Real",
@@ -121,6 +110,17 @@
       "precio_antes": 4899.0,
       "precio_hoy": 4899.0,
       "precio_actual_hoy": 3674.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "6300",
+      "nombre": "Sidra Etiqueta Negra REAL 720c",
+      "marca": "Real",
+      "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 6699.0,
+      "precio_hoy": 6699.0,
+      "precio_actual_hoy": 5024.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -138,5 +138,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 398
+  "productos_sin_cambio_dia": 109
 }
