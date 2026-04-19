@@ -1,9 +1,9 @@
 {
-  "fecha": "20260418",
-  "total_productos": 750,
+  "fecha": "20260419",
+  "total_productos": 1556,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.23,
-  "variacion_mes": 1.27,
+  "variacion_7d": 0.14,
+  "variacion_mes": 1.65,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,30 +12,19 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 59,
-      "total_productos": 59
+      "productos_sin_cambio": 471,
+      "total_productos": 471
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 50,
-      "total_productos": 50
+      "productos_sin_cambio": 100,
+      "total_productos": 100
     }
   ],
   "ranking_baja_dia": [
-    {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-      "marca": "Alfredo Coto",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 7590.0,
-      "precio_hoy": 7590.0,
-      "precio_actual_hoy": 5060.25,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
     {
       "plu": "460802",
       "nombre": "Vino ALFREDO COTO Malbec 750ml",
@@ -48,13 +37,13 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460803",
-      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
-      "marca": "Don Alfredo",
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 15000.0,
-      "precio_hoy": 15000.0,
-      "precio_actual_hoy": 10000.5,
+      "precio_antes": 7590.0,
+      "precio_hoy": 7590.0,
+      "precio_actual_hoy": 5060.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -66,6 +55,17 @@
       "precio_antes": 37500.0,
       "precio_hoy": 37500.0,
       "precio_actual_hoy": 25001.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460803",
+      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 15000.0,
+      "precio_hoy": 15000.0,
+      "precio_actual_hoy": 10000.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -138,5 +138,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 109
+  "productos_sin_cambio_dia": 571
 }
