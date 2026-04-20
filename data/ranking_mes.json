@@ -1,18 +1,7 @@
 [
   {
-    "plu": "592067",
-    "nombre": "Gin Añejo Reserva 5 Años Heredero 700ml",
-    "marca": "Heredero",
-    "categoria": "Gin > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 28499.0,
-    "precio_hoy": 49000.0,
-    "precio_actual_hoy": 36750.0,
-    "diff_abs": 20501.0,
-    "diff_pct": 71.94
-  },
-  {
-    "plu": "470499",
-    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "plu": "470498",
+    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 760.0,
@@ -22,8 +11,8 @@
     "diff_pct": 31.58
   },
   {
-    "plu": "470498",
-    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 760.0,
@@ -77,17 +66,6 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "517464",
-    "nombre": "Cerveza Torobayo Kunstmann Lat 470 Cmq",
-    "marca": "Kunstmann",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3792.0,
-    "precio_hoy": 4200.0,
-    "precio_actual_hoy": 2730.0,
-    "diff_abs": 408.0,
-    "diff_pct": 10.76
-  },
-  {
     "plu": "582627",
     "nombre": "Agua Sin Gas Pureza De Las Sierras 1.5l",
     "marca": "Pureza De Las Sierras",
@@ -110,30 +88,8 @@
     "diff_pct": 10.03
   },
   {
-    "plu": "118457",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2062.5,
-    "diff_abs": 250.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "168710",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 1.5 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2062.5,
-    "diff_abs": 250.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "255632",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Manzana Botella 1.5 L",
+    "plu": "255639",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Pomelo Botella 1.5 L",
     "marca": "Villa Del Sur Levite",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2500.0,
@@ -165,19 +121,8 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "255639",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Pomelo Botella 1.5 L",
-    "marca": "Villa Del Sur Levite",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 2500.0,
-    "precio_hoy": 2750.0,
-    "precio_actual_hoy": 2062.5,
-    "diff_abs": 250.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "201516",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 1.5 L",
+    "plu": "118457",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
     "marca": "Villa Del Sur Levite",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2500.0,
@@ -198,9 +143,42 @@
     "diff_pct": 10.0
   },
   {
+    "plu": "201516",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2062.5,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "255632",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Manzana Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2062.5,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
     "plu": "587764",
     "nombre": "Agua Sin Gas Sabor Pomelo Rosado Villa Del Sur Levite 1500cc",
     "marca": "Villa Del Sur",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2062.5,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "168710",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2500.0,
     "precio_hoy": 2750.0,
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 5419.0,
     "diff_abs": 490.0,
     "diff_pct": 9.94
+  },
+  {
+    "plu": "529645",
+    "nombre": "Jugo De Naranja S/Pulpa Citric Ttb 1 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 4929.0,
+    "precio_hoy": 5419.0,
+    "precio_actual_hoy": 5419.0,
+    "diff_abs": 490.0,
+    "diff_pct": 9.94
+  },
+  {
+    "plu": "578685",
+    "nombre": "Jugo Con Pulpa Naranja Y Zanahoria Citric 1l",
+    "marca": "Citric",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5530.0,
+    "precio_hoy": 6079.0,
+    "precio_actual_hoy": 6079.0,
+    "diff_abs": 549.0,
+    "diff_pct": 9.93
   }
 ]
