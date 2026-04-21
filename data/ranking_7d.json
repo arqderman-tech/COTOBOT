@@ -5,10 +5,10 @@
     "marca": "Perrier",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
     "precio_antes": 3699.0,
-    "precio_hoy": 4070.0,
-    "precio_actual_hoy": 4070.0,
-    "diff_abs": 371.0,
-    "diff_pct": 10.03
+    "precio_hoy": 4450.0,
+    "precio_actual_hoy": 4450.0,
+    "diff_abs": 751.0,
+    "diff_pct": 20.3
   },
   {
     "plu": "594596",
@@ -33,48 +33,125 @@
     "diff_pct": 7.58
   },
   {
-    "plu": "247365",
-    "nombre": "Aperitivo APEROL Botella 750 Cc",
-    "marca": "Aperol",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Aperitivo Hierbas",
-    "precio_antes": 13199.0,
-    "precio_hoy": 14199.0,
-    "precio_actual_hoy": 9229.35,
-    "diff_abs": 1000.0,
-    "diff_pct": 7.58
+    "plu": "582622",
+    "nombre": "Jugos Multifruta PURAFRUTTA 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1130.35,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
   },
   {
-    "plu": "594296",
-    "nombre": "Jugo En Polvo Naranja Dulce Arcor 15g",
-    "marca": "Arcor",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 346.0,
-    "precio_hoy": 365.0,
-    "precio_actual_hoy": 182.5,
-    "diff_abs": 19.0,
-    "diff_pct": 5.49
+    "plu": "582620",
+    "nombre": "Jugos Manzana PURAFRUTTA 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1130.35,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
   },
   {
-    "plu": "521341",
-    "nombre": "Jugo En Polvo Sabor Manzana BC 7g",
-    "marca": "Bc",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 346.0,
-    "precio_hoy": 365.0,
-    "precio_actual_hoy": 182.5,
-    "diff_abs": 19.0,
-    "diff_pct": 5.49
+    "plu": "582623",
+    "nombre": "Jugos Naranja PURAFRUTTA 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1130.35,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
   },
   {
-    "plu": "521323",
-    "nombre": "Jugo En Polvo Sabor Naranja Dulce BC 7g",
-    "marca": "Bc",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 346.0,
-    "precio_hoy": 365.0,
-    "precio_actual_hoy": 182.5,
-    "diff_abs": 19.0,
-    "diff_pct": 5.49
+    "plu": "591409",
+    "nombre": "Jugo De Pera Purafrutta 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1130.35,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
+  },
+  {
+    "plu": "579973",
+    "nombre": "Jugo Organico Green Detox PURAFRUTTA 1l",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 3870.75,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "528913",
+    "nombre": "Jugo Blend Detox PURAFRUTTA 1 Ltr",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 3870.75,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "493090",
+    "nombre": "Jugo Orgánico Manzana PURAFRUTTA 1 Ltr",
+    "marca": "Purafrutta",
+    "categoria": "Orgánicos > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 3870.75,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "483402",
+    "nombre": "Jugo Arándano Y Manzana PURAFRUTTA 1 Ltr",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 3870.75,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "495872",
+    "nombre": "Jugos Exprimido Manzana Y Kiwi PURAFRUTTA 1 Ltr",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 3870.75,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "483403",
+    "nombre": "Jugo Frutilla Y Manzana PURAFRUTTA 1 Ltr",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 3870.75,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "610941",
+    "nombre": "Vino Blanco Naranjo Nina 750ml",
+    "marca": "Nina",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 10501.0,
+    "precio_hoy": 11027.0,
+    "precio_actual_hoy": 7351.7,
+    "diff_abs": 526.0,
+    "diff_pct": 5.01
   },
   {
     "plu": "614131",
@@ -88,17 +165,6 @@
     "diff_pct": 5.01
   },
   {
-    "plu": "568203",
-    "nombre": "Vino Malbec Sade 750ml",
-    "marca": "Sade",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5620.0,
-    "precio_hoy": 5901.0,
-    "precio_actual_hoy": 3934.2,
-    "diff_abs": 281.0,
-    "diff_pct": 5.0
-  },
-  {
     "plu": "593463",
     "nombre": "Vino Viognier Semillon Nina 750ml",
     "marca": "Nina",
@@ -110,52 +176,8 @@
     "diff_pct": 5.0
   },
   {
-    "plu": "559655",
-    "nombre": "Vino Petit Verdot Gran Nina 750ml",
-    "marca": "Nina",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 22222.0,
-    "precio_hoy": 23334.0,
-    "precio_actual_hoy": 15556.78,
-    "diff_abs": 1112.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "573411",
-    "nombre": "Vino Petit Verdot Punto Devil 750ml",
-    "marca": "Punto Devil",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 8658.0,
-    "precio_hoy": 9091.0,
-    "precio_actual_hoy": 6060.97,
-    "diff_abs": 433.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "610934",
-    "nombre": "Vino Malbec Orgánico Nina 750ml",
-    "marca": "Nina",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 26153.0,
-    "precio_hoy": 27461.0,
-    "precio_actual_hoy": 18308.25,
-    "diff_abs": 1308.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "573364",
-    "nombre": "Vino Chardonnay Nina Gold 750ml",
-    "marca": "Nina",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 9541.0,
-    "precio_hoy": 10018.0,
-    "precio_actual_hoy": 6679.0,
-    "diff_abs": 477.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "573407",
-    "nombre": "Vino Malbec Nina Gold 750ml",
+    "plu": "573385",
+    "nombre": "Vino Cabernet Sauvignon Nina Gold 750ml",
     "marca": "Nina",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 9541.0,
@@ -165,58 +187,36 @@
     "diff_pct": 5.0
   },
   {
-    "plu": "573369",
-    "nombre": "Vino Merlot Nina Gran 750ml",
+    "plu": "573368",
+    "nombre": "Vino Petit Verdot NINA Gold 750ml",
     "marca": "Nina",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 16461.0,
-    "precio_hoy": 17284.0,
-    "precio_actual_hoy": 11523.24,
-    "diff_abs": 823.0,
+    "precio_antes": 9541.0,
+    "precio_hoy": 10018.0,
+    "precio_actual_hoy": 6679.0,
+    "diff_abs": 477.0,
     "diff_pct": 5.0
   },
   {
-    "plu": "59002",
-    "nombre": "Vino Cab.Sauv . Intimo Bot 750 Cmq",
+    "plu": "573406",
+    "nombre": "Vino Cabernet Franc Nina Gold 750ml",
+    "marca": "Nina",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 9541.0,
+    "precio_hoy": 10018.0,
+    "precio_actual_hoy": 6679.0,
+    "diff_abs": 477.0,
+    "diff_pct": 5.0
+  },
+  {
+    "plu": "469193",
+    "nombre": "Vino Semillon . INTIMO Bot 750 Ml",
     "marca": "Intimo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 12636.0,
     "precio_hoy": 13268.0,
     "precio_actual_hoy": 8845.78,
     "diff_abs": 632.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "573400",
-    "nombre": "Vino Cabernet Franc Nina Gran 750 Ml",
-    "marca": "Nina",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 16461.0,
-    "precio_hoy": 17284.0,
-    "precio_actual_hoy": 11523.24,
-    "diff_abs": 823.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "573410",
-    "nombre": "Vino Malbec Punto Devil 750ml",
-    "marca": "Punto Devil",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 8658.0,
-    "precio_hoy": 9091.0,
-    "precio_actual_hoy": 6060.97,
-    "diff_abs": 433.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "568206",
-    "nombre": "Vino Cabernet Sauvignon Sade 750ml",
-    "marca": "Sade",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5620.0,
-    "precio_hoy": 5901.0,
-    "precio_actual_hoy": 3934.2,
-    "diff_abs": 281.0,
     "diff_pct": 5.0
   }
 ]
