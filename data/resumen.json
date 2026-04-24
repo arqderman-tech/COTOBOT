@@ -1,142 +1,334 @@
 {
-  "fecha": "20260423",
-  "total_productos": 2302,
-  "variacion_dia": 0.15,
-  "variacion_7d": 0.52,
-  "variacion_mes": 3.02,
+  "fecha": "20260424",
+  "total_productos": 2085,
+  "variacion_dia": -0.13,
+  "variacion_7d": 0.55,
+  "variacion_mes": 2.28,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": -0.24,
+      "productos_subieron": 0,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 131,
+      "total_productos": 134
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": -0.95,
+      "productos_subieron": 0,
+      "productos_bajaron": 10,
+      "productos_sin_cambio": 69,
+      "total_productos": 79
+    },
     {
       "categoria": "Bebidas Con Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 599,
-      "total_productos": 599
+      "productos_sin_cambio": 709,
+      "total_productos": 709
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.31,
-      "productos_subieron": 42,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 514,
-      "total_productos": 556
+      "productos_sin_cambio": 555,
+      "total_productos": 555
+    },
+    {
+      "categoria": "Frescos > Carniceria > Carnes > Bovinos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 10,
+      "total_productos": 10
+    },
+    {
+      "categoria": "Frescos > Carniceria > Carnes > CARNICERIA > CARNES > Bovinos > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Frescos > Carniceria > Carnes > CARNICERIA > CARNES > Bovinos envasados al vacío > Bovinos Envasados Al Vacío > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
+      "total_productos": 3
+    },
+    {
+      "categoria": "Frescos > Embutidos > EMBUTIDOS > Carniceria > CARNICERIA > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Pescaderia > Especiales > Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 6,
+      "total_productos": 6
+    },
+    {
+      "categoria": "Pescaderia > Frescos > Entero Eviscerado",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 7,
+      "total_productos": 7
+    },
+    {
+      "categoria": "Pescaderia > Frescos > Filete",
+      "variacion_pct_promedio": -7.84,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 5,
+      "total_productos": 7
+    },
+    {
+      "categoria": "Pescaderia > Mariscos > Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 13,
+      "total_productos": 13
+    },
+    {
+      "categoria": "Pescaderia > Mariscos > Congelados > Camarones Y Langostinos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Pescado De Mar > Pescaderia > Entero Eviscerado > Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Pescado De Mar > Pescaderia > Entero Eviscerado > Delicias > Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Pescado De Mar > Pescaderia > Filete > Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Pescado De Mar > Pescaderia > PESCADOS Y MARISCOS > MARISCOS > Entero Eviscerado > Congelados > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Pescado De Rio > Pescaderia > Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
+      "total_productos": 3
+    },
+    {
+      "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
+      "total_productos": 3
+    },
+    {
+      "categoria": "Rebozados > Pescaderia > Congelados",
+      "variacion_pct_promedio": -1.44,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 15,
+      "total_productos": 16
+    },
+    {
+      "categoria": "Salmonidos > Pescaderia > Frescos > Entero Eviscerado",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Salmón Y Trucha > Pescaderia > Congelados",
+      "variacion_pct_promedio": -24.03,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 0,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Semiconserva > Pescaderia > Frescos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
+      "total_productos": 3
+    },
+    {
+      "categoria": "Semiconserva > Pescaderia > PESCADOS Y MARISCOS > Frescos > ESPECIALIDADES > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Varitas De Surimi > Pescaderia > Congelados",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     }
   ],
   "ranking_baja_dia": [
     {
-      "plu": "297637",
-      "nombre": "Gaseosa SCHWEPPES Zero Pomelo 1,5 Lt",
-      "marca": "Schweppes",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 4300.0,
-      "precio_hoy": 4300.0,
-      "precio_actual_hoy": 3225.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "17834",
+      "nombre": "Filete De Merluza Despinado Fresco X Kg\r\n",
+      "marca": "Nuestra Pescaderia",
+      "categoria": "Pescaderia > Frescos > Filete",
+      "precio_antes": 12999.0,
+      "precio_hoy": 8990.0,
+      "precio_actual_hoy": 8990.0,
+      "diff_abs": -4009.0,
+      "diff_pct": -30.84
     },
     {
-      "plu": "474619",
-      "nombre": "Gaseosa Sprite Lima-Limón 1,25 Lt",
-      "marca": "Sprite",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2999.0,
-      "precio_hoy": 2999.0,
-      "precio_actual_hoy": 2399.2,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "17934",
+      "nombre": "Salmon Rosado Filete Con Piel Despinado Congelado X Kg",
+      "marca": "Nuestra Pescaderia",
+      "categoria": "Salmón Y Trucha > Pescaderia > Congelados",
+      "precio_antes": 39490.0,
+      "precio_hoy": 29999.0,
+      "precio_actual_hoy": 29999.0,
+      "diff_abs": -9491.0,
+      "diff_pct": -24.03
     },
     {
-      "plu": "2986",
-      "nombre": "Gaseosa SPRITE Lima-Limón  354 Ml",
-      "marca": "Sprite",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 2300.0,
-      "precio_hoy": 2300.0,
-      "precio_actual_hoy": 1533.41,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "40169",
+      "nombre": "Filete De Salmon Rosado Con Piel Despinado Fresco X Kg\r\n",
+      "marca": "Nuestra Pescaderia",
+      "categoria": "Pescaderia > Frescos > Filete",
+      "precio_antes": 39490.0,
+      "precio_hoy": 29999.0,
+      "precio_actual_hoy": 29999.0,
+      "diff_abs": -9491.0,
+      "diff_pct": -24.03
     },
     {
-      "plu": "470500",
-      "nombre": "Gaseosa Naranja Fanta 220 Cmq",
-      "marca": "Fanta",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 1000.0,
-      "precio_hoy": 1000.0,
-      "precio_actual_hoy": 750.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "94544",
+      "nombre": "Medallon De Merluza Rebozado Natural Prefrito Congelado X Kg\r\n",
+      "marca": "Nuestra Pescaderia",
+      "categoria": "Rebozados > Pescaderia > Congelados",
+      "precio_antes": 6490.0,
+      "precio_hoy": 4990.0,
+      "precio_actual_hoy": 4990.0,
+      "diff_abs": -1500.0,
+      "diff_pct": -23.11
     },
     {
-      "plu": "289668",
-      "nombre": "Gaseosa FANTA Zero Naranja 2,25 Lt",
-      "marca": "Fanta",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 4290.0,
-      "precio_hoy": 4290.0,
-      "precio_actual_hoy": 4290.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "678",
+      "nombre": "Repollo Blanco X Kg",
+      "marca": "Nuestras Verduras",
+      "categoria": "Verduras De Hoja > Verduras > Repollo > Frutas Y Verduras > Frescos",
+      "precio_antes": 1799.0,
+      "precio_hoy": 1599.0,
+      "precio_actual_hoy": 1359.15,
+      "diff_abs": -200.0,
+      "diff_pct": -11.12
     },
     {
-      "plu": "189603",
-      "nombre": "Gaseosa FANTA Naranja 2 Lt",
-      "marca": "Fanta",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 2890.0,
-      "precio_hoy": 2890.0,
-      "precio_actual_hoy": 2890.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "680",
+      "nombre": "Repollo Colorado X Kg",
+      "marca": "Nuestras Verduras",
+      "categoria": "Verduras De Hoja > Verduras > Repollo > Frutas Y Verduras > Frescos",
+      "precio_antes": 1899.0,
+      "precio_hoy": 1699.0,
+      "precio_actual_hoy": 1444.15,
+      "diff_abs": -200.0,
+      "diff_pct": -10.53
     },
     {
-      "plu": "210853",
-      "nombre": "Gaseosa FANTA Zero Naranja 1,5 Lt",
-      "marca": "Fanta",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 3040.0,
-      "precio_hoy": 3040.0,
-      "precio_actual_hoy": 3040.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "17958",
+      "nombre": "Nuez Pelada Mariposa X Kg",
+      "marca": NaN,
+      "categoria": "Frutas Y Verduras > Frutas Secas Y Desecadas > Frutas Secas > Frescos",
+      "precio_antes": 19999.0,
+      "precio_hoy": 17999.0,
+      "precio_actual_hoy": 15299.15,
+      "diff_abs": -2000.0,
+      "diff_pct": -10.0
     },
     {
-      "plu": "16339",
-      "nombre": "Gaseosa FANTA Naranja 1,5 Lt",
-      "marca": "Fanta",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 3040.0,
-      "precio_hoy": 3040.0,
-      "precio_actual_hoy": 3040.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "477043",
+      "nombre": "Hamburguesas SWIFT  2 Uni X 120 Gr Tipo Casera",
+      "marca": "Swift",
+      "categoria": "Sin Tacc > Medallones De Carne Vacuna > Hamburguesas Y Milanesas > Hamburguesas Y Medallones > Congelados",
+      "precio_antes": 7639.0,
+      "precio_hoy": 6999.0,
+      "precio_actual_hoy": 6999.0,
+      "diff_abs": -640.0,
+      "diff_pct": -8.38
     },
     {
-      "plu": "16477",
-      "nombre": "Gaseosa FANTA Naranja 2,25 Lt",
-      "marca": "Fanta",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 5450.0,
-      "precio_hoy": 5450.0,
-      "precio_actual_hoy": 5450.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "488397",
+      "nombre": "Hamburguesa Burger X12 Swift 828 Grm",
+      "marca": "Burger Swift",
+      "categoria": "Medallones De Carne Vacuna > Hamburguesas Y Milanesas > Hamburguesas Y Medallones > Congelados",
+      "precio_antes": 17939.0,
+      "precio_hoy": 16455.0,
+      "precio_actual_hoy": 16455.0,
+      "diff_abs": -1484.0,
+      "diff_pct": -8.27
     },
     {
-      "plu": "475259",
-      "nombre": "Gaseosa SPRITE Lima-Limón 1,75 Lt",
-      "marca": "Sprite",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 4700.0,
-      "precio_hoy": 4700.0,
-      "precio_actual_hoy": 4700.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "469053",
+      "nombre": "Hamburguesas SWIFT  2 Uni X 125 Gr Clásicas Xl",
+      "marca": "Swift",
+      "categoria": "Sin Tacc > Medallones De Carne Vacuna > Hamburguesas Y Milanesas > Hamburguesas Y Medallones > Hamburguesas > Congelados",
+      "precio_antes": 7260.0,
+      "precio_hoy": 6660.0,
+      "precio_actual_hoy": 6660.0,
+      "diff_abs": -600.0,
+      "diff_pct": -8.26
     }
   ],
-  "productos_subieron_dia": 42,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1113
+  "productos_subieron_dia": 0,
+  "productos_bajaron_dia": 17,
+  "productos_sin_cambio_dia": 1547
 }
