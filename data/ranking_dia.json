@@ -1,18 +1,7 @@
 [
   {
-    "plu": "578361",
-    "nombre": "Espinaca Green Life 1.1 Kg",
-    "marca": "Green Life",
-    "categoria": "Vegetales Congelados > Espinacas > Congelados",
-    "precio_antes": 9501.0,
-    "precio_hoy": 9501.0,
-    "precio_actual_hoy": 9501.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "460802",
-    "nombre": "Vino ALFREDO COTO Malbec 750ml",
+    "plu": "460805",
+    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
     "marca": "Alfredo Coto",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7590.0,
@@ -22,8 +11,8 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460805",
-    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+    "plu": "460802",
+    "nombre": "Vino ALFREDO COTO Malbec 750ml",
     "marca": "Alfredo Coto",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7590.0,
@@ -216,6 +205,17 @@
     "precio_antes": 3600.0,
     "precio_hoy": 3600.0,
     "precio_actual_hoy": 2340.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "288009",
+    "nombre": "Cerveza  GROLSCH   Botella 925 Cc",
+    "marca": "Grolsch",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6200.0,
+    "precio_hoy": 6200.0,
+    "precio_actual_hoy": 4030.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
