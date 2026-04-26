@@ -77,17 +77,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "6300",
-    "nombre": "Sidra Etiqueta Negra REAL 720c",
-    "marca": "Real",
-    "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6699.0,
-    "precio_hoy": 6699.0,
-    "precio_actual_hoy": 5024.25,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "479243",
     "nombre": "Sidra REAL 750ml",
     "marca": "Real",
@@ -95,6 +84,17 @@
     "precio_antes": 4899.0,
     "precio_hoy": 4899.0,
     "precio_actual_hoy": 3674.25,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "6300",
+    "nombre": "Sidra Etiqueta Negra REAL 720c",
+    "marca": "Real",
+    "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6699.0,
+    "precio_hoy": 6699.0,
+    "precio_actual_hoy": 5024.25,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },

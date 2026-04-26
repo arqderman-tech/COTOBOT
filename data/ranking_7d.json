@@ -1,14 +1,36 @@
 [
   {
-    "plu": "594579",
-    "nombre": "Vino Tinto Blend Fond De Cave 750ml",
-    "marca": "Fond De Cave",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 23844.0,
-    "precio_hoy": 26688.0,
-    "precio_actual_hoy": 17792.89,
-    "diff_abs": 2844.0,
-    "diff_pct": 11.93
+    "plu": "594573",
+    "nombre": "Agua Con Gas Perrier 250ml",
+    "marca": "Perrier",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
+    "precio_antes": 4070.0,
+    "precio_hoy": 4450.0,
+    "precio_actual_hoy": 4450.0,
+    "diff_abs": 380.0,
+    "diff_pct": 9.34
+  },
+  {
+    "plu": "536410",
+    "nombre": "Espumante Brut Nature Salentein 750 Ml",
+    "marca": "Salentein",
+    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 18400.0,
+    "precio_hoy": 19700.0,
+    "precio_actual_hoy": 13133.99,
+    "diff_abs": 1300.0,
+    "diff_pct": 7.07
+  },
+  {
+    "plu": "562895",
+    "nombre": "Espumante Doux Cuvée Exceptionnelle Salentein 750ml",
+    "marca": "Salentein",
+    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 15600.0,
+    "precio_hoy": 16700.0,
+    "precio_actual_hoy": 11133.89,
+    "diff_abs": 1100.0,
+    "diff_pct": 7.05
   },
   {
     "plu": "562898",
@@ -22,8 +44,8 @@
     "diff_pct": 7.05
   },
   {
-    "plu": "562897",
-    "nombre": "Espumante Brut Nature Salentein 750ml",
+    "plu": "562893",
+    "nombre": "Espumante Brut Rose Cuvée Exceptionnelle Salentein 750ml",
     "marca": "Salentein",
     "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 15900.0,
@@ -33,13 +55,35 @@
     "diff_pct": 6.92
   },
   {
-    "plu": "167994",
-    "nombre": "Gaseosa SEVEN UP Sin Azúcar    1.5 L ",
-    "marca": "Seven Up",
+    "plu": "489945",
+    "nombre": "Champaña B. Nature Rose Cuvee Pre ALYDA Bot 750 Ml",
+    "marca": "Alyda",
+    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 26200.0,
+    "precio_hoy": 28000.0,
+    "precio_actual_hoy": 18667.6,
+    "diff_abs": 1800.0,
+    "diff_pct": 6.87
+  },
+  {
+    "plu": "572314",
+    "nombre": "Gaseosa Cola PEPSI 1500cc",
+    "marca": "Pepsi",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3700.0,
+    "precio_hoy": 3950.0,
+    "precio_actual_hoy": 2765.0,
+    "diff_abs": 250.0,
+    "diff_pct": 6.76
+  },
+  {
+    "plu": "10354",
+    "nombre": "Gaseosa PASO DE LOS TOROS  Tónica Botella 1.5 L ",
+    "marca": "Paso De Los Toros",
     "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 3700.0,
     "precio_hoy": 3950.0,
-    "precio_actual_hoy": 2567.5,
+    "precio_actual_hoy": 2962.5,
     "diff_abs": 250.0,
     "diff_pct": 6.76
   },
@@ -55,10 +99,109 @@
     "diff_pct": 6.76
   },
   {
+    "plu": "572312",
+    "nombre": "Gaseosa Lima Limon Seven Up 1500cc",
+    "marca": "Seven Up",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3700.0,
+    "precio_hoy": 3950.0,
+    "precio_actual_hoy": 2962.5,
+    "diff_abs": 250.0,
+    "diff_pct": 6.76
+  },
+  {
+    "plu": "167994",
+    "nombre": "Gaseosa SEVEN UP Sin Azúcar    1.5 L ",
+    "marca": "Seven Up",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 3700.0,
+    "precio_hoy": 3950.0,
+    "precio_actual_hoy": 2567.5,
+    "diff_abs": 250.0,
+    "diff_pct": 6.76
+  },
+  {
+    "plu": "10371",
+    "nombre": "Gaseosa PASO DE LOS TOROS  Pomelo Botella 1.5 L ",
+    "marca": "Paso De Los Toros",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 3700.0,
+    "precio_hoy": 3950.0,
+    "precio_actual_hoy": 2962.5,
+    "diff_abs": 250.0,
+    "diff_pct": 6.76
+  },
+  {
+    "plu": "582622",
+    "nombre": "Jugos Multifruta PURAFRUTTA 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1739.0,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
+  },
+  {
+    "plu": "591409",
+    "nombre": "Jugo De Pera Purafrutta 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1739.0,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
+  },
+  {
+    "plu": "582620",
+    "nombre": "Jugos Manzana PURAFRUTTA 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1739.0,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
+  },
+  {
+    "plu": "582623",
+    "nombre": "Jugos Naranja PURAFRUTTA 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1739.0,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
+  },
+  {
     "plu": "476018",
     "nombre": "Jugos Manzana Roja PURAFRUTTA 1 Ltr",
     "marca": "Purafrutta",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5059.0,
+    "precio_hoy": 5365.0,
+    "precio_actual_hoy": 5365.0,
+    "diff_abs": 306.0,
+    "diff_pct": 6.05
+  },
+  {
+    "plu": "568549",
+    "nombre": "Jugo Naranja 100% Exprimido PURAFRUTTA 1l",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5059.0,
+    "precio_hoy": 5365.0,
+    "precio_actual_hoy": 5365.0,
+    "diff_abs": 306.0,
+    "diff_pct": 6.05
+  },
+  {
+    "plu": "583087",
+    "nombre": "Jugos De Pera PURAFRUTTA  1l",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5059.0,
     "precio_hoy": 5365.0,
     "precio_actual_hoy": 5365.0,
@@ -75,148 +218,5 @@
     "precio_actual_hoy": 5365.0,
     "diff_abs": 306.0,
     "diff_pct": 6.05
-  },
-  {
-    "plu": "164967",
-    "nombre": "Vino Malbec ELEMENTOS 750cc",
-    "marca": "Elementos",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6369.0,
-    "precio_hoy": 6690.0,
-    "precio_actual_hoy": 4460.22,
-    "diff_abs": 321.0,
-    "diff_pct": 5.04
-  },
-  {
-    "plu": "225544",
-    "nombre": "Vino Rosado De Torrontes ELEMENTOS 750cc",
-    "marca": "Elementos",
-    "categoria": "Vinos Rosados > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6369.0,
-    "precio_hoy": 6690.0,
-    "precio_actual_hoy": 4460.22,
-    "diff_abs": 321.0,
-    "diff_pct": 5.04
-  },
-  {
-    "plu": "164981",
-    "nombre": "Vino Cabernet Sauvignon ELEMENTOS 750cc",
-    "marca": "Elementos",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6369.0,
-    "precio_hoy": 6690.0,
-    "precio_actual_hoy": 4460.22,
-    "diff_abs": 321.0,
-    "diff_pct": 5.04
-  },
-  {
-    "plu": "169637",
-    "nombre": "Gaseosa Lima Limón Free Seven Up 354 Cmq",
-    "marca": "7Up",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1575.0,
-    "diff_abs": 100.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "7411",
-    "nombre": "Gaseosa SEVEN UP    Lata 354 Cc ",
-    "marca": "Seven Up",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1575.0,
-    "diff_abs": 100.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "573395",
-    "nombre": "Vino Cabernet Sauvignon Punto Devil 750 Ml",
-    "marca": "Punto Devil",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 8658.0,
-    "precio_hoy": 9091.0,
-    "precio_actual_hoy": 6060.97,
-    "diff_abs": 433.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "6664",
-    "nombre": "Gaseosa PEPSI    Lata 354 Cc ",
-    "marca": "Pepsi",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1470.0,
-    "diff_abs": 100.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "467729",
-    "nombre": "Gaseosa PEPSI Zero   Lata 354 Cc ",
-    "marca": "Pepsi",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1470.0,
-    "diff_abs": 100.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "181878",
-    "nombre": "Vino Cabernet-Malbec-Merlot INTIMO Bot 750 CC",
-    "marca": "Intimo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12636.0,
-    "precio_hoy": 13268.0,
-    "precio_actual_hoy": 8845.78,
-    "diff_abs": 632.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "181879",
-    "nombre": "Vino Malbec INTIMO Bot 750 CC",
-    "marca": "Intimo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12636.0,
-    "precio_hoy": 13268.0,
-    "precio_actual_hoy": 8845.78,
-    "diff_abs": 632.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "469193",
-    "nombre": "Vino Semillon . INTIMO Bot 750 Ml",
-    "marca": "Intimo",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12636.0,
-    "precio_hoy": 13268.0,
-    "precio_actual_hoy": 8845.78,
-    "diff_abs": 632.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "59002",
-    "nombre": "Vino Cab.Sauv . Intimo Bot 750 Cmq",
-    "marca": "Intimo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12636.0,
-    "precio_hoy": 13268.0,
-    "precio_actual_hoy": 8845.78,
-    "diff_abs": 632.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "93042",
-    "nombre": "Vino Malbec GOYENECHEA Bot 750 CC",
-    "marca": "Goyenechea",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6458.0,
-    "precio_hoy": 6780.0,
-    "precio_actual_hoy": 4520.23,
-    "diff_abs": 322.0,
-    "diff_pct": 4.99
   }
 ]
