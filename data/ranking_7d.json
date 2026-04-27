@@ -11,26 +11,15 @@
     "diff_pct": 9.34
   },
   {
-    "plu": "536410",
-    "nombre": "Espumante Brut Nature Salentein 750 Ml",
+    "plu": "562894",
+    "nombre": "Espumante Blanc De Blancs Salentein 750 Ml",
     "marca": "Salentein",
     "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 18400.0,
-    "precio_hoy": 19700.0,
-    "precio_actual_hoy": 13133.99,
-    "diff_abs": 1300.0,
-    "diff_pct": 7.07
-  },
-  {
-    "plu": "562895",
-    "nombre": "Espumante Doux Cuvée Exceptionnelle Salentein 750ml",
-    "marca": "Salentein",
-    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 15600.0,
-    "precio_hoy": 16700.0,
-    "precio_actual_hoy": 11133.89,
-    "diff_abs": 1100.0,
-    "diff_pct": 7.05
+    "precio_antes": 16500.0,
+    "precio_hoy": 17700.0,
+    "precio_actual_hoy": 11800.59,
+    "diff_abs": 1200.0,
+    "diff_pct": 7.27
   },
   {
     "plu": "562898",
@@ -44,8 +33,8 @@
     "diff_pct": 7.05
   },
   {
-    "plu": "562893",
-    "nombre": "Espumante Brut Rose Cuvée Exceptionnelle Salentein 750ml",
+    "plu": "562897",
+    "nombre": "Espumante Brut Nature Salentein 750ml",
     "marca": "Salentein",
     "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 15900.0,
@@ -53,28 +42,6 @@
     "precio_actual_hoy": 11333.9,
     "diff_abs": 1100.0,
     "diff_pct": 6.92
-  },
-  {
-    "plu": "489945",
-    "nombre": "Champaña B. Nature Rose Cuvee Pre ALYDA Bot 750 Ml",
-    "marca": "Alyda",
-    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 26200.0,
-    "precio_hoy": 28000.0,
-    "precio_actual_hoy": 18667.6,
-    "diff_abs": 1800.0,
-    "diff_pct": 6.87
-  },
-  {
-    "plu": "572314",
-    "nombre": "Gaseosa Cola PEPSI 1500cc",
-    "marca": "Pepsi",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3700.0,
-    "precio_hoy": 3950.0,
-    "precio_actual_hoy": 2765.0,
-    "diff_abs": 250.0,
-    "diff_pct": 6.76
   },
   {
     "plu": "10354",
@@ -88,8 +55,30 @@
     "diff_pct": 6.76
   },
   {
+    "plu": "167994",
+    "nombre": "Gaseosa SEVEN UP Sin Azúcar    1.5 L ",
+    "marca": "Seven Up",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 3700.0,
+    "precio_hoy": 3950.0,
+    "precio_actual_hoy": 2567.5,
+    "diff_abs": 250.0,
+    "diff_pct": 6.76
+  },
+  {
     "plu": "467755",
     "nombre": "Gaseosa PEPSI Light Black Botella 1.5 L ",
+    "marca": "Pepsi",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3700.0,
+    "precio_hoy": 3950.0,
+    "precio_actual_hoy": 2765.0,
+    "diff_abs": 250.0,
+    "diff_pct": 6.76
+  },
+  {
+    "plu": "572314",
+    "nombre": "Gaseosa Cola PEPSI 1500cc",
     "marca": "Pepsi",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 3700.0,
@@ -110,17 +99,6 @@
     "diff_pct": 6.76
   },
   {
-    "plu": "167994",
-    "nombre": "Gaseosa SEVEN UP Sin Azúcar    1.5 L ",
-    "marca": "Seven Up",
-    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 3700.0,
-    "precio_hoy": 3950.0,
-    "precio_actual_hoy": 2567.5,
-    "diff_abs": 250.0,
-    "diff_pct": 6.76
-  },
-  {
     "plu": "10371",
     "nombre": "Gaseosa PASO DE LOS TOROS  Pomelo Botella 1.5 L ",
     "marca": "Paso De Los Toros",
@@ -130,28 +108,6 @@
     "precio_actual_hoy": 2962.5,
     "diff_abs": 250.0,
     "diff_pct": 6.76
-  },
-  {
-    "plu": "582622",
-    "nombre": "Jugos Multifruta PURAFRUTTA 250ml",
-    "marca": "Purafrutta",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1639.0,
-    "precio_hoy": 1739.0,
-    "precio_actual_hoy": 1739.0,
-    "diff_abs": 100.0,
-    "diff_pct": 6.1
-  },
-  {
-    "plu": "591409",
-    "nombre": "Jugo De Pera Purafrutta 250ml",
-    "marca": "Purafrutta",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1639.0,
-    "precio_hoy": 1739.0,
-    "precio_actual_hoy": 1739.0,
-    "diff_abs": 100.0,
-    "diff_pct": 6.1
   },
   {
     "plu": "582620",
@@ -176,15 +132,26 @@
     "diff_pct": 6.1
   },
   {
-    "plu": "476018",
-    "nombre": "Jugos Manzana Roja PURAFRUTTA 1 Ltr",
+    "plu": "582622",
+    "nombre": "Jugos Multifruta PURAFRUTTA 250ml",
     "marca": "Purafrutta",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5059.0,
-    "precio_hoy": 5365.0,
-    "precio_actual_hoy": 5365.0,
-    "diff_abs": 306.0,
-    "diff_pct": 6.05
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1739.0,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
+  },
+  {
+    "plu": "591409",
+    "nombre": "Jugo De Pera Purafrutta 250ml",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1639.0,
+    "precio_hoy": 1739.0,
+    "precio_actual_hoy": 1739.0,
+    "diff_abs": 100.0,
+    "diff_pct": 6.1
   },
   {
     "plu": "568549",
@@ -198,8 +165,8 @@
     "diff_pct": 6.05
   },
   {
-    "plu": "583087",
-    "nombre": "Jugos De Pera PURAFRUTTA  1l",
+    "plu": "559490",
+    "nombre": "Jugo 100% Exprimido Multifruta PURAFRUTTA 1 Ltr",
     "marca": "Purafrutta",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5059.0,
@@ -209,14 +176,47 @@
     "diff_pct": 6.05
   },
   {
-    "plu": "476019",
-    "nombre": "Jugos Manzana Verde PURAFRUTTA 1 Ltr",
+    "plu": "618916",
+    "nombre": "Jugo   Pura Frutta Naranja   Tetrabrik 2 L",
+    "marca": "Pura Frutta",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 8999.0,
+    "precio_hoy": 9539.0,
+    "precio_actual_hoy": 9539.0,
+    "diff_abs": 540.0,
+    "diff_pct": 6.0
+  },
+  {
+    "plu": "579973",
+    "nombre": "Jugo Organico Green Detox PURAFRUTTA 1l",
     "marca": "Purafrutta",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5059.0,
-    "precio_hoy": 5365.0,
-    "precio_actual_hoy": 5365.0,
-    "diff_abs": 306.0,
-    "diff_pct": 6.05
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 5955.0,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "528913",
+    "nombre": "Jugo Blend Detox PURAFRUTTA 1 Ltr",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 5955.0,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
+  },
+  {
+    "plu": "483403",
+    "nombre": "Jugo Frutilla Y Manzana PURAFRUTTA 1 Ltr",
+    "marca": "Purafrutta",
+    "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 5619.0,
+    "precio_hoy": 5955.0,
+    "precio_actual_hoy": 5955.0,
+    "diff_abs": 336.0,
+    "diff_pct": 5.98
   }
 ]
