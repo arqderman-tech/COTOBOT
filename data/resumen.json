@@ -1,14 +1,142 @@
 {
-  "fecha": "20260501",
-  "total_productos": 0,
-  "variacion_dia": null,
-  "variacion_7d": null,
-  "variacion_mes": null,
+  "fecha": "20260502",
+  "total_productos": 1602,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.22,
+  "variacion_mes": 1.5,
   "variacion_6m": null,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
+  "categorias_dia": [
+    {
+      "categoria": "Bebidas Con Alcohol",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 790,
+      "total_productos": 790
+    },
+    {
+      "categoria": "Bebidas Sin Alcohol",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 551,
+      "total_productos": 551
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "plu": "460802",
+      "nombre": "Vino ALFREDO COTO Malbec 750ml",
+      "marca": "Alfredo Coto",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 7590.0,
+      "precio_hoy": 7590.0,
+      "precio_actual_hoy": 4554.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "marca": "Alfredo Coto",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 7590.0,
+      "precio_hoy": 7590.0,
+      "precio_actual_hoy": 4554.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460803",
+      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 15000.0,
+      "precio_hoy": 15000.0,
+      "precio_actual_hoy": 9000.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460804",
+      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 37500.0,
+      "precio_hoy": 37500.0,
+      "precio_actual_hoy": 22500.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "164527",
+      "nombre": "Cerveza Lager STELLA ARTOIS   Botella 975 Cc",
+      "marca": "Stella Artois",
+      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 6100.0,
+      "precio_hoy": 6100.0,
+      "precio_actual_hoy": 3965.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "478424",
+      "nombre": "Cerveza  Stella Artois  Pack Latas 473 CC 6 Unidades",
+      "marca": "Stella Artois",
+      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 21600.0,
+      "precio_hoy": 21600.0,
+      "precio_actual_hoy": 14040.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "230474",
+      "nombre": "Cerveza Lager STELLA ARTOIS   Lata 473 Cc",
+      "marca": "Stella Artois",
+      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 3600.0,
+      "precio_hoy": 3600.0,
+      "precio_actual_hoy": 2340.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "6300",
+      "nombre": "Sidra Etiqueta Negra REAL 720c",
+      "marca": "Real",
+      "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 6699.0,
+      "precio_hoy": 6699.0,
+      "precio_actual_hoy": 5024.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "479243",
+      "nombre": "Sidra REAL 750ml",
+      "marca": "Real",
+      "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 4899.0,
+      "precio_hoy": 4899.0,
+      "precio_actual_hoy": 3674.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "238214",
+      "nombre": "Cerveza  QUILMES   Botella 1 L",
+      "marca": "Quilmes",
+      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+      "precio_antes": 4200.0,
+      "precio_hoy": 4200.0,
+      "precio_actual_hoy": 3150.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    }
+  ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "productos_sin_cambio_dia": 1341
 }

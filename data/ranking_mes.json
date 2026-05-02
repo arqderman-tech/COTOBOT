@@ -55,26 +55,15 @@
     "diff_pct": 16.5
   },
   {
-    "plu": "514841",
-    "nombre": "Vino Tinto,De Sang Cabernet Franc Luigi Bosca Bot 750 Ml",
-    "marca": "Luigi Bosca",
+    "plu": "598729",
+    "nombre": "Vino Malbec Gran Sombrero 750ml",
+    "marca": "Gran Sombrero",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 27500.0,
-    "precio_hoy": 31000.0,
-    "precio_actual_hoy": 18600.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 12.73
-  },
-  {
-    "plu": "594579",
-    "nombre": "Vino Tinto Blend Fond De Cave 750ml",
-    "marca": "Fond De Cave",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 23844.0,
-    "precio_hoy": 26688.0,
-    "precio_actual_hoy": 16012.8,
-    "diff_abs": 2844.0,
-    "diff_pct": 11.93
+    "precio_antes": 19620.0,
+    "precio_hoy": 21925.0,
+    "precio_actual_hoy": 13155.0,
+    "diff_abs": 2305.0,
+    "diff_pct": 11.75
   },
   {
     "plu": "598728",
@@ -88,26 +77,15 @@
     "diff_pct": 11.75
   },
   {
-    "plu": "598725",
-    "nombre": "Vino Cabernet Franc Gran Sombrero 750ml",
-    "marca": "Gran Sombrero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 19620.0,
-    "precio_hoy": 21925.0,
-    "precio_actual_hoy": 13155.0,
-    "diff_abs": 2305.0,
-    "diff_pct": 11.75
-  },
-  {
-    "plu": "598731",
-    "nombre": "Vino Chardonnay Gran Sombrero 750ml",
-    "marca": "Gran Sombrero",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 19620.0,
-    "precio_hoy": 21925.0,
-    "precio_actual_hoy": 13155.0,
-    "diff_abs": 2305.0,
-    "diff_pct": 11.75
+    "plu": "598722",
+    "nombre": "Espumante Pinot Noir Extra Brutt Somrero 750ml",
+    "marca": "Sombrero",
+    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12535.0,
+    "precio_hoy": 14000.0,
+    "precio_actual_hoy": 8400.0,
+    "diff_abs": 1465.0,
+    "diff_pct": 11.69
   },
   {
     "plu": "514822",
@@ -121,10 +99,10 @@
     "diff_pct": 11.27
   },
   {
-    "plu": "529773",
-    "nombre": "Jugo Manzana DEL VALLE 1l",
+    "plu": "558894",
+    "nombre": "Jugo Durazno DEL VALLE 1l",
     "marca": "Del Valle",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
     "precio_actual_hoy": 2100.0,
@@ -143,6 +121,17 @@
     "diff_pct": 11.11
   },
   {
+    "plu": "529773",
+    "nombre": "Jugo Manzana DEL VALLE 1l",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
+  },
+  {
     "plu": "531525",
     "nombre": "Jugo Naranja Del Valle Ttb 1 Ltr",
     "marca": "Del Valle",
@@ -152,39 +141,6 @@
     "precio_actual_hoy": 2100.0,
     "diff_abs": 210.0,
     "diff_pct": 11.11
-  },
-  {
-    "plu": "558894",
-    "nombre": "Jugo Durazno DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
-  },
-  {
-    "plu": "500956",
-    "nombre": "Cerveza Scotch ANTARES   Lata 473 Cc",
-    "marca": "Antares",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3771.0,
-    "precio_hoy": 4180.0,
-    "precio_actual_hoy": 2508.0,
-    "diff_abs": 409.0,
-    "diff_pct": 10.85
-  },
-  {
-    "plu": "598734",
-    "nombre": "Vino Cabernet Sauvignon Sombrero 750ml",
-    "marca": "Sombrero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11445.0,
-    "precio_hoy": 12640.0,
-    "precio_actual_hoy": 7584.0,
-    "diff_abs": 1195.0,
-    "diff_pct": 10.44
   },
   {
     "plu": "598733",
@@ -198,8 +154,8 @@
     "diff_pct": 10.44
   },
   {
-    "plu": "598727",
-    "nombre": "Vino Cabernet Franc Sombrero 750ml",
+    "plu": "598734",
+    "nombre": "Vino Cabernet Sauvignon Sombrero 750ml",
     "marca": "Sombrero",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 11445.0,
@@ -209,9 +165,53 @@
     "diff_pct": 10.44
   },
   {
-    "plu": "255635",
-    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Naranja Botella 1.5 L",
+    "plu": "601677",
+    "nombre": "Aperitivo Sabor Limón Sin Alcohol GANCIA 473ml",
+    "marca": "Gancia",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano",
+    "precio_antes": 2400.0,
+    "precio_hoy": 2640.0,
+    "precio_actual_hoy": 2112.0,
+    "diff_abs": 240.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "255639",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Pomelo Botella 1.5 L",
     "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 1787.5,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "136220",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Manzana Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 1787.5,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "201516",
+    "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 1.5 L",
+    "marca": "Villa Del Sur Levite",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 1787.5,
+    "diff_abs": 250.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "587764",
+    "nombre": "Agua Sin Gas Sabor Pomelo Rosado Villa Del Sur Levite 1500cc",
+    "marca": "Villa Del Sur",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2500.0,
     "precio_hoy": 2750.0,

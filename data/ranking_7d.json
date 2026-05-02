@@ -1,27 +1,5 @@
 [
   {
-    "plu": "514841",
-    "nombre": "Vino Tinto,De Sang Cabernet Franc Luigi Bosca Bot 750 Ml",
-    "marca": "Luigi Bosca",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 27500.0,
-    "precio_hoy": 31000.0,
-    "precio_actual_hoy": 18600.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 12.73
-  },
-  {
-    "plu": "598725",
-    "nombre": "Vino Cabernet Franc Gran Sombrero 750ml",
-    "marca": "Gran Sombrero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 19620.0,
-    "precio_hoy": 21925.0,
-    "precio_actual_hoy": 13155.0,
-    "diff_abs": 2305.0,
-    "diff_pct": 11.75
-  },
-  {
     "plu": "598728",
     "nombre": "Vino Cabernet Sauvignon Gran Sombrero 750ml",
     "marca": "Gran Sombrero",
@@ -33,37 +11,15 @@
     "diff_pct": 11.75
   },
   {
-    "plu": "598731",
-    "nombre": "Vino Chardonnay Gran Sombrero 750ml",
-    "marca": "Gran Sombrero",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 19620.0,
-    "precio_hoy": 21925.0,
-    "precio_actual_hoy": 13155.0,
-    "diff_abs": 2305.0,
-    "diff_pct": 11.75
-  },
-  {
-    "plu": "558894",
-    "nombre": "Jugo Durazno DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
-  },
-  {
-    "plu": "531526",
-    "nombre": "Jugo Multifruta DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
+    "plu": "514822",
+    "nombre": "Vino Cab.Sauv De Sangre Luigi Bosca Bot 750 Ml",
+    "marca": "Luigi Bosca",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 24266.0,
+    "precio_hoy": 27000.0,
+    "precio_actual_hoy": 16200.0,
+    "diff_abs": 2734.0,
+    "diff_pct": 11.27
   },
   {
     "plu": "529773",
@@ -88,19 +44,30 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "598727",
-    "nombre": "Vino Cabernet Franc Sombrero 750ml",
-    "marca": "Sombrero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11445.0,
-    "precio_hoy": 12640.0,
-    "precio_actual_hoy": 7584.0,
-    "diff_abs": 1195.0,
-    "diff_pct": 10.44
+    "plu": "558894",
+    "nombre": "Jugo Durazno DEL VALLE 1l",
+    "marca": "Del Valle",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
   },
   {
-    "plu": "598733",
-    "nombre": "Vino Malbec Sombrero 750ml",
+    "plu": "531526",
+    "nombre": "Jugo Multifruta DEL VALLE 1l",
+    "marca": "Del Valle",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "598727",
+    "nombre": "Vino Cabernet Franc Sombrero 750ml",
     "marca": "Sombrero",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 11445.0,
@@ -121,8 +88,8 @@
     "diff_pct": 10.44
   },
   {
-    "plu": "529770",
-    "nombre": "Jugo Multifruta Del Valle Ttb 200 Ml",
+    "plu": "529778",
+    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -143,8 +110,8 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "529778",
-    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
+    "plu": "529770",
+    "nombre": "Jugo Multifruta Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -165,17 +132,6 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "513673",
-    "nombre": "Vino Cab.Sauv Selecto Colon Bot 750 Ml",
-    "marca": "Colon",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5500.0,
-    "precio_hoy": 5900.0,
-    "precio_actual_hoy": 3540.0,
-    "diff_abs": 400.0,
-    "diff_pct": 7.27
-  },
-  {
     "plu": "586896",
     "nombre": "Jugo De Uva Natural Dogliani 500ml",
     "marca": "Dogliani",
@@ -185,6 +141,39 @@
     "precio_actual_hoy": 4660.0,
     "diff_abs": 311.0,
     "diff_pct": 7.15
+  },
+  {
+    "plu": "577936",
+    "nombre": "Espumante Bitter Orange Dada 750ml",
+    "marca": "Dada",
+    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 8600.0,
+    "precio_hoy": 9200.0,
+    "precio_actual_hoy": 5520.0,
+    "diff_abs": 600.0,
+    "diff_pct": 6.98
+  },
+  {
+    "plu": "575356",
+    "nombre": "Colón Selecto Dulce Fresco Rosado",
+    "marca": "Colon",
+    "categoria": "Vinos Rosados > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6350.0,
+    "precio_hoy": 6750.0,
+    "precio_actual_hoy": 4050.0,
+    "diff_abs": 400.0,
+    "diff_pct": 6.3
+  },
+  {
+    "plu": "567021",
+    "nombre": "Colón Selecto Dulce Fresco Tinto",
+    "marca": "Colon",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6350.0,
+    "precio_hoy": 6750.0,
+    "precio_actual_hoy": 4050.0,
+    "diff_abs": 400.0,
+    "diff_pct": 6.3
   },
   {
     "plu": "618916",
@@ -198,6 +187,17 @@
     "diff_pct": 6.0
   },
   {
+    "plu": "23115",
+    "nombre": "Eugenio Busto Cabernet Sauvignon 750 CC",
+    "marca": "Eugenio Busto",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6450.0,
+    "precio_hoy": 6800.0,
+    "precio_actual_hoy": 4080.0,
+    "diff_abs": 350.0,
+    "diff_pct": 5.43
+  },
+  {
     "plu": "172207",
     "nombre": "Vino EUGENIO BUSTOS Malbec 750cc",
     "marca": "Eugenio Bustos",
@@ -209,10 +209,10 @@
     "diff_pct": 5.43
   },
   {
-    "plu": "23115",
-    "nombre": "Eugenio Busto Cabernet Sauvignon 750 CC",
+    "plu": "480004",
+    "nombre": "Vino Fino Blanco Dulce Eugenio Bustos 750ml",
     "marca": "Eugenio Busto",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 6450.0,
     "precio_hoy": 6800.0,
     "precio_actual_hoy": 4080.0,
