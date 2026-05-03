@@ -22,17 +22,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460803",
-    "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
-    "marca": "Don Alfredo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 15000.0,
-    "precio_hoy": 15000.0,
-    "precio_actual_hoy": 9000.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "460804",
     "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
     "marca": "Don Alfredo",
@@ -40,6 +29,17 @@
     "precio_antes": 37500.0,
     "precio_hoy": 37500.0,
     "precio_actual_hoy": 22500.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "460803",
+    "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+    "marca": "Don Alfredo",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 15000.0,
+    "precio_hoy": 15000.0,
+    "precio_actual_hoy": 9000.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -198,13 +198,13 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "471009",
-    "nombre": "Cerveza Ipa IMPERIAL   Botella 1 L",
+    "plu": "245767",
+    "nombre": "Cerveza Cream Stout IMPERIAL   Botella 1 L",
     "marca": "Imperial",
     "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5200.0,
-    "precio_hoy": 5200.0,
-    "precio_actual_hoy": 3900.0,
+    "precio_antes": 5000.0,
+    "precio_hoy": 5000.0,
+    "precio_actual_hoy": 3750.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
