@@ -1,5 +1,38 @@
 [
   {
+    "plu": "514841",
+    "nombre": "Vino Tinto,De Sang Cabernet Franc Luigi Bosca Bot 750 Ml",
+    "marca": "Luigi Bosca",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 27500.0,
+    "precio_hoy": 31000.0,
+    "precio_actual_hoy": 18600.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 12.73
+  },
+  {
+    "plu": "598728",
+    "nombre": "Vino Cabernet Sauvignon Gran Sombrero 750ml",
+    "marca": "Gran Sombrero",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 19620.0,
+    "precio_hoy": 21925.0,
+    "precio_actual_hoy": 13155.0,
+    "diff_abs": 2305.0,
+    "diff_pct": 11.75
+  },
+  {
+    "plu": "598725",
+    "nombre": "Vino Cabernet Franc Gran Sombrero 750ml",
+    "marca": "Gran Sombrero",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 19620.0,
+    "precio_hoy": 21925.0,
+    "precio_actual_hoy": 13155.0,
+    "diff_abs": 2305.0,
+    "diff_pct": 11.75
+  },
+  {
     "plu": "598722",
     "nombre": "Espumante Pinot Noir Extra Brutt Somrero 750ml",
     "marca": "Sombrero",
@@ -9,28 +42,6 @@
     "precio_actual_hoy": 8400.0,
     "diff_abs": 1465.0,
     "diff_pct": 11.69
-  },
-  {
-    "plu": "531526",
-    "nombre": "Jugo Multifruta DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
-  },
-  {
-    "plu": "558894",
-    "nombre": "Jugo Durazno DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
   },
   {
     "plu": "531525",
@@ -55,15 +66,26 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "610207",
-    "nombre": "Cerveza Sin Alcohol Golden Imperial 473 CC",
-    "marca": "Imperial",
-    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 1900.0,
+    "plu": "531526",
+    "nombre": "Jugo Multifruta DEL VALLE 1l",
+    "marca": "Del Valle",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1575.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "558894",
+    "nombre": "Jugo Durazno DEL VALLE 1l",
+    "marca": "Del Valle",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
   },
   {
     "plu": "598734",
@@ -77,8 +99,19 @@
     "diff_pct": 10.44
   },
   {
-    "plu": "529775",
-    "nombre": "Jugo Manzana Del Valle Ttb 200 Ml",
+    "plu": "598732",
+    "nombre": "Vino Sauvignon Blanc Sombrero 750ml",
+    "marca": "Sombrero",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 11445.0,
+    "precio_hoy": 12640.0,
+    "precio_actual_hoy": 7584.0,
+    "diff_abs": 1195.0,
+    "diff_pct": 10.44
+  },
+  {
+    "plu": "529778",
+    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -88,8 +121,8 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "529777",
-    "nombre": "Jugo Naranja Del Valle Ttb 200 Ml",
+    "plu": "529775",
+    "nombre": "Jugo Manzana Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -110,8 +143,8 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "529778",
-    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
+    "plu": "529777",
+    "nombre": "Jugo Naranja Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -121,10 +154,21 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "513141",
-    "nombre": "Vino Chardonnay Selecto Colon 750 Ml",
+    "plu": "598724",
+    "nombre": "Vino Cabernet Sauvignon Zorro Salvaje 750ml",
+    "marca": "Zorro Salvaje",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6540.0,
+    "precio_hoy": 7075.0,
+    "precio_actual_hoy": 4245.0,
+    "diff_abs": 535.0,
+    "diff_pct": 8.18
+  },
+  {
+    "plu": "513673",
+    "nombre": "Vino Cab.Sauv Selecto Colon Bot 750 Ml",
     "marca": "Colon",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 5500.0,
     "precio_hoy": 5900.0,
     "precio_actual_hoy": 3540.0,
@@ -154,69 +198,25 @@
     "diff_pct": 6.3
   },
   {
+    "plu": "575356",
+    "nombre": "Colón Selecto Dulce Fresco Rosado",
+    "marca": "Colon",
+    "categoria": "Vinos Rosados > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6350.0,
+    "precio_hoy": 6750.0,
+    "precio_actual_hoy": 4050.0,
+    "diff_abs": 400.0,
+    "diff_pct": 6.3
+  },
+  {
     "plu": "476019",
     "nombre": "Jugos Manzana Verde PURAFRUTTA 1 Ltr",
     "marca": "Purafrutta",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5059.0,
     "precio_hoy": 5365.0,
-    "precio_actual_hoy": 4023.75,
+    "precio_actual_hoy": 5365.0,
     "diff_abs": 306.0,
     "diff_pct": 6.05
-  },
-  {
-    "plu": "476018",
-    "nombre": "Jugos Manzana Roja PURAFRUTTA 1 Ltr",
-    "marca": "Purafrutta",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5059.0,
-    "precio_hoy": 5365.0,
-    "precio_actual_hoy": 4023.75,
-    "diff_abs": 306.0,
-    "diff_pct": 6.05
-  },
-  {
-    "plu": "583087",
-    "nombre": "Jugos De Pera PURAFRUTTA  1l",
-    "marca": "Purafrutta",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5059.0,
-    "precio_hoy": 5365.0,
-    "precio_actual_hoy": 4023.75,
-    "diff_abs": 306.0,
-    "diff_pct": 6.05
-  },
-  {
-    "plu": "172207",
-    "nombre": "Vino EUGENIO BUSTOS Malbec 750cc",
-    "marca": "Eugenio Bustos",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6450.0,
-    "precio_hoy": 6800.0,
-    "precio_actual_hoy": 4080.0,
-    "diff_abs": 350.0,
-    "diff_pct": 5.43
-  },
-  {
-    "plu": "23115",
-    "nombre": "Eugenio Busto Cabernet Sauvignon 750 CC",
-    "marca": "Eugenio Busto",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6450.0,
-    "precio_hoy": 6800.0,
-    "precio_actual_hoy": 4080.0,
-    "diff_abs": 350.0,
-    "diff_pct": 5.43
-  },
-  {
-    "plu": "480004",
-    "nombre": "Vino Fino Blanco Dulce Eugenio Bustos 750ml",
-    "marca": "Eugenio Busto",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6450.0,
-    "precio_hoy": 6800.0,
-    "precio_actual_hoy": 4080.0,
-    "diff_abs": 350.0,
-    "diff_pct": 5.43
   }
 ]
