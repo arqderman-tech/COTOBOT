@@ -1,74 +1,30 @@
 {
-  "fecha": "20260506",
-  "total_productos": 1601,
+  "fecha": "20260507",
+  "total_productos": 2125,
   "variacion_dia": 0.07,
-  "variacion_7d": 0.16,
-  "variacion_mes": 1.78,
+  "variacion_7d": 0.27,
+  "variacion_mes": 1.73,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.29,
-      "productos_subieron": 33,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 569,
-      "total_productos": 602
+      "productos_sin_cambio": 591,
+      "total_productos": 591
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": -0.18,
-      "productos_subieron": 0,
-      "productos_bajaron": 4,
-      "productos_sin_cambio": 545,
+      "variacion_pct_promedio": 0.15,
+      "productos_subieron": 9,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 540,
       "total_productos": 549
     }
   ],
   "ranking_baja_dia": [
-    {
-      "plu": "526340",
-      "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -700.0,
-      "diff_pct": -25.94
-    },
-    {
-      "plu": "526339",
-      "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -700.0,
-      "diff_pct": -25.94
-    },
-    {
-      "plu": "516551",
-      "nombre": "Jugo Mojito Sunrise Gergal Bot 910 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 4199.0,
-      "precio_hoy": 3199.0,
-      "precio_actual_hoy": 3199.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -23.82
-    },
-    {
-      "plu": "526337",
-      "nombre": "Jugo Arándanos Diet Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 2099.0,
-      "precio_actual_hoy": 2099.0,
-      "diff_abs": -600.0,
-      "diff_pct": -22.23
-    },
     {
       "plu": "476809",
       "nombre": "Agua Sin Gas Manzana Vds LEVITE Cero Pet 500 Ml",
@@ -76,40 +32,40 @@
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2000.0,
       "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
+      "precio_actual_hoy": 1300.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "118457",
-      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
+      "plu": "245090",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Manzana Botella 2.25 L",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 3390.0,
+      "precio_hoy": 3390.0,
+      "precio_actual_hoy": 2203.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "202114",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 2.25 L",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 3390.0,
+      "precio_hoy": 3390.0,
+      "precio_actual_hoy": 2203.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "201516",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 1.5 L",
       "marca": "Villa Del Sur Levite",
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2750.0,
       "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "460774",
-      "nombre": "Gaseosa PRITTY Zero Limón Botella 2.5 L ",
-      "marca": "Pritty",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2650.0,
-      "precio_hoy": 2650.0,
-      "precio_actual_hoy": 2650.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "255635",
-      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Naranja Botella 1.5 L",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2750.0,
-      "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
+      "precio_actual_hoy": 1787.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -120,7 +76,29 @@
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2750.0,
       "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
+      "precio_actual_hoy": 1787.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "118457",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2750.0,
+      "precio_hoy": 2750.0,
+      "precio_actual_hoy": 1787.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "255635",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Cero Naranja Botella 1.5 L",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2750.0,
+      "precio_hoy": 2750.0,
+      "precio_actual_hoy": 1787.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -131,12 +109,34 @@
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2750.0,
       "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
+      "precio_actual_hoy": 1787.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "476797",
+      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Manzana Botella 500 Cc",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 1300.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "258265",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 2.25 L",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 3390.0,
+      "precio_hoy": 3390.0,
+      "precio_actual_hoy": 2203.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 33,
-  "productos_bajaron_dia": 4,
-  "productos_sin_cambio_dia": 1114
+  "productos_subieron_dia": 9,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 1131
 }
