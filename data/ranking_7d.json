@@ -1,16 +1,5 @@
 [
   {
-    "plu": "584747",
-    "nombre": "Vino Sauvignon Blanc Malma 750ml",
-    "marca": "Malma",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14850.0,
-    "precio_hoy": 17400.0,
-    "precio_actual_hoy": 11600.58,
-    "diff_abs": 2550.0,
-    "diff_pct": 17.17
-  },
-  {
     "plu": "584745",
     "nombre": "Vino Merlot Malma 750ml",
     "marca": "Malma",
@@ -22,30 +11,30 @@
     "diff_pct": 17.17
   },
   {
-    "plu": "497335",
+    "plu": "584738",
+    "nombre": "Vino Cabernet Sauvignon Malma 750ml",
+    "marca": "Malma",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14850.0,
+    "precio_hoy": 17400.0,
+    "precio_actual_hoy": 11600.58,
+    "diff_abs": 2550.0,
+    "diff_pct": 17.17
+  },
+  {
+    "plu": "511273",
+    "nombre": "Gaseosa Naranja Sin Azúcares Secco Bot 2.25 Ltr",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "497336",
     "nombre": "Gaseosa    Botella 2.25 L ",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "511268",
-    "nombre": "Gaseosa Lima Limon Sin Azúcares Secco Bot 2.25 Ltr",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "511272",
-    "nombre": "Gaseosa Cola Sin Azúcares Secco Bot 2.25 Ltr",
     "marca": "Secco",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1710.0,
@@ -66,19 +55,8 @@
     "diff_pct": 9.65
   },
   {
-    "plu": "511273",
-    "nombre": "Gaseosa Naranja Sin Azúcares Secco Bot 2.25 Ltr",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "497336",
-    "nombre": "Gaseosa    Botella 2.25 L ",
+    "plu": "511268",
+    "nombre": "Gaseosa Lima Limon Sin Azúcares Secco Bot 2.25 Ltr",
     "marca": "Secco",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1710.0,
@@ -110,6 +88,28 @@
     "diff_pct": 9.65
   },
   {
+    "plu": "497335",
+    "nombre": "Gaseosa    Botella 2.25 L ",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "511272",
+    "nombre": "Gaseosa Cola Sin Azúcares Secco Bot 2.25 Ltr",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
     "plu": "511471",
     "nombre": "Soda Sifón Secco Sif 2 Ltr",
     "marca": "Secco",
@@ -121,15 +121,15 @@
     "diff_pct": 7.38
   },
   {
-    "plu": "524783",
-    "nombre": "Vino Tinto Terruño Cabernet Franc Fabre Montmayou Bot 750 Ml",
-    "marca": "Fabre Montmayou",
+    "plu": "488951",
+    "nombre": "Vino Malbec Gran Reserva Humberto Ca Bot 750 Ml",
+    "marca": "Humberto Canale",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 16350.0,
-    "precio_hoy": 17500.0,
-    "precio_actual_hoy": 11667.25,
-    "diff_abs": 1150.0,
-    "diff_pct": 7.03
+    "precio_antes": 39151.0,
+    "precio_hoy": 41892.0,
+    "precio_actual_hoy": 27929.4,
+    "diff_abs": 2741.0,
+    "diff_pct": 7.0
   },
   {
     "plu": "225027",
@@ -209,14 +209,14 @@
     "diff_pct": 5.94
   },
   {
-    "plu": "573381",
-    "nombre": "Vino Malbec Chateau Vieux 750ml",
-    "marca": "Chat.Vieux",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14400.0,
-    "precio_hoy": 15250.0,
-    "precio_actual_hoy": 10167.18,
-    "diff_abs": 850.0,
-    "diff_pct": 5.9
+    "plu": "596969",
+    "nombre": "Sidra Champenoise Aferrada 750ml",
+    "marca": "Aferrada",
+    "categoria": "Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 20300.0,
+    "precio_hoy": 21500.0,
+    "precio_actual_hoy": 16125.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 5.91
   }
 ]
