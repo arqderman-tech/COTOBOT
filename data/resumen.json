@@ -1,9 +1,9 @@
 {
-  "fecha": "20260508",
-  "total_productos": 1849,
+  "fecha": "20260509",
+  "total_productos": 1603,
   "variacion_dia": 0.0,
   "variacion_7d": 0.27,
-  "variacion_mes": 1.63,
+  "variacion_mes": 1.26,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,30 +12,19 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 814,
-      "total_productos": 814
+      "productos_sin_cambio": 817,
+      "total_productos": 817
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 549,
-      "total_productos": 549
+      "productos_sin_cambio": 548,
+      "total_productos": 548
     }
   ],
   "ranking_baja_dia": [
-    {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-      "marca": "Alfredo Coto",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 7990.0,
-      "precio_hoy": 7990.0,
-      "precio_actual_hoy": 5326.93,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
     {
       "plu": "460802",
       "nombre": "Vino ALFREDO COTO Malbec 750ml",
@@ -48,13 +37,13 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460804",
-      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
-      "marca": "Don Alfredo",
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 39500.0,
-      "precio_hoy": 39500.0,
-      "precio_actual_hoy": 26334.65,
+      "precio_antes": 7990.0,
+      "precio_hoy": 7990.0,
+      "precio_actual_hoy": 5326.93,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -66,6 +55,17 @@
       "precio_antes": 16000.0,
       "precio_hoy": 16000.0,
       "precio_actual_hoy": 10667.2,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460804",
+      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 39500.0,
+      "precio_hoy": 39500.0,
+      "precio_actual_hoy": 26334.65,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -103,6 +103,28 @@
       "diff_pct": 0.0
     },
     {
+      "plu": "6300",
+      "nombre": "Sidra Etiqueta Negra REAL 720c",
+      "marca": "Real",
+      "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 6699.0,
+      "precio_hoy": 6699.0,
+      "precio_actual_hoy": 5024.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "479243",
+      "nombre": "Sidra REAL 750ml",
+      "marca": "Real",
+      "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 4899.0,
+      "precio_hoy": 4899.0,
+      "precio_actual_hoy": 3674.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
       "plu": "189589",
       "nombre": "Cerveza  CORONA   Botella 710 Cc",
       "marca": "Corona",
@@ -112,31 +134,9 @@
       "precio_actual_hoy": 4912.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
-    },
-    {
-      "plu": "9696",
-      "nombre": "Cerveza  CORONA   Porron 330 Cc",
-      "marca": "Corona",
-      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 4050.0,
-      "precio_hoy": 4050.0,
-      "precio_actual_hoy": 3037.5,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "245789",
-      "nombre": "Cerveza Lager SCHNEIDER   Botella 1 L",
-      "marca": "Schneider",
-      "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 4200.0,
-      "precio_hoy": 4200.0,
-      "precio_actual_hoy": 3150.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
     }
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1363
+  "productos_sin_cambio_dia": 1365
 }

@@ -1,16 +1,5 @@
 [
   {
-    "plu": "460805",
-    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-    "marca": "Alfredo Coto",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7990.0,
-    "precio_hoy": 7990.0,
-    "precio_actual_hoy": 5326.93,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "460802",
     "nombre": "Vino ALFREDO COTO Malbec 750ml",
     "marca": "Alfredo Coto",
@@ -22,13 +11,13 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460804",
-    "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
-    "marca": "Don Alfredo",
+    "plu": "460805",
+    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+    "marca": "Alfredo Coto",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 39500.0,
-    "precio_hoy": 39500.0,
-    "precio_actual_hoy": 26334.65,
+    "precio_antes": 7990.0,
+    "precio_hoy": 7990.0,
+    "precio_actual_hoy": 5326.93,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -40,6 +29,17 @@
     "precio_antes": 16000.0,
     "precio_hoy": 16000.0,
     "precio_actual_hoy": 10667.2,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "460804",
+    "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+    "marca": "Don Alfredo",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 39500.0,
+    "precio_hoy": 39500.0,
+    "precio_actual_hoy": 26334.65,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -73,6 +73,28 @@
     "precio_antes": 3600.0,
     "precio_hoy": 3600.0,
     "precio_actual_hoy": 2700.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "6300",
+    "nombre": "Sidra Etiqueta Negra REAL 720c",
+    "marca": "Real",
+    "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 6699.0,
+    "precio_hoy": 6699.0,
+    "precio_actual_hoy": 5024.25,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "479243",
+    "nombre": "Sidra REAL 750ml",
+    "marca": "Real",
+    "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4899.0,
+    "precio_hoy": 4899.0,
+    "precio_actual_hoy": 3674.25,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -143,6 +165,17 @@
     "diff_pct": 0.0
   },
   {
+    "plu": "14108",
+    "nombre": "Sidra Brio 1888 SAENZ 750c",
+    "marca": "Saenz",
+    "categoria": "Sidras Y Bebidas Fizz > Sidras > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 10460.0,
+    "precio_hoy": 10460.0,
+    "precio_actual_hoy": 7845.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
     "plu": "288571",
     "nombre": "Cerveza Lager GROLSCH   Lata 473 Cc",
     "marca": "Grolsch",
@@ -183,39 +216,6 @@
     "precio_antes": 5250.0,
     "precio_hoy": 5250.0,
     "precio_actual_hoy": 3937.5,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "298226",
-    "nombre": "Cerveza  BRAHMA Chopp Porron 340 Cc",
-    "marca": "Brahma",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 1600.0,
-    "precio_hoy": 1600.0,
-    "precio_actual_hoy": 1200.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "238215",
-    "nombre": "Cerveza  BRAHMA   Botella 1 L",
-    "marca": "Brahma",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 4400.0,
-    "precio_hoy": 4400.0,
-    "precio_actual_hoy": 3300.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "478593",
-    "nombre": "Cerveza  Brahma  Pack Latas 473 CC 6 Unidades",
-    "marca": "Brahma",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 15000.0,
-    "precio_hoy": 15000.0,
-    "precio_actual_hoy": 11250.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
