@@ -1,9 +1,9 @@
 {
-  "fecha": "20260509",
-  "total_productos": 1603,
+  "fecha": "20260510",
+  "total_productos": 1304,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.27,
-  "variacion_mes": 1.26,
+  "variacion_7d": 0.38,
+  "variacion_mes": 1.14,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,22 +12,22 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 817,
-      "total_productos": 817
+      "productos_sin_cambio": 678,
+      "total_productos": 678
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 548,
-      "total_productos": 548
+      "productos_sin_cambio": 452,
+      "total_productos": 452
     }
   ],
   "ranking_baja_dia": [
     {
-      "plu": "460802",
-      "nombre": "Vino ALFREDO COTO Malbec 750ml",
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
       "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
       "precio_antes": 7990.0,
@@ -37,8 +37,8 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "plu": "460802",
+      "nombre": "Vino ALFREDO COTO Malbec 750ml",
       "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
       "precio_antes": 7990.0,
@@ -138,5 +138,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1365
+  "productos_sin_cambio_dia": 1130
 }
