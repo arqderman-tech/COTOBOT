@@ -1,16 +1,5 @@
 [
   {
-    "plu": "584747",
-    "nombre": "Vino Sauvignon Blanc Malma 750ml",
-    "marca": "Malma",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14850.0,
-    "precio_hoy": 17400.0,
-    "precio_actual_hoy": 11600.58,
-    "diff_abs": 2550.0,
-    "diff_pct": 17.17
-  },
-  {
     "plu": "584745",
     "nombre": "Vino Merlot Malma 750ml",
     "marca": "Malma",
@@ -22,15 +11,26 @@
     "diff_pct": 17.17
   },
   {
-    "plu": "546125",
-    "nombre": "Vino Cabernet Fran Gran Reserva Callejón Del Crimen 755 Ml",
-    "marca": "Callejón Del Crimen",
+    "plu": "584738",
+    "nombre": "Vino Cabernet Sauvignon Malma 750ml",
+    "marca": "Malma",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 20350.0,
-    "precio_hoy": 22500.0,
-    "precio_actual_hoy": 15000.75,
-    "diff_abs": 2150.0,
-    "diff_pct": 10.57
+    "precio_antes": 14850.0,
+    "precio_hoy": 17400.0,
+    "precio_actual_hoy": 11600.58,
+    "diff_abs": 2550.0,
+    "diff_pct": 17.17
+  },
+  {
+    "plu": "584747",
+    "nombre": "Vino Sauvignon Blanc Malma 750ml",
+    "marca": "Malma",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14850.0,
+    "precio_hoy": 17400.0,
+    "precio_actual_hoy": 11600.58,
+    "diff_abs": 2550.0,
+    "diff_pct": 17.17
   },
   {
     "plu": "577532",
@@ -44,15 +44,103 @@
     "diff_pct": 10.57
   },
   {
-    "plu": "121600",
-    "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
+    "plu": "546125",
+    "nombre": "Vino Cabernet Fran Gran Reserva Callejón Del Crimen 755 Ml",
+    "marca": "Callejón Del Crimen",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14333.0,
-    "precio_hoy": 15700.0,
-    "precio_actual_hoy": 10467.19,
-    "diff_abs": 1367.0,
-    "diff_pct": 9.54
+    "precio_antes": 20350.0,
+    "precio_hoy": 22500.0,
+    "precio_actual_hoy": 15000.75,
+    "diff_abs": 2150.0,
+    "diff_pct": 10.57
+  },
+  {
+    "plu": "610929",
+    "nombre": "Gaseosa Limón Intenso Secco 2.25l",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "497336",
+    "nombre": "Gaseosa    Botella 2.25 L ",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "511268",
+    "nombre": "Gaseosa Lima Limon Sin Azúcares Secco Bot 2.25 Ltr",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "511273",
+    "nombre": "Gaseosa Naranja Sin Azúcares Secco Bot 2.25 Ltr",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "497346",
+    "nombre": "Gaseosa    Botella 2.25 L ",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "497335",
+    "nombre": "Gaseosa    Botella 2.25 L ",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "497341",
+    "nombre": "Gaseosa    Botella 2.25 L ",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "511272",
+    "nombre": "Gaseosa Cola Sin Azúcares Secco Bot 2.25 Ltr",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
   },
   {
     "plu": "595151",
@@ -66,6 +154,28 @@
     "diff_pct": 8.99
   },
   {
+    "plu": "511471",
+    "nombre": "Soda Sifón Secco Sif 2 Ltr",
+    "marca": "Secco",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "precio_antes": 1490.0,
+    "precio_hoy": 1600.0,
+    "precio_actual_hoy": 1600.0,
+    "diff_abs": 110.0,
+    "diff_pct": 7.38
+  },
+  {
+    "plu": "545732",
+    "nombre": "Vino Cabernet Sauvignon Reserva Callejón Del Crimen 750 Ml",
+    "marca": "Callejón Del Crimen",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14850.0,
+    "precio_hoy": 15900.0,
+    "precio_actual_hoy": 10600.53,
+    "diff_abs": 1050.0,
+    "diff_pct": 7.07
+  },
+  {
     "plu": "546126",
     "nombre": "Vino Cabernet Franc Reserva Callejón Del Crimen 752 Ml",
     "marca": "Callejón Del Crimen",
@@ -77,15 +187,15 @@
     "diff_pct": 7.07
   },
   {
-    "plu": "545733",
-    "nombre": "Vino Malbec Reserva Callejón Del Crimen 750 Ml",
-    "marca": "Callejón Del Crimen",
+    "plu": "524783",
+    "nombre": "Vino Tinto Terruño Cabernet Franc Fabre Montmayou Bot 750 Ml",
+    "marca": "Fabre Montmayou",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14850.0,
-    "precio_hoy": 15900.0,
-    "precio_actual_hoy": 10600.53,
-    "diff_abs": 1050.0,
-    "diff_pct": 7.07
+    "precio_antes": 16350.0,
+    "precio_hoy": 17500.0,
+    "precio_actual_hoy": 11667.25,
+    "diff_abs": 1150.0,
+    "diff_pct": 7.03
   },
   {
     "plu": "225027",
@@ -108,115 +218,5 @@
     "precio_actual_hoy": 10667.2,
     "diff_abs": 1000.0,
     "diff_pct": 6.67
-  },
-  {
-    "plu": "3940",
-    "nombre": "Vino F.Blanc . Selec.Lop Bot 750 Cmq",
-    "marca": "Lopez",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5050.0,
-    "precio_hoy": 5350.0,
-    "precio_actual_hoy": 3566.85,
-    "diff_abs": 300.0,
-    "diff_pct": 5.94
-  },
-  {
-    "plu": "3939",
-    "nombre": "Vino Tinto Lopez Selección 750 CC",
-    "marca": "Selec.Lopez",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5050.0,
-    "precio_hoy": 5350.0,
-    "precio_actual_hoy": 3566.85,
-    "diff_abs": 300.0,
-    "diff_pct": 5.94
-  },
-  {
-    "plu": "525187",
-    "nombre": "Espumante Nature Montchenot Bot 750 Ml",
-    "marca": "Montchenot",
-    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 13550.0,
-    "precio_hoy": 14350.0,
-    "precio_actual_hoy": 9567.15,
-    "diff_abs": 800.0,
-    "diff_pct": 5.9
-  },
-  {
-    "plu": "3943",
-    "nombre": "Vino Tinto CHATEU VIEUX Bot 750 CC",
-    "marca": "Chateu Vieux",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14400.0,
-    "precio_hoy": 15250.0,
-    "precio_actual_hoy": 10167.18,
-    "diff_abs": 850.0,
-    "diff_pct": 5.9
-  },
-  {
-    "plu": "525186",
-    "nombre": "Espumante Extra Brut Montchenot Bot 753 Ml",
-    "marca": "Montchenot",
-    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 13550.0,
-    "precio_hoy": 14350.0,
-    "precio_actual_hoy": 9567.15,
-    "diff_abs": 800.0,
-    "diff_pct": 5.9
-  },
-  {
-    "plu": "614132",
-    "nombre": "Vino Cabernet Franc Mendel 750ml",
-    "marca": "Mendel",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 34000.0,
-    "precio_hoy": 36000.0,
-    "precio_actual_hoy": 24001.2,
-    "diff_abs": 2000.0,
-    "diff_pct": 5.88
-  },
-  {
-    "plu": "3937",
-    "nombre": "Vino Tinto VASCO VIEJO Bot 750 CC",
-    "marca": "Vasco Viejo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3400.0,
-    "precio_hoy": 3600.0,
-    "precio_actual_hoy": 2400.12,
-    "diff_abs": 200.0,
-    "diff_pct": 5.88
-  },
-  {
-    "plu": "462089",
-    "nombre": "Vino GLORIA COTO Semillón 500 Ml",
-    "marca": "Gloria Coto",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 17000.0,
-    "precio_hoy": 18000.0,
-    "precio_actual_hoy": 12000.6,
-    "diff_abs": 1000.0,
-    "diff_pct": 5.88
-  },
-  {
-    "plu": "3938",
-    "nombre": "Vino Blanco VASCO VIEJO Bot 700 CC",
-    "marca": "Vasco Viejo",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3400.0,
-    "precio_hoy": 3600.0,
-    "precio_actual_hoy": 2400.12,
-    "diff_abs": 200.0,
-    "diff_pct": 5.88
-  },
-  {
-    "plu": "525188",
-    "nombre": "Vino Malbec Vasco Viejo Bot 1.125 Ltr",
-    "marca": "Vasco Viejo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6950.0,
-    "precio_hoy": 7350.0,
-    "precio_actual_hoy": 4900.25,
-    "diff_abs": 400.0,
-    "diff_pct": 5.76
   }
 ]
