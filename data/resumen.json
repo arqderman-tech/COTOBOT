@@ -1,66 +1,132 @@
 {
-  "fecha": "20260513",
-  "total_productos": 1600,
-  "variacion_dia": 0.11,
+  "fecha": "20260514",
+  "total_productos": 1601,
+  "variacion_dia": 0.2,
   "variacion_7d": 0.42,
-  "variacion_mes": 1.49,
+  "variacion_mes": 1.56,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.12,
-      "productos_subieron": 12,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 587,
-      "total_productos": 599
+      "productos_sin_cambio": 620,
+      "total_productos": 620
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 26,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 521,
-      "total_productos": 550
+      "variacion_pct_promedio": 0.42,
+      "productos_subieron": 32,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 516,
+      "total_productos": 548
     }
   ],
   "ranking_baja_dia": [
     {
-      "plu": "526340",
-      "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 1799.0,
-      "precio_actual_hoy": 1799.0,
-      "diff_abs": -900.0,
-      "diff_pct": -33.35
+      "plu": "264547",
+      "nombre": "Bebida Isotónica POWERADE Frutas Tropicales 995 Ml",
+      "marca": "Powerade",
+      "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
+      "precio_antes": 2400.0,
+      "precio_hoy": 2400.0,
+      "precio_actual_hoy": 2400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "plu": "526339",
-      "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 1799.0,
-      "precio_actual_hoy": 1799.0,
-      "diff_abs": -900.0,
-      "diff_pct": -33.35
+      "plu": "256107",
+      "nombre": "ADES Soja + Jugo De Manzana 200 Ml",
+      "marca": "Ades",
+      "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+      "precio_antes": 1400.0,
+      "precio_hoy": 1400.0,
+      "precio_actual_hoy": 1400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "plu": "526337",
-      "nombre": "Jugo Arándanos Diet Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -700.0,
-      "diff_pct": -25.94
+      "plu": "256108",
+      "nombre": "ADES Soja + Jugo De Frutas Tropicales 200 Ml",
+      "marca": "Ades",
+      "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+      "precio_antes": 1400.0,
+      "precio_hoy": 1400.0,
+      "precio_actual_hoy": 1400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     },
     {
-      "plu": "256105",
-      "nombre": "ADES Soja + Jugo De Naranja 1 Lt",
+      "plu": "256106",
+      "nombre": "ADES Soja + Jugo De Naranja 200 Ml",
+      "marca": "Ades",
+      "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+      "precio_antes": 1400.0,
+      "precio_hoy": 1400.0,
+      "precio_actual_hoy": 1400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "457983",
+      "nombre": "Bebida Isotónica POWERADE Frutas Tropicales 1,5 Lt",
+      "marca": "Powerade",
+      "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+      "precio_antes": 3000.0,
+      "precio_hoy": 3000.0,
+      "precio_actual_hoy": 2400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "457982",
+      "nombre": "Bebida Isotónica POWERADE Mountain Blast 1,5 Lt",
+      "marca": "Powerade",
+      "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+      "precio_antes": 3000.0,
+      "precio_hoy": 3000.0,
+      "precio_actual_hoy": 2400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "457984",
+      "nombre": "Bebida Isotónica POWERADE Manzana 1,5 Lt",
+      "marca": "Powerade",
+      "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+      "precio_antes": 3000.0,
+      "precio_hoy": 3000.0,
+      "precio_actual_hoy": 2400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "264546",
+      "nombre": "Bebida Isotónica POWERADE Manzana 995 Ml",
+      "marca": "Powerade",
+      "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
+      "precio_antes": 2400.0,
+      "precio_hoy": 2400.0,
+      "precio_actual_hoy": 2400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "264545",
+      "nombre": "Bebida Isotónica POWERADE Mountain Blast 995 Ml",
+      "marca": "Powerade",
+      "categoria": "JUGOS > Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
+      "precio_antes": 2400.0,
+      "precio_hoy": 2400.0,
+      "precio_actual_hoy": 2400.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "256245",
+      "nombre": "ADES Soja + Jugo De Frutas Tropicales 1 Lt",
       "marca": "Ades",
       "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
       "precio_antes": 3100.0,
@@ -68,75 +134,9 @@
       "precio_actual_hoy": 3100.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
-    },
-    {
-      "plu": "476810",
-      "nombre": "Agua Sin Gas Pomelo Vds Levite Cero Pet 500 Ml",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "476811",
-      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Pera Botella 500 Cc",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "476798",
-      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Naranja Botella 500 Cc",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "478433",
-      "nombre": "Agua Sin Gas Naranja Vds Levite Pet 500 Ml",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "85213",
-      "nombre": "Gaseosa CRUSH Naranja 2,25 Lt",
-      "marca": "Crush",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 1800.0,
-      "precio_hoy": 1800.0,
-      "precio_actual_hoy": 1440.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "87802",
-      "nombre": "Gaseosa CRUSH Lima-Limón 2,25 Lt",
-      "marca": "Crush",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 1800.0,
-      "precio_hoy": 1800.0,
-      "precio_actual_hoy": 1440.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 38,
-  "productos_bajaron_dia": 3,
-  "productos_sin_cambio_dia": 1108
+  "productos_subieron_dia": 32,
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 1136
 }

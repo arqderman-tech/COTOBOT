@@ -1,12 +1,12 @@
 [
   {
-    "plu": "584747",
-    "nombre": "Vino Sauvignon Blanc Malma 750ml",
+    "plu": "584738",
+    "nombre": "Vino Cabernet Sauvignon Malma 750ml",
     "marca": "Malma",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 14175.0,
     "precio_hoy": 17400.0,
-    "precio_actual_hoy": 17400.0,
+    "precio_actual_hoy": 11600.58,
     "diff_abs": 3225.0,
     "diff_pct": 22.75
   },
@@ -22,92 +22,15 @@
     "diff_pct": 20.3
   },
   {
-    "plu": "601677",
-    "nombre": "Aperitivo Sabor Limón Sin Alcohol GANCIA 473ml",
-    "marca": "Gancia",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano",
-    "precio_antes": 2400.0,
-    "precio_hoy": 2790.0,
-    "precio_actual_hoy": 2790.0,
-    "diff_abs": 390.0,
-    "diff_pct": 16.25
-  },
-  {
-    "plu": "614115",
-    "nombre": "Whisky Ahumado Sir Edward'S 700ml",
-    "marca": "Sir Edward S",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 27195.0,
-    "precio_hoy": 31500.0,
-    "precio_actual_hoy": 31500.0,
-    "diff_abs": 4305.0,
-    "diff_pct": 15.83
-  },
-  {
-    "plu": "545735",
-    "nombre": "Vino Cabernet Sauvignon Gran Reserva Callejón Del Crimen 750 Ml",
+    "plu": "545734",
+    "nombre": "Vino Malbec Gran Reserva Callejón Del Crimen 750 Ml",
     "marca": "Callejón Del Crimen",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 19425.0,
     "precio_hoy": 22500.0,
-    "precio_actual_hoy": 22500.0,
+    "precio_actual_hoy": 15000.75,
     "diff_abs": 3075.0,
     "diff_pct": 15.83
-  },
-  {
-    "plu": "467763",
-    "nombre": "Whisky Green Label JOHNNIE WALKER 750ml",
-    "marca": "Johnnie Walker",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 195217.0,
-    "precio_hoy": 225770.0,
-    "precio_actual_hoy": 225770.0,
-    "diff_abs": 30553.0,
-    "diff_pct": 15.65
-  },
-  {
-    "plu": "183624",
-    "nombre": "Cachaca . Velho Barre Bot 910 Cmq",
-    "marca": "Velho Barreiro",
-    "categoria": "Cachaza > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
-    "precio_antes": 11760.0,
-    "precio_hoy": 13500.0,
-    "precio_actual_hoy": 13500.0,
-    "diff_abs": 1740.0,
-    "diff_pct": 14.8
-  },
-  {
-    "plu": "474802",
-    "nombre": "Whisky . Sir Edward  Bot 700 Cmq",
-    "marca": "Sir Edwards",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 25725.0,
-    "precio_hoy": 29500.0,
-    "precio_actual_hoy": 29500.0,
-    "diff_abs": 3775.0,
-    "diff_pct": 14.67
-  },
-  {
-    "plu": "474740",
-    "nombre": "Licor Crema Dulce De Leche WILD AFRICA Bot 750 Ml",
-    "marca": "Wild Africa",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 27825.0,
-    "precio_hoy": 31900.0,
-    "precio_actual_hoy": 31900.0,
-    "diff_abs": 4075.0,
-    "diff_pct": 14.65
-  },
-  {
-    "plu": "175458",
-    "nombre": "Whisky Blue Label JOHNNIE WALKER 750 CC",
-    "marca": "Johnnie Walker",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 511560.0,
-    "precio_hoy": 584640.0,
-    "precio_actual_hoy": 584640.0,
-    "diff_abs": 73080.0,
-    "diff_pct": 14.29
   },
   {
     "plu": "1156",
@@ -121,6 +44,17 @@
     "diff_pct": 13.36
   },
   {
+    "plu": "267380",
+    "nombre": "Americano DR. LEMON Con Limón Botella 1 L",
+    "marca": "Dr. Lemon",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4750.0,
+    "precio_actual_hoy": 3562.5,
+    "diff_abs": 550.0,
+    "diff_pct": 13.1
+  },
+  {
     "plu": "286945",
     "nombre": "Americano DR. LEMON Con Vodka Botella 1 L",
     "marca": "Dr. Lemon",
@@ -132,8 +66,8 @@
     "diff_pct": 13.1
   },
   {
-    "plu": "267380",
-    "nombre": "Americano DR. LEMON Con Limón Botella 1 L",
+    "plu": "457104",
+    "nombre": "Americano DR. LEMON Vodka Y Pomelo Botella 1 L",
     "marca": "Dr. Lemon",
     "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
     "precio_antes": 4200.0,
@@ -154,46 +88,13 @@
     "diff_pct": 13.1
   },
   {
-    "plu": "457104",
-    "nombre": "Americano DR. LEMON Vodka Y Pomelo Botella 1 L",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.5,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "5590",
-    "nombre": "Licor Livian Naranja COINTREAU Bot 700 Cmq",
-    "marca": "Cointreau",
-    "categoria": "Licores > LICORES > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 66675.0,
-    "precio_hoy": 74900.0,
-    "precio_actual_hoy": 74900.0,
-    "diff_abs": 8225.0,
-    "diff_pct": 12.34
-  },
-  {
-    "plu": "531526",
-    "nombre": "Jugo Multifruta DEL VALLE 1l",
+    "plu": "531525",
+    "nombre": "Jugo Naranja Del Valle Ttb 1 Ltr",
     "marca": "Del Valle",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
-  },
-  {
-    "plu": "529773",
-    "nombre": "Jugo Manzana DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
+    "precio_actual_hoy": 1260.0,
     "diff_abs": 210.0,
     "diff_pct": 11.11
   },
@@ -204,19 +105,118 @@
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
+    "precio_actual_hoy": 1260.0,
     "diff_abs": 210.0,
     "diff_pct": 11.11
   },
   {
-    "plu": "531525",
-    "nombre": "Jugo Naranja Del Valle Ttb 1 Ltr",
+    "plu": "531526",
+    "nombre": "Jugo Multifruta DEL VALLE 1l",
     "marca": "Del Valle",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
+    "precio_actual_hoy": 1260.0,
     "diff_abs": 210.0,
     "diff_pct": 11.11
+  },
+  {
+    "plu": "529773",
+    "nombre": "Jugo Manzana DEL VALLE 1l",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1260.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "610207",
+    "nombre": "Cerveza Sin Alcohol Golden Imperial 473 CC",
+    "marca": "Imperial",
+    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 1900.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 1575.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.53
+  },
+  {
+    "plu": "617701",
+    "nombre": "Soda Manaos Sif 2 Ltr",
+    "marca": "Manaos",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "precio_antes": 2070.0,
+    "precio_hoy": 2285.0,
+    "precio_actual_hoy": 2285.0,
+    "diff_abs": 215.0,
+    "diff_pct": 10.39
+  },
+  {
+    "plu": "257450",
+    "nombre": "Pisco MISTRAL 750 Cmq",
+    "marca": "Mistral",
+    "categoria": "Pisco > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
+    "precio_antes": 21300.0,
+    "precio_hoy": 23400.0,
+    "precio_actual_hoy": 16380.0,
+    "diff_abs": 2100.0,
+    "diff_pct": 9.86
+  },
+  {
+    "plu": "617699",
+    "nombre": "Agua Saborizada Multifruta Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "617700",
+    "nombre": "Agua Saborizada Pera Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "617705",
+    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "529777",
+    "nombre": "Jugo Naranja Del Valle Ttb 200 Ml",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 720.0,
+    "precio_hoy": 790.0,
+    "precio_actual_hoy": 474.0,
+    "diff_abs": 70.0,
+    "diff_pct": 9.72
+  },
+  {
+    "plu": "529775",
+    "nombre": "Jugo Manzana Del Valle Ttb 200 Ml",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 720.0,
+    "precio_hoy": 790.0,
+    "precio_actual_hoy": 474.0,
+    "diff_abs": 70.0,
+    "diff_pct": 9.72
   }
 ]
