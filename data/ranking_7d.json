@@ -22,17 +22,6 @@
     "diff_pct": 10.39
   },
   {
-    "plu": "617700",
-    "nombre": "Agua Saborizada Pera Placer 1.5l",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
-  },
-  {
     "plu": "617705",
     "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
     "marca": "Placer",
@@ -44,30 +33,8 @@
     "diff_pct": 9.84
   },
   {
-    "plu": "617699",
-    "nombre": "Agua Saborizada Multifruta Placer 1.5l",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
-  },
-  {
-    "plu": "499110",
-    "nombre": "Vino Malbec Cabernet Franc H J.Fabre Bot 750 Ml",
-    "marca": "H. J.Fabre",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 13265.0,
-    "precio_hoy": 14260.0,
-    "precio_actual_hoy": 9507.14,
-    "diff_abs": 995.0,
-    "diff_pct": 7.5
-  },
-  {
-    "plu": "164951",
-    "nombre": "Vino Cabernet Sauvignon PHEBUS Bot 750 CC",
+    "plu": "203677",
+    "nombre": "Vino Fino Tinto Phebus Mmc Bot 750 Cmq",
     "marca": "Phebus",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 11800.0,
@@ -88,8 +55,8 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "203677",
-    "nombre": "Vino Fino Tinto Phebus Mmc Bot 750 Cmq",
+    "plu": "164951",
+    "nombre": "Vino Cabernet Sauvignon PHEBUS Bot 750 CC",
     "marca": "Phebus",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 11800.0,
@@ -110,8 +77,8 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "548649",
-    "nombre": "Jugo En Polvo TANG Naranja Banana 15g",
+    "plu": "548648",
+    "nombre": "Jugo En Polvo TANG Multifruta 15g",
     "marca": "Tang",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
@@ -121,8 +88,8 @@
     "diff_pct": 7.36
   },
   {
-    "plu": "548660",
-    "nombre": "Jugo En Polvo TANG Frutilla 15g",
+    "plu": "548659",
+    "nombre": "Jugo En Polvo TANG Ananá 15g",
     "marca": "Tang",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
@@ -132,20 +99,9 @@
     "diff_pct": 7.36
   },
   {
-    "plu": "532070",
-    "nombre": "Jugo En Polvo CLIGHT Limonada Rosa 8g",
+    "plu": "547426",
+    "nombre": "Jugo En Polvo CLIGHT Ananá 7g",
     "marca": "Clight",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548651",
-    "nombre": "Jugo En Polvo TANG Sabor Pera 15g",
-    "marca": "Tang",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
     "precio_hoy": 525.0,
@@ -165,8 +121,8 @@
     "diff_pct": 7.36
   },
   {
-    "plu": "548646",
-    "nombre": "Jugo En Polvo TANG Limonada Dulce 15g",
+    "plu": "548647",
+    "nombre": "Jugo En Polvo TANG Pomelo Rosado 15g",
     "marca": "Tang",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
@@ -176,20 +132,42 @@
     "diff_pct": 7.36
   },
   {
-    "plu": "548662",
-    "nombre": "Jugo En Polvo TANG  Manzana 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "547408",
-    "nombre": "Jugo En Polvo CLIGHT Pomelo Rosado 8 G",
+    "plu": "547420",
+    "nombre": "Jugo En Polvo CLIGHT Limonada 8 G",
     "marca": "Clight",
+    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 489.0,
+    "precio_hoy": 525.0,
+    "precio_actual_hoy": 262.5,
+    "diff_abs": 36.0,
+    "diff_pct": 7.36
+  },
+  {
+    "plu": "548645",
+    "nombre": "Jugo En Polvo TANG Naranja Mango 15g",
+    "marca": "Tang",
+    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 489.0,
+    "precio_hoy": 525.0,
+    "precio_actual_hoy": 262.5,
+    "diff_abs": 36.0,
+    "diff_pct": 7.36
+  },
+  {
+    "plu": "548652",
+    "nombre": "Jugo En Polvo TANG Durazno 15g",
+    "marca": "Tang",
+    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 489.0,
+    "precio_hoy": 525.0,
+    "precio_actual_hoy": 262.5,
+    "diff_abs": 36.0,
+    "diff_pct": 7.36
+  },
+  {
+    "plu": "548649",
+    "nombre": "Jugo En Polvo TANG Naranja Banana 15g",
+    "marca": "Tang",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
     "precio_hoy": 525.0,
@@ -209,8 +187,30 @@
     "diff_pct": 7.36
   },
   {
-    "plu": "598705",
-    "nombre": "Jugo En Polvo Mandarina Tang 15g",
+    "plu": "548646",
+    "nombre": "Jugo En Polvo TANG Limonada Dulce 15g",
+    "marca": "Tang",
+    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 489.0,
+    "precio_hoy": 525.0,
+    "precio_actual_hoy": 262.5,
+    "diff_abs": 36.0,
+    "diff_pct": 7.36
+  },
+  {
+    "plu": "548650",
+    "nombre": "Jugo En Polvo TANG Naranja Durazno 15g",
+    "marca": "Tang",
+    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 489.0,
+    "precio_hoy": 525.0,
+    "precio_actual_hoy": 262.5,
+    "diff_abs": 36.0,
+    "diff_pct": 7.36
+  },
+  {
+    "plu": "622046",
+    "nombre": "Jugo en polvo Galáctico TANG 15g",
     "marca": "Tang",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
