@@ -1,14 +1,69 @@
 [
   {
-    "plu": "516551",
-    "nombre": "Jugo Mojito Sunrise Gergal Bot 910 Ml",
-    "marca": "Gergal",
-    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3199.0,
-    "precio_hoy": 4199.0,
-    "precio_actual_hoy": 4199.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 31.26
+    "plu": "1156",
+    "nombre": "Americano GANCIA Botella 950 Cc",
+    "marca": "Gancia",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano",
+    "precio_antes": 8689.0,
+    "precio_hoy": 9850.0,
+    "precio_actual_hoy": 7387.5,
+    "diff_abs": 1161.0,
+    "diff_pct": 13.36
+  },
+  {
+    "plu": "286945",
+    "nombre": "Americano DR. LEMON Con Vodka Botella 1 L",
+    "marca": "Dr. Lemon",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4750.0,
+    "precio_actual_hoy": 3562.5,
+    "diff_abs": 550.0,
+    "diff_pct": 13.1
+  },
+  {
+    "plu": "267380",
+    "nombre": "Americano DR. LEMON Con Limón Botella 1 L",
+    "marca": "Dr. Lemon",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4750.0,
+    "precio_actual_hoy": 3562.5,
+    "diff_abs": 550.0,
+    "diff_pct": 13.1
+  },
+  {
+    "plu": "294015",
+    "nombre": "Americano DR. MOJITO Botella 1 L",
+    "marca": "Dr. Mojito",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4750.0,
+    "precio_actual_hoy": 3562.5,
+    "diff_abs": 550.0,
+    "diff_pct": 13.1
+  },
+  {
+    "plu": "491153",
+    "nombre": "Americano Red Berry Con  Dr.Lemon Bot 1 Ltr",
+    "marca": "Dr. Lemon",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4750.0,
+    "precio_actual_hoy": 3562.5,
+    "diff_abs": 550.0,
+    "diff_pct": 13.1
+  },
+  {
+    "plu": "457104",
+    "nombre": "Americano DR. LEMON Vodka Y Pomelo Botella 1 L",
+    "marca": "Dr. Lemon",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4750.0,
+    "precio_actual_hoy": 3562.5,
+    "diff_abs": 550.0,
+    "diff_pct": 13.1
   },
   {
     "plu": "617701",
@@ -22,6 +77,17 @@
     "diff_pct": 10.39
   },
   {
+    "plu": "617699",
+    "nombre": "Agua Saborizada Multifruta Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
     "plu": "617705",
     "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
     "marca": "Placer",
@@ -33,25 +99,36 @@
     "diff_pct": 9.84
   },
   {
-    "plu": "203677",
-    "nombre": "Vino Fino Tinto Phebus Mmc Bot 750 Cmq",
-    "marca": "Phebus",
+    "plu": "617700",
+    "nombre": "Agua Saborizada Pera Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "499111",
+    "nombre": "Vino Malbec Merlot H J.Fabre Bot 750 Ml",
+    "marca": "H. J.Fabre",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11800.0,
-    "precio_hoy": 12685.0,
-    "precio_actual_hoy": 8457.09,
-    "diff_abs": 885.0,
+    "precio_antes": 13265.0,
+    "precio_hoy": 14260.0,
+    "precio_actual_hoy": 9507.14,
+    "diff_abs": 995.0,
     "diff_pct": 7.5
   },
   {
-    "plu": "164939",
-    "nombre": "Vino Malbec PHEBUS Bot 750 CC",
-    "marca": "Phebus",
+    "plu": "499118",
+    "nombre": "Vino Malbec Peit Verdot H J.Fabre Bot 750 Ml",
+    "marca": "H. J.Fabre",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11800.0,
-    "precio_hoy": 12685.0,
-    "precio_actual_hoy": 8457.09,
-    "diff_abs": 885.0,
+    "precio_antes": 13265.0,
+    "precio_hoy": 14260.0,
+    "precio_actual_hoy": 9507.14,
+    "diff_abs": 995.0,
     "diff_pct": 7.5
   },
   {
@@ -66,9 +143,20 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "499111",
-    "nombre": "Vino Malbec Merlot H J.Fabre Bot 750 Ml",
-    "marca": "H. J.Fabre",
+    "plu": "203677",
+    "nombre": "Vino Fino Tinto Phebus Mmc Bot 750 Cmq",
+    "marca": "Phebus",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 11800.0,
+    "precio_hoy": 12685.0,
+    "precio_actual_hoy": 8457.09,
+    "diff_abs": 885.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "568239",
+    "nombre": "Vino Malbec Pinot Noir H.J. Fabre 750ml",
+    "marca": "H J.Fabre",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 13265.0,
     "precio_hoy": 14260.0,
@@ -77,9 +165,31 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "548648",
-    "nombre": "Jugo En Polvo TANG Multifruta 15g",
+    "plu": "164939",
+    "nombre": "Vino Malbec PHEBUS Bot 750 CC",
+    "marca": "Phebus",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 11800.0,
+    "precio_hoy": 12685.0,
+    "precio_actual_hoy": 8457.09,
+    "diff_abs": 885.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "622046",
+    "nombre": "Jugo en polvo Galáctico TANG 15g",
     "marca": "Tang",
+    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 489.0,
+    "precio_hoy": 525.0,
+    "precio_actual_hoy": 262.5,
+    "diff_abs": 36.0,
+    "diff_pct": 7.36
+  },
+  {
+    "plu": "547421",
+    "nombre": "Jugo En Polvo CLIGHT Manzana Verde 7,5g",
+    "marca": "Clight",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
     "precio_hoy": 525.0,
@@ -99,119 +209,9 @@
     "diff_pct": 7.36
   },
   {
-    "plu": "547426",
-    "nombre": "Jugo En Polvo CLIGHT Ananá 7g",
+    "plu": "547427",
+    "nombre": "Jugo En Polvo CLIGHT Naranja Dulce 7,5 G",
     "marca": "Clight",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "547412",
-    "nombre": "Jugo En Polvo CLIGHT Naranja Durazno 7,5g",
-    "marca": "Clight",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548647",
-    "nombre": "Jugo En Polvo TANG Pomelo Rosado 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "547420",
-    "nombre": "Jugo En Polvo CLIGHT Limonada 8 G",
-    "marca": "Clight",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548645",
-    "nombre": "Jugo En Polvo TANG Naranja Mango 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548652",
-    "nombre": "Jugo En Polvo TANG Durazno 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548649",
-    "nombre": "Jugo En Polvo TANG Naranja Banana 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548653",
-    "nombre": "Jugo En Polvo TANG Naranja Lima 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548646",
-    "nombre": "Jugo En Polvo TANG Limonada Dulce 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "548650",
-    "nombre": "Jugo En Polvo TANG Naranja Durazno 15g",
-    "marca": "Tang",
-    "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 489.0,
-    "precio_hoy": 525.0,
-    "precio_actual_hoy": 262.5,
-    "diff_abs": 36.0,
-    "diff_pct": 7.36
-  },
-  {
-    "plu": "622046",
-    "nombre": "Jugo en polvo Galáctico TANG 15g",
-    "marca": "Tang",
     "categoria": "Jugos En Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 489.0,
     "precio_hoy": 525.0,
