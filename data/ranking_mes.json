@@ -1,47 +1,14 @@
 [
   {
-    "plu": "584745",
-    "nombre": "Vino Merlot Malma 750ml",
-    "marca": "Malma",
+    "plu": "514841",
+    "nombre": "Vino Tinto,De Sang Cabernet Franc Luigi Bosca Bot 750 Ml",
+    "marca": "Luigi Bosca",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14175.0,
-    "precio_hoy": 17400.0,
-    "precio_actual_hoy": 11600.58,
-    "diff_abs": 3225.0,
-    "diff_pct": 22.75
-  },
-  {
-    "plu": "546126",
-    "nombre": "Vino Cabernet Franc Reserva Callejón Del Crimen 752 Ml",
-    "marca": "Callejón Del Crimen",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14175.0,
-    "precio_hoy": 15900.0,
-    "precio_actual_hoy": 10600.53,
-    "diff_abs": 1725.0,
-    "diff_pct": 12.17
-  },
-  {
-    "plu": "598731",
-    "nombre": "Vino Chardonnay Gran Sombrero 750ml",
-    "marca": "Gran Sombrero",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 19620.0,
-    "precio_hoy": 21925.0,
-    "precio_actual_hoy": 14617.4,
-    "diff_abs": 2305.0,
-    "diff_pct": 11.75
-  },
-  {
-    "plu": "598722",
-    "nombre": "Espumante Pinot Noir Extra Brutt Somrero 750ml",
-    "marca": "Sombrero",
-    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12535.0,
-    "precio_hoy": 14000.0,
-    "precio_actual_hoy": 9333.8,
-    "diff_abs": 1465.0,
-    "diff_pct": 11.69
+    "precio_antes": 27500.0,
+    "precio_hoy": 31000.0,
+    "precio_actual_hoy": 24800.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 12.73
   },
   {
     "plu": "514822",
@@ -50,20 +17,9 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 24266.0,
     "precio_hoy": 27000.0,
-    "precio_actual_hoy": 18000.9,
+    "precio_actual_hoy": 21600.0,
     "diff_abs": 2734.0,
     "diff_pct": 11.27
-  },
-  {
-    "plu": "558894",
-    "nombre": "Jugo Durazno DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1260.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
   },
   {
     "plu": "531526",
@@ -72,18 +28,18 @@
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1260.0,
+    "precio_actual_hoy": 2100.0,
     "diff_abs": 210.0,
     "diff_pct": 11.11
   },
   {
-    "plu": "531525",
-    "nombre": "Jugo Naranja Del Valle Ttb 1 Ltr",
+    "plu": "558894",
+    "nombre": "Jugo Durazno DEL VALLE 1l",
     "marca": "Del Valle",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1260.0,
+    "precio_actual_hoy": 2100.0,
     "diff_abs": 210.0,
     "diff_pct": 11.11
   },
@@ -94,29 +50,62 @@
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1260.0,
+    "precio_actual_hoy": 2100.0,
     "diff_abs": 210.0,
     "diff_pct": 11.11
   },
   {
-    "plu": "610207",
-    "nombre": "Cerveza Sin Alcohol Golden Imperial 473 CC",
-    "marca": "Imperial",
-    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 1900.0,
+    "plu": "531525",
+    "nombre": "Jugo Naranja Del Valle Ttb 1 Ltr",
+    "marca": "Del Valle",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
-    "precio_actual_hoy": 1575.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.53
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
   },
   {
-    "plu": "598727",
-    "nombre": "Vino Cabernet Franc Sombrero 750ml",
+    "plu": "500956",
+    "nombre": "Cerveza Scotch ANTARES   Lata 473 Cc",
+    "marca": "Antares",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4071.0,
+    "precio_hoy": 4514.0,
+    "precio_actual_hoy": 4514.0,
+    "diff_abs": 443.0,
+    "diff_pct": 10.88
+  },
+  {
+    "plu": "500957",
+    "nombre": "Cerveza Honey ANTARES   Lata 473 Cc",
+    "marca": "Antares",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4071.0,
+    "precio_hoy": 4514.0,
+    "precio_actual_hoy": 4514.0,
+    "diff_abs": 443.0,
+    "diff_pct": 10.88
+  },
+  {
+    "plu": "492285",
+    "nombre": "Cerveza Ipa ANTARES   Lata 473 Cc",
+    "marca": "Antares",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4072.0,
+    "precio_hoy": 4514.0,
+    "precio_actual_hoy": 4514.0,
+    "diff_abs": 442.0,
+    "diff_pct": 10.85
+  },
+  {
+    "plu": "598734",
+    "nombre": "Vino Cabernet Sauvignon Sombrero 750ml",
     "marca": "Sombrero",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 11445.0,
     "precio_hoy": 12640.0,
-    "precio_actual_hoy": 8427.09,
+    "precio_actual_hoy": 12640.0,
     "diff_abs": 1195.0,
     "diff_pct": 10.44
   },
@@ -127,18 +116,7 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 11445.0,
     "precio_hoy": 12640.0,
-    "precio_actual_hoy": 8427.09,
-    "diff_abs": 1195.0,
-    "diff_pct": 10.44
-  },
-  {
-    "plu": "598734",
-    "nombre": "Vino Cabernet Sauvignon Sombrero 750ml",
-    "marca": "Sombrero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11445.0,
-    "precio_hoy": 12640.0,
-    "precio_actual_hoy": 8427.09,
+    "precio_actual_hoy": 12640.0,
     "diff_abs": 1195.0,
     "diff_pct": 10.44
   },
@@ -149,7 +127,7 @@
     "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 11445.0,
     "precio_hoy": 12640.0,
-    "precio_actual_hoy": 8427.09,
+    "precio_actual_hoy": 12640.0,
     "diff_abs": 1195.0,
     "diff_pct": 10.44
   },
@@ -160,9 +138,20 @@
     "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
     "precio_antes": 2070.0,
     "precio_hoy": 2285.0,
-    "precio_actual_hoy": 1713.75,
+    "precio_actual_hoy": 2285.0,
     "diff_abs": 215.0,
     "diff_pct": 10.39
+  },
+  {
+    "plu": "617700",
+    "nombre": "Agua Saborizada Pera Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
   },
   {
     "plu": "617699",
@@ -187,24 +176,35 @@
     "diff_pct": 9.84
   },
   {
-    "plu": "617700",
-    "nombre": "Agua Saborizada Pera Placer 1.5l",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
-  },
-  {
     "plu": "529777",
     "nombre": "Jugo Naranja Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
     "precio_hoy": 790.0,
-    "precio_actual_hoy": 474.0,
+    "precio_actual_hoy": 790.0,
+    "diff_abs": 70.0,
+    "diff_pct": 9.72
+  },
+  {
+    "plu": "529770",
+    "nombre": "Jugo Multifruta Del Valle Ttb 200 Ml",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 720.0,
+    "precio_hoy": 790.0,
+    "precio_actual_hoy": 790.0,
+    "diff_abs": 70.0,
+    "diff_pct": 9.72
+  },
+  {
+    "plu": "529778",
+    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 720.0,
+    "precio_hoy": 790.0,
+    "precio_actual_hoy": 790.0,
     "diff_abs": 70.0,
     "diff_pct": 9.72
   },
@@ -215,7 +215,7 @@
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
     "precio_hoy": 790.0,
-    "precio_actual_hoy": 474.0,
+    "precio_actual_hoy": 790.0,
     "diff_abs": 70.0,
     "diff_pct": 9.72
   }
