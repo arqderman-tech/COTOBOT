@@ -1,14 +1,58 @@
 [
   {
+    "plu": "583113",
+    "nombre": "Cerveza Lager ANTARES 473ml",
+    "marca": "Antares",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 3238.0,
+    "precio_hoy": 3837.0,
+    "precio_actual_hoy": 2302.2,
+    "diff_abs": 599.0,
+    "diff_pct": 18.5
+  },
+  {
+    "plu": "594579",
+    "nombre": "Vino Tinto Blend Fond De Cave 750ml",
+    "marca": "Fond De Cave",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 23844.0,
+    "precio_hoy": 27488.0,
+    "precio_actual_hoy": 13744.0,
+    "diff_abs": 3644.0,
+    "diff_pct": 15.28
+  },
+  {
+    "plu": "225027",
+    "nombre": "Vino Merlot Gran Reserva Marcus 750 Ml",
+    "marca": "Marcus",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 39151.0,
+    "precio_hoy": 45000.0,
+    "precio_actual_hoy": 45000.0,
+    "diff_abs": 5849.0,
+    "diff_pct": 14.94
+  },
+  {
     "plu": "514841",
     "nombre": "Vino Tinto,De Sang Cabernet Franc Luigi Bosca Bot 750 Ml",
     "marca": "Luigi Bosca",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 27500.0,
     "precio_hoy": 31000.0,
-    "precio_actual_hoy": 24800.0,
+    "precio_actual_hoy": 15500.0,
     "diff_abs": 3500.0,
     "diff_pct": 12.73
+  },
+  {
+    "plu": "475549",
+    "nombre": "Agua Mineralizada Artificialmente Glaciar Bidón 6.3 L\r\n",
+    "marca": "Glaciar",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 8365.0,
+    "precio_hoy": 9310.0,
+    "precio_actual_hoy": 6517.0,
+    "diff_abs": 945.0,
+    "diff_pct": 11.3
   },
   {
     "plu": "514822",
@@ -17,9 +61,20 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 24266.0,
     "precio_hoy": 27000.0,
-    "precio_actual_hoy": 21600.0,
+    "precio_actual_hoy": 13500.0,
     "diff_abs": 2734.0,
     "diff_pct": 11.27
+  },
+  {
+    "plu": "529773",
+    "nombre": "Jugo Manzana DEL VALLE 1l",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
   },
   {
     "plu": "531526",
@@ -44,17 +99,6 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "529773",
-    "nombre": "Jugo Manzana DEL VALLE 1l",
-    "marca": "Del Valle",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1890.0,
-    "precio_hoy": 2100.0,
-    "precio_actual_hoy": 2100.0,
-    "diff_abs": 210.0,
-    "diff_pct": 11.11
-  },
-  {
     "plu": "531525",
     "nombre": "Jugo Naranja Del Valle Ttb 1 Ltr",
     "marca": "Del Valle",
@@ -66,24 +110,24 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "500956",
-    "nombre": "Cerveza Scotch ANTARES   Lata 473 Cc",
-    "marca": "Antares",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 4071.0,
-    "precio_hoy": 4514.0,
-    "precio_actual_hoy": 4514.0,
-    "diff_abs": 443.0,
-    "diff_pct": 10.88
-  },
-  {
     "plu": "500957",
     "nombre": "Cerveza Honey ANTARES   Lata 473 Cc",
     "marca": "Antares",
     "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 4071.0,
     "precio_hoy": 4514.0,
-    "precio_actual_hoy": 4514.0,
+    "precio_actual_hoy": 2708.4,
+    "diff_abs": 443.0,
+    "diff_pct": 10.88
+  },
+  {
+    "plu": "500956",
+    "nombre": "Cerveza Scotch ANTARES   Lata 473 Cc",
+    "marca": "Antares",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4071.0,
+    "precio_hoy": 4514.0,
+    "precio_actual_hoy": 2708.4,
     "diff_abs": 443.0,
     "diff_pct": 10.88
   },
@@ -94,42 +138,9 @@
     "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 4072.0,
     "precio_hoy": 4514.0,
-    "precio_actual_hoy": 4514.0,
+    "precio_actual_hoy": 2708.4,
     "diff_abs": 442.0,
     "diff_pct": 10.85
-  },
-  {
-    "plu": "598734",
-    "nombre": "Vino Cabernet Sauvignon Sombrero 750ml",
-    "marca": "Sombrero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11445.0,
-    "precio_hoy": 12640.0,
-    "precio_actual_hoy": 12640.0,
-    "diff_abs": 1195.0,
-    "diff_pct": 10.44
-  },
-  {
-    "plu": "598733",
-    "nombre": "Vino Malbec Sombrero 750ml",
-    "marca": "Sombrero",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11445.0,
-    "precio_hoy": 12640.0,
-    "precio_actual_hoy": 12640.0,
-    "diff_abs": 1195.0,
-    "diff_pct": 10.44
-  },
-  {
-    "plu": "598732",
-    "nombre": "Vino Sauvignon Blanc Sombrero 750ml",
-    "marca": "Sombrero",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11445.0,
-    "precio_hoy": 12640.0,
-    "precio_actual_hoy": 12640.0,
-    "diff_abs": 1195.0,
-    "diff_pct": 10.44
   },
   {
     "plu": "617701",
@@ -143,8 +154,8 @@
     "diff_pct": 10.39
   },
   {
-    "plu": "617700",
-    "nombre": "Agua Saborizada Pera Placer 1.5l",
+    "plu": "617705",
+    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
     "marca": "Placer",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1525.0,
@@ -165,8 +176,8 @@
     "diff_pct": 9.84
   },
   {
-    "plu": "617705",
-    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
+    "plu": "617700",
+    "nombre": "Agua Saborizada Pera Placer 1.5l",
     "marca": "Placer",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1525.0,
@@ -174,17 +185,6 @@
     "precio_actual_hoy": 1675.0,
     "diff_abs": 150.0,
     "diff_pct": 9.84
-  },
-  {
-    "plu": "529777",
-    "nombre": "Jugo Naranja Del Valle Ttb 200 Ml",
-    "marca": "Del Valle",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 720.0,
-    "precio_hoy": 790.0,
-    "precio_actual_hoy": 790.0,
-    "diff_abs": 70.0,
-    "diff_pct": 9.72
   },
   {
     "plu": "529770",
@@ -198,8 +198,8 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "529778",
-    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
+    "plu": "529775",
+    "nombre": "Jugo Manzana Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -209,8 +209,8 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "529775",
-    "nombre": "Jugo Manzana Del Valle Ttb 200 Ml",
+    "plu": "529777",
+    "nombre": "Jugo Naranja Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
