@@ -1,7 +1,7 @@
 [
   {
-    "plu": "526339",
-    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
+    "plu": "526340",
+    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1799.0,
@@ -11,8 +11,8 @@
     "diff_pct": 50.03
   },
   {
-    "plu": "526340",
-    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
+    "plu": "526339",
+    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1799.0,
@@ -33,6 +33,50 @@
     "diff_pct": 35.02
   },
   {
+    "plu": "466641",
+    "nombre": "Vino Tinto Blend Dadá Bot 750 Ml Chocolate",
+    "marca": "Dada",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 7743.0,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
+  },
+  {
+    "plu": "243529",
+    "nombre": "Vino Merlot DADA 2 Mokka Bot 750 CC",
+    "marca": "Dada",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 7743.0,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
+  },
+  {
+    "plu": "243530",
+    "nombre": "Vino Bonarda Malbec DADA 1 Vainilla 750cc",
+    "marca": "Dada",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 7743.0,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
+  },
+  {
+    "plu": "243528",
+    "nombre": "Vino Cabernet Sauvignon-Syrah DADA 3 750cc",
+    "marca": "Dada",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 7743.0,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
+  },
+  {
     "plu": "486126",
     "nombre": "Energizante RED BULL 355 Ml",
     "marca": "Red Bull",
@@ -42,50 +86,6 @@
     "precio_actual_hoy": 3480.0,
     "diff_abs": 340.0,
     "diff_pct": 7.91
-  },
-  {
-    "plu": "543679",
-    "nombre": "Energizante The Red Edicion Red Bull X4 Uni 355 Ml",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 12795.0,
-    "precio_hoy": 13755.0,
-    "precio_actual_hoy": 10316.25,
-    "diff_abs": 960.0,
-    "diff_pct": 7.5
-  },
-  {
-    "plu": "298930",
-    "nombre": "Energizante RED BULL Sugarfree  250 Cc",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3440.0,
-    "precio_actual_hoy": 2580.0,
-    "diff_abs": 240.0,
-    "diff_pct": 7.5
-  },
-  {
-    "plu": "579519",
-    "nombre": "Energizante Sabor Fruta De Dragon Red Bull 250ml",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3440.0,
-    "precio_actual_hoy": 2580.0,
-    "diff_abs": 240.0,
-    "diff_pct": 7.5
-  },
-  {
-    "plu": "618823",
-    "nombre": "Energizante S/Azu.Pom.Ros Red Bull Lat 250 Ml",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3440.0,
-    "precio_actual_hoy": 2580.0,
-    "diff_abs": 240.0,
-    "diff_pct": 7.5
   },
   {
     "plu": "546331",
@@ -110,6 +110,28 @@
     "diff_pct": 7.5
   },
   {
+    "plu": "609770",
+    "nombre": "Energizante Fruta De Dragón Red Bull 1000ml",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 12795.0,
+    "precio_hoy": 13755.0,
+    "precio_actual_hoy": 10316.25,
+    "diff_abs": 960.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "543679",
+    "nombre": "Energizante The Red Edicion Red Bull X4 Uni 355 Ml",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 12795.0,
+    "precio_hoy": 13755.0,
+    "precio_actual_hoy": 10316.25,
+    "diff_abs": 960.0,
+    "diff_pct": 7.5
+  },
+  {
     "plu": "618824",
     "nombre": "Energizante S/Azu.Pom.Ros Red Bull Pak 1000 Ml",
     "marca": "Red Bull",
@@ -121,14 +143,25 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "609770",
-    "nombre": "Energizante Fruta De Dragón Red Bull 1000ml",
+    "plu": "618823",
+    "nombre": "Energizante S/Azu.Pom.Ros Red Bull Lat 250 Ml",
     "marca": "Red Bull",
     "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 12795.0,
-    "precio_hoy": 13755.0,
-    "precio_actual_hoy": 10316.25,
-    "diff_abs": 960.0,
+    "precio_antes": 3200.0,
+    "precio_hoy": 3440.0,
+    "precio_actual_hoy": 2580.0,
+    "diff_abs": 240.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "579519",
+    "nombre": "Energizante Sabor Fruta De Dragon Red Bull 250ml",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3200.0,
+    "precio_hoy": 3440.0,
+    "precio_actual_hoy": 2580.0,
+    "diff_abs": 240.0,
     "diff_pct": 7.5
   },
   {
@@ -143,80 +176,47 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "475549",
-    "nombre": "Agua Mineralizada Artificialmente Glaciar Bidón 6.3 L\r\n",
-    "marca": "Glaciar",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 8780.0,
-    "precio_hoy": 9310.0,
-    "precio_actual_hoy": 6517.0,
-    "diff_abs": 530.0,
-    "diff_pct": 6.04
+    "plu": "298930",
+    "nombre": "Energizante RED BULL Sugarfree  250 Cc",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3200.0,
+    "precio_hoy": 3440.0,
+    "precio_actual_hoy": 2580.0,
+    "diff_abs": 240.0,
+    "diff_pct": 7.5
   },
   {
-    "plu": "9696",
-    "nombre": "Cerveza  CORONA   Porron 330 Cc",
-    "marca": "Corona",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 4050.0,
-    "precio_hoy": 4273.0,
-    "precio_actual_hoy": 3204.75,
-    "diff_abs": 223.0,
-    "diff_pct": 5.51
+    "plu": "580685",
+    "nombre": "Cerveza Sin Alcohol 0.0 Stella Artois 330cc",
+    "marca": "Stella Artois",
+    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 3000.0,
+    "precio_hoy": 3210.0,
+    "precio_actual_hoy": 2086.5,
+    "diff_abs": 210.0,
+    "diff_pct": 7.0
   },
   {
-    "plu": "480427",
-    "nombre": "Agua Mineralizada Artificialmente Glaciar 750 Ml\r\n",
-    "marca": "Glaciar",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 2350.0,
-    "precio_hoy": 2470.0,
-    "precio_actual_hoy": 2470.0,
-    "diff_abs": 120.0,
-    "diff_pct": 5.11
+    "plu": "572876",
+    "nombre": "Cerveza Sin Alcohol Stella Artois 2838cmq",
+    "marca": "Stella Artois",
+    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 18600.0,
+    "precio_hoy": 19860.0,
+    "precio_actual_hoy": 12909.0,
+    "diff_abs": 1260.0,
+    "diff_pct": 6.77
   },
   {
-    "plu": "59977",
-    "nombre": "Agua Mineral Natural De Manantial Eco De Los Andes 500 Ml\r\n",
-    "marca": "Eco De Los Andes",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 1870.0,
-    "precio_hoy": 1965.0,
-    "precio_actual_hoy": 1277.25,
-    "diff_abs": 95.0,
-    "diff_pct": 5.08
-  },
-  {
-    "plu": "529772",
-    "nombre": "Agua Sin Gas Mineral Eco De Los Andes Bot 850 Ml",
-    "marca": "Eco D.Los Andes",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 2365.0,
-    "precio_hoy": 2485.0,
-    "precio_actual_hoy": 1615.25,
-    "diff_abs": 120.0,
-    "diff_pct": 5.07
-  },
-  {
-    "plu": "34252",
-    "nombre": "Agua Mineralizada Artificialmente Con Gas Glaciar 1.5 L\r\n",
-    "marca": "Glaciar",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
-    "precio_antes": 3165.0,
-    "precio_hoy": 3325.0,
-    "precio_actual_hoy": 3325.0,
-    "diff_abs": 160.0,
-    "diff_pct": 5.06
-  },
-  {
-    "plu": "10405",
-    "nombre": "Agua Mineral Natural De Manantial Eco De Los Andes 1.5 L\r\n",
-    "marca": "Eco De Los Andes",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 2680.0,
-    "precio_hoy": 2815.0,
-    "precio_actual_hoy": 1829.75,
-    "diff_abs": 135.0,
-    "diff_pct": 5.04
+    "plu": "286024",
+    "nombre": "Vino Malbec DADA 750ml",
+    "marca": "Dada",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7300.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 7743.0,
+    "diff_abs": 443.0,
+    "diff_pct": 6.07
   }
 ]
