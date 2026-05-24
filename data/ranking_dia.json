@@ -33,17 +33,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "204113",
-    "nombre": "Cerveza  QUILMES Cristal Pack Latas 473 Cc 6 Unidades",
-    "marca": "Quilmes",
-    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14891.0,
-    "precio_hoy": 14891.0,
-    "precio_actual_hoy": 9679.15,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "238217",
     "nombre": "Cerveza Stout QUILMES   Botella 1 L",
     "marca": "Quilmes",
@@ -51,6 +40,17 @@
     "precio_antes": 4326.0,
     "precio_hoy": 4326.0,
     "precio_actual_hoy": 2811.9,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "204113",
+    "nombre": "Cerveza  QUILMES Cristal Pack Latas 473 Cc 6 Unidades",
+    "marca": "Quilmes",
+    "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14891.0,
+    "precio_hoy": 14891.0,
+    "precio_actual_hoy": 9679.15,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },

@@ -1,7 +1,7 @@
 [
   {
-    "plu": "526340",
-    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
+    "plu": "526339",
+    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1799.0,
@@ -11,8 +11,8 @@
     "diff_pct": 50.03
   },
   {
-    "plu": "526339",
-    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
+    "plu": "526340",
+    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1799.0,
@@ -88,6 +88,50 @@
     "diff_pct": 7.91
   },
   {
+    "plu": "298930",
+    "nombre": "Energizante RED BULL Sugarfree  250 Cc",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3200.0,
+    "precio_hoy": 3440.0,
+    "precio_actual_hoy": 2580.0,
+    "diff_abs": 240.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "141143",
+    "nombre": "Energizante RED BULL Pack X 4 Unidades 250 Cc",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 12795.0,
+    "precio_hoy": 13755.0,
+    "precio_actual_hoy": 10316.25,
+    "diff_abs": 960.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "579519",
+    "nombre": "Energizante Sabor Fruta De Dragon Red Bull 250ml",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3200.0,
+    "precio_hoy": 3440.0,
+    "precio_actual_hoy": 2580.0,
+    "diff_abs": 240.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "609770",
+    "nombre": "Energizante Fruta De Dragón Red Bull 1000ml",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 12795.0,
+    "precio_hoy": 13755.0,
+    "precio_actual_hoy": 10316.25,
+    "diff_abs": 960.0,
+    "diff_pct": 7.5
+  },
+  {
     "plu": "546331",
     "nombre": "Energizante The Red Edition Red Bull 250 Ml",
     "marca": "Red Bull",
@@ -110,8 +154,8 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "609770",
-    "nombre": "Energizante Fruta De Dragón Red Bull 1000ml",
+    "plu": "618824",
+    "nombre": "Energizante S/Azu.Pom.Ros Red Bull Pak 1000 Ml",
     "marca": "Red Bull",
     "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 12795.0,
@@ -132,52 +176,8 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "618824",
-    "nombre": "Energizante S/Azu.Pom.Ros Red Bull Pak 1000 Ml",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 12795.0,
-    "precio_hoy": 13755.0,
-    "precio_actual_hoy": 10316.25,
-    "diff_abs": 960.0,
-    "diff_pct": 7.5
-  },
-  {
     "plu": "618823",
     "nombre": "Energizante S/Azu.Pom.Ros Red Bull Lat 250 Ml",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3440.0,
-    "precio_actual_hoy": 2580.0,
-    "diff_abs": 240.0,
-    "diff_pct": 7.5
-  },
-  {
-    "plu": "579519",
-    "nombre": "Energizante Sabor Fruta De Dragon Red Bull 250ml",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3440.0,
-    "precio_actual_hoy": 2580.0,
-    "diff_abs": 240.0,
-    "diff_pct": 7.5
-  },
-  {
-    "plu": "141143",
-    "nombre": "Energizante RED BULL Pack X 4 Unidades 250 Cc",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 12795.0,
-    "precio_hoy": 13755.0,
-    "precio_actual_hoy": 10316.25,
-    "diff_abs": 960.0,
-    "diff_pct": 7.5
-  },
-  {
-    "plu": "298930",
-    "nombre": "Energizante RED BULL Sugarfree  250 Cc",
     "marca": "Red Bull",
     "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 3200.0,
@@ -198,15 +198,15 @@
     "diff_pct": 7.0
   },
   {
-    "plu": "572876",
-    "nombre": "Cerveza Sin Alcohol Stella Artois 2838cmq",
-    "marca": "Stella Artois",
-    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 18600.0,
-    "precio_hoy": 19860.0,
-    "precio_actual_hoy": 12909.0,
-    "diff_abs": 1260.0,
-    "diff_pct": 6.77
+    "plu": "286023",
+    "nombre": "Vino Cabernet Sauvignon Dada Bot 750 Ml",
+    "marca": "Dadá",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7300.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 7743.0,
+    "diff_abs": 443.0,
+    "diff_pct": 6.07
   },
   {
     "plu": "286024",
