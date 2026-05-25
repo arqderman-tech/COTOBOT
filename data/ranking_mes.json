@@ -1,16 +1,5 @@
 [
   {
-    "plu": "514841",
-    "nombre": "Vino Tinto,De Sang Cabernet Franc Luigi Bosca Bot 750 Ml",
-    "marca": "Luigi Bosca",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 27500.0,
-    "precio_hoy": 31000.0,
-    "precio_actual_hoy": 15500.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 12.73
-  },
-  {
     "plu": "508838",
     "nombre": "Brandy French Bardinet 700 CC",
     "marca": "Bardinet",
@@ -22,10 +11,21 @@
     "diff_pct": 11.35
   },
   {
-    "plu": "531526",
-    "nombre": "Jugo Multifruta DEL VALLE 1l",
+    "plu": "514822",
+    "nombre": "Vino Cab.Sauv De Sangre Luigi Bosca Bot 750 Ml",
+    "marca": "Luigi Bosca",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 24266.0,
+    "precio_hoy": 27000.0,
+    "precio_actual_hoy": 13500.0,
+    "diff_abs": 2734.0,
+    "diff_pct": 11.27
+  },
+  {
+    "plu": "529773",
+    "nombre": "Jugo Manzana DEL VALLE 1l",
     "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
     "precio_actual_hoy": 2100.0,
@@ -44,10 +44,10 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "529773",
-    "nombre": "Jugo Manzana DEL VALLE 1l",
+    "plu": "531526",
+    "nombre": "Jugo Multifruta DEL VALLE 1l",
     "marca": "Del Valle",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
     "precio_actual_hoy": 2100.0,
@@ -66,6 +66,17 @@
     "diff_pct": 11.11
   },
   {
+    "plu": "561714",
+    "nombre": "Gin Tonic Shooter 355ml",
+    "marca": "Shooter",
+    "categoria": "Gin > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 1800.0,
+    "precio_actual_hoy": 1170.0,
+    "diff_abs": 180.0,
+    "diff_pct": 11.11
+  },
+  {
     "plu": "614115",
     "nombre": "Whisky Ahumado Sir Edward'S 700ml",
     "marca": "Sir Edward S",
@@ -75,17 +86,6 @@
     "precio_actual_hoy": 20475.0,
     "diff_abs": 3010.0,
     "diff_pct": 10.57
-  },
-  {
-    "plu": "616869",
-    "nombre": "Vodka Pera Hibiscus John C Bot 750 Ml",
-    "marca": "John C",
-    "categoria": "Vodka > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 14200.0,
-    "precio_hoy": 15700.0,
-    "precio_actual_hoy": 10205.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 10.56
   },
   {
     "plu": "617701",
@@ -110,41 +110,30 @@
     "diff_pct": 10.04
   },
   {
-    "plu": "581323",
-    "nombre": "Gin Tripack Restinga 1125ml",
+    "plu": "581324",
+    "nombre": "Gin London Dry Gin Restinga 700ml",
     "marca": "Restinga",
     "categoria": "Gin > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 34557.0,
-    "precio_hoy": 38013.0,
-    "precio_actual_hoy": 24708.45,
-    "diff_abs": 3456.0,
+    "precio_antes": 19437.0,
+    "precio_hoy": 21381.0,
+    "precio_actual_hoy": 13897.65,
+    "diff_abs": 1944.0,
     "diff_pct": 10.0
   },
   {
-    "plu": "581328",
-    "nombre": "Gin Flavoured Restinga 700ml\r\n",
+    "plu": "581327",
+    "nombre": "Gin Destilado De Otoño Restinga 700ml",
     "marca": "Restinga",
     "categoria": "Gin > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 25662.0,
-    "precio_hoy": 28219.0,
-    "precio_actual_hoy": 18342.35,
-    "diff_abs": 2557.0,
-    "diff_pct": 9.96
+    "precio_antes": 23353.0,
+    "precio_hoy": 25675.0,
+    "precio_actual_hoy": 16688.75,
+    "diff_abs": 2322.0,
+    "diff_pct": 9.94
   },
   {
     "plu": "617705",
     "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
-  },
-  {
-    "plu": "617700",
-    "nombre": "Agua Saborizada Pera Placer 1.5l",
     "marca": "Placer",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1525.0,
@@ -165,8 +154,30 @@
     "diff_pct": 9.84
   },
   {
+    "plu": "617700",
+    "nombre": "Agua Saborizada Pera Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
     "plu": "529777",
     "nombre": "Jugo Naranja Del Valle Ttb 200 Ml",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 720.0,
+    "precio_hoy": 790.0,
+    "precio_actual_hoy": 790.0,
+    "diff_abs": 70.0,
+    "diff_pct": 9.72
+  },
+  {
+    "plu": "529770",
+    "nombre": "Jugo Multifruta Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -189,17 +200,6 @@
   {
     "plu": "529778",
     "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
-    "marca": "Del Valle",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 720.0,
-    "precio_hoy": 790.0,
-    "precio_actual_hoy": 790.0,
-    "diff_abs": 70.0,
-    "diff_pct": 9.72
-  },
-  {
-    "plu": "529770",
-    "nombre": "Jugo Multifruta Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
