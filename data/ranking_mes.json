@@ -1,23 +1,23 @@
 [
   {
+    "plu": "584747",
+    "nombre": "Vino Sauvignon Blanc Malma 750ml",
+    "marca": "Malma",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14850.0,
+    "precio_hoy": 17400.0,
+    "precio_actual_hoy": 11600.58,
+    "diff_abs": 2550.0,
+    "diff_pct": 17.17
+  },
+  {
     "plu": "584745",
     "nombre": "Vino Merlot Malma 750ml",
     "marca": "Malma",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 14850.0,
     "precio_hoy": 17400.0,
-    "precio_actual_hoy": 17400.0,
-    "diff_abs": 2550.0,
-    "diff_pct": 17.17
-  },
-  {
-    "plu": "584748",
-    "nombre": "Vino Malbec Malma 750ml",
-    "marca": "Malma",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14850.0,
-    "precio_hoy": 17400.0,
-    "precio_actual_hoy": 17400.0,
+    "precio_actual_hoy": 11600.58,
     "diff_abs": 2550.0,
     "diff_pct": 17.17
   },
@@ -28,37 +28,37 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 39151.0,
     "precio_hoy": 45000.0,
-    "precio_actual_hoy": 45000.0,
+    "precio_actual_hoy": 30001.5,
     "diff_abs": 5849.0,
     "diff_pct": 14.94
   },
   {
-    "plu": "514841",
-    "nombre": "Vino Tinto,De Sang Cabernet Franc Luigi Bosca Bot 750 Ml",
-    "marca": "Luigi Bosca",
+    "plu": "602624",
+    "nombre": "Vino Malbec Finjamos Demencia 750ml",
+    "marca": "Finjamos Demencia",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 27500.0,
-    "precio_hoy": 31000.0,
-    "precio_actual_hoy": 24800.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 12.73
+    "precio_antes": 5900.0,
+    "precio_hoy": 6700.0,
+    "precio_actual_hoy": 4466.89,
+    "diff_abs": 800.0,
+    "diff_pct": 13.56
   },
   {
-    "plu": "598728",
-    "nombre": "Vino Cabernet Sauvignon Gran Sombrero 750ml",
+    "plu": "598725",
+    "nombre": "Vino Cabernet Franc Gran Sombrero 750ml",
     "marca": "Gran Sombrero",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 19620.0,
     "precio_hoy": 21925.0,
-    "precio_actual_hoy": 21925.0,
+    "precio_actual_hoy": 14617.4,
     "diff_abs": 2305.0,
     "diff_pct": 11.75
   },
   {
-    "plu": "558894",
-    "nombre": "Jugo Durazno DEL VALLE 1l",
+    "plu": "529773",
+    "nombre": "Jugo Manzana DEL VALLE 1l",
     "marca": "Del Valle",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
     "precio_actual_hoy": 2100.0,
@@ -66,10 +66,10 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "529773",
-    "nombre": "Jugo Manzana DEL VALLE 1l",
+    "plu": "558894",
+    "nombre": "Jugo Durazno DEL VALLE 1l",
     "marca": "Del Valle",
-    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1890.0,
     "precio_hoy": 2100.0,
     "precio_actual_hoy": 2100.0,
@@ -88,15 +88,48 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "617699",
-    "nombre": "Agua Saborizada Multifruta Placer 1.5l",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
+    "plu": "531525",
+    "nombre": "Jugo Naranja Del Valle Ttb 1 Ltr",
+    "marca": "Del Valle",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1890.0,
+    "precio_hoy": 2100.0,
+    "precio_actual_hoy": 2100.0,
+    "diff_abs": 210.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "545734",
+    "nombre": "Vino Malbec Gran Reserva Callejón Del Crimen 750 Ml",
+    "marca": "Callejón Del Crimen",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 20350.0,
+    "precio_hoy": 22500.0,
+    "precio_actual_hoy": 15000.75,
+    "diff_abs": 2150.0,
+    "diff_pct": 10.57
+  },
+  {
+    "plu": "598732",
+    "nombre": "Vino Sauvignon Blanc Sombrero 750ml",
+    "marca": "Sombrero",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 11445.0,
+    "precio_hoy": 12640.0,
+    "precio_actual_hoy": 8427.09,
+    "diff_abs": 1195.0,
+    "diff_pct": 10.44
+  },
+  {
+    "plu": "617701",
+    "nombre": "Soda Manaos Sif 2 Ltr",
+    "marca": "Manaos",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "precio_antes": 2070.0,
+    "precio_hoy": 2285.0,
+    "precio_actual_hoy": 1698.9,
+    "diff_abs": 215.0,
+    "diff_pct": 10.39
   },
   {
     "plu": "617705",
@@ -105,7 +138,7 @@
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1525.0,
     "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
     "diff_abs": 150.0,
     "diff_pct": 9.84
   },
@@ -116,9 +149,31 @@
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1525.0,
     "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
     "diff_abs": 150.0,
     "diff_pct": 9.84
+  },
+  {
+    "plu": "617699",
+    "nombre": "Agua Saborizada Multifruta Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "529778",
+    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
+    "marca": "Del Valle",
+    "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 720.0,
+    "precio_hoy": 790.0,
+    "precio_actual_hoy": 790.0,
+    "diff_abs": 70.0,
+    "diff_pct": 9.72
   },
   {
     "plu": "529770",
@@ -132,8 +187,8 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "529778",
-    "nombre": "Jugo Durazno Del Valle Ttb 200 Ml",
+    "plu": "529775",
+    "nombre": "Jugo Manzana Del Valle Ttb 200 Ml",
     "marca": "Del Valle",
     "categoria": "Jugos Frescos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 720.0,
@@ -154,63 +209,8 @@
     "diff_pct": 9.72
   },
   {
-    "plu": "474802",
-    "nombre": "Whisky . Sir Edward  Bot 700 Cmq",
-    "marca": "Sir Edwards",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 26900.0,
-    "precio_hoy": 29500.0,
-    "precio_actual_hoy": 29500.0,
-    "diff_abs": 2600.0,
-    "diff_pct": 9.67
-  },
-  {
-    "plu": "511272",
-    "nombre": "Gaseosa Cola Sin Azúcares Secco Bot 2.25 Ltr",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "497341",
-    "nombre": "Gaseosa    Botella 2.25 L ",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "511273",
-    "nombre": "Gaseosa Naranja Sin Azúcares Secco Bot 2.25 Ltr",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
     "plu": "497335",
     "nombre": "Gaseosa    Botella 2.25 L ",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "610929",
-    "nombre": "Gaseosa Limón Intenso Secco 2.25l",
     "marca": "Secco",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1710.0,
