@@ -1,16 +1,5 @@
 [
   {
-    "plu": "460805",
-    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-    "marca": "Alfredo Coto",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7990.0,
-    "precio_hoy": 7990.0,
-    "precio_actual_hoy": 5326.93,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "460802",
     "nombre": "Vino ALFREDO COTO Malbec 750ml",
     "marca": "Alfredo Coto",
@@ -22,13 +11,13 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460803",
-    "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
-    "marca": "Don Alfredo",
+    "plu": "460805",
+    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+    "marca": "Alfredo Coto",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 16000.0,
-    "precio_hoy": 16000.0,
-    "precio_actual_hoy": 10667.2,
+    "precio_antes": 7990.0,
+    "precio_hoy": 7990.0,
+    "precio_actual_hoy": 5326.93,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -40,6 +29,17 @@
     "precio_antes": 39500.0,
     "precio_hoy": 39500.0,
     "precio_actual_hoy": 26334.65,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "460803",
+    "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+    "marca": "Don Alfredo",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 16000.0,
+    "precio_hoy": 16000.0,
+    "precio_actual_hoy": 10667.2,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -77,17 +77,6 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "479243",
-    "nombre": "Sidra REAL 750ml",
-    "marca": "Real",
-    "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 4899.0,
-    "precio_hoy": 4899.0,
-    "precio_actual_hoy": 3674.25,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
     "plu": "6300",
     "nombre": "Sidra Etiqueta Negra REAL 720c",
     "marca": "Real",
@@ -95,6 +84,17 @@
     "precio_antes": 6699.0,
     "precio_hoy": 6699.0,
     "precio_actual_hoy": 5024.25,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "479243",
+    "nombre": "Sidra REAL 750ml",
+    "marca": "Real",
+    "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 4899.0,
+    "precio_hoy": 4899.0,
+    "precio_actual_hoy": 3674.25,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -176,8 +176,8 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "220719",
-    "nombre": "Cerveza Amber Lager PATAGONIA   Botella 730 Cc",
+    "plu": "460032",
+    "nombre": "Cerveza Session Ipa PATAGONIA   Botella 730 Cc",
     "marca": "Patagonia",
     "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 6720.0,
@@ -187,8 +187,8 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460032",
-    "nombre": "Cerveza Session Ipa PATAGONIA   Botella 730 Cc",
+    "plu": "220719",
+    "nombre": "Cerveza Amber Lager PATAGONIA   Botella 730 Cc",
     "marca": "Patagonia",
     "categoria": "Cervezas Con Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 6720.0,

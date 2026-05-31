@@ -1,9 +1,9 @@
 {
-  "fecha": "20260530",
-  "total_productos": 550,
+  "fecha": "20260531",
+  "total_productos": 1599,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.03,
-  "variacion_mes": 1.43,
+  "variacion_7d": 0.01,
+  "variacion_mes": 1.32,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,8 +12,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 452,
-      "total_productos": 452
+      "productos_sin_cambio": 449,
+      "total_productos": 449
     },
     {
       "categoria": "Bebidas Sin Alcohol",
@@ -26,17 +26,6 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-      "marca": "Alfredo Coto",
-      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 7990.0,
-      "precio_hoy": 7990.0,
-      "precio_actual_hoy": 5326.93,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
       "plu": "460802",
       "nombre": "Vino ALFREDO COTO Malbec 750ml",
       "marca": "Alfredo Coto",
@@ -48,13 +37,13 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460803",
-      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
-      "marca": "Don Alfredo",
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 16000.0,
-      "precio_hoy": 16000.0,
-      "precio_actual_hoy": 10667.2,
+      "precio_antes": 7990.0,
+      "precio_hoy": 7990.0,
+      "precio_actual_hoy": 5326.93,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -66,6 +55,17 @@
       "precio_antes": 39500.0,
       "precio_hoy": 39500.0,
       "precio_actual_hoy": 26334.65,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460803",
+      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 16000.0,
+      "precio_hoy": 16000.0,
+      "precio_actual_hoy": 10667.2,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -103,17 +103,6 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "479243",
-      "nombre": "Sidra REAL 750ml",
-      "marca": "Real",
-      "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
-      "precio_antes": 4899.0,
-      "precio_hoy": 4899.0,
-      "precio_actual_hoy": 3674.25,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
       "plu": "6300",
       "nombre": "Sidra Etiqueta Negra REAL 720c",
       "marca": "Real",
@@ -121,6 +110,17 @@
       "precio_antes": 6699.0,
       "precio_hoy": 6699.0,
       "precio_actual_hoy": 5024.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "479243",
+      "nombre": "Sidra REAL 750ml",
+      "marca": "Real",
+      "categoria": "Sin Tacc > Sidras Y Bebidas Fizz > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 4899.0,
+      "precio_hoy": 4899.0,
+      "precio_actual_hoy": 3674.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -138,5 +138,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 502
+  "productos_sin_cambio_dia": 499
 }
