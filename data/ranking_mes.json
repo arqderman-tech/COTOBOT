@@ -1,18 +1,7 @@
 [
   {
-    "plu": "189596",
-    "nombre": "Gaseosa Coca-Cola Sabor Original  2 Lt",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2890.0,
-    "precio_hoy": 3490.0,
-    "precio_actual_hoy": 3490.0,
-    "diff_abs": 600.0,
-    "diff_pct": 20.76
-  },
-  {
-    "plu": "584738",
-    "nombre": "Vino Cabernet Sauvignon Malma 750ml",
+    "plu": "584748",
+    "nombre": "Vino Malbec Malma 750ml",
     "marca": "Malma",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 14850.0,
@@ -22,10 +11,10 @@
     "diff_pct": 17.17
   },
   {
-    "plu": "584747",
-    "nombre": "Vino Sauvignon Blanc Malma 750ml",
+    "plu": "584745",
+    "nombre": "Vino Merlot Malma 750ml",
     "marca": "Malma",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 14850.0,
     "precio_hoy": 17400.0,
     "precio_actual_hoy": 11600.58,
@@ -44,21 +33,10 @@
     "diff_pct": 14.94
   },
   {
-    "plu": "602624",
-    "nombre": "Vino Malbec Finjamos Demencia 750ml",
-    "marca": "Finjamos Demencia",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5900.0,
-    "precio_hoy": 6700.0,
-    "precio_actual_hoy": 4466.89,
-    "diff_abs": 800.0,
-    "diff_pct": 13.56
-  },
-  {
-    "plu": "545734",
-    "nombre": "Vino Malbec Gran Reserva Callejón Del Crimen 750 Ml",
+    "plu": "577532",
+    "nombre": "Espumante Extra Brut Callejón Del Crimen 750ml",
     "marca": "Callejón Del Crimen",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Espumantes > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 20350.0,
     "precio_hoy": 22500.0,
     "precio_actual_hoy": 15000.75,
@@ -77,37 +55,15 @@
     "diff_pct": 10.08
   },
   {
-    "plu": "617705",
-    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1088.75,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
-  },
-  {
-    "plu": "617700",
-    "nombre": "Agua Saborizada Pera Placer 1.5l",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1088.75,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
-  },
-  {
-    "plu": "497346",
-    "nombre": "Gaseosa    Botella 2.25 L ",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
+    "plu": "121600",
+    "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
+    "marca": "Altos Las Hormigas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14333.0,
+    "precio_hoy": 15700.0,
+    "precio_actual_hoy": 10467.19,
+    "diff_abs": 1367.0,
+    "diff_pct": 9.54
   },
   {
     "plu": "618825",
@@ -121,8 +77,8 @@
     "diff_pct": 9.38
   },
   {
-    "plu": "466641",
-    "nombre": "Vino Tinto Blend Dadá Bot 750 Ml Chocolate",
+    "plu": "243529",
+    "nombre": "Vino Merlot DADA 2 Mokka Bot 750 CC",
     "marca": "Dada",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
@@ -132,8 +88,8 @@
     "diff_pct": 9.24
   },
   {
-    "plu": "243529",
-    "nombre": "Vino Merlot DADA 2 Mokka Bot 750 CC",
+    "plu": "466641",
+    "nombre": "Vino Tinto Blend Dadá Bot 750 Ml Chocolate",
     "marca": "Dada",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
@@ -154,37 +110,48 @@
     "diff_pct": 9.24
   },
   {
-    "plu": "492439",
-    "nombre": "Vino Rosado Sweet Pink Dadá Lat 355 Ml",
+    "plu": "243528",
+    "nombre": "Vino Cabernet Sauvignon-Syrah DADA 3 750cc",
     "marca": "Dada",
-    "categoria": "Vinos Rosados > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 3309.0,
-    "precio_hoy": 3580.0,
-    "precio_actual_hoy": 2386.79,
-    "diff_abs": 271.0,
-    "diff_pct": 8.19
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 5162.26,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
   },
   {
-    "plu": "499118",
-    "nombre": "Vino Malbec Peit Verdot H J.Fabre Bot 750 Ml",
-    "marca": "H. J.Fabre",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 13265.0,
-    "precio_hoy": 14260.0,
-    "precio_actual_hoy": 9507.14,
-    "diff_abs": 995.0,
-    "diff_pct": 7.5
+    "plu": "474975",
+    "nombre": "Vino Fino Blanco Honey Dadá Bot 750 Ml",
+    "marca": "Dada",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 5162.26,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
   },
   {
-    "plu": "203677",
-    "nombre": "Vino Fino Tinto Phebus Mmc Bot 750 Cmq",
-    "marca": "Phebus",
+    "plu": "595151",
+    "nombre": "Vino Tinto Blend La Danza 750ml",
+    "marca": "La Danza",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11800.0,
-    "precio_hoy": 12685.0,
-    "precio_actual_hoy": 8457.09,
-    "diff_abs": 885.0,
-    "diff_pct": 7.5
+    "precio_antes": 12387.0,
+    "precio_hoy": 13500.0,
+    "precio_actual_hoy": 9000.45,
+    "diff_abs": 1113.0,
+    "diff_pct": 8.99
+  },
+  {
+    "plu": "486126",
+    "nombre": "Energizante RED BULL 355 Ml",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 4300.0,
+    "precio_hoy": 4640.0,
+    "precio_actual_hoy": 3480.0,
+    "diff_abs": 340.0,
+    "diff_pct": 7.91
   },
   {
     "plu": "164951",
@@ -198,25 +165,58 @@
     "diff_pct": 7.5
   },
   {
-    "plu": "141143",
-    "nombre": "Energizante RED BULL Pack X 4 Unidades 250 Cc",
-    "marca": "Red Bull",
-    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 12795.0,
-    "precio_hoy": 13755.0,
-    "precio_actual_hoy": 10316.25,
-    "diff_abs": 960.0,
+    "plu": "568239",
+    "nombre": "Vino Malbec Pinot Noir H.J. Fabre 750ml",
+    "marca": "H J.Fabre",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 13265.0,
+    "precio_hoy": 14260.0,
+    "precio_actual_hoy": 9507.14,
+    "diff_abs": 995.0,
     "diff_pct": 7.5
   },
   {
-    "plu": "609770",
-    "nombre": "Energizante Fruta De Dragón Red Bull 1000ml",
+    "plu": "164939",
+    "nombre": "Vino Malbec PHEBUS Bot 750 CC",
+    "marca": "Phebus",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 11800.0,
+    "precio_hoy": 12685.0,
+    "precio_actual_hoy": 8457.09,
+    "diff_abs": 885.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "298930",
+    "nombre": "Energizante RED BULL Sugarfree  250 Cc",
     "marca": "Red Bull",
     "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 12795.0,
-    "precio_hoy": 13755.0,
-    "precio_actual_hoy": 10316.25,
-    "diff_abs": 960.0,
+    "precio_antes": 3200.0,
+    "precio_hoy": 3440.0,
+    "precio_actual_hoy": 2580.0,
+    "diff_abs": 240.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "618823",
+    "nombre": "Energizante S/Azu.Pom.Ros Red Bull Lat 250 Ml",
+    "marca": "Red Bull",
+    "categoria": "Energizantes > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 3200.0,
+    "precio_hoy": 3440.0,
+    "precio_actual_hoy": 2580.0,
+    "diff_abs": 240.0,
+    "diff_pct": 7.5
+  },
+  {
+    "plu": "499110",
+    "nombre": "Vino Malbec Cabernet Franc H J.Fabre Bot 750 Ml",
+    "marca": "H. J.Fabre",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 13265.0,
+    "precio_hoy": 14260.0,
+    "precio_actual_hoy": 9507.14,
+    "diff_abs": 995.0,
     "diff_pct": 7.5
   }
 ]
