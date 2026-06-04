@@ -11,26 +11,70 @@
     "diff_pct": 20.76
   },
   {
+    "plu": "584747",
+    "nombre": "Vino Sauvignon Blanc Malma 750ml",
+    "marca": "Malma",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14850.0,
+    "precio_hoy": 17400.0,
+    "precio_actual_hoy": 10440.0,
+    "diff_abs": 2550.0,
+    "diff_pct": 17.17
+  },
+  {
+    "plu": "584738",
+    "nombre": "Vino Cabernet Sauvignon Malma 750ml",
+    "marca": "Malma",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 14850.0,
+    "precio_hoy": 17400.0,
+    "precio_actual_hoy": 10440.0,
+    "diff_abs": 2550.0,
+    "diff_pct": 17.17
+  },
+  {
+    "plu": "488951",
+    "nombre": "Vino Malbec Gran Reserva Humberto Ca Bot 750 Ml",
+    "marca": "Humberto Canale",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 39151.0,
+    "precio_hoy": 45000.0,
+    "precio_actual_hoy": 27000.0,
+    "diff_abs": 5849.0,
+    "diff_pct": 14.94
+  },
+  {
     "plu": "225027",
     "nombre": "Vino Merlot Gran Reserva Marcus 750 Ml",
     "marca": "Marcus",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 39151.0,
     "precio_hoy": 45000.0,
-    "precio_actual_hoy": 45000.0,
+    "precio_actual_hoy": 27000.0,
     "diff_abs": 5849.0,
     "diff_pct": 14.94
   },
   {
-    "plu": "602624",
-    "nombre": "Vino Malbec Finjamos Demencia 750ml",
-    "marca": "Finjamos Demencia",
+    "plu": "545735",
+    "nombre": "Vino Cabernet Sauvignon Gran Reserva Callejón Del Crimen 750 Ml",
+    "marca": "Callejón Del Crimen",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5900.0,
-    "precio_hoy": 6700.0,
-    "precio_actual_hoy": 6700.0,
-    "diff_abs": 800.0,
-    "diff_pct": 13.56
+    "precio_antes": 20350.0,
+    "precio_hoy": 22500.0,
+    "precio_actual_hoy": 13500.0,
+    "diff_abs": 2150.0,
+    "diff_pct": 10.57
+  },
+  {
+    "plu": "545734",
+    "nombre": "Vino Malbec Gran Reserva Callejón Del Crimen 750 Ml",
+    "marca": "Callejón Del Crimen",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 20350.0,
+    "precio_hoy": 22500.0,
+    "precio_actual_hoy": 13500.0,
+    "diff_abs": 2150.0,
+    "diff_pct": 10.57
   },
   {
     "plu": "617701",
@@ -39,7 +83,7 @@
     "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
     "precio_antes": 2070.0,
     "precio_hoy": 2285.0,
-    "precio_actual_hoy": 2285.0,
+    "precio_actual_hoy": 1371.0,
     "diff_abs": 215.0,
     "diff_pct": 10.39
   },
@@ -55,24 +99,13 @@
     "diff_pct": 10.08
   },
   {
-    "plu": "617705",
-    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
-    "marca": "Placer",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-    "precio_antes": 1525.0,
-    "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
-    "diff_abs": 150.0,
-    "diff_pct": 9.84
-  },
-  {
     "plu": "617700",
     "nombre": "Agua Saborizada Pera Placer 1.5l",
     "marca": "Placer",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1525.0,
     "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
     "diff_abs": 150.0,
     "diff_pct": 9.84
   },
@@ -83,35 +116,46 @@
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1525.0,
     "precio_hoy": 1675.0,
-    "precio_actual_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
     "diff_abs": 150.0,
     "diff_pct": 9.84
   },
   {
-    "plu": "497341",
-    "nombre": "Gaseosa    Botella 2.25 L ",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "497335",
-    "nombre": "Gaseosa    Botella 2.25 L ",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
+    "plu": "617705",
+    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
   },
   {
     "plu": "610929",
     "nombre": "Gaseosa Limón Intenso Secco 2.25l",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "511268",
+    "nombre": "Gaseosa Lima Limon Sin Azúcares Secco Bot 2.25 Ltr",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "511272",
+    "nombre": "Gaseosa Cola Sin Azúcares Secco Bot 2.25 Ltr",
     "marca": "Secco",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1710.0,
@@ -143,8 +187,19 @@
     "diff_pct": 9.65
   },
   {
-    "plu": "511268",
-    "nombre": "Gaseosa Lima Limon Sin Azúcares Secco Bot 2.25 Ltr",
+    "plu": "497341",
+    "nombre": "Gaseosa    Botella 2.25 L ",
+    "marca": "Secco",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1710.0,
+    "precio_hoy": 1875.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 165.0,
+    "diff_pct": 9.65
+  },
+  {
+    "plu": "497335",
+    "nombre": "Gaseosa    Botella 2.25 L ",
     "marca": "Secco",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1710.0,
@@ -163,60 +218,5 @@
     "precio_actual_hoy": 1875.0,
     "diff_abs": 165.0,
     "diff_pct": 9.65
-  },
-  {
-    "plu": "511272",
-    "nombre": "Gaseosa Cola Sin Azúcares Secco Bot 2.25 Ltr",
-    "marca": "Secco",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1710.0,
-    "precio_hoy": 1875.0,
-    "precio_actual_hoy": 1875.0,
-    "diff_abs": 165.0,
-    "diff_pct": 9.65
-  },
-  {
-    "plu": "121600",
-    "nombre": "Vino Malbec Altos Las Hormigas Bot 750 Cmq",
-    "marca": "Altos Las Hormigas",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 14333.0,
-    "precio_hoy": 15700.0,
-    "precio_actual_hoy": 15700.0,
-    "diff_abs": 1367.0,
-    "diff_pct": 9.54
-  },
-  {
-    "plu": "618825",
-    "nombre": "Cerveza Sin Alcohol 0.0 Corona Pack 2838 Ml\r\n",
-    "marca": "Corona",
-    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 19200.0,
-    "precio_hoy": 21000.0,
-    "precio_actual_hoy": 21000.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 9.38
-  },
-  {
-    "plu": "243530",
-    "nombre": "Vino Bonarda Malbec DADA 1 Vainilla 750cc",
-    "marca": "Dada",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7088.0,
-    "precio_hoy": 7743.0,
-    "precio_actual_hoy": 7743.0,
-    "diff_abs": 655.0,
-    "diff_pct": 9.24
-  },
-  {
-    "plu": "243529",
-    "nombre": "Vino Merlot DADA 2 Mokka Bot 750 CC",
-    "marca": "Dada",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7088.0,
-    "precio_hoy": 7743.0,
-    "precio_actual_hoy": 7743.0,
-    "diff_abs": 655.0,
-    "diff_pct": 9.24
   }
 ]

@@ -1,27 +1,27 @@
 {
-  "fecha": "20260603",
-  "total_productos": 1597,
-  "variacion_dia": 0.0,
-  "variacion_7d": 0.05,
-  "variacion_mes": 1.37,
+  "fecha": "20260604",
+  "total_productos": 1595,
+  "variacion_dia": 0.01,
+  "variacion_7d": 0.06,
+  "variacion_mes": 1.27,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 618,
-      "total_productos": 619
+      "productos_sin_cambio": 616,
+      "total_productos": 618
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 546,
-      "total_productos": 546
+      "productos_sin_cambio": 545,
+      "total_productos": 545
     }
   ],
   "ranking_baja_dia": [
@@ -32,29 +32,7 @@
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2000.0,
       "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "118457",
-      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pomelo Botella 1.5 L",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2750.0,
-      "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "201516",
-      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 1.5 L",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2750.0,
-      "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
+      "precio_actual_hoy": 1500.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -65,18 +43,18 @@
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2750.0,
       "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
+      "precio_actual_hoy": 2062.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "168710",
-      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 1.5 L",
+      "plu": "201516",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Pera Botella 1.5 L",
       "marca": "Villa Del Sur Levite",
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2750.0,
       "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
+      "precio_actual_hoy": 2062.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -87,40 +65,18 @@
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2000.0,
       "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
+      "precio_actual_hoy": 1500.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "476811",
-      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Pera Botella 500 Cc",
+      "plu": "168710",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 1.5 L",
       "marca": "Villa Del Sur Levite",
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "478433",
-      "nombre": "Agua Sin Gas Naranja Vds Levite Pet 500 Ml",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "476796",
-      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Pomelo Botella 500 Cc",
-      "marca": "Villa Del Sur Levite",
-      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
-      "precio_antes": 2000.0,
-      "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
+      "precio_antes": 2750.0,
+      "precio_hoy": 2750.0,
+      "precio_actual_hoy": 2062.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -131,12 +87,56 @@
       "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
       "precio_antes": 2000.0,
       "precio_hoy": 2000.0,
-      "precio_actual_hoy": 2000.0,
+      "precio_actual_hoy": 1500.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "476811",
+      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Pera Botella 500 Cc",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 1500.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "476796",
+      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Pomelo Botella 500 Cc",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 1500.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "478433",
+      "nombre": "Agua Sin Gas Naranja Vds Levite Pet 500 Ml",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 1500.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "476809",
+      "nombre": "Agua Sin Gas Manzana Vds LEVITE Cero Pet 500 Ml",
+      "marca": "Levite",
+      "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 1500.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 1,
+  "productos_subieron_dia": 2,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1164
+  "productos_sin_cambio_dia": 1161
 }
