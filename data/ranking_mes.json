@@ -1,7 +1,7 @@
 [
   {
-    "plu": "526340",
-    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
+    "plu": "526339",
+    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1999.0,
@@ -11,8 +11,8 @@
     "diff_pct": 35.02
   },
   {
-    "plu": "526339",
-    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
+    "plu": "526340",
+    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1999.0,
@@ -66,59 +66,15 @@
     "diff_pct": 13.64
   },
   {
-    "plu": "1156",
-    "nombre": "Americano GANCIA Botella 950 Cc",
-    "marca": "Gancia",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano",
-    "precio_antes": 8689.0,
-    "precio_hoy": 9850.0,
-    "precio_actual_hoy": 7387.5,
-    "diff_abs": 1161.0,
-    "diff_pct": 13.36
-  },
-  {
-    "plu": "294015",
-    "nombre": "Americano DR. MOJITO Botella 1 L",
-    "marca": "Dr. Mojito",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.5,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "286945",
-    "nombre": "Americano DR. LEMON Con Vodka Botella 1 L",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.5,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "457104",
-    "nombre": "Americano DR. LEMON Vodka Y Pomelo Botella 1 L",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.5,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "267380",
-    "nombre": "Americano DR. LEMON Con Limón Botella 1 L",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.5,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
+    "plu": "602624",
+    "nombre": "Vino Malbec Finjamos Demencia 750ml",
+    "marca": "Finjamos Demencia",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5900.0,
+    "precio_hoy": 6700.0,
+    "precio_actual_hoy": 4020.0,
+    "diff_abs": 800.0,
+    "diff_pct": 13.56
   },
   {
     "plu": "611902",
@@ -138,20 +94,9 @@
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
     "precio_antes": 1700.0,
     "precio_hoy": 1900.0,
-    "precio_actual_hoy": 1900.0,
+    "precio_actual_hoy": 1615.0,
     "diff_abs": 200.0,
     "diff_pct": 11.76
-  },
-  {
-    "plu": "488881",
-    "nombre": "Agua Mineral SMARTWATER Sin Gas 591ml",
-    "marca": "Smartwater",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 1800.0,
-    "precio_hoy": 2000.0,
-    "precio_actual_hoy": 2000.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.11
   },
   {
     "plu": "488888",
@@ -160,7 +105,18 @@
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
     "precio_antes": 1800.0,
     "precio_hoy": 2000.0,
-    "precio_actual_hoy": 2000.0,
+    "precio_actual_hoy": 1700.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "488881",
+    "nombre": "Agua Mineral SMARTWATER Sin Gas 591ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 1800.0,
+    "precio_hoy": 2000.0,
+    "precio_actual_hoy": 1700.0,
     "diff_abs": 200.0,
     "diff_pct": 11.11
   },
@@ -193,8 +149,19 @@
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
-    "precio_actual_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
     "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "562410",
+    "nombre": "Agua Mineral SMARTWATER Sin Gas 991ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 2200.0,
+    "diff_abs": 200.0,
     "diff_pct": 10.0
   },
   {
@@ -204,7 +171,18 @@
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
-    "precio_actual_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "470497",
+    "nombre": "Gaseosa Sprite Mini 220 Cmq",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
     "diff_abs": 100.0,
     "diff_pct": 10.0
   },
@@ -215,8 +193,30 @@
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
-    "precio_actual_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
     "diff_abs": 100.0,
     "diff_pct": 10.0
+  },
+  {
+    "plu": "617705",
+    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "617700",
+    "nombre": "Agua Saborizada Pera Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1088.75,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
   }
 ]
