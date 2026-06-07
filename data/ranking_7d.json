@@ -22,8 +22,8 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "3750",
-    "nombre": "Gaseosa Coca-Cola Sabor Original 354 Ml",
+    "plu": "179844",
+    "nombre": "Gaseosa Coca-Cola Zero 354 Ml",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 2300.0,
@@ -33,8 +33,8 @@
     "diff_pct": 8.7
   },
   {
-    "plu": "179844",
-    "nombre": "Gaseosa Coca-Cola Zero 354 Ml",
+    "plu": "3750",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 354 Ml",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 2300.0,
@@ -110,17 +110,6 @@
     "diff_pct": 4.17
   },
   {
-    "plu": "207652",
-    "nombre": "Jugo CEPITA DEL VALLE Multifruta 200 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1200.0,
-    "precio_hoy": 1250.0,
-    "precio_actual_hoy": 1250.0,
-    "diff_abs": 50.0,
-    "diff_pct": 4.17
-  },
-  {
     "plu": "216342",
     "nombre": "Jugo CEPITA DEL VALLE Naranja 200 Ml",
     "marca": "Cepita",
@@ -132,15 +121,15 @@
     "diff_pct": 4.17
   },
   {
-    "plu": "244600",
-    "nombre": "Vino Chardonnay Trapiche Reserva 750 CC",
-    "marca": "Trapiche",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11648.0,
-    "precio_hoy": 12114.0,
-    "precio_actual_hoy": 7268.4,
-    "diff_abs": 466.0,
-    "diff_pct": 4.0
+    "plu": "207652",
+    "nombre": "Jugo CEPITA DEL VALLE Multifruta 200 Ml",
+    "marca": "Cepita",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1200.0,
+    "precio_hoy": 1250.0,
+    "precio_actual_hoy": 1250.0,
+    "diff_abs": 50.0,
+    "diff_pct": 4.17
   },
   {
     "plu": "244598",
@@ -150,6 +139,17 @@
     "precio_antes": 11651.0,
     "precio_hoy": 12117.0,
     "precio_actual_hoy": 7270.2,
+    "diff_abs": 466.0,
+    "diff_pct": 4.0
+  },
+  {
+    "plu": "244600",
+    "nombre": "Vino Chardonnay Trapiche Reserva 750 CC",
+    "marca": "Trapiche",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 11648.0,
+    "precio_hoy": 12114.0,
+    "precio_actual_hoy": 7268.4,
     "diff_abs": 466.0,
     "diff_pct": 4.0
   },
@@ -165,8 +165,8 @@
     "diff_pct": 4.0
   },
   {
-    "plu": "80951",
-    "nombre": "Coca-Cola Sabor Liviano 2,25 Lt",
+    "plu": "180416",
+    "nombre": "Gaseosa Coca-Cola Zero 2,25 Lt",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5450.0,
@@ -176,8 +176,8 @@
     "diff_pct": 3.67
   },
   {
-    "plu": "180416",
-    "nombre": "Gaseosa Coca-Cola Zero 2,25 Lt",
+    "plu": "80951",
+    "nombre": "Coca-Cola Sabor Liviano 2,25 Lt",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 5450.0,
@@ -198,10 +198,10 @@
     "diff_pct": 3.67
   },
   {
-    "plu": "218838",
-    "nombre": "Jugo CEPITA DEL VALLE Durazno Delicioso 300 Ml",
+    "plu": "218835",
+    "nombre": "Jugo CEPITA DEL VALLE Naranja Tentación 300 Ml",
     "marca": "Cepita",
-    "categoria": "Jugos Frescos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "categoria": "Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 1400.0,
     "precio_hoy": 1450.0,
     "precio_actual_hoy": 1450.0,
@@ -209,10 +209,10 @@
     "diff_pct": 3.57
   },
   {
-    "plu": "218835",
-    "nombre": "Jugo CEPITA DEL VALLE Naranja Tentación 300 Ml",
+    "plu": "218838",
+    "nombre": "Jugo CEPITA DEL VALLE Durazno Delicioso 300 Ml",
     "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "categoria": "Jugos Frescos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 1400.0,
     "precio_hoy": 1450.0,
     "precio_actual_hoy": 1450.0,
