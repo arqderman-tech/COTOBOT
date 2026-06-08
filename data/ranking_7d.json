@@ -1,8 +1,41 @@
 [
   {
-    "plu": "470499",
-    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
-    "marca": "Coca Cola",
+    "plu": "467761",
+    "nombre": "Americano DR. LEMON Con Naranja Botella 1 L",
+    "marca": "Dr. Lemon",
+    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+    "precio_antes": 4200.0,
+    "precio_hoy": 4750.0,
+    "precio_actual_hoy": 3562.5,
+    "diff_abs": 550.0,
+    "diff_pct": 13.1
+  },
+  {
+    "plu": "611902",
+    "nombre": "Agua Mineralizada BENEDICTINO Sin Gas 600 Ml",
+    "marca": "Benedictino",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 1700.0,
+    "precio_hoy": 1900.0,
+    "precio_actual_hoy": 1900.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.76
+  },
+  {
+    "plu": "488881",
+    "nombre": "Agua Mineral SMARTWATER Sin Gas 591ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 1800.0,
+    "precio_hoy": 2000.0,
+    "precio_actual_hoy": 1700.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "470497",
+    "nombre": "Gaseosa Sprite Mini 220 Cmq",
+    "marca": "Sprite",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
@@ -22,6 +55,72 @@
     "diff_pct": 10.0
   },
   {
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "179472",
+    "nombre": "Gaseosa SPRITE Zero Lima-Limón 354 Ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "611365",
+    "nombre": "Gaseosa FANTA Naranja 600 Ml",
+    "marca": "Fanta",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "611336",
+    "nombre": "Gaseosa Sabor Original Coca Cola 600ml",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "2986",
+    "nombre": "Gaseosa SPRITE Lima-Limón  354 Ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "611905",
+    "nombre": "Gaseosa SPRITE Lima-Limón 600 Ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
     "plu": "179844",
     "nombre": "Gaseosa Coca-Cola Zero 354 Ml",
     "marca": "Coca Cola",
@@ -33,10 +132,32 @@
     "diff_pct": 8.7
   },
   {
+    "plu": "616958",
+    "nombre": "Gaseosa Lima Limón Pack X4 SPRITE 948ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 7360.0,
+    "precio_hoy": 8000.0,
+    "precio_actual_hoy": 8000.0,
+    "diff_abs": 640.0,
+    "diff_pct": 8.7
+  },
+  {
     "plu": "3750",
     "nombre": "Gaseosa Coca-Cola Sabor Original 354 Ml",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "542757",
+    "nombre": "Gaseosa FANTA Zero Naranja 354 Ml",
+    "marca": "Fanta",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2300.0,
     "precio_hoy": 2500.0,
     "precio_actual_hoy": 2083.25,
@@ -77,8 +198,19 @@
     "diff_pct": 6.98
   },
   {
-    "plu": "286676",
-    "nombre": "Agua Saborizada AQUARIUS Pomelo 600 Ml",
+    "plu": "467756",
+    "nombre": "Agua Saborizada AQUARIUS Sin Azúcares Pomelo 2,25 Lt",
+    "marca": "Aquarius",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 3400.0,
+    "precio_hoy": 3600.0,
+    "precio_actual_hoy": 3600.0,
+    "diff_abs": 200.0,
+    "diff_pct": 5.88
+  },
+  {
+    "plu": "286675",
+    "nombre": "Agua Saborizada AQUARIUS Manzana 600 Ml",
     "marca": "Aquarius",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 2000.0,
@@ -86,137 +218,5 @@
     "precio_actual_hoy": 1785.0,
     "diff_abs": 100.0,
     "diff_pct": 5.0
-  },
-  {
-    "plu": "474292",
-    "nombre": "Gaseosa Coca-Cola Sabor Original  1,25 Lt\r\n",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 3140.0,
-    "precio_actual_hoy": 2512.0,
-    "diff_abs": 141.0,
-    "diff_pct": 4.7
-  },
-  {
-    "plu": "207650",
-    "nombre": "Jugo CEPITA DEL VALLE Manzana 200 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1200.0,
-    "precio_hoy": 1250.0,
-    "precio_actual_hoy": 1250.0,
-    "diff_abs": 50.0,
-    "diff_pct": 4.17
-  },
-  {
-    "plu": "216342",
-    "nombre": "Jugo CEPITA DEL VALLE Naranja 200 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 1200.0,
-    "precio_hoy": 1250.0,
-    "precio_actual_hoy": 1250.0,
-    "diff_abs": 50.0,
-    "diff_pct": 4.17
-  },
-  {
-    "plu": "207652",
-    "nombre": "Jugo CEPITA DEL VALLE Multifruta 200 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1200.0,
-    "precio_hoy": 1250.0,
-    "precio_actual_hoy": 1250.0,
-    "diff_abs": 50.0,
-    "diff_pct": 4.17
-  },
-  {
-    "plu": "244598",
-    "nombre": "Vino Malbec Trapiche Reserva 750cc",
-    "marca": "Trapiche Reserv",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11651.0,
-    "precio_hoy": 12117.0,
-    "precio_actual_hoy": 7270.2,
-    "diff_abs": 466.0,
-    "diff_pct": 4.0
-  },
-  {
-    "plu": "244600",
-    "nombre": "Vino Chardonnay Trapiche Reserva 750 CC",
-    "marca": "Trapiche",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11648.0,
-    "precio_hoy": 12114.0,
-    "precio_actual_hoy": 7268.4,
-    "diff_abs": 466.0,
-    "diff_pct": 4.0
-  },
-  {
-    "plu": "244599",
-    "nombre": "Vino Cabernet Sauvignon Trapiche Reserva Bot 750 CC",
-    "marca": "Trapiche Reserv",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 11651.0,
-    "precio_hoy": 12117.0,
-    "precio_actual_hoy": 7270.2,
-    "diff_abs": 466.0,
-    "diff_pct": 4.0
-  },
-  {
-    "plu": "180416",
-    "nombre": "Gaseosa Coca-Cola Zero 2,25 Lt",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5450.0,
-    "precio_hoy": 5650.0,
-    "precio_actual_hoy": 4802.5,
-    "diff_abs": 200.0,
-    "diff_pct": 3.67
-  },
-  {
-    "plu": "80951",
-    "nombre": "Coca-Cola Sabor Liviano 2,25 Lt",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5450.0,
-    "precio_hoy": 5650.0,
-    "precio_actual_hoy": 4802.5,
-    "diff_abs": 200.0,
-    "diff_pct": 3.67
-  },
-  {
-    "plu": "14450",
-    "nombre": "Gaseosa Coca-Cola Sabor Original  2,25 Lt",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5450.0,
-    "precio_hoy": 5650.0,
-    "precio_actual_hoy": 4802.5,
-    "diff_abs": 200.0,
-    "diff_pct": 3.67
-  },
-  {
-    "plu": "218835",
-    "nombre": "Jugo CEPITA DEL VALLE Naranja Tentación 300 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 1400.0,
-    "precio_hoy": 1450.0,
-    "precio_actual_hoy": 1450.0,
-    "diff_abs": 50.0,
-    "diff_pct": 3.57
-  },
-  {
-    "plu": "218838",
-    "nombre": "Jugo CEPITA DEL VALLE Durazno Delicioso 300 Ml",
-    "marca": "Cepita",
-    "categoria": "Jugos Frescos > Jugos > JUGOS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 1400.0,
-    "precio_hoy": 1450.0,
-    "precio_actual_hoy": 1450.0,
-    "diff_abs": 50.0,
-    "diff_pct": 3.57
   }
 ]
