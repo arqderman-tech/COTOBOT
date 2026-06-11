@@ -11,28 +11,6 @@
     "diff_pct": 29.78
   },
   {
-    "plu": "602088",
-    "nombre": "Whisky Tenessee Fire Jack Daniels 700ml",
-    "marca": "Jack Daniels",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 45161.0,
-    "precio_hoy": 55150.0,
-    "precio_actual_hoy": 41362.5,
-    "diff_abs": 9989.0,
-    "diff_pct": 22.12
-  },
-  {
-    "plu": "13006",
-    "nombre": "Whisky . Jack Daniel Bot 700 Cmq",
-    "marca": "Jack Daniels",
-    "categoria": "Whiskys > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 45161.0,
-    "precio_hoy": 55150.0,
-    "precio_actual_hoy": 41362.5,
-    "diff_abs": 9989.0,
-    "diff_pct": 22.12
-  },
-  {
     "plu": "189596",
     "nombre": "Gaseosa Coca-Cola Sabor Original  2 Lt",
     "marca": "Coca Cola",
@@ -61,53 +39,9 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 5900.0,
     "precio_hoy": 6700.0,
-    "precio_actual_hoy": 6700.0,
+    "precio_actual_hoy": 4466.89,
     "diff_abs": 800.0,
     "diff_pct": 13.56
-  },
-  {
-    "plu": "1156",
-    "nombre": "Americano GANCIA Botella 950 Cc",
-    "marca": "Gancia",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano",
-    "precio_antes": 8689.0,
-    "precio_hoy": 9850.0,
-    "precio_actual_hoy": 7386.52,
-    "diff_abs": 1161.0,
-    "diff_pct": 13.36
-  },
-  {
-    "plu": "491153",
-    "nombre": "Americano Red Berry Con  Dr.Lemon Bot 1 Ltr",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.03,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "618902",
-    "nombre": "Americano Vodka Manz.Ver Dr.Lemon Bot 1 Ltr",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.03,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "267380",
-    "nombre": "Americano DR. LEMON Con Limón Botella 1 L",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.03,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
   },
   {
     "plu": "467761",
@@ -119,50 +53,6 @@
     "precio_actual_hoy": 3562.03,
     "diff_abs": 550.0,
     "diff_pct": 13.1
-  },
-  {
-    "plu": "457104",
-    "nombre": "Americano DR. LEMON Vodka Y Pomelo Botella 1 L",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.03,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "294015",
-    "nombre": "Americano DR. MOJITO Botella 1 L",
-    "marca": "Dr. Mojito",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.03,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "286945",
-    "nombre": "Americano DR. LEMON Con Vodka Botella 1 L",
-    "marca": "Dr. Lemon",
-    "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
-    "precio_antes": 4200.0,
-    "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.03,
-    "diff_abs": 550.0,
-    "diff_pct": 13.1
-  },
-  {
-    "plu": "615336",
-    "nombre": "Vino Cabernet Franc Gualtallary Rutini 750ml",
-    "marca": "Rutini",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 53340.0,
-    "precio_hoy": 60000.0,
-    "precio_actual_hoy": 60000.0,
-    "diff_abs": 6660.0,
-    "diff_pct": 12.49
   },
   {
     "plu": "611903",
@@ -209,14 +99,124 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "615343",
-    "nombre": "Vino Malbec Apartado Gran Rutini 750ml",
-    "marca": "Rutini",
+    "plu": "617701",
+    "nombre": "Soda Manaos Sif 2 Ltr",
+    "marca": "Manaos",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "precio_antes": 2070.0,
+    "precio_hoy": 2285.0,
+    "precio_actual_hoy": 1713.75,
+    "diff_abs": 215.0,
+    "diff_pct": 10.39
+  },
+  {
+    "plu": "470500",
+    "nombre": "Gaseosa Naranja Fanta 220 Cmq",
+    "marca": "Fanta",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "470497",
+    "nombre": "Gaseosa Sprite Mini 220 Cmq",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "470498",
+    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "562410",
+    "nombre": "Agua Mineral SMARTWATER Sin Gas 991ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 2200.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "617705",
+    "nombre": "Agua Saborizada Anana Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "617700",
+    "nombre": "Agua Saborizada Pera Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "617699",
+    "nombre": "Agua Saborizada Multifruta Placer 1.5l",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1525.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1675.0,
+    "diff_abs": 150.0,
+    "diff_pct": 9.84
+  },
+  {
+    "plu": "617687",
+    "nombre": "Vino Cabernet Franc Humberto Canale 750cc",
+    "marca": "Humberto Canale",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 104000.0,
-    "precio_hoy": 115000.0,
-    "precio_actual_hoy": 115000.0,
-    "diff_abs": 11000.0,
-    "diff_pct": 10.58
+    "precio_antes": 41000.0,
+    "precio_hoy": 45000.0,
+    "precio_actual_hoy": 30001.5,
+    "diff_abs": 4000.0,
+    "diff_pct": 9.76
+  },
+  {
+    "plu": "618825",
+    "nombre": "Cerveza Sin Alcohol 0.0 Corona Pack 2838 Ml\r\n",
+    "marca": "Corona",
+    "categoria": "Cervezas Sin Alcohol > Cervezas > Cerveza > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 19200.0,
+    "precio_hoy": 21000.0,
+    "precio_actual_hoy": 10500.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 9.38
   }
 ]

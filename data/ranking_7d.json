@@ -1,49 +1,5 @@
 [
   {
-    "plu": "230532",
-    "nombre": "Gin Burnett`S Bot 1 Ltr",
-    "marca": "Burnetts",
-    "categoria": "Gin > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas",
-    "precio_antes": 10185.0,
-    "precio_hoy": 15621.0,
-    "precio_actual_hoy": 15621.0,
-    "diff_abs": 5436.0,
-    "diff_pct": 53.37
-  },
-  {
-    "plu": "2324",
-    "nombre": "Mariposa Licor De Miel Botella De 750 Ml",
-    "marca": "Mariposa Cusenier",
-    "categoria": "Licores > LICORES > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 5072.0,
-    "precio_hoy": 7428.0,
-    "precio_actual_hoy": 7428.0,
-    "diff_abs": 2356.0,
-    "diff_pct": 46.45
-  },
-  {
-    "plu": "7470",
-    "nombre": "Licor Liviano Amaretto TRES PLUMAS 700cc",
-    "marca": "Tres Plumas",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6468.0,
-    "precio_hoy": 9295.0,
-    "precio_actual_hoy": 9295.0,
-    "diff_abs": 2827.0,
-    "diff_pct": 43.71
-  },
-  {
-    "plu": "4681",
-    "nombre": "Grappa VALLEVIEJO 950cc",
-    "marca": "Valleviejo",
-    "categoria": "Grappa > Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
-    "precio_antes": 9240.0,
-    "precio_hoy": 13005.0,
-    "precio_actual_hoy": 13005.0,
-    "diff_abs": 3765.0,
-    "diff_pct": 40.75
-  },
-  {
     "plu": "62016",
     "nombre": "Granadina Dellepiane Botella 750 CC",
     "marca": "Dellepiane",
@@ -53,39 +9,6 @@
     "precio_actual_hoy": 7125.0,
     "diff_abs": 1635.0,
     "diff_pct": 29.78
-  },
-  {
-    "plu": "102940",
-    "nombre": "Licor De Café Al Chocolate TRES PLUMAS 750cc",
-    "marca": "Tres Plumas",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6909.0,
-    "precio_hoy": 8677.0,
-    "precio_actual_hoy": 8677.0,
-    "diff_abs": 1768.0,
-    "diff_pct": 25.59
-  },
-  {
-    "plu": "7452",
-    "nombre": "Licor Pesado De Chocolate TRES PLUMAS 700cc",
-    "marca": "Tres Plumas",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7613.0,
-    "precio_hoy": 9223.0,
-    "precio_actual_hoy": 9223.0,
-    "diff_abs": 1610.0,
-    "diff_pct": 21.15
-  },
-  {
-    "plu": "56252",
-    "nombre": "Licor Pesado De Chocolate Al Dulce De Leche TRES PLUMAS 700cc",
-    "marca": "Tres Plumas",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7613.0,
-    "precio_hoy": 9223.0,
-    "precio_actual_hoy": 9223.0,
-    "diff_abs": 1610.0,
-    "diff_pct": 21.15
   },
   {
     "plu": "625016",
@@ -99,17 +22,6 @@
     "diff_pct": 13.64
   },
   {
-    "plu": "473534",
-    "nombre": "Vermouth ANTICA FORMULA   Botella 1 L",
-    "marca": "Antica Formula",
-    "categoria": "Vermouth > Bebidas Con Alcohol > Bebidas > Aperitivos",
-    "precio_antes": 84500.0,
-    "precio_hoy": 96000.0,
-    "precio_actual_hoy": 96000.0,
-    "diff_abs": 11500.0,
-    "diff_pct": 13.61
-  },
-  {
     "plu": "467761",
     "nombre": "Americano DR. LEMON Con Naranja Botella 1 L",
     "marca": "Dr. Lemon",
@@ -119,28 +31,6 @@
     "precio_actual_hoy": 3562.03,
     "diff_abs": 550.0,
     "diff_pct": 13.1
-  },
-  {
-    "plu": "192089",
-    "nombre": "Sambuca . BORGHETTI Bot 700 Cmq",
-    "marca": "Borghetti",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
-    "precio_antes": 32700.0,
-    "precio_hoy": 36800.0,
-    "precio_actual_hoy": 36800.0,
-    "diff_abs": 4100.0,
-    "diff_pct": 12.54
-  },
-  {
-    "plu": "611903",
-    "nombre": "Agua Mineralizada BENEDICTINO Con Gas 600 Ml",
-    "marca": "Benedictino",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
-    "precio_antes": 1700.0,
-    "precio_hoy": 1900.0,
-    "precio_actual_hoy": 1615.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.76
   },
   {
     "plu": "611902",
@@ -154,26 +44,15 @@
     "diff_pct": 11.76
   },
   {
-    "plu": "56504",
-    "nombre": "Licor Livian Nja. Imp STREGA Bot 700 Cmq",
-    "marca": "Strega",
-    "categoria": "Licores > LICORES > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 28700.0,
-    "precio_hoy": 32000.0,
-    "precio_actual_hoy": 32000.0,
-    "diff_abs": 3300.0,
-    "diff_pct": 11.5
-  },
-  {
-    "plu": "488888",
-    "nombre": "Agua Mineral SMARTWATER Con Gas 591ml",
-    "marca": "Smartwater",
+    "plu": "611903",
+    "nombre": "Agua Mineralizada BENEDICTINO Con Gas 600 Ml",
+    "marca": "Benedictino",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
-    "precio_antes": 1800.0,
-    "precio_hoy": 2000.0,
-    "precio_actual_hoy": 1700.0,
+    "precio_antes": 1700.0,
+    "precio_hoy": 1900.0,
+    "precio_actual_hoy": 1615.0,
     "diff_abs": 200.0,
-    "diff_pct": 11.11
+    "diff_pct": 11.76
   },
   {
     "plu": "488881",
@@ -187,9 +66,53 @@
     "diff_pct": 11.11
   },
   {
+    "plu": "488888",
+    "nombre": "Agua Mineral SMARTWATER Con Gas 591ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
+    "precio_antes": 1800.0,
+    "precio_hoy": 2000.0,
+    "precio_actual_hoy": 1700.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.11
+  },
+  {
     "plu": "470497",
     "nombre": "Gaseosa Sprite Mini 220 Cmq",
     "marca": "Sprite",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "470498",
+    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "470500",
+    "nombre": "Gaseosa Naranja Fanta 220 Cmq",
+    "marca": "Fanta",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
@@ -209,14 +132,91 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "470498",
-    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "plu": "627177",
+    "nombre": "Gaseosa Carmesí FANTA 354ml",
+    "marca": "Fanta",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "616958",
+    "nombre": "Gaseosa Lima Limón Pack X4 SPRITE 948ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 7360.0,
+    "precio_hoy": 8000.0,
+    "precio_actual_hoy": 8000.0,
+    "diff_abs": 640.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "542757",
+    "nombre": "Gaseosa FANTA Zero Naranja 354 Ml",
+    "marca": "Fanta",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "611335",
+    "nombre": "Gaseosa Sprite Zero Lima-Limón 600 Ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "2986",
+    "nombre": "Gaseosa SPRITE Lima-Limón  354 Ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "3750",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 354 Ml",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "611336",
+    "nombre": "Gaseosa Sabor Original Coca Cola 600ml",
     "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1000.0,
-    "precio_hoy": 1100.0,
-    "precio_actual_hoy": 825.0,
-    "diff_abs": 100.0,
-    "diff_pct": 10.0
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
+  },
+  {
+    "plu": "179472",
+    "nombre": "Gaseosa SPRITE Zero Lima-Limón 354 Ml",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 2300.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2083.25,
+    "diff_abs": 200.0,
+    "diff_pct": 8.7
   }
 ]
