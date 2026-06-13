@@ -1,5 +1,16 @@
 [
   {
+    "plu": "187430",
+    "nombre": "Champaña Brut Nat Domaine Mum Bot 750 Cmq",
+    "marca": "Domaine Mumm",
+    "categoria": "Champañas > Champagne Y Espumantes > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 13250.0,
+    "precio_hoy": 22448.0,
+    "precio_actual_hoy": 14966.08,
+    "diff_abs": 9198.0,
+    "diff_pct": 69.42
+  },
+  {
     "plu": "62016",
     "nombre": "Granadina Dellepiane Botella 750 CC",
     "marca": "Dellepiane",
@@ -17,7 +28,7 @@
     "categoria": "Bebidas Con Alcohol > Bebidas > Aperitivos > Americano Combinado",
     "precio_antes": 4200.0,
     "precio_hoy": 4750.0,
-    "precio_actual_hoy": 3562.03,
+    "precio_actual_hoy": 2375.0,
     "diff_abs": 550.0,
     "diff_pct": 13.1
   },
@@ -44,28 +55,6 @@
     "diff_pct": 5.88
   },
   {
-    "plu": "257435",
-    "nombre": "Amargo TERMA  Serrano   Botella 1.75 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
-    "precio_antes": 3150.0,
-    "precio_hoy": 3310.0,
-    "precio_actual_hoy": 2151.5,
-    "diff_abs": 160.0,
-    "diff_pct": 5.08
-  },
-  {
-    "plu": "257436",
-    "nombre": "Amargo TERMA  Pomelo Rosado   Botella 1.75 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
-    "precio_antes": 3150.0,
-    "precio_hoy": 3310.0,
-    "precio_actual_hoy": 2151.5,
-    "diff_abs": 160.0,
-    "diff_pct": 5.08
-  },
-  {
     "plu": "544046",
     "nombre": "Amargo Serrano Sin Azucar TERMA 1.75 Ltr",
     "marca": "Terma",
@@ -88,6 +77,17 @@
     "diff_pct": 5.08
   },
   {
+    "plu": "257436",
+    "nombre": "Amargo TERMA  Pomelo Rosado   Botella 1.75 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
+    "precio_antes": 3150.0,
+    "precio_hoy": 3310.0,
+    "precio_actual_hoy": 2151.5,
+    "diff_abs": 160.0,
+    "diff_pct": 5.08
+  },
+  {
     "plu": "282837",
     "nombre": "Amargo TERMA LIGHT Limon   Botella 1.75 L",
     "marca": "Terma",
@@ -99,30 +99,19 @@
     "diff_pct": 5.08
   },
   {
-    "plu": "616553",
-    "nombre": "Vino Malbec Chico Malo 750ml",
-    "marca": "Chico Malo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6150.0,
-    "precio_hoy": 6460.0,
-    "precio_actual_hoy": 4306.88,
-    "diff_abs": 310.0,
-    "diff_pct": 5.04
+    "plu": "257435",
+    "nombre": "Amargo TERMA  Serrano   Botella 1.75 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
+    "precio_antes": 3150.0,
+    "precio_hoy": 3310.0,
+    "precio_actual_hoy": 2151.5,
+    "diff_abs": 160.0,
+    "diff_pct": 5.08
   },
   {
-    "plu": "616587",
-    "nombre": "Vino Cabernet Sauvignon Chico Malo 750ml",
-    "marca": "Chico Malo",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 6150.0,
-    "precio_hoy": 6460.0,
-    "precio_actual_hoy": 4306.88,
-    "diff_abs": 310.0,
-    "diff_pct": 5.04
-  },
-  {
-    "plu": "291339",
-    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
+    "plu": "186590",
+    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
     "marca": "Pritty",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2100.0,
@@ -143,8 +132,8 @@
     "diff_pct": 4.76
   },
   {
-    "plu": "186590",
-    "nombre": "Gaseosa PRITTY  Limón Botella 1.5 L ",
+    "plu": "291339",
+    "nombre": "Gaseosa PRITTY Cero Limón Botella 1.5 L ",
     "marca": "Pritty",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2100.0,
@@ -154,8 +143,8 @@
     "diff_pct": 4.76
   },
   {
-    "plu": "69616",
-    "nombre": "Jugo Concentrado Sabor Naranja Saldan 1.5l",
+    "plu": "69614",
+    "nombre": "Jugo Concentrado De Limón Saldan 1.5l",
     "marca": "Saldan",
     "categoria": "Jugos Concentrados > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2100.0,
@@ -165,8 +154,8 @@
     "diff_pct": 4.76
   },
   {
-    "plu": "69614",
-    "nombre": "Jugo Concentrado De Limón Saldan 1.5l",
+    "plu": "69616",
+    "nombre": "Jugo Concentrado Sabor Naranja Saldan 1.5l",
     "marca": "Saldan",
     "categoria": "Jugos Concentrados > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2100.0,
@@ -187,30 +176,41 @@
     "diff_pct": 4.62
   },
   {
-    "plu": "178251",
-    "nombre": "Bebida Isotónica GATORADE Cool Blue     500 Cc",
+    "plu": "215533",
+    "nombre": "Bebida Isotónica GATORADE Manzana Botella 1,25 L",
     "marca": "Gatorade",
     "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
-    "precio_antes": 2250.0,
-    "precio_hoy": 2250.0,
-    "precio_actual_hoy": 2250.0,
+    "precio_antes": 2750.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "plu": "14398",
-    "nombre": "Gaseosa SCHWEPPES Tónica 1,5 Lt",
-    "marca": "Schweppes",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 4400.0,
-    "precio_hoy": 4400.0,
-    "precio_actual_hoy": 4400.0,
+    "plu": "229111",
+    "nombre": "Bebida Isotónica GATORADE Cool Blue Botella 1,25 L",
+    "marca": "Gatorade",
+    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+    "precio_antes": 2750.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 2750.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
   {
-    "plu": "175794",
-    "nombre": "Bebida Isotónica GATORADE Naranja Botella 500 Cc",
+    "plu": "271780",
+    "nombre": "Bebida Isotónica GATORADE Manzana Botella 750 Cc",
+    "marca": "Gatorade",
+    "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+    "precio_antes": 2500.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
+    "plu": "178253",
+    "nombre": "Bebida Isotónica GATORADE Uva     500 Cc",
     "marca": "Gatorade",
     "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
     "precio_antes": 2250.0,
