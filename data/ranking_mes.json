@@ -1,7 +1,7 @@
 [
   {
-    "plu": "526340",
-    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
+    "plu": "526339",
+    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1799.0,
@@ -11,8 +11,8 @@
     "diff_pct": 50.03
   },
   {
-    "plu": "526339",
-    "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
+    "plu": "526340",
+    "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
     "marca": "Gergal",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1799.0,
@@ -88,17 +88,6 @@
     "diff_pct": 13.1
   },
   {
-    "plu": "611902",
-    "nombre": "Agua Mineralizada BENEDICTINO Sin Gas 600 Ml",
-    "marca": "Benedictino",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 1700.0,
-    "precio_hoy": 1900.0,
-    "precio_actual_hoy": 1900.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.76
-  },
-  {
     "plu": "611903",
     "nombre": "Agua Mineralizada BENEDICTINO Con Gas 600 Ml",
     "marca": "Benedictino",
@@ -106,6 +95,17 @@
     "precio_antes": 1700.0,
     "precio_hoy": 1900.0,
     "precio_actual_hoy": 1615.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.76
+  },
+  {
+    "plu": "611902",
+    "nombre": "Agua Mineralizada BENEDICTINO Sin Gas 600 Ml",
+    "marca": "Benedictino",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 1700.0,
+    "precio_hoy": 1900.0,
+    "precio_actual_hoy": 1900.0,
     "diff_abs": 200.0,
     "diff_pct": 11.76
   },
@@ -132,20 +132,20 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "470497",
-    "nombre": "Gaseosa Sprite Mini 220 Cmq",
-    "marca": "Sprite",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1000.0,
-    "precio_hoy": 1100.0,
-    "precio_actual_hoy": 825.0,
-    "diff_abs": 100.0,
+    "plu": "562410",
+    "nombre": "Agua Mineral SMARTWATER Sin Gas 991ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 2200.0,
+    "diff_abs": 200.0,
     "diff_pct": 10.0
   },
   {
-    "plu": "470499",
-    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
-    "marca": "Coca Cola",
+    "plu": "470497",
+    "nombre": "Gaseosa Sprite Mini 220 Cmq",
+    "marca": "Sprite",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
@@ -165,17 +165,6 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "562410",
-    "nombre": "Agua Mineral SMARTWATER Sin Gas 991ml",
-    "marca": "Smartwater",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2200.0,
-    "precio_actual_hoy": 2200.0,
-    "diff_abs": 200.0,
-    "diff_pct": 10.0
-  },
-  {
     "plu": "470498",
     "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
     "marca": "Coca Cola",
@@ -187,21 +176,21 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "617687",
-    "nombre": "Vino Cabernet Franc Humberto Canale 750cc",
-    "marca": "Humberto Canale",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 41000.0,
-    "precio_hoy": 45000.0,
-    "precio_actual_hoy": 30001.5,
-    "diff_abs": 4000.0,
-    "diff_pct": 9.76
+    "plu": "470499",
+    "nombre": "Gaseosa Coca-Cola Sabor Original 220 Ml\r\n",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
   },
   {
-    "plu": "474975",
-    "nombre": "Vino Fino Blanco Honey Dadá Bot 750 Ml",
+    "plu": "243530",
+    "nombre": "Vino Bonarda Malbec DADA 1 Vainilla 750cc",
     "marca": "Dada",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
     "precio_hoy": 7743.0,
     "precio_actual_hoy": 5162.26,
@@ -209,8 +198,19 @@
     "diff_pct": 9.24
   },
   {
-    "plu": "243530",
-    "nombre": "Vino Bonarda Malbec DADA 1 Vainilla 750cc",
+    "plu": "243529",
+    "nombre": "Vino Merlot DADA 2 Mokka Bot 750 CC",
+    "marca": "Dada",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 5162.26,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
+  },
+  {
+    "plu": "466641",
+    "nombre": "Vino Tinto Blend Dadá Bot 750 Ml Chocolate",
     "marca": "Dada",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
