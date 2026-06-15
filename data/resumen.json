@@ -1,71 +1,49 @@
 {
-  "fecha": "20260614",
+  "fecha": "20260615",
   "total_productos": 1595,
-  "variacion_dia": 0.06,
-  "variacion_7d": 0.02,
-  "variacion_mes": 1.22,
+  "variacion_dia": 0.05,
+  "variacion_7d": 0.13,
+  "variacion_mes": 1.27,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.01,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 753,
-      "total_productos": 753
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 751,
+      "total_productos": 752
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": 0.14,
-      "productos_subieron": 3,
+      "productos_subieron": 14,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 542,
+      "productos_sin_cambio": 531,
       "total_productos": 545
     }
   ],
   "ranking_baja_dia": [
     {
-      "plu": "10891",
-      "nombre": "Gaseosa FANTA Naranja 354 Ml",
-      "marca": "Fanta",
-      "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 2500.0,
-      "precio_hoy": 2500.0,
-      "precio_actual_hoy": 2083.25,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
+      "plu": "233568",
+      "nombre": "Vino Blend . ALMA NEGRA Bot 750 Cmq",
+      "marca": "Alma Negra",
+      "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+      "precio_antes": 39600.0,
+      "precio_hoy": 36000.0,
+      "precio_actual_hoy": 27000.0,
+      "diff_abs": -3600.0,
+      "diff_pct": -9.09
     },
     {
-      "plu": "124467",
-      "nombre": "SPRITE Zero Lima-Limón 2,25 Lt",
-      "marca": "Sprite",
+      "plu": "243476",
+      "nombre": "Gaseosa SCHWEPPES Tónica 2,25 Lt",
+      "marca": "Schweppes",
       "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 5650.0,
-      "precio_hoy": 5650.0,
-      "precio_actual_hoy": 4237.5,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "475259",
-      "nombre": "Gaseosa SPRITE Lima-Limón 1,75 Lt",
-      "marca": "Sprite",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 4800.0,
-      "precio_hoy": 4800.0,
-      "precio_actual_hoy": 4800.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "474619",
-      "nombre": "Gaseosa Sprite Lima-Limón 1,25 Lt",
-      "marca": "Sprite",
-      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-      "precio_antes": 3140.0,
-      "precio_hoy": 3140.0,
-      "precio_actual_hoy": 2512.0,
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -77,6 +55,17 @@
       "precio_antes": 2500.0,
       "precio_hoy": 2500.0,
       "precio_actual_hoy": 2083.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "474619",
+      "nombre": "Gaseosa Sprite Lima-Limón 1,25 Lt",
+      "marca": "Sprite",
+      "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+      "precio_antes": 3140.0,
+      "precio_hoy": 3140.0,
+      "precio_actual_hoy": 2512.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -125,18 +114,29 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "16339",
-      "nombre": "Gaseosa FANTA Naranja 1,5 Lt",
+      "plu": "16477",
+      "nombre": "Gaseosa FANTA Naranja 2,25 Lt",
       "marca": "Fanta",
       "categoria": "Gaseosas > GASEOSAS > Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 3040.0,
-      "precio_hoy": 3040.0,
-      "precio_actual_hoy": 3040.0,
+      "precio_antes": 5650.0,
+      "precio_hoy": 5650.0,
+      "precio_actual_hoy": 4237.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "271781",
+      "nombre": "Bebida Isotónica GATORADE Frutas Tropicales 750ml",
+      "marca": "Gatorade",
+      "categoria": "Bebidas Sin Alcohol > Bebidas Isotónicas > Bebidas",
+      "precio_antes": 2500.0,
+      "precio_hoy": 2500.0,
+      "precio_actual_hoy": 2500.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 3,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1295
+  "productos_subieron_dia": 14,
+  "productos_bajaron_dia": 1,
+  "productos_sin_cambio_dia": 1282
 }
