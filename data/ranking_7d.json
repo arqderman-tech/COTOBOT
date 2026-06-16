@@ -1,16 +1,5 @@
 [
   {
-    "plu": "62016",
-    "nombre": "Granadina Dellepiane Botella 750 CC",
-    "marca": "Dellepiane",
-    "categoria": "Granadinas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 5490.0,
-    "precio_hoy": 7125.0,
-    "precio_actual_hoy": 7125.0,
-    "diff_abs": 1635.0,
-    "diff_pct": 29.78
-  },
-  {
     "plu": "569389",
     "nombre": "Gaseosa Naranja Cunnington 1500cmq",
     "marca": "Cunnington",
@@ -44,6 +33,17 @@
     "diff_pct": 5.88
   },
   {
+    "plu": "288549",
+    "nombre": "Amargo TERMA  Serrano   Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
     "plu": "288555",
     "nombre": "Amargo TERMA  Pomelo Rosado   Botella 1.35 L",
     "marca": "Terma",
@@ -66,74 +66,19 @@
     "diff_pct": 5.19
   },
   {
-    "plu": "288549",
-    "nombre": "Amargo TERMA  Serrano   Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "514843",
-    "nombre": "Amargo Patagónico TERMA Sin Azúcar 1.35l",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "514844",
-    "nombre": "Amargo Pomelo Rosado Terma Bot 1.35 Ltr",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "288551",
-    "nombre": "Amargo TERMA LIGHT Serrano Cero Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
     "plu": "288552",
     "nombre": "Amargo TERMA LIGHT Cuyano Cero Botella 1.35 L",
     "marca": "Terma",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
     "precio_antes": 2700.0,
     "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
+    "precio_actual_hoy": 2840.0,
     "diff_abs": 140.0,
     "diff_pct": 5.19
   },
   {
-    "plu": "296381",
-    "nombre": "Amargo TERMA LIGHT Manzana Cero Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "288546",
-    "nombre": "Amargo TERMA LIGHT Limon Cero Botella 1.35 L",
+    "plu": "288551",
+    "nombre": "Amargo TERMA LIGHT Serrano Cero Botella 1.35 L",
     "marca": "Terma",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
     "precio_antes": 2700.0,
@@ -154,8 +99,19 @@
     "diff_pct": 5.19
   },
   {
-    "plu": "544045",
-    "nombre": "Amargo Pomelo Sin Azucar TERMA 1.35 Ltr",
+    "plu": "467258",
+    "nombre": "Agua Saborizada  TERMA   Citrus Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "288546",
+    "nombre": "Amargo TERMA LIGHT Limon Cero Botella 1.35 L",
     "marca": "Terma",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
     "precio_antes": 2700.0,
@@ -176,8 +132,8 @@
     "diff_pct": 5.19
   },
   {
-    "plu": "467258",
-    "nombre": "Agua Saborizada  TERMA   Citrus Botella 1.35 L",
+    "plu": "296381",
+    "nombre": "Amargo TERMA LIGHT Manzana Cero Botella 1.35 L",
     "marca": "Terma",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
     "precio_antes": 2700.0,
@@ -187,10 +143,43 @@
     "diff_pct": 5.19
   },
   {
-    "plu": "544046",
-    "nombre": "Amargo Serrano Sin Azucar TERMA 1.75 Ltr",
+    "plu": "514844",
+    "nombre": "Amargo Pomelo Rosado Terma Bot 1.35 Ltr",
     "marca": "Terma",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "544045",
+    "nombre": "Amargo Pomelo Sin Azucar TERMA 1.35 Ltr",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "514843",
+    "nombre": "Amargo Patagónico TERMA Sin Azúcar 1.35l",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "257435",
+    "nombre": "Amargo TERMA  Serrano   Botella 1.75 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
     "precio_antes": 3150.0,
     "precio_hoy": 3310.0,
     "precio_actual_hoy": 2151.5,
@@ -198,10 +187,21 @@
     "diff_pct": 5.08
   },
   {
-    "plu": "257435",
-    "nombre": "Amargo TERMA  Serrano   Botella 1.75 L",
+    "plu": "257436",
+    "nombre": "Amargo TERMA  Pomelo Rosado   Botella 1.75 L",
     "marca": "Terma",
     "categoria": "Bebidas Sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
+    "precio_antes": 3150.0,
+    "precio_hoy": 3310.0,
+    "precio_actual_hoy": 2151.5,
+    "diff_abs": 160.0,
+    "diff_pct": 5.08
+  },
+  {
+    "plu": "486131",
+    "nombre": "Amargo Citrus Terma Bot 1750 Cmq",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
     "precio_antes": 3150.0,
     "precio_hoy": 3310.0,
     "precio_actual_hoy": 2151.5,
