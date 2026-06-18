@@ -28,31 +28,9 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 15939.0,
     "precio_hoy": 16945.0,
-    "precio_actual_hoy": 16945.0,
+    "precio_actual_hoy": 10167.0,
     "diff_abs": 1006.0,
     "diff_pct": 6.31
-  },
-  {
-    "plu": "173727",
-    "nombre": "Vino Cabernet Malbec Dv Catena Bot 750 Cmq",
-    "marca": "D. V. Catena",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 21000.0,
-    "precio_hoy": 22260.0,
-    "precio_actual_hoy": 22260.0,
-    "diff_abs": 1260.0,
-    "diff_pct": 6.0
-  },
-  {
-    "plu": "241273",
-    "nombre": "Vino Blend Malbec Cabernet Sauvignon NICASIA 750cc",
-    "marca": "Nicasia",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12525.0,
-    "precio_hoy": 13275.0,
-    "precio_actual_hoy": 13275.0,
-    "diff_abs": 750.0,
-    "diff_pct": 5.99
   },
   {
     "plu": "241274",
@@ -61,7 +39,18 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 12525.0,
     "precio_hoy": 13275.0,
-    "precio_actual_hoy": 13275.0,
+    "precio_actual_hoy": 7965.0,
+    "diff_abs": 750.0,
+    "diff_pct": 5.99
+  },
+  {
+    "plu": "241273",
+    "nombre": "Vino Blend Malbec Cabernet Sauvignon NICASIA 750cc",
+    "marca": "Nicasia",
+    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 12525.0,
+    "precio_hoy": 13275.0,
+    "precio_actual_hoy": 7965.0,
     "diff_abs": 750.0,
     "diff_pct": 5.99
   },
@@ -72,123 +61,13 @@
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1700.0,
     "precio_hoy": 1800.0,
-    "precio_actual_hoy": 1800.0,
+    "precio_actual_hoy": 1530.0,
     "diff_abs": 100.0,
     "diff_pct": 5.88
   },
   {
-    "plu": "288552",
-    "nombre": "Amargo TERMA LIGHT Cuyano Cero Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2840.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "288550",
-    "nombre": "Amargo TERMA  Cuyano   Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "296381",
-    "nombre": "Amargo TERMA LIGHT Manzana Cero Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "288545",
-    "nombre": "Amargo TERMA  Limon   Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "288554",
-    "nombre": "Amargo TERMA  Pomelo   Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "288555",
-    "nombre": "Amargo TERMA  Pomelo Rosado   Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "544045",
-    "nombre": "Amargo Pomelo Sin Azucar TERMA 1.35 Ltr",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
     "plu": "514843",
     "nombre": "Amargo Patagónico TERMA Sin Azúcar 1.35l",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "288546",
-    "nombre": "Amargo TERMA LIGHT Limon Cero Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "467258",
-    "nombre": "Agua Saborizada  TERMA   Citrus Botella 1.35 L",
-    "marca": "Terma",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
-    "precio_antes": 2700.0,
-    "precio_hoy": 2840.0,
-    "precio_actual_hoy": 2130.0,
-    "diff_abs": 140.0,
-    "diff_pct": 5.19
-  },
-  {
-    "plu": "514844",
-    "nombre": "Amargo Pomelo Rosado Terma Bot 1.35 Ltr",
     "marca": "Terma",
     "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
     "precio_antes": 2700.0,
@@ -209,6 +88,72 @@
     "diff_pct": 5.19
   },
   {
+    "plu": "288550",
+    "nombre": "Amargo TERMA  Cuyano   Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "467258",
+    "nombre": "Agua Saborizada  TERMA   Citrus Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "288554",
+    "nombre": "Amargo TERMA  Pomelo   Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "514844",
+    "nombre": "Amargo Pomelo Rosado Terma Bot 1.35 Ltr",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "544045",
+    "nombre": "Amargo Pomelo Sin Azucar TERMA 1.35 Ltr",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "288545",
+    "nombre": "Amargo TERMA  Limon   Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
     "plu": "288549",
     "nombre": "Amargo TERMA  Serrano   Botella 1.35 L",
     "marca": "Terma",
@@ -218,5 +163,60 @@
     "precio_actual_hoy": 2130.0,
     "diff_abs": 140.0,
     "diff_pct": 5.19
+  },
+  {
+    "plu": "288546",
+    "nombre": "Amargo TERMA LIGHT Limon Cero Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "288552",
+    "nombre": "Amargo TERMA LIGHT Cuyano Cero Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2840.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "296381",
+    "nombre": "Amargo TERMA LIGHT Manzana Cero Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "288555",
+    "nombre": "Amargo TERMA  Pomelo Rosado   Botella 1.35 L",
+    "marca": "Terma",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Amargos",
+    "precio_antes": 2700.0,
+    "precio_hoy": 2840.0,
+    "precio_actual_hoy": 2130.0,
+    "diff_abs": 140.0,
+    "diff_pct": 5.19
+  },
+  {
+    "plu": "618086",
+    "nombre": "Jugo Sabor Chicle Tutti Ttb 200 Ml",
+    "marca": "Tutti",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 760.0,
+    "precio_hoy": 799.0,
+    "precio_actual_hoy": 519.35,
+    "diff_abs": 39.0,
+    "diff_pct": 5.13
   }
 ]

@@ -66,10 +66,10 @@
     "diff_pct": 11.76
   },
   {
-    "plu": "488888",
-    "nombre": "Agua Mineral SMARTWATER Con Gas 591ml",
+    "plu": "488881",
+    "nombre": "Agua Mineral SMARTWATER Sin Gas 591ml",
     "marca": "Smartwater",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
     "precio_antes": 1800.0,
     "precio_hoy": 2000.0,
     "precio_actual_hoy": 1700.0,
@@ -77,10 +77,10 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "488881",
-    "nombre": "Agua Mineral SMARTWATER Sin Gas 591ml",
+    "plu": "488888",
+    "nombre": "Agua Mineral SMARTWATER Con Gas 591ml",
     "marca": "Smartwater",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Con Gas > Aguas",
     "precio_antes": 1800.0,
     "precio_hoy": 2000.0,
     "precio_actual_hoy": 1700.0,
@@ -99,42 +99,20 @@
     "diff_pct": 10.08
   },
   {
-    "plu": "470498",
-    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
-    "marca": "Coca Cola",
+    "plu": "470500",
+    "nombre": "Gaseosa Naranja Fanta 220 Cmq",
+    "marca": "Fanta",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
     "precio_actual_hoy": 825.0,
     "diff_abs": 100.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "562410",
-    "nombre": "Agua Mineral SMARTWATER Sin Gas 991ml",
-    "marca": "Smartwater",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
-    "precio_antes": 2000.0,
-    "precio_hoy": 2200.0,
-    "precio_actual_hoy": 2200.0,
-    "diff_abs": 200.0,
     "diff_pct": 10.0
   },
   {
     "plu": "470497",
     "nombre": "Gaseosa Sprite Mini 220 Cmq",
     "marca": "Sprite",
-    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 1000.0,
-    "precio_hoy": 1100.0,
-    "precio_actual_hoy": 825.0,
-    "diff_abs": 100.0,
-    "diff_pct": 10.0
-  },
-  {
-    "plu": "470500",
-    "nombre": "Gaseosa Naranja Fanta 220 Cmq",
-    "marca": "Fanta",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 1000.0,
     "precio_hoy": 1100.0,
@@ -154,24 +132,35 @@
     "diff_pct": 10.0
   },
   {
+    "plu": "470498",
+    "nombre": "Gaseosa Coca-Cola Sin Azúcar 220 Ml",
+    "marca": "Coca Cola",
+    "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 1000.0,
+    "precio_hoy": 1100.0,
+    "precio_actual_hoy": 825.0,
+    "diff_abs": 100.0,
+    "diff_pct": 10.0
+  },
+  {
+    "plu": "562410",
+    "nombre": "Agua Mineral SMARTWATER Sin Gas 991ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas Sin Gas > Aguas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2200.0,
+    "precio_actual_hoy": 1650.0,
+    "diff_abs": 200.0,
+    "diff_pct": 10.0
+  },
+  {
     "plu": "243530",
     "nombre": "Vino Bonarda Malbec DADA 1 Vainilla 750cc",
     "marca": "Dada",
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
     "precio_hoy": 7743.0,
-    "precio_actual_hoy": 7743.0,
-    "diff_abs": 655.0,
-    "diff_pct": 9.24
-  },
-  {
-    "plu": "474975",
-    "nombre": "Vino Fino Blanco Honey Dadá Bot 750 Ml",
-    "marca": "Dada",
-    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 7088.0,
-    "precio_hoy": 7743.0,
-    "precio_actual_hoy": 7743.0,
+    "precio_actual_hoy": 4645.8,
     "diff_abs": 655.0,
     "diff_pct": 9.24
   },
@@ -182,7 +171,7 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
     "precio_hoy": 7743.0,
-    "precio_actual_hoy": 7743.0,
+    "precio_actual_hoy": 4645.8,
     "diff_abs": 655.0,
     "diff_pct": 9.24
   },
@@ -193,7 +182,18 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
     "precio_hoy": 7743.0,
-    "precio_actual_hoy": 7743.0,
+    "precio_actual_hoy": 4645.8,
+    "diff_abs": 655.0,
+    "diff_pct": 9.24
+  },
+  {
+    "plu": "474975",
+    "nombre": "Vino Fino Blanco Honey Dadá Bot 750 Ml",
+    "marca": "Dada",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7088.0,
+    "precio_hoy": 7743.0,
+    "precio_actual_hoy": 4645.8,
     "diff_abs": 655.0,
     "diff_pct": 9.24
   },
@@ -204,18 +204,18 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
     "precio_antes": 7088.0,
     "precio_hoy": 7743.0,
-    "precio_actual_hoy": 7743.0,
+    "precio_actual_hoy": 4645.8,
     "diff_abs": 655.0,
     "diff_pct": 9.24
   },
   {
-    "plu": "611335",
-    "nombre": "Gaseosa Sprite Zero Lima-Limón 600 Ml",
-    "marca": "Sprite",
+    "plu": "474479",
+    "nombre": "Coca-Cola Zero Edición Limitada 473 Ml",
+    "marca": "Coca Cola",
     "categoria": "Gaseosas > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2300.0,
     "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2083.25,
+    "precio_actual_hoy": 1625.0,
     "diff_abs": 200.0,
     "diff_pct": 8.7
   }
