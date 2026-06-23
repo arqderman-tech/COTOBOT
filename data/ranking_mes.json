@@ -44,15 +44,15 @@
     "diff_pct": 40.75
   },
   {
-    "plu": "514046",
-    "nombre": "Licor Caña . 1° De Agost Bot 1 Ltr",
-    "marca": "1° De Agosto",
-    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 5775.0,
-    "precio_hoy": 8105.0,
-    "precio_actual_hoy": 4863.0,
-    "diff_abs": 2330.0,
-    "diff_pct": 40.35
+    "plu": "2315",
+    "nombre": "8 HERMANOS Azul Anis Botella De 1 Litro",
+    "marca": "8 Hermanos",
+    "categoria": "Bebidas Con Alcohol > Bebidas Blancas Y Destiladas > Bebidas > Anis",
+    "precio_antes": 7628.0,
+    "precio_hoy": 10346.0,
+    "precio_actual_hoy": 6207.6,
+    "diff_abs": 2718.0,
+    "diff_pct": 35.63
   },
   {
     "plu": "62016",
@@ -119,6 +119,28 @@
     "precio_actual_hoy": 3490.0,
     "diff_abs": 600.0,
     "diff_pct": 20.76
+  },
+  {
+    "plu": "618207",
+    "nombre": "Agua Saborizada Naranja Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1455.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1005.0,
+    "diff_abs": 220.0,
+    "diff_pct": 15.12
+  },
+  {
+    "plu": "618186",
+    "nombre": "Agua Saborizada Pomelo Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1455.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1005.0,
+    "diff_abs": 220.0,
+    "diff_pct": 15.12
   },
   {
     "plu": "561220",
@@ -196,27 +218,5 @@
     "precio_actual_hoy": 19200.0,
     "diff_abs": 3300.0,
     "diff_pct": 11.5
-  },
-  {
-    "plu": "488881",
-    "nombre": "Agua Mineral SMARTWATER Sin Gas 591ml",
-    "marca": "Smartwater",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas sin Gas > Aguas Y Sodas > Aguas",
-    "precio_antes": 1800.0,
-    "precio_hoy": 2000.0,
-    "precio_actual_hoy": 1700.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.11
-  },
-  {
-    "plu": "488888",
-    "nombre": "Agua Mineral SMARTWATER Con Gas 591ml",
-    "marca": "Smartwater",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas con Gas > Aguas Y Sodas > Aguas",
-    "precio_antes": 1800.0,
-    "precio_hoy": 2000.0,
-    "precio_actual_hoy": 1700.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.11
   }
 ]
