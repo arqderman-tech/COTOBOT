@@ -44,6 +44,17 @@
     "diff_pct": 40.75
   },
   {
+    "plu": "514046",
+    "nombre": "Licor Caña . 1° De Agost Bot 1 Ltr",
+    "marca": "1° De Agosto",
+    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 5775.0,
+    "precio_hoy": 8105.0,
+    "precio_actual_hoy": 4863.0,
+    "diff_abs": 2330.0,
+    "diff_pct": 40.35
+  },
+  {
     "plu": "2315",
     "nombre": "8 HERMANOS Azul Anis Botella De 1 Litro",
     "marca": "8 Hermanos",
@@ -99,6 +110,17 @@
     "diff_pct": 21.15
   },
   {
+    "plu": "513672",
+    "nombre": "Licor Fino Chocolate Tres Plumas Bot 700 Ml",
+    "marca": "Tres Plumas",
+    "categoria": "Licores > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 7613.0,
+    "precio_hoy": 9223.0,
+    "precio_actual_hoy": 5533.8,
+    "diff_abs": 1610.0,
+    "diff_pct": 21.15
+  },
+  {
     "plu": "56252",
     "nombre": "Licor Pesado De Chocolate Al Dulce De Leche TRES PLUMAS 700cc",
     "marca": "Tres Plumas",
@@ -119,6 +141,17 @@
     "precio_actual_hoy": 3490.0,
     "diff_abs": 600.0,
     "diff_pct": 20.76
+  },
+  {
+    "plu": "618203",
+    "nombre": "Agua Saborizada Manzana Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1455.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1005.0,
+    "diff_abs": 220.0,
+    "diff_pct": 15.12
   },
   {
     "plu": "618207",
@@ -146,7 +179,7 @@
     "plu": "561220",
     "nombre": "Soda Saldan 2.25l",
     "marca": "Saldan",
-    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas y Sodas > Aguas",
     "precio_antes": 1500.0,
     "precio_hoy": 1700.0,
     "precio_actual_hoy": 1700.0,
@@ -185,38 +218,5 @@
     "precio_actual_hoy": 22200.0,
     "diff_abs": 4000.0,
     "diff_pct": 12.12
-  },
-  {
-    "plu": "611903",
-    "nombre": "Agua Mineralizada BENEDICTINO Con Gas 600 Ml",
-    "marca": "Benedictino",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas con Gas > Aguas Y Sodas > Aguas",
-    "precio_antes": 1700.0,
-    "precio_hoy": 1900.0,
-    "precio_actual_hoy": 1615.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.76
-  },
-  {
-    "plu": "611902",
-    "nombre": "Agua Mineralizada BENEDICTINO Sin Gas 600 Ml",
-    "marca": "Benedictino",
-    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas sin Gas > Aguas Y Sodas > Aguas",
-    "precio_antes": 1700.0,
-    "precio_hoy": 1900.0,
-    "precio_actual_hoy": 1900.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.76
-  },
-  {
-    "plu": "56504",
-    "nombre": "Licor Livian Nja. Imp STREGA Bot 700 Cmq",
-    "marca": "Strega",
-    "categoria": "Licores > LICORES > Bebidas Con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 28700.0,
-    "precio_hoy": 32000.0,
-    "precio_actual_hoy": 19200.0,
-    "diff_abs": 3300.0,
-    "diff_pct": 11.5
   }
 ]

@@ -1,5 +1,16 @@
 [
   {
+    "plu": "618203",
+    "nombre": "Agua Saborizada Manzana Placer Bot 1.5 Ltr",
+    "marca": "Placer",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 1455.0,
+    "precio_hoy": 1675.0,
+    "precio_actual_hoy": 1005.0,
+    "diff_abs": 220.0,
+    "diff_pct": 15.12
+  },
+  {
     "plu": "618186",
     "nombre": "Agua Saborizada Pomelo Placer Bot 1.5 Ltr",
     "marca": "Placer",
@@ -33,8 +44,8 @@
     "diff_pct": 10.0
   },
   {
-    "plu": "602667",
-    "nombre": "Jugo Pomelo Smudis 1l",
+    "plu": "602666",
+    "nombre": "Jugo Manzana Smudis 1l",
     "marca": "Smudis",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 4565.0,
@@ -44,8 +55,8 @@
     "diff_pct": 9.97
   },
   {
-    "plu": "584730",
-    "nombre": "Jugo De Banana Anana Y Frutilla Smudis 1l",
+    "plu": "602667",
+    "nombre": "Jugo Pomelo Smudis 1l",
     "marca": "Smudis",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 4565.0,
@@ -77,8 +88,8 @@
     "diff_pct": 9.97
   },
   {
-    "plu": "602666",
-    "nombre": "Jugo Manzana Smudis 1l",
+    "plu": "584730",
+    "nombre": "Jugo De Banana Anana Y Frutilla Smudis 1l",
     "marca": "Smudis",
     "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 4565.0,
@@ -88,10 +99,10 @@
     "diff_pct": 9.97
   },
   {
-    "plu": "573595",
-    "nombre": "Jugos Banana Anana Y Smudis 500ml",
+    "plu": "614338",
+    "nombre": "Jugos De Frutilla Y Naranja Smudis 500ml",
     "marca": "Smudis",
-    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2319.0,
     "precio_hoy": 2549.0,
     "precio_actual_hoy": 1656.85,
@@ -101,6 +112,28 @@
   {
     "plu": "573594",
     "nombre": "Jugos Manzana Smudis 500ml",
+    "marca": "Smudis",
+    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2319.0,
+    "precio_hoy": 2549.0,
+    "precio_actual_hoy": 1656.85,
+    "diff_abs": 230.0,
+    "diff_pct": 9.92
+  },
+  {
+    "plu": "573596",
+    "nombre": "Jugos Limonada Smudis 500ml",
+    "marca": "Smudis",
+    "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 2319.0,
+    "precio_hoy": 2549.0,
+    "precio_actual_hoy": 1656.85,
+    "diff_abs": 230.0,
+    "diff_pct": 9.92
+  },
+  {
+    "plu": "573595",
+    "nombre": "Jugos Banana Anana Y Smudis 500ml",
     "marca": "Smudis",
     "categoria": "Jugos Naturales > Jugos > Bebidas Sin Alcohol > Bebidas",
     "precio_antes": 2319.0,
@@ -121,48 +154,15 @@
     "diff_pct": 9.65
   },
   {
-    "plu": "164942",
-    "nombre": "Vino Malbec SAINT FELICIEN 750cc",
-    "marca": "Saint Felicien",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 15939.0,
-    "precio_hoy": 16945.0,
-    "precio_actual_hoy": 10167.0,
-    "diff_abs": 1006.0,
-    "diff_pct": 6.31
-  },
-  {
     "plu": "561220",
     "nombre": "Soda Saldan 2.25l",
     "marca": "Saldan",
-    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas Y Sodas > Aguas",
+    "categoria": "Sodas > Bebidas Sin Alcohol > Bebidas > Aguas y Sodas > Aguas",
     "precio_antes": 1600.0,
     "precio_hoy": 1700.0,
     "precio_actual_hoy": 1700.0,
     "diff_abs": 100.0,
     "diff_pct": 6.25
-  },
-  {
-    "plu": "241274",
-    "nombre": "Vino Red Blend NICASIA Cabernet Franc Merlot Petit Verdot 750cc",
-    "marca": "Nicasia",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12525.0,
-    "precio_hoy": 13275.0,
-    "precio_actual_hoy": 7965.0,
-    "diff_abs": 750.0,
-    "diff_pct": 5.99
-  },
-  {
-    "plu": "241273",
-    "nombre": "Vino Blend Malbec Cabernet Sauvignon NICASIA 750cc",
-    "marca": "Nicasia",
-    "categoria": "Vinos Tintos > Vinos > Bebidas Con Alcohol > Bebidas",
-    "precio_antes": 12525.0,
-    "precio_hoy": 13275.0,
-    "precio_actual_hoy": 7965.0,
-    "diff_abs": 750.0,
-    "diff_pct": 5.99
   },
   {
     "plu": "467754",
@@ -176,47 +176,47 @@
     "diff_pct": 5.88
   },
   {
-    "plu": "460766",
-    "nombre": "Jugo TUTTI Naranja Tetrabrik 200 Cc",
-    "marca": "Tutti",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 760.0,
-    "precio_hoy": 799.0,
-    "precio_actual_hoy": 519.35,
-    "diff_abs": 39.0,
-    "diff_pct": 5.13
+    "plu": "461092",
+    "nombre": "Vino Chardonnay Don Nicanor X750 Ml",
+    "marca": "Nieto Senetiner",
+    "categoria": "Vinos Blancos > Vinos > Bebidas Con Alcohol > Bebidas",
+    "precio_antes": 18000.0,
+    "precio_hoy": 18900.0,
+    "precio_actual_hoy": 11340.0,
+    "diff_abs": 900.0,
+    "diff_pct": 5.0
   },
   {
-    "plu": "460765",
-    "nombre": "Jugo TUTTI Manzana Tetrabrik 200 Cc",
-    "marca": "Tutti",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 760.0,
-    "precio_hoy": 799.0,
-    "precio_actual_hoy": 519.35,
-    "diff_abs": 39.0,
-    "diff_pct": 5.13
+    "plu": "480427",
+    "nombre": "Agua Mineralizada Artificialmente Glaciar 750 Ml\r\n",
+    "marca": "Glaciar",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas y Sodas > Aguas sin Gas > Aguas",
+    "precio_antes": 2465.0,
+    "precio_hoy": 2470.0,
+    "precio_actual_hoy": 1482.0,
+    "diff_abs": 5.0,
+    "diff_pct": 0.2
   },
   {
-    "plu": "618087",
-    "nombre": "Jugo Xtreme Sabor Acido Tutti Ttb 200 Ml",
-    "marca": "Tutti",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 760.0,
-    "precio_hoy": 799.0,
-    "precio_actual_hoy": 519.35,
-    "diff_abs": 39.0,
-    "diff_pct": 5.13
+    "plu": "521342",
+    "nombre": "Jugo En Polvo Sabor Pomelo Amarillo Bc Sob 7 Grm",
+    "marca": "Bc",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas Sin Alcohol > Bebidas",
+    "precio_antes": 365.0,
+    "precio_hoy": 365.0,
+    "precio_actual_hoy": 182.5,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   },
   {
-    "plu": "460771",
-    "nombre": "Jugo TUTTI Multifruta Tetrabrik 200 Cc",
-    "marca": "Tutti",
-    "categoria": "Jugos Listos > Jugos > Bebidas Sin Alcohol > Bebidas",
-    "precio_antes": 760.0,
-    "precio_hoy": 799.0,
-    "precio_actual_hoy": 519.35,
-    "diff_abs": 39.0,
-    "diff_pct": 5.13
+    "plu": "581984",
+    "nombre": "Agua Saborizada Sabor Limon H2oh!! 1500cc",
+    "marca": "H2 Oh!",
+    "categoria": "Bebidas Sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+    "precio_antes": 2750.0,
+    "precio_hoy": 2750.0,
+    "precio_actual_hoy": 1375.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
   }
 ]
