@@ -72,7 +72,7 @@
     "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
     "precio_antes": 14891.0,
     "precio_hoy": 14891.0,
-    "precio_actual_hoy": 9679.15,
+    "precio_actual_hoy": 7445.5,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -83,7 +83,7 @@
     "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 1568.0,
     "precio_hoy": 1568.0,
-    "precio_actual_hoy": 1019.2,
+    "precio_actual_hoy": 784.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   },
@@ -154,6 +154,17 @@
     "diff_pct": 0.0
   },
   {
+    "plu": "14108",
+    "nombre": "Sidra Brio 1888 SAENZ 750c",
+    "marca": "Saenz",
+    "categoria": "Sidras y Bebidas Fizz > Sidras > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 10460.0,
+    "precio_hoy": 10460.0,
+    "precio_actual_hoy": 7845.0,
+    "diff_abs": 0.0,
+    "diff_pct": 0.0
+  },
+  {
     "plu": "243840",
     "nombre": "Cerveza  MILLER   Botella 1 L",
     "marca": "Miller",
@@ -198,24 +209,13 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "238215",
-    "nombre": "Cerveza  BRAHMA   Botella 1 L",
-    "marca": "Brahma",
-    "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 4532.0,
-    "precio_hoy": 4532.0,
-    "precio_actual_hoy": 3399.0,
-    "diff_abs": 0.0,
-    "diff_pct": 0.0
-  },
-  {
-    "plu": "478593",
-    "nombre": "Cerveza  Brahma  Pack Latas 473 CC 6 Unidades",
+    "plu": "298226",
+    "nombre": "Cerveza  BRAHMA Chopp Porron 340 Cc",
     "marca": "Brahma",
     "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 15675.0,
-    "precio_hoy": 15675.0,
-    "precio_actual_hoy": 11756.25,
+    "precio_antes": 1672.0,
+    "precio_hoy": 1672.0,
+    "precio_actual_hoy": 1254.0,
     "diff_abs": 0.0,
     "diff_pct": 0.0
   }
