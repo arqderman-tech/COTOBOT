@@ -1,9 +1,9 @@
 {
-  "fecha": "20260628",
-  "total_productos": 250,
+  "fecha": "20260629",
+  "total_productos": 1100,
   "variacion_dia": 0.0,
-  "variacion_7d": -0.13,
-  "variacion_mes": 1.35,
+  "variacion_7d": -0.01,
+  "variacion_mes": 0.2,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -40,15 +40,15 @@
       "total_productos": 1
     },
     {
-      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 34,
-      "total_productos": 34
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
-      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas sin Gas > Aguas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -56,52 +56,12 @@
       "total_productos": 5
     },
     {
-      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas sin Gas > Aguas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 22,
-      "total_productos": 22
-    },
-    {
-      "categoria": "Bebidas sin Alcohol > Bebidas > Amargos",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 10,
       "total_productos": 10
-    },
-    {
-      "categoria": "Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Aguas Saborizadas > Aguas > AGUAS SABORIZADAS",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
-    },
-    {
-      "categoria": "Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL > Amargos > AMARGOS",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 8
-    },
-    {
-      "categoria": "Bebidas sin Alcohol > Bebidas Isotónicas > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 18,
-      "total_productos": 18
-    },
-    {
-      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 11,
-      "total_productos": 11
     },
     {
       "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
@@ -120,44 +80,20 @@
       "total_productos": 9
     },
     {
-      "categoria": "Energizantes > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
-    },
-    {
       "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 38,
-      "total_productos": 38
+      "productos_sin_cambio": 18,
+      "total_productos": 18
     },
     {
       "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 27,
-      "total_productos": 27
-    },
-    {
-      "categoria": "Granadinas > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
-      "categoria": "JUGOS > Bebidas sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
+      "productos_sin_cambio": 11,
+      "total_productos": 11
     },
     {
       "categoria": "Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
@@ -180,8 +116,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 8
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     },
     {
       "categoria": "Jugos Listos > Jugos > JUGOS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
@@ -190,14 +126,6 @@
       "productos_bajaron": 0,
       "productos_sin_cambio": 4,
       "total_productos": 4
-    },
-    {
-      "categoria": "Jugos Naturales > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
     },
     {
       "categoria": "Sidras y Bebidas Fizz > Sidras > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
@@ -216,23 +144,7 @@
       "total_productos": 2
     },
     {
-      "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
-    },
-    {
       "categoria": "Sin Tacc > Jugos Naturales > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Sodas > Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -280,17 +192,6 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460804",
-      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
-      "marca": "Don Alfredo",
-      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 39500.0,
-      "precio_hoy": 39500.0,
-      "precio_actual_hoy": 26334.65,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
       "plu": "460803",
       "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
       "marca": "Don Alfredo",
@@ -298,6 +199,17 @@
       "precio_antes": 16000.0,
       "precio_hoy": 16000.0,
       "precio_actual_hoy": 10667.2,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "460804",
+      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 39500.0,
+      "precio_hoy": 39500.0,
+      "precio_actual_hoy": 26334.65,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
@@ -370,5 +282,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 250
+  "productos_sin_cambio_dia": 99
 }
