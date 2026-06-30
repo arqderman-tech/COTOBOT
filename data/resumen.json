@@ -1,9 +1,9 @@
 {
-  "fecha": "20260629",
-  "total_productos": 1100,
-  "variacion_dia": 0.0,
-  "variacion_7d": -0.01,
-  "variacion_mes": 0.2,
+  "fecha": "20260630",
+  "total_productos": 1192,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.17,
+  "variacion_mes": 1.04,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -60,31 +60,39 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 10,
-      "total_productos": 10
+      "productos_sin_cambio": 15,
+      "total_productos": 15
     },
     {
       "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Champañas > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
-      "total_productos": 9
+      "productos_sin_cambio": 25,
+      "total_productos": 25
     },
     {
-      "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+      "categoria": "Espumantes > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 18,
+      "productos_sin_cambio": 15,
+      "total_productos": 15
+    },
+    {
+      "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.5,
+      "productos_subieron": 6,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 12,
       "total_productos": 18
     },
     {
@@ -94,6 +102,14 @@
       "productos_bajaron": 0,
       "productos_sin_cambio": 11,
       "total_productos": 11
+    },
+    {
+      "categoria": "Gin > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
@@ -128,7 +144,15 @@
       "total_productos": 4
     },
     {
-      "categoria": "Sidras y Bebidas Fizz > Sidras > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+      "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Ron > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -152,27 +176,108 @@
       "total_productos": 1
     },
     {
+      "categoria": "Vermouth > Bebidas con Alcohol > Bebidas > Aperitivos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
+      "total_productos": 3
+    },
+    {
+      "categoria": "Vermouth > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > APERITIVOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
       "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 90,
+      "total_productos": 90
+    },
+    {
+      "categoria": "Vinos Rosados > Vinos > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 28,
+      "total_productos": 28
     },
     {
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 17,
-      "total_productos": 17
+      "productos_sin_cambio": 323,
+      "total_productos": 323
+    },
+    {
+      "categoria": "Vinos Tintos > Vinos > Orgánicos > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Vodka > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 16,
+      "total_productos": 16
     }
   ],
   "ranking_baja_dia": [
     {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
-      "marca": "Alfredo Coto",
+      "plu": "598738",
+      "nombre": "Cerveza Rubia Oro X6 Andes Origen 2838ml",
+      "marca": "Andes",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 18340.0,
+      "precio_hoy": 18340.0,
+      "precio_actual_hoy": 13755.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "628507",
+      "nombre": "Vino Malbec Diego Pelusa 4/10 750ml",
+      "marca": "Pelusa",
+      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 10000.0,
+      "precio_hoy": 10000.0,
+      "precio_actual_hoy": 6667.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "611363",
+      "nombre": "Vino Sauvignon Blanc Amistad 750ml",
+      "marca": "Amistad",
+      "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 15301.0,
+      "precio_hoy": 15301.0,
+      "precio_actual_hoy": 10201.18,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "596975",
+      "nombre": "Vino Tinto Tipo Malbec Open Mind 750ml",
+      "marca": "Open Mind",
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
       "precio_antes": 7990.0,
       "precio_hoy": 7990.0,
@@ -181,106 +286,73 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460802",
-      "nombre": "Vino ALFREDO COTO Malbec 750ml",
-      "marca": "Alfredo Coto",
+      "plu": "604291",
+      "nombre": "Vino Sauvignon Blanc Casa Boher 750ml",
+      "marca": "Casa Boher",
+      "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 17500.0,
+      "precio_hoy": 17500.0,
+      "precio_actual_hoy": 11667.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "573394",
+      "nombre": "Vino Fino Blanco Dulce Ugarteche 750 Ml",
+      "marca": "Ugarteche",
+      "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 6082.0,
+      "precio_hoy": 6082.0,
+      "precio_actual_hoy": 4054.87,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "622407",
+      "nombre": "Whisky Cristal Gold CHIVAS REGAL 700ml",
+      "marca": "Chivas Regal",
+      "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 113665.0,
+      "precio_hoy": 113665.0,
+      "precio_actual_hoy": 73882.25,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "501506",
+      "nombre": "Vino Merlot Andeluna Botella 750Cc",
+      "marca": " Andeluna",
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 7990.0,
-      "precio_hoy": 7990.0,
-      "precio_actual_hoy": 5326.93,
+      "precio_antes": 9150.0,
+      "precio_hoy": 9150.0,
+      "precio_actual_hoy": 6100.31,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "460803",
-      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
-      "marca": "Don Alfredo",
+      "plu": "525194",
+      "nombre": "Vino Tinto Terruño Merlot Fabre Montmayou Bot 750 Ml",
+      "marca": "Fabre Montmayou",
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 16000.0,
-      "precio_hoy": 16000.0,
-      "precio_actual_hoy": 10667.2,
+      "precio_antes": 17500.0,
+      "precio_hoy": 17500.0,
+      "precio_actual_hoy": 11667.25,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "460804",
-      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
-      "marca": "Don Alfredo",
-      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 39500.0,
-      "precio_hoy": 39500.0,
-      "precio_actual_hoy": 26334.65,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "478424",
-      "nombre": "Cerveza  Stella Artois  Pack Latas 473 CC 6 Unidades",
-      "marca": "Stella Artois",
-      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 22788.0,
-      "precio_hoy": 22788.0,
-      "precio_actual_hoy": 14812.2,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "230474",
-      "nombre": "Cerveza Lager STELLA ARTOIS   Lata 473 Cc",
-      "marca": "Stella Artois",
-      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 3798.0,
-      "precio_hoy": 3798.0,
-      "precio_actual_hoy": 2468.7,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "204113",
-      "nombre": "Cerveza  QUILMES Cristal Pack Latas 473 Cc 6 Unidades",
-      "marca": "Quilmes",
-      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 14891.0,
-      "precio_hoy": 14891.0,
-      "precio_actual_hoy": 9679.15,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "271680",
-      "nombre": "Cerveza  QUILMES   Porron 340 Cc",
-      "marca": "Quilmes",
-      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-      "precio_antes": 1568.0,
-      "precio_hoy": 1568.0,
-      "precio_actual_hoy": 1019.2,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "189589",
-      "nombre": "Cerveza  CORONA   Botella 710 Cc",
-      "marca": "Corona",
-      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-      "precio_antes": 6878.0,
-      "precio_hoy": 6878.0,
-      "precio_actual_hoy": 4470.7,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "9696",
-      "nombre": "Cerveza  CORONA   Porron 330 Cc",
-      "marca": "Corona",
-      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
-      "precio_antes": 4273.0,
-      "precio_hoy": 4273.0,
-      "precio_actual_hoy": 2777.45,
+      "plu": "573388",
+      "nombre": "Vino Rosado Dulce Ugarteche 750ml",
+      "marca": "Ugarteche",
+      "categoria": "Vinos Rosados > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 6082.0,
+      "precio_hoy": 6082.0,
+      "precio_actual_hoy": 4054.87,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 0,
+  "productos_subieron_dia": 6,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 99
+  "productos_sin_cambio_dia": 576
 }
