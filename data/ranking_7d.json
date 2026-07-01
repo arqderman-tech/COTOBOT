@@ -6,7 +6,7 @@
     "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
     "precio_antes": 12200.0,
     "precio_hoy": 14000.0,
-    "precio_actual_hoy": 9333.8,
+    "precio_actual_hoy": 14000.0,
     "diff_abs": 1800.0,
     "diff_pct": 14.75
   },
@@ -22,8 +22,19 @@
     "diff_pct": 12.5
   },
   {
-    "plu": "85213",
-    "nombre": "Gaseosa CRUSH Naranja 2,25 Lt",
+    "plu": "192088",
+    "nombre": "Grappa . CANDOLINI Bot 1 Ltr",
+    "marca": "Candolini",
+    "categoria": "Grappa > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
+    "precio_antes": 40500.0,
+    "precio_hoy": 45500.0,
+    "precio_actual_hoy": 45500.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 12.35
+  },
+  {
+    "plu": "189651",
+    "nombre": "Gaseosa CRUSH Pomelo Marillo 2,25 Lt",
     "marca": "Crush",
     "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 1800.0,
@@ -44,8 +55,8 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "189651",
-    "nombre": "Gaseosa CRUSH Pomelo Marillo 2,25 Lt",
+    "plu": "85213",
+    "nombre": "Gaseosa CRUSH Naranja 2,25 Lt",
     "marca": "Crush",
     "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 1800.0,
@@ -55,19 +66,19 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "503179",
-    "nombre": "Jugo CEPITA DEL VALLE Manzana 1 Lt",
-    "marca": "Cepita",
+    "plu": "528910",
+    "nombre": "Jugo De Manzana Citric Ttb 1 Ltr",
+    "marca": "Citric",
     "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 2800.0,
-    "precio_hoy": 3000.0,
-    "precio_actual_hoy": 3000.0,
-    "diff_abs": 200.0,
-    "diff_pct": 7.14
+    "precio_antes": 5865.0,
+    "precio_hoy": 6350.0,
+    "precio_actual_hoy": 6350.0,
+    "diff_abs": 485.0,
+    "diff_pct": 8.27
   },
   {
-    "plu": "503180",
-    "nombre": "Jugo CEPITA DEL VALLE Multifruta 1 Lt",
+    "plu": "503179",
+    "nombre": "Jugo CEPITA DEL VALLE Manzana 1 Lt",
     "marca": "Cepita",
     "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 2800.0,
@@ -88,19 +99,74 @@
     "diff_pct": 7.14
   },
   {
-    "plu": "541133",
-    "nombre": "Jugo CEPITA Del Valle Durazno Delicioso 995 Ml",
+    "plu": "503180",
+    "nombre": "Jugo CEPITA DEL VALLE Multifruta 1 Lt",
     "marca": "Cepita",
     "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 3000.0,
-    "precio_hoy": 3200.0,
-    "precio_actual_hoy": 3200.0,
+    "precio_antes": 2800.0,
+    "precio_hoy": 3000.0,
+    "precio_actual_hoy": 3000.0,
     "diff_abs": 200.0,
-    "diff_pct": 6.67
+    "diff_pct": 7.14
   },
   {
-    "plu": "541132",
-    "nombre": "Jugo CEPITA Del Valle Naranja Tentación 995 Ml",
+    "plu": "522537",
+    "nombre": "Jugo C/Pulpa Naranja Clásico Citric Ttb 1.5 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 7700.0,
+    "precio_hoy": 8220.0,
+    "precio_actual_hoy": 8220.0,
+    "diff_abs": 520.0,
+    "diff_pct": 6.75
+  },
+  {
+    "plu": "528909",
+    "nombre": "Jugo De Naranja/Mango Citric Ttb 1 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 5949.0,
+    "precio_hoy": 6350.0,
+    "precio_actual_hoy": 6350.0,
+    "diff_abs": 401.0,
+    "diff_pct": 6.74
+  },
+  {
+    "plu": "528911",
+    "nombre": "Jugo De Naranja/Frutilla Citric Ttb 1 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 5949.0,
+    "precio_hoy": 6350.0,
+    "precio_actual_hoy": 6350.0,
+    "diff_abs": 401.0,
+    "diff_pct": 6.74
+  },
+  {
+    "plu": "528912",
+    "nombre": "Jugo De Pomelo C/Pulpa Citric Ttb 1 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 5949.0,
+    "precio_hoy": 6350.0,
+    "precio_actual_hoy": 6350.0,
+    "diff_abs": 401.0,
+    "diff_pct": 6.74
+  },
+  {
+    "plu": "528908",
+    "nombre": "Jugo De Naranja/Durazno Citric Ttb 1 Ltr",
+    "marca": "Citric",
+    "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 5949.0,
+    "precio_hoy": 6350.0,
+    "precio_actual_hoy": 6350.0,
+    "diff_abs": 401.0,
+    "diff_pct": 6.74
+  },
+  {
+    "plu": "541133",
+    "nombre": "Jugo CEPITA Del Valle Durazno Delicioso 995 Ml",
     "marca": "Cepita",
     "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 3000.0,
@@ -121,102 +187,36 @@
     "diff_pct": 6.67
   },
   {
-    "plu": "256111",
-    "nombre": "ADES Soja + Jugo De Manzana 1 Lt",
-    "marca": "Ades",
-    "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3400.0,
-    "precio_actual_hoy": 3400.0,
+    "plu": "541132",
+    "nombre": "Jugo CEPITA Del Valle Naranja Tentación 995 Ml",
+    "marca": "Cepita",
+    "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 3000.0,
+    "precio_hoy": 3200.0,
+    "precio_actual_hoy": 3200.0,
     "diff_abs": 200.0,
-    "diff_pct": 6.25
+    "diff_pct": 6.67
   },
   {
-    "plu": "256245",
-    "nombre": "ADES Soja + Jugo De Frutas Tropicales 1 Lt",
-    "marca": "Ades",
-    "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3400.0,
-    "precio_actual_hoy": 3400.0,
-    "diff_abs": 200.0,
-    "diff_pct": 6.25
+    "plu": "483462",
+    "nombre": "Jugo CITRIC Limonada Con Menta 910 CC",
+    "marca": "Citric",
+    "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 2720.0,
+    "precio_hoy": 2900.0,
+    "precio_actual_hoy": 2900.0,
+    "diff_abs": 180.0,
+    "diff_pct": 6.62
   },
   {
-    "plu": "256105",
-    "nombre": "ADES Soja + Jugo De Naranja 1 Lt",
-    "marca": "Ades",
-    "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 3200.0,
-    "precio_hoy": 3400.0,
-    "precio_actual_hoy": 3400.0,
-    "diff_abs": 200.0,
-    "diff_pct": 6.25
-  },
-  {
-    "plu": "569292",
-    "nombre": "Vino  Tinto  750 CC",
-    "marca": "Don Nicanor",
-    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 18000.0,
-    "precio_hoy": 18900.0,
-    "precio_actual_hoy": 12600.63,
-    "diff_abs": 900.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "566930",
-    "nombre": "Vino Malbec Don Nicanor 750ml",
-    "marca": "Don Nicanor",
-    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 18000.0,
-    "precio_hoy": 18900.0,
-    "precio_actual_hoy": 12600.63,
-    "diff_abs": 900.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "461092",
-    "nombre": "Vino Chardonnay Don Nicanor X750 Ml",
-    "marca": "Nieto Senetiner",
-    "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 18000.0,
-    "precio_hoy": 18900.0,
-    "precio_actual_hoy": 12600.63,
-    "diff_abs": 900.0,
-    "diff_pct": 5.0
-  },
-  {
-    "plu": "562271",
-    "nombre": "Vino Malbec Capitulo Dos Ruca Malen 750ml",
-    "marca": "Ruca Malen",
-    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 18350.0,
-    "precio_hoy": 19200.0,
-    "precio_actual_hoy": 12800.64,
-    "diff_abs": 850.0,
-    "diff_pct": 4.63
-  },
-  {
-    "plu": "562257",
-    "nombre": "Vino Chardonnay Capítulo Dos Ruca Malen 750ml",
-    "marca": "Ruca Malen",
-    "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 18350.0,
-    "precio_hoy": 19200.0,
-    "precio_actual_hoy": 12800.64,
-    "diff_abs": 850.0,
-    "diff_pct": 4.63
-  },
-  {
-    "plu": "575366",
-    "nombre": "Agua Mineralizada BENEDICTINO Con Gas 1,5 Lt",
-    "marca": "Benedictino",
-    "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
-    "precio_antes": 2300.0,
-    "precio_hoy": 2400.0,
-    "precio_actual_hoy": 2400.0,
-    "diff_abs": 100.0,
-    "diff_pct": 4.35
+    "plu": "483460",
+    "nombre": "Jugo CITRIC Pomelo, Menta Y Jengibre 910 CC",
+    "marca": "Citric",
+    "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 2720.0,
+    "precio_hoy": 2900.0,
+    "precio_actual_hoy": 2900.0,
+    "diff_abs": 180.0,
+    "diff_pct": 6.62
   }
 ]
