@@ -1,9 +1,9 @@
 {
-  "fecha": "20260701",
-  "total_productos": 1592,
-  "variacion_dia": 0.11,
-  "variacion_7d": 0.29,
-  "variacion_mes": 0.72,
+  "fecha": "20260702",
+  "total_productos": 1596,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.28,
+  "variacion_mes": 0.95,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,16 +12,24 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Bebidas con Alcohol > Bebidas > Aperitivos > Americano Combinado",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 7,
+      "total_productos": 7
     },
     {
       "categoria": "Bebidas con Alcohol > Bebidas > Aperitivos > Aperitivo Bitter",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Bebidas con Alcohol > Bebidas > Aperitivos > Aperitivo Hierbas",
@@ -33,6 +41,30 @@
     },
     {
       "categoria": "Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > Americano > APERITIVOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > Americano Combinado > APERITIVOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > Aperitivo Bitter > APERITIVOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > Aperitivo Hierbas > APERITIVOS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -100,32 +132,24 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 13,
-      "total_productos": 13
+      "productos_sin_cambio": 22,
+      "total_productos": 22
     },
     {
       "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
-    },
-    {
-      "categoria": "Cervezas sin Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Champañas > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 24,
-      "total_productos": 24
+      "productos_sin_cambio": 22,
+      "total_productos": 22
     },
     {
       "categoria": "Energizantes > Bebidas sin Alcohol > Bebidas",
@@ -140,8 +164,24 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
+      "productos_sin_cambio": 17,
+      "total_productos": 17
+    },
+    {
+      "categoria": "Fernet > Bebidas con Alcohol > Bebidas > Aperitivos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 4,
+      "total_productos": 4
+    },
+    {
+      "categoria": "Fernet > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > APERITIVOS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
@@ -164,8 +204,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 9,
+      "total_productos": 9
     },
     {
       "categoria": "Granadinas > Bebidas sin Alcohol > Bebidas",
@@ -201,10 +241,10 @@
     },
     {
       "categoria": "Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 1.36,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 15,
+      "productos_sin_cambio": 19,
       "total_productos": 19
     },
     {
@@ -217,10 +257,10 @@
     },
     {
       "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.72,
-      "productos_subieron": 5,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 44,
+      "productos_sin_cambio": 49,
       "total_productos": 49
     },
     {
@@ -233,18 +273,18 @@
     },
     {
       "categoria": "Jugos Naturales > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.97,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 17,
+      "productos_sin_cambio": 20,
       "total_productos": 20
     },
     {
       "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 3.31,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
+      "productos_sin_cambio": 4,
       "total_productos": 4
     },
     {
@@ -256,7 +296,15 @@
       "total_productos": 52
     },
     {
-      "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+      "categoria": "Licores > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Licores > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -284,15 +332,39 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 3,
+      "total_productos": 3
+    },
+    {
+      "categoria": "Sidras y Bebidas Fizz > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 6,
+      "total_productos": 6
+    },
+    {
+      "categoria": "Sidras y Bebidas Fizz > Sidras > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Sin Tacc > Fernet > Bebidas con Alcohol > Bebidas > Aperitivos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Sin Tacc > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": 6.44,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -344,167 +416,167 @@
       "total_productos": 2
     },
     {
-      "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
+      "categoria": "Vinos > Moscato > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 79,
-      "total_productos": 79
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 3,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 103,
+      "total_productos": 106
     },
     {
       "categoria": "Vinos Rosados > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 15,
-      "total_productos": 15
+      "productos_sin_cambio": 19,
+      "total_productos": 19
     },
     {
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 3,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 279,
-      "total_productos": 279
-    },
-    {
-      "categoria": "Vinos Tintos > Vinos > Orgánicos > Bebidas con Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 356,
+      "total_productos": 359
     },
     {
       "categoria": "Vodka > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 6,
+      "total_productos": 6
     },
     {
       "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 11,
-      "total_productos": 11
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     }
   ],
   "ranking_baja_dia": [
     {
-      "plu": "15373",
-      "nombre": "Gaseosa PASO DE LOS TOROS    Botella 2.25 L ",
-      "marca": "Paso De Los Toros",
+      "plu": "189651",
+      "nombre": "Gaseosa CRUSH Pomelo Marillo 2,25 Lt",
+      "marca": "Crush",
       "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 5200.0,
-      "precio_hoy": 5200.0,
-      "precio_actual_hoy": 3380.0,
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 1700.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "460765",
-      "nombre": "Jugo TUTTI Manzana Tetrabrik 200 Cc",
-      "marca": "Tutti",
-      "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 799.0,
-      "precio_hoy": 799.0,
-      "precio_actual_hoy": 532.69,
+      "plu": "476797",
+      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Manzana Botella 500 Cc",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "460769",
-      "nombre": "Jugo TUTTI Manzana Tetrabrik 1 L",
-      "marca": "Tutti",
-      "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 1849.0,
-      "precio_hoy": 1849.0,
-      "precio_actual_hoy": 1849.0,
+      "plu": "478433",
+      "nombre": "Agua Sin Gas Naranja Vds Levite Pet 500 Ml",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "79713",
-      "nombre": "Gaseosa DOBLE COLA    Botella 2.25 L ",
-      "marca": "Doble Cola",
-      "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 2200.0,
-      "precio_hoy": 2200.0,
-      "precio_actual_hoy": 2200.0,
+      "plu": "476811",
+      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Pera Botella 500 Cc",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "460766",
-      "nombre": "Jugo TUTTI Naranja Tetrabrik 200 Cc",
-      "marca": "Tutti",
-      "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 799.0,
-      "precio_hoy": 799.0,
-      "precio_actual_hoy": 532.69,
+      "plu": "476796",
+      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Pomelo Botella 500 Cc",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "59978",
-      "nombre": "Agua Mineral Natural De Manantial Con Gas Eco De Los Andes 500 Ml\r\n",
-      "marca": "Eco De Los Andes",
-      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
-      "precio_antes": 2095.0,
-      "precio_hoy": 2095.0,
-      "precio_actual_hoy": 2095.0,
+      "plu": "476798",
+      "nombre": "Agua Saborizada  VILLA DEL SUR LEVITE   Naranja Botella 500 Cc",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "477549",
-      "nombre": "Agua Mineral Natural De Manantial Alvura 500 Ml\r\n",
-      "marca": "Alvura",
-      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas sin Gas > Aguas",
-      "precio_antes": 1200.0,
-      "precio_hoy": 1200.0,
-      "precio_actual_hoy": 1200.0,
+      "plu": "476810",
+      "nombre": "Agua Sin Gas Pomelo Vds Levite Cero Pet 500 Ml",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "10371",
-      "nombre": "Gaseosa PASO DE LOS TOROS  Pomelo Botella 1.5 L ",
-      "marca": "Paso De Los Toros",
+      "plu": "476809",
+      "nombre": "Agua Sin Gas Manzana Vds LEVITE Cero Pet 500 Ml",
+      "marca": "Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 2000.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "87802",
+      "nombre": "Gaseosa CRUSH Lima-Limón 2,25 Lt",
+      "marca": "Crush",
       "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-      "precio_antes": 3950.0,
-      "precio_hoy": 3950.0,
-      "precio_actual_hoy": 3950.0,
+      "precio_antes": 2000.0,
+      "precio_hoy": 2000.0,
+      "precio_actual_hoy": 1700.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "62016",
-      "nombre": "Granadina Dellepiane Botella 750 CC",
-      "marca": "Dellepiane",
-      "categoria": "Granadinas > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 7125.0,
-      "precio_hoy": 7125.0,
-      "precio_actual_hoy": 7125.0,
-      "diff_abs": 0.0,
-      "diff_pct": 0.0
-    },
-    {
-      "plu": "474618",
-      "nombre": "Bebida Energizante Monster Energy 473 Ml\r\n",
-      "marca": "Monster",
-      "categoria": "Energizantes > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 3300.0,
-      "precio_hoy": 3300.0,
-      "precio_actual_hoy": 3300.0,
+      "plu": "168710",
+      "nombre": "Agua Saborizada VILLA DEL SUR LEVITE Naranja Botella 1.5 L",
+      "marca": "Villa Del Sur Levite",
+      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
+      "precio_antes": 2750.0,
+      "precio_hoy": 2750.0,
+      "precio_actual_hoy": 2750.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 16,
+  "productos_subieron_dia": 6,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 974
+  "productos_sin_cambio_dia": 1144
 }
