@@ -11,8 +11,8 @@
     "diff_pct": 29.78
   },
   {
-    "plu": "618203",
-    "nombre": "Agua Saborizada Manzana Placer Bot 1.5 Ltr",
+    "plu": "618186",
+    "nombre": "Agua Saborizada Pomelo Placer Bot 1.5 Ltr",
     "marca": "Placer",
     "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1455.0,
@@ -33,8 +33,8 @@
     "diff_pct": 15.12
   },
   {
-    "plu": "618186",
-    "nombre": "Agua Saborizada Pomelo Placer Bot 1.5 Ltr",
+    "plu": "618203",
+    "nombre": "Agua Saborizada Manzana Placer Bot 1.5 Ltr",
     "marca": "Placer",
     "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1455.0,
@@ -55,6 +55,17 @@
     "diff_pct": 13.33
   },
   {
+    "plu": "192089",
+    "nombre": "Sambuca . BORGHETTI Bot 700 Cmq",
+    "marca": "Borghetti",
+    "categoria": "Licores > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
+    "precio_antes": 32700.0,
+    "precio_hoy": 36800.0,
+    "precio_actual_hoy": 27600.0,
+    "diff_abs": 4100.0,
+    "diff_pct": 12.54
+  },
+  {
     "plu": "622910",
     "nombre": "Jugo de arándano LAS BRISAS 330cc",
     "marca": "Las Brisas",
@@ -64,17 +75,6 @@
     "precio_actual_hoy": 4499.0,
     "diff_abs": 500.0,
     "diff_pct": 12.5
-  },
-  {
-    "plu": "611903",
-    "nombre": "Agua Mineralizada BENEDICTINO Con Gas 600 Ml",
-    "marca": "Benedictino",
-    "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
-    "precio_antes": 1700.0,
-    "precio_hoy": 1900.0,
-    "precio_actual_hoy": 1615.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.76
   },
   {
     "plu": "611902",
@@ -88,15 +88,15 @@
     "diff_pct": 11.76
   },
   {
-    "plu": "534114",
-    "nombre": "Jugo CEPITA Del Valle 20% Naranja Tentación 1 Lt",
-    "marca": "Cepita",
-    "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 2700.0,
-    "precio_hoy": 3000.0,
-    "precio_actual_hoy": 3000.0,
-    "diff_abs": 300.0,
-    "diff_pct": 11.11
+    "plu": "611903",
+    "nombre": "Agua Mineralizada BENEDICTINO Con Gas 600 Ml",
+    "marca": "Benedictino",
+    "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
+    "precio_antes": 1700.0,
+    "precio_hoy": 1900.0,
+    "precio_actual_hoy": 1615.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.76
   },
   {
     "plu": "488881",
@@ -114,6 +114,17 @@
     "nombre": "Gaseosa CRUSH Lima-Limón 2,25 Lt",
     "marca": "Crush",
     "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 1800.0,
+    "precio_hoy": 2000.0,
+    "precio_actual_hoy": 1700.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.11
+  },
+  {
+    "plu": "488888",
+    "nombre": "Agua Mineral SMARTWATER Con Gas 591ml",
+    "marca": "Smartwater",
+    "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
     "precio_antes": 1800.0,
     "precio_hoy": 2000.0,
     "precio_actual_hoy": 1700.0,
@@ -165,14 +176,14 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "488888",
-    "nombre": "Agua Mineral SMARTWATER Con Gas 591ml",
-    "marca": "Smartwater",
-    "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
-    "precio_antes": 1800.0,
-    "precio_hoy": 2000.0,
-    "precio_actual_hoy": 1700.0,
-    "diff_abs": 200.0,
+    "plu": "534114",
+    "nombre": "Jugo CEPITA Del Valle 20% Naranja Tentación 1 Lt",
+    "marca": "Cepita",
+    "categoria": "Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 2700.0,
+    "precio_hoy": 3000.0,
+    "precio_actual_hoy": 3000.0,
+    "diff_abs": 300.0,
     "diff_pct": 11.11
   },
   {
@@ -207,16 +218,5 @@
     "precio_actual_hoy": 3200.0,
     "diff_abs": 300.0,
     "diff_pct": 10.34
-  },
-  {
-    "plu": "594787",
-    "nombre": "Espumante Sangría Emilia 750ml",
-    "marca": "Emilia",
-    "categoria": "Espumantes > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 9999.0,
-    "precio_hoy": 10999.0,
-    "precio_actual_hoy": 6599.4,
-    "diff_abs": 1000.0,
-    "diff_pct": 10.0
   }
 ]
