@@ -1,9 +1,9 @@
 {
-  "fecha": "20260703",
-  "total_productos": 1644,
-  "variacion_dia": -0.04,
-  "variacion_7d": 0.22,
-  "variacion_mes": 1.08,
+  "fecha": "20260704",
+  "total_productos": 1593,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.29,
+  "variacion_mes": 0.91,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,8 +12,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Bebidas con Alcohol > Bebidas > Aperitivos > Americano Combinado",
@@ -28,8 +28,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Bebidas con Alcohol > Bebidas > Aperitivos > Aperitivo Hierbas",
@@ -132,8 +132,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 25,
-      "total_productos": 25
+      "productos_sin_cambio": 42,
+      "total_productos": 42
     },
     {
       "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
@@ -148,16 +148,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Champañas > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 23,
-      "total_productos": 23
+      "productos_sin_cambio": 24,
+      "total_productos": 24
     },
     {
       "categoria": "Energizantes > Bebidas sin Alcohol > Bebidas",
@@ -172,8 +172,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 38,
-      "total_productos": 38
+      "productos_sin_cambio": 36,
+      "total_productos": 36
     },
     {
       "categoria": "Fernet > Bebidas con Alcohol > Bebidas > Aperitivos",
@@ -196,8 +196,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 117,
-      "total_productos": 117
+      "productos_sin_cambio": 116,
+      "total_productos": 116
     },
     {
       "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
@@ -281,10 +281,10 @@
     },
     {
       "categoria": "Jugos Naturales > Jugos > Bebidas sin Alcohol > Bebidas",
-      "variacion_pct_promedio": -2.47,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 19,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 21,
       "total_productos": 21
     },
     {
@@ -348,8 +348,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 10,
-      "total_productos": 10
+      "productos_sin_cambio": 13,
+      "total_productos": 13
     },
     {
       "categoria": "Sidras y Bebidas Fizz > Sidras > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
@@ -412,8 +412,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     },
     {
       "categoria": "Vermouth > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > APERITIVOS",
@@ -436,24 +436,24 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 144,
-      "total_productos": 144
+      "productos_sin_cambio": 127,
+      "total_productos": 127
     },
     {
       "categoria": "Vinos Rosados > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 27,
-      "total_productos": 27
+      "productos_sin_cambio": 28,
+      "total_productos": 28
     },
     {
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 469,
-      "total_productos": 469
+      "productos_sin_cambio": 459,
+      "total_productos": 459
     },
     {
       "categoria": "Vodka > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
@@ -468,123 +468,123 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     }
   ],
   "ranking_baja_dia": [
     {
-      "plu": "526339",
-      "nombre": "Jugo Frutilla Y Frambuesa Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -700.0,
-      "diff_pct": -25.94
-    },
-    {
-      "plu": "526340",
-      "nombre": "Jugo Mix De Berries Gergal Bot 500 Ml",
-      "marca": "Gergal",
-      "categoria": "Jugos Naturales > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 2699.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -700.0,
-      "diff_pct": -25.94
-    },
-    {
-      "plu": "483462",
-      "nombre": "Jugo CITRIC Limonada Con Menta 910 CC",
-      "marca": "Citric",
-      "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 2900.0,
-      "precio_hoy": 2900.0,
-      "precio_actual_hoy": 1885.0,
+      "plu": "460802",
+      "nombre": "Vino ALFREDO COTO Malbec 750ml",
+      "marca": "Alfredo Coto",
+      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 7990.0,
+      "precio_hoy": 7990.0,
+      "precio_actual_hoy": 4794.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "570286",
-      "nombre": "Bebida hidratante Suerox arándano pomelo 630 ml",
-      "marca": "Suerox",
-      "categoria": "Bebidas sin Alcohol > Bebidas Isotónicas > Bebidas",
-      "precio_antes": 2690.0,
-      "precio_hoy": 2690.0,
-      "precio_actual_hoy": 2690.0,
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "marca": "Alfredo Coto",
+      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 7990.0,
+      "precio_hoy": 7990.0,
+      "precio_actual_hoy": 4794.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "592059",
-      "nombre": "Bebida Gasificada Con Yerba Y Frutos Rojos Yací 354ml",
-      "marca": "Yací",
-      "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 1802.0,
-      "precio_hoy": 1802.0,
-      "precio_actual_hoy": 1802.0,
+      "plu": "460803",
+      "nombre": "Vino DON ALFREDO Cabernet Sauvignon Malbec Assemblage 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 16000.0,
+      "precio_hoy": 16000.0,
+      "precio_actual_hoy": 9600.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "511272",
-      "nombre": "Gaseosa Cola Sin Azúcares Secco Bot 2.25 Ltr",
-      "marca": "Secco",
-      "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 1875.0,
-      "precio_hoy": 1875.0,
-      "precio_actual_hoy": 1875.0,
+      "plu": "460804",
+      "nombre": "Vino DON ALFREDO Malbec Single Vineyard 750 Ml",
+      "marca": "Don Alfredo",
+      "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 39500.0,
+      "precio_hoy": 39500.0,
+      "precio_actual_hoy": 23700.0,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "561220",
-      "nombre": "Soda Saldan 2.25l",
-      "marca": "Saldan",
-      "categoria": "Sodas > Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas",
-      "precio_antes": 1700.0,
-      "precio_hoy": 1700.0,
-      "precio_actual_hoy": 1700.0,
+      "plu": "164527",
+      "nombre": "Cerveza Lager STELLA ARTOIS   Botella 975 Cc",
+      "marca": "Stella Artois",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 6436.0,
+      "precio_hoy": 6436.0,
+      "precio_actual_hoy": 4183.4,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "623214",
-      "nombre": "Agua con gas de mesa PUREZA DE LAS SIERRAS 500ml",
-      "marca": "Pureza De Las Sierras",
-      "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas con Gas > Aguas",
-      "precio_antes": 860.0,
-      "precio_hoy": 860.0,
-      "precio_actual_hoy": 860.0,
+      "plu": "478424",
+      "nombre": "Cerveza  Stella Artois  Pack Latas 473 CC 6 Unidades",
+      "marca": "Stella Artois",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 22788.0,
+      "precio_hoy": 22788.0,
+      "precio_actual_hoy": 14812.2,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "622046",
-      "nombre": "Jugo en polvo Galáctico TANG 15g",
-      "marca": "Tang",
-      "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 525.0,
-      "precio_hoy": 525.0,
-      "precio_actual_hoy": 262.5,
+      "plu": "230474",
+      "nombre": "Cerveza Lager STELLA ARTOIS   Lata 473 Cc",
+      "marca": "Stella Artois",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 3798.0,
+      "precio_hoy": 3798.0,
+      "precio_actual_hoy": 2468.7,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     },
     {
-      "plu": "578685",
-      "nombre": "Jugo Con Pulpa Naranja Y Zanahoria Citric 1l",
-      "marca": "Citric",
-      "categoria": "Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
-      "precio_antes": 6470.0,
-      "precio_hoy": 6470.0,
-      "precio_actual_hoy": 4205.5,
+      "plu": "12575",
+      "nombre": "Cerveza Lager HEINEKEN   Porron 330 Cc",
+      "marca": "Heineken",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 4043.0,
+      "precio_hoy": 4043.0,
+      "precio_actual_hoy": 2021.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "47101",
+      "nombre": "Cerveza Lager HEINEKEN   Botella 1 L",
+      "marca": "Heineken",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 6615.0,
+      "precio_hoy": 6615.0,
+      "precio_actual_hoy": 3307.5,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "49950",
+      "nombre": "Cerveza Lager HEINEKEN   Lata 473 Cc",
+      "marca": "Heineken",
+      "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > Bebidas con Alcohol > Bebidas",
+      "precio_antes": 3885.0,
+      "precio_hoy": 3885.0,
+      "precio_actual_hoy": 1942.5,
       "diff_abs": 0.0,
       "diff_pct": 0.0
     }
   ],
   "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 2,
-  "productos_sin_cambio_dia": 1351
+  "productos_bajaron_dia": 0,
+  "productos_sin_cambio_dia": 1347
 }
