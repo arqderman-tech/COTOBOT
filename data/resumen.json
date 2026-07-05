@@ -1,9 +1,9 @@
 {
-  "fecha": "20260704",
+  "fecha": "20260705",
   "total_productos": 1593,
   "variacion_dia": 0.0,
-  "variacion_7d": 0.29,
-  "variacion_mes": 0.91,
+  "variacion_7d": 0.58,
+  "variacion_mes": 0.52,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
@@ -12,8 +12,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Bebidas con Alcohol > Bebidas > Aperitivos > Americano Combinado",
@@ -132,8 +132,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 42,
-      "total_productos": 42
+      "productos_sin_cambio": 56,
+      "total_productos": 56
     },
     {
       "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
@@ -156,8 +156,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 24,
-      "total_productos": 24
+      "productos_sin_cambio": 22,
+      "total_productos": 22
     },
     {
       "categoria": "Energizantes > Bebidas sin Alcohol > Bebidas",
@@ -172,16 +172,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 36,
-      "total_productos": 36
+      "productos_sin_cambio": 38,
+      "total_productos": 38
     },
     {
       "categoria": "Fernet > Bebidas con Alcohol > Bebidas > Aperitivos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Fernet > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > APERITIVOS",
@@ -212,8 +212,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
-      "total_productos": 9
+      "productos_sin_cambio": 8,
+      "total_productos": 8
     },
     {
       "categoria": "Granadinas > Bebidas sin Alcohol > Bebidas",
@@ -348,8 +348,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 13,
-      "total_productos": 13
+      "productos_sin_cambio": 10,
+      "total_productos": 10
     },
     {
       "categoria": "Sidras y Bebidas Fizz > Sidras > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
@@ -412,8 +412,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Vermouth > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > APERITIVOS",
@@ -436,24 +436,32 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 127,
-      "total_productos": 127
+      "productos_sin_cambio": 123,
+      "total_productos": 123
     },
     {
       "categoria": "Vinos Rosados > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 28,
-      "total_productos": 28
+      "productos_sin_cambio": 31,
+      "total_productos": 31
     },
     {
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 459,
-      "total_productos": 459
+      "productos_sin_cambio": 441,
+      "total_productos": 441
+    },
+    {
+      "categoria": "Vinos Tintos > Vinos > Orgánicos > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Vodka > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
@@ -474,8 +482,8 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "460802",
-      "nombre": "Vino ALFREDO COTO Malbec 750ml",
+      "plu": "460805",
+      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
       "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
       "precio_antes": 7990.0,
@@ -485,8 +493,8 @@
       "diff_pct": 0.0
     },
     {
-      "plu": "460805",
-      "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+      "plu": "460802",
+      "nombre": "Vino ALFREDO COTO Malbec 750ml",
       "marca": "Alfredo Coto",
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
       "precio_antes": 7990.0,
@@ -586,5 +594,5 @@
   ],
   "productos_subieron_dia": 0,
   "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 1347
+  "productos_sin_cambio_dia": 1334
 }

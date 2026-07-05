@@ -1,7 +1,7 @@
 [
   {
-    "plu": "460802",
-    "nombre": "Vino ALFREDO COTO Malbec 750ml",
+    "plu": "460805",
+    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
     "marca": "Alfredo Coto",
     "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
     "precio_antes": 7990.0,
@@ -11,8 +11,8 @@
     "diff_pct": 0.0
   },
   {
-    "plu": "460805",
-    "nombre": "Vino ALFREDO COTO Cabernet Sauvignon 750 Ml",
+    "plu": "460802",
+    "nombre": "Vino ALFREDO COTO Malbec 750ml",
     "marca": "Alfredo Coto",
     "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
     "precio_antes": 7990.0,
