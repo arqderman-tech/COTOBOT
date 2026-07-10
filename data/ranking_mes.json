@@ -1,7 +1,7 @@
 [
   {
-    "plu": "618203",
-    "nombre": "Agua Saborizada Manzana Placer Bot 1.5 Ltr",
+    "plu": "618186",
+    "nombre": "Agua Saborizada Pomelo Placer Bot 1.5 Ltr",
     "marca": "Placer",
     "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1455.0,
@@ -22,8 +22,8 @@
     "diff_pct": 15.12
   },
   {
-    "plu": "618186",
-    "nombre": "Agua Saborizada Pomelo Placer Bot 1.5 Ltr",
+    "plu": "618203",
+    "nombre": "Agua Saborizada Manzana Placer Bot 1.5 Ltr",
     "marca": "Placer",
     "categoria": "Bebidas sin Alcohol > Bebidas > Aguas Saborizadas > Aguas",
     "precio_antes": 1455.0,
@@ -66,6 +66,28 @@
     "diff_pct": 12.35
   },
   {
+    "plu": "218804",
+    "nombre": "KRUG Grande Cuvée 750 CC",
+    "marca": "Krug",
+    "categoria": "Champañas > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 712500.0,
+    "precio_hoy": 793400.0,
+    "precio_actual_hoy": 793400.0,
+    "diff_abs": 80900.0,
+    "diff_pct": 11.35
+  },
+  {
+    "plu": "87802",
+    "nombre": "Gaseosa CRUSH Lima-Limón 2,25 Lt",
+    "marca": "Crush",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 1800.0,
+    "precio_hoy": 2000.0,
+    "precio_actual_hoy": 1700.0,
+    "diff_abs": 200.0,
+    "diff_pct": 11.11
+  },
+  {
     "plu": "85213",
     "nombre": "Gaseosa CRUSH Naranja 2,25 Lt",
     "marca": "Crush",
@@ -88,19 +110,8 @@
     "diff_pct": 11.11
   },
   {
-    "plu": "87802",
-    "nombre": "Gaseosa CRUSH Lima-Limón 2,25 Lt",
-    "marca": "Crush",
-    "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
-    "precio_antes": 1800.0,
-    "precio_hoy": 2000.0,
-    "precio_actual_hoy": 1700.0,
-    "diff_abs": 200.0,
-    "diff_pct": 11.11
-  },
-  {
-    "plu": "547426",
-    "nombre": "Jugo En Polvo CLIGHT Ananá 7g",
+    "plu": "547412",
+    "nombre": "Jugo En Polvo CLIGHT Naranja Durazno 7,5g",
     "marca": "Clight",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -110,8 +121,19 @@
     "diff_pct": 10.48
   },
   {
-    "plu": "547411",
-    "nombre": "Jugo En Polvo CLIGHT Naranja 8 G",
+    "plu": "547421",
+    "nombre": "Jugo En Polvo CLIGHT Manzana Verde 7,5g",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
+    "plu": "547408",
+    "nombre": "Jugo En Polvo CLIGHT Pomelo Rosado 8 G",
     "marca": "Clight",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -132,30 +154,41 @@
     "diff_pct": 10.48
   },
   {
-    "plu": "547424",
-    "nombre": "Jugo En Polvo CLIGHT Pera 7g",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
-  },
-  {
-    "plu": "547412",
-    "nombre": "Jugo En Polvo CLIGHT Naranja Durazno 7,5g",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
-  },
-  {
     "plu": "547420",
     "nombre": "Jugo En Polvo CLIGHT Limonada 8 G",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
+    "plu": "532070",
+    "nombre": "Jugo En Polvo CLIGHT Limonada Rosa 8g",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
+    "plu": "547411",
+    "nombre": "Jugo En Polvo CLIGHT Naranja 8 G",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
+    "plu": "547417",
+    "nombre": "Jugo En Polvo CLIGHT Manzana Deliciosa 7g",
     "marca": "Clight",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -178,39 +211,6 @@
   {
     "plu": "547427",
     "nombre": "Jugo En Polvo CLIGHT Naranja Dulce 7,5 G",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
-  },
-  {
-    "plu": "547421",
-    "nombre": "Jugo En Polvo CLIGHT Manzana Verde 7,5g",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
-  },
-  {
-    "plu": "547417",
-    "nombre": "Jugo En Polvo CLIGHT Manzana Deliciosa 7g",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
-  },
-  {
-    "plu": "532070",
-    "nombre": "Jugo En Polvo CLIGHT Limonada Rosa 8g",
     "marca": "Clight",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,

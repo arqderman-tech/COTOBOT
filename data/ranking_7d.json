@@ -1,40 +1,29 @@
 [
   {
-    "plu": "547412",
-    "nombre": "Jugo En Polvo CLIGHT Naranja Durazno 7,5g",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
+    "plu": "17705",
+    "nombre": "Nalga  De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 7900.0,
+    "precio_hoy": 11500.0,
+    "precio_actual_hoy": 11500.0,
+    "diff_abs": 3600.0,
+    "diff_pct": 45.57
   },
   {
-    "plu": "547420",
-    "nombre": "Jugo En Polvo CLIGHT Limonada 8 G",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
+    "plu": "17703",
+    "nombre": "Bola De Lomo  De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 7900.0,
+    "precio_hoy": 11500.0,
+    "precio_actual_hoy": 11500.0,
+    "diff_abs": 3600.0,
+    "diff_pct": 45.57
   },
   {
-    "plu": "547426",
-    "nombre": "Jugo En Polvo CLIGHT Ananá 7g",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
-  },
-  {
-    "plu": "570281",
-    "nombre": "Jugo En Polvo CLIGHT Limonada Maracuyá 7,5g",
+    "plu": "547421",
+    "nombre": "Jugo En Polvo CLIGHT Manzana Verde 7,5g",
     "marca": "Clight",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -66,6 +55,50 @@
     "diff_pct": 10.48
   },
   {
+    "plu": "547427",
+    "nombre": "Jugo En Polvo CLIGHT Naranja Dulce 7,5 G",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
+    "plu": "547412",
+    "nombre": "Jugo En Polvo CLIGHT Naranja Durazno 7,5g",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
+    "plu": "622045",
+    "nombre": "Jugo en polvo pomelo hibiscus CLIGHT 8g",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
+    "plu": "547426",
+    "nombre": "Jugo En Polvo CLIGHT Ananá 7g",
+    "marca": "Clight",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 580.0,
+    "precio_actual_hoy": 290.0,
+    "diff_abs": 55.0,
+    "diff_pct": 10.48
+  },
+  {
     "plu": "547417",
     "nombre": "Jugo En Polvo CLIGHT Manzana Deliciosa 7g",
     "marca": "Clight",
@@ -77,8 +110,8 @@
     "diff_pct": 10.48
   },
   {
-    "plu": "547427",
-    "nombre": "Jugo En Polvo CLIGHT Naranja Dulce 7,5 G",
+    "plu": "547420",
+    "nombre": "Jugo En Polvo CLIGHT Limonada 8 G",
     "marca": "Clight",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -110,8 +143,8 @@
     "diff_pct": 10.48
   },
   {
-    "plu": "547421",
-    "nombre": "Jugo En Polvo CLIGHT Manzana Verde 7,5g",
+    "plu": "570281",
+    "nombre": "Jugo En Polvo CLIGHT Limonada Maracuyá 7,5g",
     "marca": "Clight",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -121,19 +154,8 @@
     "diff_pct": 10.48
   },
   {
-    "plu": "622045",
-    "nombre": "Jugo en polvo pomelo hibiscus CLIGHT 8g",
-    "marca": "Clight",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 580.0,
-    "precio_actual_hoy": 290.0,
-    "diff_abs": 55.0,
-    "diff_pct": 10.48
-  },
-  {
-    "plu": "548645",
-    "nombre": "Jugo En Polvo TANG Naranja Mango 15g",
+    "plu": "548658",
+    "nombre": "Jugo En Polvo En Polvo TANG Uva 15g",
     "marca": "Tang",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -143,30 +165,8 @@
     "diff_pct": 4.76
   },
   {
-    "plu": "548660",
-    "nombre": "Jugo En Polvo TANG Frutilla 15g",
-    "marca": "Tang",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 550.0,
-    "precio_actual_hoy": 275.0,
-    "diff_abs": 25.0,
-    "diff_pct": 4.76
-  },
-  {
-    "plu": "548656",
-    "nombre": "Jugo En Polvo TANG Naranja Dulce 15g",
-    "marca": "Tang",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 550.0,
-    "precio_actual_hoy": 275.0,
-    "diff_abs": 25.0,
-    "diff_pct": 4.76
-  },
-  {
-    "plu": "548661",
-    "nombre": "Jugo En Polvo TANG  Naranja 15g",
+    "plu": "548651",
+    "nombre": "Jugo En Polvo TANG Sabor Pera 15g",
     "marca": "Tang",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
@@ -187,30 +187,30 @@
     "diff_pct": 4.76
   },
   {
-    "plu": "548652",
-    "nombre": "Jugo En Polvo TANG Durazno 15g",
-    "marca": "Tang",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 550.0,
-    "precio_actual_hoy": 275.0,
-    "diff_abs": 25.0,
-    "diff_pct": 4.76
-  },
-  {
-    "plu": "548659",
-    "nombre": "Jugo En Polvo TANG Ananá 15g",
-    "marca": "Tang",
-    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 525.0,
-    "precio_hoy": 550.0,
-    "precio_actual_hoy": 275.0,
-    "diff_abs": 25.0,
-    "diff_pct": 4.76
-  },
-  {
     "plu": "548662",
     "nombre": "Jugo En Polvo TANG  Manzana 15g",
+    "marca": "Tang",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 550.0,
+    "precio_actual_hoy": 275.0,
+    "diff_abs": 25.0,
+    "diff_pct": 4.76
+  },
+  {
+    "plu": "548646",
+    "nombre": "Jugo En Polvo TANG Limonada Dulce 15g",
+    "marca": "Tang",
+    "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 525.0,
+    "precio_hoy": 550.0,
+    "precio_actual_hoy": 275.0,
+    "diff_abs": 25.0,
+    "diff_pct": 4.76
+  },
+  {
+    "plu": "548652",
+    "nombre": "Jugo En Polvo TANG Durazno 15g",
     "marca": "Tang",
     "categoria": "Jugos en Polvo > Jugos > Bebidas sin Alcohol > Bebidas",
     "precio_antes": 525.0,
