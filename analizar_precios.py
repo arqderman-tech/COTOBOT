@@ -3,11 +3,13 @@ analizar_precios.py
 ===================
 Lógica correcta de almacenamiento y comparación de precios.
 
-ALMACENAMIENTO:
-  data/precios_compacto.csv
-    → Una fila por producto por día
-    → Columnas: plu, nombre, marca, categoria, cat_principal,
-                precio_actual, precio_regular, fecha
+ALMACENAMIENTO (formato nuevo, comprimido + normalizado):
+  data/precios_compacto.csv.gz
+    → Fact table: una fila por producto por día
+    → Columnas: plu, precio_actual, precio_regular, fecha
+  data/productos_meta.json
+    → Metadata: plu → {nombre, marca, categoria, cat_principal}
+    → Se actualiza con cada corrida (último valor gana)
 
 ÍNDICE % (graficos.json):
     - Por cada día, para cada categoría principal:
@@ -36,8 +38,13 @@ import pandas as pd
 from datetime import datetime, timedelta
 from pathlib import Path
 
-DIR_DATA         = Path("data")
-PRECIOS_COMPACTO = DIR_DATA / "precios_compacto.csv"
+DIR_DATA             = Path("data")
+PRECIOS_COMPACTO     = DIR_DATA / "precios_compacto.csv.gz"
+PRECIOS_COMPACTO_OLD = DIR_DATA / "precios_compacto.csv"
+PRODUCTOS_META       = DIR_DATA / "productos_meta.json"
+
+# Columnas de la fact table (lo único que crece día a día)
+COLS_FACT = ["plu", "precio_actual", "precio_regular", "fecha"]
 
 # ── MAPEO DE CATEGORÍA PRINCIPAL ─────────────────────────────────────────────
 CATEGORIA_PRINCIPAL = {
@@ -52,7 +59,7 @@ CATEGORIA_PRINCIPAL = {
     "Harinas":                         "Almacén",
     "Encurtidos":                      "Almacén",
     "Mermeladas Y Dulces":             "Almacén",
-    "Salsas Y Puré De Tomate":        "Almacén",
+    "Salsas Y Puré De Tomate":         "Almacén",
     "Aceites Y Condimentos":           "Almacén",
     "Alimento Bebés Y Niños":          "Almacén",
     "Arroz Y Legumbres":               "Almacén",
@@ -117,7 +124,6 @@ PERIODOS = {
 
 def a_principal(cat):
     cat = str(cat).strip()
-    # Buscar en cada segmento de la ruta (ej: "Golosinas > Chocolates > Almacén")
     for segmento in cat.split('>'):
         segmento = segmento.strip()
         if segmento in CATEGORIA_PRINCIPAL:
@@ -125,7 +131,76 @@ def a_principal(cat):
     return cat
 
 
-# ── CARGA ────────────────────────────────────────────────────────────────────
+# ── METADATA (plu → nombre/marca/categoria) ──────────────────────────────────
+def cargar_meta():
+    if PRODUCTOS_META.exists():
+        with open(PRODUCTOS_META, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def guardar_meta(meta):
+    with open(PRODUCTOS_META, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False)
+
+
+def enriquecer(df, meta):
+    """Agrega nombre/marca/categoria/cat_principal desde meta, mapeando por plu."""
+    df = df.copy()
+    if df.empty:
+        for c in ("nombre", "marca", "categoria", "cat_principal"):
+            df[c] = ""
+        return df
+    plu_str = df["plu"].astype(str)
+    df["nombre"]        = plu_str.map(lambda p: meta.get(p, {}).get("nombre", ""))
+    df["marca"]         = plu_str.map(lambda p: meta.get(p, {}).get("marca", ""))
+    df["categoria"]     = plu_str.map(lambda p: meta.get(p, {}).get("categoria", ""))
+    df["cat_principal"] = plu_str.map(lambda p: meta.get(p, {}).get("cat_principal", ""))
+    return df
+
+
+def cargar_compacto_enriquecido():
+    """Lee la fact table comprimida, deduplica (plu, fecha) y agrega metadata."""
+    if not PRECIOS_COMPACTO.exists():
+        return pd.DataFrame(columns=COLS_FACT + ["nombre", "marca", "categoria", "cat_principal"])
+    df = pd.read_csv(PRECIOS_COMPACTO, dtype={"plu": str, "fecha": str})
+    # Sanidad: si por corridas viejas quedaron duplicados (plu, fecha), nos quedamos
+    # con el último registro de cada par.
+    df = df.drop_duplicates(subset=["plu", "fecha"], keep="last")
+    return enriquecer(df, cargar_meta())
+
+
+def migrar_si_hace_falta():
+    """Convierte el CSV viejo (schema completo, sin comprimir) al nuevo formato.
+    Corre una sola vez: la primera vez que se ejecute después del deploy."""
+    if PRECIOS_COMPACTO_OLD.exists() and not PRECIOS_COMPACTO.exists():
+        print("  [MIGRACIÓN] precios_compacto.csv → precios_compacto.csv.gz ...")
+        df_old = pd.read_csv(PRECIOS_COMPACTO_OLD, dtype={"plu": str, "fecha": str})
+        df_old = df_old.drop_duplicates(subset=["plu", "fecha"], keep="last")
+
+        # Metadata: última aparición de cada PLU
+        df_meta = df_old.sort_values("fecha").drop_duplicates("plu", keep="last")
+        meta = {}
+        for row in df_meta.itertuples(index=False):
+            cat = str(getattr(row, "categoria", "") or "")
+            cat_p = str(getattr(row, "cat_principal", "") or "") or a_principal(cat)
+            meta[str(row.plu)] = {
+                "nombre":        str(getattr(row, "nombre", "") or ""),
+                "marca":         str(getattr(row, "marca", "") or ""),
+                "categoria":     cat,
+                "cat_principal": cat_p,
+            }
+        guardar_meta(meta)
+
+        # Fact table reducida y comprimida
+        cols = [c for c in COLS_FACT if c in df_old.columns]
+        df_old[cols].to_csv(PRECIOS_COMPACTO, index=False, compression="gzip")
+
+        PRECIOS_COMPACTO_OLD.unlink()
+        print(f"  [MIGRACIÓN] OK: {len(df_old)} filas, {len(meta)} productos")
+
+
+# ── CARGA DE CSVs DEL DÍA ────────────────────────────────────────────────────
 def cargar_csvs_hoy():
     hoy = datetime.now().strftime("%Y%m%d")
     patrones = [
@@ -170,25 +245,39 @@ def preparar_df_dia(df_raw, fecha_str):
 
 # ── ALMACENAMIENTO ───────────────────────────────────────────────────────────
 def guardar_compacto(df_dia, fecha_str):
-    """Una fila por producto por día. Re-run seguro."""
+    """Fact table (4 cols, gzip) + metadata (dict plu→info). Re-run seguro."""
     DIR_DATA.mkdir(parents=True, exist_ok=True)
-    cols_guardar = ["plu", "nombre", "marca", "categoria", "cat_principal",
-                    "precio_actual", "precio_regular", "fecha"]
-    df_guardar = df_dia[[c for c in cols_guardar if c in df_dia.columns]].copy()
+
+    # 1) Actualizar metadata con los productos de hoy
+    meta = cargar_meta()
+    for row in df_dia.itertuples(index=False):
+        plu = str(row.plu)
+        meta[plu] = {
+            "nombre":        str(getattr(row, "nombre", "") or ""),
+            "marca":         str(getattr(row, "marca", "") or ""),
+            "categoria":     str(getattr(row, "categoria", "") or ""),
+            "cat_principal": str(getattr(row, "cat_principal", "") or ""),
+        }
+    guardar_meta(meta)
+
+    # 2) Guardar fact table comprimida
+    df_guardar = df_dia[[c for c in COLS_FACT if c in df_dia.columns]].copy()
+    df_guardar["plu"] = df_guardar["plu"].astype(str)
 
     if PRECIOS_COMPACTO.exists():
         df_hist = pd.read_csv(PRECIOS_COMPACTO, dtype={"plu": str, "fecha": str})
-        if "cat_principal" not in df_hist.columns:
-            df_hist["cat_principal"] = df_hist["categoria"].apply(a_principal)
         df_hist = df_hist[df_hist["fecha"] != fecha_str]
         df_nuevo = pd.concat([df_hist, df_guardar], ignore_index=True)
     else:
         df_nuevo = df_guardar
 
-    df_nuevo.to_csv(PRECIOS_COMPACTO, index=False)
+    df_nuevo.to_csv(PRECIOS_COMPACTO, index=False, compression="gzip")
     kb = PRECIOS_COMPACTO.stat().st_size / 1024
-    print(f"  precios_compacto.csv: {len(df_nuevo)} filas | {kb:.0f} KB")
-    return df_nuevo
+    print(f"  precios_compacto.csv.gz: {len(df_nuevo)} filas | {kb:.0f} KB")
+    print(f"  productos_meta.json: {len(meta)} productos")
+
+    # 3) Devolver enriquecido (para snapshots y gráficos aguas abajo)
+    return enriquecer(df_nuevo, meta)
 
 
 # ── COMPARACIÓN ──────────────────────────────────────────────────────────────
@@ -218,10 +307,7 @@ def snapshot_anterior(df_hist, fecha_hoy):
 
 
 def calcular_variacion(df_hoy, df_antes):
-    """
-    Producto a producto: diff_pct de precio_regular.
-    Solo productos que existen en ambos snapshots.
-    """
+    """Producto a producto: diff_pct de precio_regular."""
     df_h = df_hoy[["plu", "nombre", "marca", "categoria", "cat_principal",
                     "precio_actual", "precio_regular"]].copy()
     df_h = df_h.rename(columns={
@@ -264,15 +350,13 @@ def top_productos(df_var, n=20, ascendente=False):
     ]].to_dict("records")
 
 
-# ── GRÁFICOS EN % ACUMULADO ───────────────────────────────────────────────────
+# ── GRÁFICOS EN % ACUMULADO ──────────────────────────────────────────────────
 def generar_graficos_data(df_hist):
     """
     Para cada período construye índices % acumulados.
-    
+
     Día 0 (primer día del período) = 0%
     Día N = acumulado[N-1] + promedio(diff_pct de productos que existían el día N-1)
-    
-    Esto refleja correctamente cuánto subió/bajó desde el inicio del período.
     """
     if df_hist.empty:
         return {}
@@ -344,14 +428,14 @@ def main():
     fecha_hoy = datetime.now().strftime("%Y%m%d")
     DIR_DATA.mkdir(parents=True, exist_ok=True)
 
+    # Migración una sola vez del CSV viejo al nuevo formato
+    migrar_si_hace_falta()
+
     if solo_graficos:
-        # Usar precios_compacto.csv ya existente, tomar el último día como "hoy"
         if not PRECIOS_COMPACTO.exists():
-            print("ERROR: No existe precios_compacto.csv")
+            print("ERROR: No existe precios_compacto.csv.gz")
             return
-        df_hist = pd.read_csv(PRECIOS_COMPACTO, dtype={"plu": str, "fecha": str})
-        if "cat_principal" not in df_hist.columns:
-            df_hist["cat_principal"] = df_hist["categoria"].apply(a_principal)
+        df_hist = cargar_compacto_enriquecido()
         fecha_hoy = sorted(df_hist["fecha"].unique())[-1]
         df_dia = df_hist[df_hist["fecha"] == fecha_hoy].copy()
         print(f"  Usando fecha más reciente: {fecha_hoy} ({len(df_dia)} prods)")
