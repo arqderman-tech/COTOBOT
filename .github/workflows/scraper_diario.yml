@@ -58,6 +58,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Sacar del índice el CSV viejo si quedó trackeado
+          # (el archivo ya fue borrado en disco por migrar_si_hace_falta)
+          git rm --cached data/precios_compacto.csv 2>/dev/null || true
           git add data/ docs/
           git diff --staged --quiet || git commit -m "📊 Datos Coto $(date +'%Y-%m-%d')"
           git push
