@@ -1,5 +1,16 @@
 [
   {
+    "plu": "691",
+    "nombre": "Zapallito Redondo   Xkg",
+    "marca": NaN,
+    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1499.0,
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 2800.0,
+    "diff_pct": 186.79
+  },
+  {
     "plu": "567",
     "nombre": "Tomate Cherry  X Kg",
     "marca": NaN,
@@ -39,7 +50,7 @@
     "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 5299.0,
     "precio_hoy": 12999.0,
-    "precio_actual_hoy": 12999.0,
+    "precio_actual_hoy": 11049.15,
     "diff_abs": 7700.0,
     "diff_pct": 145.31
   },
@@ -88,17 +99,6 @@
     "diff_pct": 127.3
   },
   {
-    "plu": "691",
-    "nombre": "Zapallito Redondo   Xkg",
-    "marca": NaN,
-    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1499.0,
-    "precio_hoy": 3399.0,
-    "precio_actual_hoy": 3399.0,
-    "diff_abs": 1900.0,
-    "diff_pct": 126.75
-  },
-  {
     "plu": "35100",
     "nombre": "Tomate Perita Especial   Xkg",
     "marca": "Cosecha Criolla",
@@ -110,26 +110,59 @@
     "diff_pct": 125.85
   },
   {
-    "plu": "13419",
-    "nombre": "Tomate Cherry En Rama Especial X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 13499.0,
-    "precio_actual_hoy": 13499.0,
-    "diff_abs": 7500.0,
-    "diff_pct": 125.02
-  },
-  {
     "plu": "14016",
     "nombre": "Tomate Cherry Amarillo Especial X 1 Kgm",
     "marca": "Coto",
     "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 5999.0,
     "precio_hoy": 13499.0,
-    "precio_actual_hoy": 13499.0,
+    "precio_actual_hoy": 11474.15,
     "diff_abs": 7500.0,
     "diff_pct": 125.02
+  },
+  {
+    "plu": "13419",
+    "nombre": "Tomate Cherry En Rama Especial X Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 5999.0,
+    "precio_hoy": 13499.0,
+    "precio_actual_hoy": 11474.15,
+    "diff_abs": 7500.0,
+    "diff_pct": 125.02
+  },
+  {
+    "plu": "204",
+    "nombre": "Mandarina Nova X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 122.36
+  },
+  {
+    "plu": "690",
+    "nombre": "Zapallito Largo X Kg",
+    "marca": NaN,
+    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 2200.0,
+    "diff_pct": 104.81
+  },
+  {
+    "plu": "17625",
+    "nombre": "Zapallo Japones   Xkg",
+    "marca": NaN,
+    "categoria": "Zapallos > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 100.1
   },
   {
     "plu": "281972",
@@ -154,17 +187,6 @@
     "diff_pct": 100.01
   },
   {
-    "plu": "13380",
-    "nombre": "Jamon Cocido Clásico Fetead Lario X Kg",
-    "marca": "Lario",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 11999.0,
-    "precio_hoy": 23039.0,
-    "precio_actual_hoy": 23039.0,
-    "diff_abs": 11040.0,
-    "diff_pct": 92.01
-  },
-  {
     "plu": "13379",
     "nombre": "Jamon Cocido Clasico Lario x Kg (Por pieza)",
     "marca": "Lario",
@@ -176,15 +198,15 @@
     "diff_pct": 92.01
   },
   {
-    "plu": "17625",
-    "nombre": "Zapallo Japones   Xkg",
-    "marca": NaN,
-    "categoria": "Zapallos > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1899.0,
-    "precio_actual_hoy": 1899.0,
-    "diff_abs": 900.0,
-    "diff_pct": 90.09
+    "plu": "13380",
+    "nombre": "Jamon Cocido Clásico Fetead Lario X Kg",
+    "marca": "Lario",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 11999.0,
+    "precio_hoy": 23039.0,
+    "precio_actual_hoy": 23039.0,
+    "diff_abs": 11040.0,
+    "diff_pct": 92.01
   },
   {
     "plu": "35090",
@@ -196,27 +218,5 @@
     "precio_actual_hoy": 7499.0,
     "diff_abs": 3500.0,
     "diff_pct": 87.52
-  },
-  {
-    "plu": "72042",
-    "nombre": "Tomate Larga Vida Racimo X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 3499.0,
-    "precio_hoy": 6499.0,
-    "precio_actual_hoy": 6499.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 85.74
-  },
-  {
-    "plu": "686",
-    "nombre": "Zanahoria Seleccion   Xkg",
-    "marca": NaN,
-    "categoria": "Zanahoria > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2399.0,
-    "precio_actual_hoy": 2399.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 84.68
   }
 ]
