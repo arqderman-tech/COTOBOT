@@ -5,10 +5,10 @@
     "marca": NaN,
     "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1499.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 200.13
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 233.49
   },
   {
     "plu": "36144",
@@ -55,8 +55,19 @@
     "diff_pct": 140.14
   },
   {
-    "plu": "35237",
-    "nombre": "Jamon Cocido Genuin Feteado Cagnoli Xkg",
+    "plu": "690",
+    "nombre": "Zapallito Largo X Kg",
+    "marca": NaN,
+    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2900.0,
+    "diff_pct": 138.16
+  },
+  {
+    "plu": "83237",
+    "nombre": "Jamón Cocido Genuino CAGNOLI X Kg (Por pieza)",
     "marca": "Cagnoli",
     "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -66,8 +77,8 @@
     "diff_pct": 136.48
   },
   {
-    "plu": "83237",
-    "nombre": "Jamón Cocido Genuino CAGNOLI X Kg (Por pieza)",
+    "plu": "35237",
+    "nombre": "Jamon Cocido Genuin Feteado Cagnoli Xkg",
     "marca": "Cagnoli",
     "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -119,28 +130,6 @@
     "precio_actual_hoy": 11474.15,
     "diff_abs": 7500.0,
     "diff_pct": 125.02
-  },
-  {
-    "plu": "204",
-    "nombre": "Mandarina Nova X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 899.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 122.36
-  },
-  {
-    "plu": "690",
-    "nombre": "Zapallito Largo X Kg",
-    "marca": NaN,
-    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2099.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 114.34
   },
   {
     "plu": "683",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 3699.0,
     "diff_abs": 1700.0,
     "diff_pct": 85.04
+  },
+  {
+    "plu": "686",
+    "nombre": "Zanahoria Seleccion   Xkg",
+    "marca": NaN,
+    "categoria": "Zanahoria > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1299.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 2399.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 84.68
   }
 ]
