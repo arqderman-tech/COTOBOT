@@ -33,6 +33,17 @@
     "diff_pct": 155.59
   },
   {
+    "plu": "549",
+    "nombre": "Pomelo Rojo .   Xkg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 1199.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 150.13
+  },
+  {
     "plu": "66177",
     "nombre": "Tomate Cherri Amarillo   Xkg",
     "marca": NaN,
@@ -94,7 +105,7 @@
     "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 5299.0,
     "precio_hoy": 12499.0,
-    "precio_actual_hoy": 10624.15,
+    "precio_actual_hoy": 12499.0,
     "diff_abs": 7200.0,
     "diff_pct": 135.87
   },
@@ -110,26 +121,37 @@
     "diff_pct": 127.3
   },
   {
-    "plu": "13419",
-    "nombre": "Tomate Cherry En Rama Especial X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 13499.0,
-    "precio_actual_hoy": 11474.15,
-    "diff_abs": 7500.0,
-    "diff_pct": 125.02
-  },
-  {
     "plu": "14016",
     "nombre": "Tomate Cherry Amarillo Especial X 1 Kgm",
     "marca": "Coto",
     "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 5999.0,
     "precio_hoy": 13499.0,
-    "precio_actual_hoy": 11474.15,
+    "precio_actual_hoy": 13499.0,
     "diff_abs": 7500.0,
     "diff_pct": 125.02
+  },
+  {
+    "plu": "13419",
+    "nombre": "Tomate Cherry En Rama Especial X Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 5999.0,
+    "precio_hoy": 13499.0,
+    "precio_actual_hoy": 13499.0,
+    "diff_abs": 7500.0,
+    "diff_pct": 125.02
+  },
+  {
+    "plu": "204",
+    "nombre": "Mandarina Nova X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 122.36
   },
   {
     "plu": "683",
@@ -196,27 +218,5 @@
     "precio_actual_hoy": 6499.0,
     "diff_abs": 3000.0,
     "diff_pct": 85.74
-  },
-  {
-    "plu": "602",
-    "nombre": "Cebolla A Granel X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3699.0,
-    "precio_actual_hoy": 3699.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 85.04
-  },
-  {
-    "plu": "686",
-    "nombre": "Zanahoria Seleccion   Xkg",
-    "marca": NaN,
-    "categoria": "Zanahoria > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2399.0,
-    "precio_actual_hoy": 2399.0,
-    "diff_abs": 1100.0,
-    "diff_pct": 84.68
   }
 ]
