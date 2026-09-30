@@ -5,10 +5,10 @@
     "marca": NaN,
     "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1499.0,
-    "precio_hoy": 5299.0,
-    "precio_actual_hoy": 5299.0,
-    "diff_abs": 3800.0,
-    "diff_pct": 253.5
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 233.49
   },
   {
     "plu": "36144",
@@ -20,39 +20,6 @@
     "precio_actual_hoy": 4399.0,
     "diff_abs": 2700.0,
     "diff_pct": 158.92
-  },
-  {
-    "plu": "690",
-    "nombre": "Zapallito Largo X Kg",
-    "marca": NaN,
-    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2099.0,
-    "precio_hoy": 5299.0,
-    "precio_actual_hoy": 5299.0,
-    "diff_abs": 3200.0,
-    "diff_pct": 152.45
-  },
-  {
-    "plu": "549",
-    "nombre": "Pomelo Rojo .   Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1199.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 150.13
-  },
-  {
-    "plu": "66177",
-    "nombre": "Tomate Cherri Amarillo   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 12499.0,
-    "precio_actual_hoy": 12499.0,
-    "diff_abs": 7500.0,
-    "diff_pct": 150.03
   },
   {
     "plu": "567",
@@ -77,6 +44,17 @@
     "diff_pct": 140.14
   },
   {
+    "plu": "690",
+    "nombre": "Zapallito Largo X Kg",
+    "marca": NaN,
+    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2900.0,
+    "diff_pct": 138.16
+  },
+  {
     "plu": "47233",
     "nombre": "Tomate Cherri En Rama X 1 Kgm",
     "marca": "Coto",
@@ -99,28 +77,6 @@
     "diff_pct": 126.44
   },
   {
-    "plu": "14016",
-    "nombre": "Tomate Cherry Amarillo Especial X 1 Kgm",
-    "marca": "Coto",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 13499.0,
-    "precio_actual_hoy": 13499.0,
-    "diff_abs": 7500.0,
-    "diff_pct": 125.02
-  },
-  {
-    "plu": "13419",
-    "nombre": "Tomate Cherry En Rama Especial X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 13499.0,
-    "precio_actual_hoy": 13499.0,
-    "diff_abs": 7500.0,
-    "diff_pct": 125.02
-  },
-  {
     "plu": "204",
     "nombre": "Mandarina Nova X Kg",
     "marca": "Nuestras Frutas",
@@ -132,26 +88,37 @@
     "diff_pct": 122.36
   },
   {
-    "plu": "683",
-    "nombre": "Tomate Perit .   Xkg",
+    "plu": "66177",
+    "nombre": "Tomate Cherri Amarillo   Xkg",
     "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2900.0,
-    "diff_pct": 111.58
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 10999.0,
+    "precio_actual_hoy": 10999.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 120.02
   },
   {
-    "plu": "35100",
-    "nombre": "Tomate Perita Especial   Xkg",
-    "marca": "Cosecha Criolla",
+    "plu": "281972",
+    "nombre": "Tomillo SUEÑO VERDE X 35 Gr",
+    "marca": "Sueño Verde",
+    "categoria": "Hierbas Aromáticas > Frutas y Verduras > Frescos",
+    "precio_antes": 2149.0,
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 2150.0,
+    "diff_pct": 100.05
+  },
+  {
+    "plu": "14016",
+    "nombre": "Tomate Cherry Amarillo Especial X 1 Kgm",
+    "marca": "Coto",
     "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 3099.0,
-    "precio_hoy": 6299.0,
-    "precio_actual_hoy": 6299.0,
-    "diff_abs": 3200.0,
-    "diff_pct": 103.26
+    "precio_antes": 5999.0,
+    "precio_hoy": 11999.0,
+    "precio_actual_hoy": 11999.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 100.02
   },
   {
     "plu": "92152",
@@ -176,15 +143,26 @@
     "diff_pct": 96.7
   },
   {
-    "plu": "671",
-    "nombre": "Pimiento Rojo   Xkg",
+    "plu": "35100",
+    "nombre": "Tomate Perita Especial   Xkg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 3099.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 2900.0,
+    "diff_pct": 93.58
+  },
+  {
+    "plu": "683",
+    "nombre": "Tomate Perit .   Xkg",
     "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 9499.0,
-    "precio_actual_hoy": 9499.0,
-    "diff_abs": 4500.0,
-    "diff_pct": 90.02
+    "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 92.34
   },
   {
     "plu": "35090",
@@ -198,17 +176,6 @@
     "diff_pct": 87.52
   },
   {
-    "plu": "281972",
-    "nombre": "Tomillo SUEÑO VERDE X 35 Gr",
-    "marca": "Sueño Verde",
-    "categoria": "Hierbas Aromáticas > Frutas y Verduras > Frescos",
-    "precio_antes": 2149.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1850.0,
-    "diff_pct": 86.09
-  },
-  {
     "plu": "72042",
     "nombre": "Tomate Larga Vida Racimo X Kg",
     "marca": NaN,
@@ -218,5 +185,38 @@
     "precio_actual_hoy": 6499.0,
     "diff_abs": 3000.0,
     "diff_pct": 85.74
+  },
+  {
+    "plu": "602",
+    "nombre": "Cebolla A Granel X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3699.0,
+    "diff_abs": 1700.0,
+    "diff_pct": 85.04
+  },
+  {
+    "plu": "686",
+    "nombre": "Zanahoria Seleccion   Xkg",
+    "marca": NaN,
+    "categoria": "Zanahoria > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1299.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 2399.0,
+    "diff_abs": 1100.0,
+    "diff_pct": 84.68
+  },
+  {
+    "plu": "45268",
+    "nombre": "Panceta Salada PALADINI x Kg (Por pieza)",
+    "marca": "Paladini",
+    "categoria": "Panceta > Frescos > Fiambres",
+    "precio_antes": 29055.0,
+    "precio_hoy": 53389.0,
+    "precio_actual_hoy": 53389.0,
+    "diff_abs": 24334.0,
+    "diff_pct": 83.75
   }
 ]
