@@ -11,28 +11,6 @@
     "diff_pct": 3344.98
   },
   {
-    "plu": "18117",
-    "nombre": "Garbanzo Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1900.0,
-    "diff_pct": 172.88
-  },
-  {
-    "plu": "18099",
-    "nombre": "Poroto Alubia Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 3799.0,
-    "precio_actual_hoy": 3799.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 111.17
-  },
-  {
     "plu": "548",
     "nombre": "Pomelo Blanco X Kg",
     "marca": "Nuestras Frutas",
@@ -42,6 +20,17 @@
     "precio_actual_hoy": 2124.15,
     "diff_abs": 1300.0,
     "diff_pct": 108.42
+  },
+  {
+    "plu": "628744",
+    "nombre": "Porotos mung Cosecha Criolla 500g",
+    "marca": ".",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.04
   },
   {
     "plu": "502158",
@@ -55,17 +44,6 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "13080",
-    "nombre": "Queso.Cabra Lusignan Natur Piedras Bla X 1 Kgm",
-    "marca": "Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 42845.0,
-    "precio_hoy": 85695.0,
-    "precio_actual_hoy": 85695.0,
-    "diff_abs": 42850.0,
-    "diff_pct": 100.01
-  },
-  {
     "plu": "46851",
     "nombre": "Queso De Cabra Chevrotin Cabaña Piedras Blancas X Kg",
     "marca": "Cabañas Piedras Blancas",
@@ -74,6 +52,17 @@
     "precio_hoy": 99725.0,
     "precio_actual_hoy": 99725.0,
     "diff_abs": 49866.0,
+    "diff_pct": 100.01
+  },
+  {
+    "plu": "13080",
+    "nombre": "Queso.Cabra Lusignan Natur Piedras Bla X 1 Kgm",
+    "marca": "Piedras Blancas",
+    "categoria": "Quesos Especiales > Quesos > Frescos",
+    "precio_antes": 42845.0,
+    "precio_hoy": 85695.0,
+    "precio_actual_hoy": 85695.0,
+    "diff_abs": 42850.0,
     "diff_pct": 100.01
   },
   {
@@ -88,17 +77,6 @@
     "diff_pct": 100.0
   },
   {
-    "plu": "13081",
-    "nombre": "Queso.Cabra Lusignan C/Pim Piedras Bla X 1 Kgm",
-    "marca": "Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 43279.0,
-    "precio_hoy": 86559.0,
-    "precio_actual_hoy": 86559.0,
-    "diff_abs": 43280.0,
-    "diff_pct": 100.0
-  },
-  {
     "plu": "46844",
     "nombre": "Queso De Vaca Brie Piedras Blancas X Kg",
     "marca": "Cabañas Piedras Blancas",
@@ -107,6 +85,17 @@
     "precio_hoy": 47189.0,
     "precio_actual_hoy": 47189.0,
     "diff_abs": 23594.0,
+    "diff_pct": 100.0
+  },
+  {
+    "plu": "13081",
+    "nombre": "Queso.Cabra Lusignan C/Pim Piedras Bla X 1 Kgm",
+    "marca": "Piedras Blancas",
+    "categoria": "Quesos Especiales > Quesos > Frescos",
+    "precio_antes": 43279.0,
+    "precio_hoy": 86559.0,
+    "precio_actual_hoy": 86559.0,
+    "diff_abs": 43280.0,
     "diff_pct": 100.0
   },
   {
@@ -132,59 +121,48 @@
     "diff_pct": 99.99
   },
   {
-    "plu": "18097",
-    "nombre": "Poroto Negro Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1899.0,
-    "precio_hoy": 3399.0,
-    "precio_actual_hoy": 3399.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 78.99
+    "plu": "513680",
+    "nombre": "Pesto De Rúcula Fres Sueño Verde Fra 160 Grm",
+    "marca": "Sueño Verde",
+    "categoria": "Salsas y Puré de Tomate > Pesto > Almacén",
+    "precio_antes": 7999.0,
+    "precio_hoy": 15399.0,
+    "precio_actual_hoy": 15399.0,
+    "diff_abs": 7400.0,
+    "diff_pct": 92.51
   },
   {
-    "plu": "18116",
-    "nombre": "Maíz Pisingallo Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1699.0,
-    "precio_actual_hoy": 1699.0,
-    "diff_abs": 700.0,
-    "diff_pct": 70.07
-  },
-  {
-    "plu": "18119",
-    "nombre": "Arvejas Partidas Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1799.0,
-    "precio_actual_hoy": 1799.0,
-    "diff_abs": 700.0,
-    "diff_pct": 63.69
-  },
-  {
-    "plu": "18118",
-    "nombre": "Poroto De Soja Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1599.0,
-    "precio_actual_hoy": 1599.0,
-    "diff_abs": 600.0,
-    "diff_pct": 60.06
-  },
-  {
-    "plu": "18115",
-    "nombre": "Poroto Colorado Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 2199.0,
+    "plu": "593",
+    "nombre": "Berenjena x kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 1999.0,
     "precio_hoy": 3499.0,
     "precio_actual_hoy": 3499.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 59.12
+    "diff_abs": 1500.0,
+    "diff_pct": 75.04
+  },
+  {
+    "plu": "35068",
+    "nombre": "Berenjena Especial X Kg   Xkg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 72.03
+  },
+  {
+    "plu": "294505",
+    "nombre": "Aderezo Caesar SUEÑO VERDE X 200 Ml",
+    "marca": "Sueño Verde",
+    "categoria": "Almacén > Aderezos y Salsas > Aderezo Caesar",
+    "precio_antes": 5699.0,
+    "precio_hoy": 8799.0,
+    "precio_actual_hoy": 7479.15,
+    "diff_abs": 3100.0,
+    "diff_pct": 54.4
   },
   {
     "plu": "693",
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 23992.0,
     "diff_abs": 10000.0,
     "diff_pct": 50.03
+  },
+  {
+    "plu": "618212",
+    "nombre": "Postre Helado C/Ped.D/Mani Mantecol Cja 600 Grm",
+    "marca": "Mantecol",
+    "categoria": "Helados y Postres > Helados en Pote > Congelados",
+    "precio_antes": 16168.0,
+    "precio_hoy": 24225.0,
+    "precio_actual_hoy": 15746.25,
+    "diff_abs": 8057.0,
+    "diff_pct": 49.83
+  },
+  {
+    "plu": "618204",
+    "nombre": "Palito Helado Sab.Vaini.Frut Pal.De La S Paq 40 Grm",
+    "marca": "Palito De La Selva",
+    "categoria": "Helados y Postres > Helados en Palito > Congelados",
+    "precio_antes": 1449.0,
+    "precio_hoy": 2170.0,
+    "precio_actual_hoy": 1410.5,
+    "diff_abs": 721.0,
+    "diff_pct": 49.76
   }
 ]
