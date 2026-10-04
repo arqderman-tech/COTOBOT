@@ -77,6 +77,17 @@
     "diff_pct": 116.69
   },
   {
+    "plu": "13419",
+    "nombre": "Tomate Cherry En Rama Especial X Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12999.0,
+    "precio_actual_hoy": 12999.0,
+    "diff_abs": 7000.0,
+    "diff_pct": 116.69
+  },
+  {
     "plu": "567",
     "nombre": "Tomate Cherry  X Kg",
     "marca": NaN,
@@ -108,6 +119,17 @@
     "precio_actual_hoy": 5299.0,
     "diff_abs": 2700.0,
     "diff_pct": 103.89
+  },
+  {
+    "plu": "92152",
+    "nombre": "Barra Fundido Emmenthal Schreiber x Kg",
+    "marca": "Schreiber",
+    "categoria": "Semiduros > Quesos Especiales > Quesos > Frescos > Emmental",
+    "precio_antes": 9999.0,
+    "precio_hoy": 19999.0,
+    "precio_actual_hoy": 19999.0,
+    "diff_abs": 10000.0,
+    "diff_pct": 100.01
   },
   {
     "plu": "13972",
@@ -196,27 +218,5 @@
     "precio_actual_hoy": 5499.0,
     "diff_abs": 2500.0,
     "diff_pct": 83.36
-  },
-  {
-    "plu": "628767",
-    "nombre": "Papas Mix Huercal del Famataca 500g",
-    "marca": "Huertos Del Ran",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 83.36
-  },
-  {
-    "plu": "615",
-    "nombre": "Cebolla Seleccionada En Bolsita X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 81.86
   }
 ]

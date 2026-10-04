@@ -1,16 +1,5 @@
 [
   {
-    "plu": "477714",
-    "nombre": "Agua Lavandina Aditivada Héroe Aroma Naranja 2 Lts",
-    "marca": "Heroe",
-    "categoria": "Limpieza > Lavandinas Liquidas > Lavandinas",
-    "precio_antes": 62.99,
-    "precio_hoy": 2169.99,
-    "precio_actual_hoy": 2169.99,
-    "diff_abs": 2107.0,
-    "diff_pct": 3344.98
-  },
-  {
     "plu": "628744",
     "nombre": "Porotos mung Cosecha Criolla 500g",
     "marca": ".",
@@ -22,15 +11,15 @@
     "diff_pct": 100.04
   },
   {
-    "plu": "46851",
-    "nombre": "Queso De Cabra Chevrotin Cabaña Piedras Blancas X Kg",
-    "marca": "Cabañas Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 49859.0,
-    "precio_hoy": 99725.0,
-    "precio_actual_hoy": 99725.0,
-    "diff_abs": 49866.0,
-    "diff_pct": 100.01
+    "plu": "502158",
+    "nombre": "Manzana red TRES ASES 1 Kg",
+    "marca": "Tres Ases",
+    "categoria": "Manzanas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 100.03
   },
   {
     "plu": "13080",
@@ -41,6 +30,17 @@
     "precio_hoy": 85695.0,
     "precio_actual_hoy": 85695.0,
     "diff_abs": 42850.0,
+    "diff_pct": 100.01
+  },
+  {
+    "plu": "46851",
+    "nombre": "Queso De Cabra Chevrotin Cabaña Piedras Blancas X Kg",
+    "marca": "Cabañas Piedras Blancas",
+    "categoria": "Quesos Especiales > Quesos > Frescos",
+    "precio_antes": 49859.0,
+    "precio_hoy": 99725.0,
+    "precio_actual_hoy": 99725.0,
+    "diff_abs": 49866.0,
     "diff_pct": 100.01
   },
   {
@@ -55,17 +55,6 @@
     "diff_pct": 100.0
   },
   {
-    "plu": "13081",
-    "nombre": "Queso.Cabra Lusignan C/Pim Piedras Bla X 1 Kgm",
-    "marca": "Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 43279.0,
-    "precio_hoy": 86559.0,
-    "precio_actual_hoy": 86559.0,
-    "diff_abs": 43280.0,
-    "diff_pct": 100.0
-  },
-  {
     "plu": "46849",
     "nombre": "Queso.Cabra T/Feta Piedras Blancas X Kg",
     "marca": "Cabañas Piedras Blancas",
@@ -74,6 +63,17 @@
     "precio_hoy": 96179.0,
     "precio_actual_hoy": 96179.0,
     "diff_abs": 48090.0,
+    "diff_pct": 100.0
+  },
+  {
+    "plu": "13081",
+    "nombre": "Queso.Cabra Lusignan C/Pim Piedras Bla X 1 Kgm",
+    "marca": "Piedras Blancas",
+    "categoria": "Quesos Especiales > Quesos > Frescos",
+    "precio_antes": 43279.0,
+    "precio_hoy": 86559.0,
+    "precio_actual_hoy": 86559.0,
+    "diff_abs": 43280.0,
     "diff_pct": 100.0
   },
   {
