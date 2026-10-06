@@ -22,83 +22,6 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "13080",
-    "nombre": "Queso.Cabra Lusignan Natur Piedras Bla X 1 Kgm",
-    "marca": "Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 42845.0,
-    "precio_hoy": 85695.0,
-    "precio_actual_hoy": 85695.0,
-    "diff_abs": 42850.0,
-    "diff_pct": 100.01
-  },
-  {
-    "plu": "46851",
-    "nombre": "Queso De Cabra Chevrotin Cabaña Piedras Blancas X Kg",
-    "marca": "Cabañas Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 49859.0,
-    "precio_hoy": 99725.0,
-    "precio_actual_hoy": 99725.0,
-    "diff_abs": 49866.0,
-    "diff_pct": 100.01
-  },
-  {
-    "plu": "46844",
-    "nombre": "Queso De Vaca Brie Piedras Blancas X Kg",
-    "marca": "Cabañas Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 23595.0,
-    "precio_hoy": 47189.0,
-    "precio_actual_hoy": 47189.0,
-    "diff_abs": 23594.0,
-    "diff_pct": 100.0
-  },
-  {
-    "plu": "46849",
-    "nombre": "Queso.Cabra T/Feta Piedras Blancas X Kg",
-    "marca": "Cabañas Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > QUESOS DE CABRA > QUESOS > Nacionales > Frescos > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 48089.0,
-    "precio_hoy": 96179.0,
-    "precio_actual_hoy": 96179.0,
-    "diff_abs": 48090.0,
-    "diff_pct": 100.0
-  },
-  {
-    "plu": "13081",
-    "nombre": "Queso.Cabra Lusignan C/Pim Piedras Bla X 1 Kgm",
-    "marca": "Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 43279.0,
-    "precio_hoy": 86559.0,
-    "precio_actual_hoy": 86559.0,
-    "diff_abs": 43280.0,
-    "diff_pct": 100.0
-  },
-  {
-    "plu": "532472",
-    "nombre": "Queso De Cabra Cabrambrie Piedras Blancas Paq 160 Grm",
-    "marca": "Piedras Blancas",
-    "categoria": "de Cabra > Quesos Especiales > Quesos > Frescos > Blandos",
-    "precio_antes": 7575.0,
-    "precio_hoy": 15149.0,
-    "precio_actual_hoy": 15149.0,
-    "diff_abs": 7574.0,
-    "diff_pct": 99.99
-  },
-  {
-    "plu": "13083",
-    "nombre": "Queso.Cabra Lusignan Finas Piedras Bla X 1 Kgm",
-    "marca": "Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 44235.0,
-    "precio_hoy": 88465.0,
-    "precio_actual_hoy": 88465.0,
-    "diff_abs": 44230.0,
-    "diff_pct": 99.99
-  },
-  {
     "plu": "513680",
     "nombre": "Pesto De Rúcula Fres Sueño Verde Fra 160 Grm",
     "marca": "Sueño Verde",
@@ -114,33 +37,44 @@
     "nombre": "Berenjena x kg",
     "marca": NaN,
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3499.0,
-    "precio_actual_hoy": 3499.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 75.04
+    "precio_antes": 2399.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 66.69
+  },
+  {
+    "plu": "40344",
+    "nombre": "Mixto Palta/Limon   Xkg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Paltas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 4499.0,
+    "precio_hoy": 7499.0,
+    "precio_actual_hoy": 7499.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 66.68
   },
   {
     "plu": "35068",
     "nombre": "Berenjena Especial X Kg   Xkg",
     "marca": "Cosecha Criolla",
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 4299.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 72.03
+    "precio_antes": 2999.0,
+    "precio_hoy": 4899.0,
+    "precio_actual_hoy": 4899.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 63.35
   },
   {
-    "plu": "495889",
-    "nombre": "Papas Pay NIKITOS Paq 100 Grm",
-    "marca": "Nikitos",
-    "categoria": "Frutas y Verduras > Frescos > Cereales y Harinas",
-    "precio_antes": 1299.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 700.0,
-    "diff_pct": 53.89
+    "plu": "42212",
+    "nombre": "Muslo Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Muslo con Piel > Frescos > Aves",
+    "precio_antes": 4599.0,
+    "precio_hoy": 7499.0,
+    "precio_actual_hoy": 7499.0,
+    "diff_abs": 2900.0,
+    "diff_pct": 63.06
   },
   {
     "plu": "17939",
@@ -154,50 +88,6 @@
     "diff_pct": 50.03
   },
   {
-    "plu": "618212",
-    "nombre": "Postre Helado C/Ped.D/Mani Mantecol Cja 600 Grm",
-    "marca": "Mantecol",
-    "categoria": "Helados y Postres > Helados en Pote > Congelados",
-    "precio_antes": 16168.0,
-    "precio_hoy": 24225.0,
-    "precio_actual_hoy": 15746.25,
-    "diff_abs": 8057.0,
-    "diff_pct": 49.83
-  },
-  {
-    "plu": "618204",
-    "nombre": "Palito Helado Sab.Vaini.Frut Pal.De La S Paq 40 Grm",
-    "marca": "Palito De La Selva",
-    "categoria": "Helados y Postres > Helados en Palito > Congelados",
-    "precio_antes": 1449.0,
-    "precio_hoy": 2170.0,
-    "precio_actual_hoy": 1410.5,
-    "diff_abs": 721.0,
-    "diff_pct": 49.76
-  },
-  {
-    "plu": "618183",
-    "nombre": "Barrita Helada Mantecol Paq 40 Grm",
-    "marca": "Mantecol",
-    "categoria": "Postres Helados > Helados y Postres > Congelados",
-    "precio_antes": 1879.0,
-    "precio_hoy": 2809.0,
-    "precio_actual_hoy": 1825.85,
-    "diff_abs": 930.0,
-    "diff_pct": 49.49
-  },
-  {
-    "plu": "47462",
-    "nombre": "Pavita Congelada SADIA X Kg",
-    "marca": "Sadia",
-    "categoria": "Frescos > Aves",
-    "precio_antes": 11499.0,
-    "precio_hoy": 16999.0,
-    "precio_actual_hoy": 16999.0,
-    "diff_abs": 5500.0,
-    "diff_pct": 47.83
-  },
-  {
     "plu": "294505",
     "nombre": "Aderezo Caesar SUEÑO VERDE X 200 Ml",
     "marca": "Sueño Verde",
@@ -209,14 +99,124 @@
     "diff_pct": 45.62
   },
   {
-    "plu": "1016",
-    "nombre": "Cerveza Lata BRAHMA 350 Cmq",
-    "marca": "Brahma",
-    "categoria": "Cervezas con Alcohol > Cervezas > Cerveza > CERVEZA > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 1476.0,
-    "precio_hoy": 2101.0,
-    "precio_actual_hoy": 1575.75,
-    "diff_abs": 625.0,
-    "diff_pct": 42.34
+    "plu": "37672",
+    "nombre": "Cremoso PRIMERA MARCA Xkg",
+    "marca": "Primera Marca",
+    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
+    "precio_antes": 8799.0,
+    "precio_hoy": 12599.0,
+    "precio_actual_hoy": 12599.0,
+    "diff_abs": 3800.0,
+    "diff_pct": 43.19
+  },
+  {
+    "plu": "715",
+    "nombre": "Jamón Cocido Clasico PALADINI X Kg (Por pieza)",
+    "marca": "Paladini",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 24275.0,
+    "precio_hoy": 34679.0,
+    "precio_actual_hoy": 34679.0,
+    "diff_abs": 10404.0,
+    "diff_pct": 42.86
+  },
+  {
+    "plu": "34878",
+    "nombre": "Jamon Cocido Feteado Paladini Xkg",
+    "marca": "Paladini",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 24275.0,
+    "precio_hoy": 34679.0,
+    "precio_actual_hoy": 34679.0,
+    "diff_abs": 10404.0,
+    "diff_pct": 42.86
+  },
+  {
+    "plu": "39942",
+    "nombre": "RUCULA ORGANICA . UNI",
+    "marca": ".",
+    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1249.0,
+    "precio_actual_hoy": 1249.0,
+    "diff_abs": 350.0,
+    "diff_pct": 38.93
+  },
+  {
+    "plu": "73071",
+    "nombre": "Mani salado pelado x Kg",
+    "marca": ".",
+    "categoria": "Maníes/Palitos/Chizitos > Frutas y Verduras > Frutas Y Verduras > Frutas Secas y Desecadas > Frutas Secas > Frescos > Copetin",
+    "precio_antes": 6599.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 8999.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 36.37
+  },
+  {
+    "plu": "588",
+    "nombre": "Apio X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Apio",
+    "precio_antes": 1999.0,
+    "precio_hoy": 2699.0,
+    "precio_actual_hoy": 2699.0,
+    "diff_abs": 700.0,
+    "diff_pct": 35.02
+  },
+  {
+    "plu": "245034",
+    "nombre": "Agua Mineral BONAQUA Sin Gas 2 Lt",
+    "marca": "Bonaqua",
+    "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas sin Gas > Aguas",
+    "precio_antes": 2190.0,
+    "precio_hoy": 2950.0,
+    "precio_actual_hoy": 2950.0,
+    "diff_abs": 760.0,
+    "diff_pct": 34.7
+  },
+  {
+    "plu": "196777",
+    "nombre": "Varitas De Surimi Kanikama Sabor Natural 250 Gr\r\n",
+    "marca": "Kanikama",
+    "categoria": "Varitas de Surimi > Pescaderia > Congelados",
+    "precio_antes": 5199.0,
+    "precio_hoy": 6999.0,
+    "precio_actual_hoy": 5599.2,
+    "diff_abs": 1800.0,
+    "diff_pct": 34.62
+  },
+  {
+    "plu": "17543",
+    "nombre": "Queso Cremoso La Maria Pilar X Kg",
+    "marca": "La Maria Pilar",
+    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
+    "precio_antes": 10699.0,
+    "precio_hoy": 14399.0,
+    "precio_actual_hoy": 14399.0,
+    "diff_abs": 3700.0,
+    "diff_pct": 34.58
+  },
+  {
+    "plu": "124469",
+    "nombre": "SPRITE Zero Lima-Limón 1,5 Lt",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 3040.0,
+    "precio_hoy": 4090.0,
+    "precio_actual_hoy": 4090.0,
+    "diff_abs": 1050.0,
+    "diff_pct": 34.54
+  },
+  {
+    "plu": "210853",
+    "nombre": "Gaseosa FANTA Zero Naranja 1,5 Lt",
+    "marca": "Fanta",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 3040.0,
+    "precio_hoy": 4090.0,
+    "precio_actual_hoy": 4090.0,
+    "diff_abs": 1050.0,
+    "diff_pct": 34.54
   }
 ]
