@@ -1,16 +1,5 @@
 [
   {
-    "plu": "628744",
-    "nombre": "Porotos mung Cosecha Criolla 500g",
-    "marca": ".",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.04
-  },
-  {
     "plu": "513680",
     "nombre": "Pesto De Rúcula Fres Sueño Verde Fra 160 Grm",
     "marca": "Sueño Verde",
@@ -20,17 +9,6 @@
     "precio_actual_hoy": 15399.0,
     "diff_abs": 7400.0,
     "diff_pct": 92.51
-  },
-  {
-    "plu": "593",
-    "nombre": "Berenjena x kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1600.0,
-    "diff_pct": 66.69
   },
   {
     "plu": "40344",
@@ -44,15 +22,15 @@
     "diff_pct": 66.68
   },
   {
-    "plu": "35068",
-    "nombre": "Berenjena Especial X Kg   Xkg",
-    "marca": "Cosecha Criolla",
+    "plu": "795",
+    "nombre": "Berenjena Veteada  x Kg   ",
+    "marca": ".",
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4899.0,
-    "precio_actual_hoy": 4899.0,
-    "diff_abs": 1900.0,
-    "diff_pct": 63.35
+    "precio_antes": 2299.0,
+    "precio_hoy": 3799.0,
+    "precio_actual_hoy": 3229.15,
+    "diff_abs": 1500.0,
+    "diff_pct": 65.25
   },
   {
     "plu": "42212",
@@ -77,48 +55,26 @@
     "diff_pct": 54.4
   },
   {
-    "plu": "17939",
-    "nombre": "Langostino Entero Crudo Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Mariscos > Congelados",
-    "precio_antes": 19990.0,
-    "precio_hoy": 29990.0,
-    "precio_actual_hoy": 23992.0,
-    "diff_abs": 10000.0,
+    "plu": "11973",
+    "nombre": "Leche Larga Vida Parcialmente Descremada COTO 1l",
+    "marca": "Coto",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 1599.41,
+    "diff_abs": 800.0,
     "diff_pct": 50.03
   },
   {
-    "plu": "37672",
-    "nombre": "Cremoso PRIMERA MARCA Xkg",
-    "marca": "Primera Marca",
-    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
-    "precio_antes": 8799.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 12599.0,
-    "diff_abs": 3800.0,
-    "diff_pct": 43.19
-  },
-  {
-    "plu": "34878",
-    "nombre": "Jamon Cocido Feteado Paladini Xkg",
-    "marca": "Paladini",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 24275.0,
-    "precio_hoy": 34679.0,
-    "precio_actual_hoy": 34679.0,
-    "diff_abs": 10404.0,
-    "diff_pct": 42.86
-  },
-  {
-    "plu": "715",
-    "nombre": "Jamón Cocido Clasico PALADINI X Kg (Por pieza)",
-    "marca": "Paladini",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 24275.0,
-    "precio_hoy": 34679.0,
-    "precio_actual_hoy": 34679.0,
-    "diff_abs": 10404.0,
-    "diff_pct": 42.86
+    "plu": "8899",
+    "nombre": "Leche Larga Vida Entera COTO Ttb 1 L",
+    "marca": "Coto",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 1599.41,
+    "diff_abs": 800.0,
+    "diff_pct": 50.03
   },
   {
     "plu": "549931",
@@ -132,26 +88,26 @@
     "diff_pct": 42.11
   },
   {
-    "plu": "578921",
-    "nombre": "Rucula Hidroponica Compostela 1u",
-    "marca": "Compostela",
-    "categoria": "Verduras > Verdura Empacada > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1399.0,
-    "precio_actual_hoy": 1399.0,
-    "diff_abs": 400.0,
-    "diff_pct": 40.04
+    "plu": "593",
+    "nombre": "Berenjena x kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4199.0,
+    "precio_actual_hoy": 4199.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 40.01
   },
   {
-    "plu": "39942",
-    "nombre": "RUCULA ORGANICA . UNI",
-    "marca": ".",
-    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
-    "precio_antes": 899.0,
-    "precio_hoy": 1249.0,
-    "precio_actual_hoy": 1249.0,
-    "diff_abs": 350.0,
-    "diff_pct": 38.93
+    "plu": "576970",
+    "nombre": "Espumante Brut Nature Piattelli 752ml",
+    "marca": "Piattelli",
+    "categoria": "Espumantes > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 28000.0,
+    "precio_hoy": 38500.0,
+    "precio_actual_hoy": 25667.95,
+    "diff_abs": 10500.0,
+    "diff_pct": 37.5
   },
   {
     "plu": "73071",
@@ -163,17 +119,6 @@
     "precio_actual_hoy": 8999.0,
     "diff_abs": 2400.0,
     "diff_pct": 36.37
-  },
-  {
-    "plu": "588",
-    "nombre": "Apio X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Apio",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2699.0,
-    "precio_actual_hoy": 2699.0,
-    "diff_abs": 700.0,
-    "diff_pct": 35.02
   },
   {
     "plu": "245034",
@@ -198,9 +143,9 @@
     "diff_pct": 34.62
   },
   {
-    "plu": "124469",
-    "nombre": "SPRITE Zero Lima-Limón 1,5 Lt",
-    "marca": "Sprite",
+    "plu": "210853",
+    "nombre": "Gaseosa FANTA Zero Naranja 1,5 Lt",
+    "marca": "Fanta",
     "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
     "precio_antes": 3040.0,
     "precio_hoy": 4090.0,
@@ -218,5 +163,60 @@
     "precio_actual_hoy": 4090.0,
     "diff_abs": 1050.0,
     "diff_pct": 34.54
+  },
+  {
+    "plu": "16339",
+    "nombre": "Gaseosa FANTA Naranja 1,5 Lt",
+    "marca": "Fanta",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 3040.0,
+    "precio_hoy": 4090.0,
+    "precio_actual_hoy": 4090.0,
+    "diff_abs": 1050.0,
+    "diff_pct": 34.54
+  },
+  {
+    "plu": "124469",
+    "nombre": "SPRITE Zero Lima-Limón 1,5 Lt",
+    "marca": "Sprite",
+    "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+    "precio_antes": 3040.0,
+    "precio_hoy": 4090.0,
+    "precio_actual_hoy": 4090.0,
+    "diff_abs": 1050.0,
+    "diff_pct": 34.54
+  },
+  {
+    "plu": "17859",
+    "nombre": "Mejillon Pelado Cocido Chileno Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Mariscos > Congelados",
+    "precio_antes": 17890.0,
+    "precio_hoy": 23999.0,
+    "precio_actual_hoy": 19199.2,
+    "diff_abs": 6109.0,
+    "diff_pct": 34.15
+  },
+  {
+    "plu": "591038",
+    "nombre": "Vino Cabernet Sauvignon Muñeco Rebelde 750ml",
+    "marca": "Muñeco Rebelde",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 3700.0,
+    "precio_hoy": 4962.0,
+    "precio_actual_hoy": 3308.17,
+    "diff_abs": 1262.0,
+    "diff_pct": 34.11
+  },
+  {
+    "plu": "30372",
+    "nombre": "Queso Gouda . Noal Xkg",
+    "marca": "Noal",
+    "categoria": "Quesos > Queso Semiduro > Gouda > Frescos",
+    "precio_antes": 14599.0,
+    "precio_hoy": 19499.0,
+    "precio_actual_hoy": 19499.0,
+    "diff_abs": 4900.0,
+    "diff_pct": 33.56
   }
 ]
