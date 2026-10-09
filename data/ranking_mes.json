@@ -44,17 +44,6 @@
     "diff_pct": 158.92
   },
   {
-    "plu": "281972",
-    "nombre": "Tomillo SUEÑO VERDE X 35 Gr",
-    "marca": "Sueño Verde",
-    "categoria": "Hierbas Aromáticas > Frutas y Verduras > Frescos",
-    "precio_antes": 2149.0,
-    "precio_hoy": 4799.0,
-    "precio_actual_hoy": 4799.0,
-    "diff_abs": 2650.0,
-    "diff_pct": 123.31
-  },
-  {
     "plu": "671",
     "nombre": "Pimiento Rojo   Xkg",
     "marca": NaN,
@@ -64,6 +53,17 @@
     "precio_actual_hoy": 10999.0,
     "diff_abs": 6000.0,
     "diff_pct": 120.02
+  },
+  {
+    "plu": "281972",
+    "nombre": "Tomillo SUEÑO VERDE X 35 Gr",
+    "marca": "Sueño Verde",
+    "categoria": "Hierbas Aromáticas > Frutas y Verduras > Frescos",
+    "precio_antes": 2149.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 4499.0,
+    "diff_abs": 2350.0,
+    "diff_pct": 109.35
   },
   {
     "plu": "688",
