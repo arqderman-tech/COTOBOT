@@ -44,10 +44,10 @@
     "diff_pct": 53.92
   },
   {
-    "plu": "485650",
-    "nombre": "Adobo Para Pizza Dicomere 50 Gr",
+    "plu": "585831",
+    "nombre": "Coco Rallado Sin Gluten Dicomere 50g",
     "marca": "Dicomere",
-    "categoria": "Especias > Condimento en Hojas > Almacén",
+    "categoria": "Repostería > Polvo para Postres y Reposteria > Elaboración > Almacén",
     "precio_antes": 909.0,
     "precio_hoy": 1399.0,
     "precio_actual_hoy": 1399.0,
@@ -77,17 +77,6 @@
     "diff_pct": 53.91
   },
   {
-    "plu": "585831",
-    "nombre": "Coco Rallado Sin Gluten Dicomere 50g",
-    "marca": "Dicomere",
-    "categoria": "Repostería > Polvo para Postres y Reposteria > Elaboración > Almacén",
-    "precio_antes": 909.0,
-    "precio_hoy": 1399.0,
-    "precio_actual_hoy": 1399.0,
-    "diff_abs": 490.0,
-    "diff_pct": 53.91
-  },
-  {
     "plu": "485660",
     "nombre": "Curry Dicomere Dicomere Bol 50 Grm",
     "marca": "Dicomere",
@@ -99,10 +88,21 @@
     "diff_pct": 53.91
   },
   {
-    "plu": "485657",
-    "nombre": "Pimienta Nga E/Grano Dicome Dicomere Bol 50 Grm",
+    "plu": "485650",
+    "nombre": "Adobo Para Pizza Dicomere 50 Gr",
     "marca": "Dicomere",
-    "categoria": "Especias > Condimento en Grano > Almacén",
+    "categoria": "Especias > Condimento en Hojas > Almacén",
+    "precio_antes": 909.0,
+    "precio_hoy": 1399.0,
+    "precio_actual_hoy": 1399.0,
+    "diff_abs": 490.0,
+    "diff_pct": 53.91
+  },
+  {
+    "plu": "485659",
+    "nombre": "Pimienta Bca Molida Dicomer Dicomere Bol 50 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Polvo > Almacén",
     "precio_antes": 1949.0,
     "precio_hoy": 2999.0,
     "precio_actual_hoy": 2999.0,
@@ -110,10 +110,10 @@
     "diff_pct": 53.87
   },
   {
-    "plu": "485659",
-    "nombre": "Pimienta Bca Molida Dicomer Dicomere Bol 50 Grm",
+    "plu": "485657",
+    "nombre": "Pimienta Nga E/Grano Dicome Dicomere Bol 50 Grm",
     "marca": "Dicomere",
-    "categoria": "Especias > Condimento en Polvo > Almacén",
+    "categoria": "Especias > Condimento en Grano > Almacén",
     "precio_antes": 1949.0,
     "precio_hoy": 2999.0,
     "precio_actual_hoy": 2999.0,
@@ -132,17 +132,6 @@
     "diff_pct": 53.74
   },
   {
-    "plu": "548843",
-    "nombre": "Comino Molido Dicomere 40 Grm",
-    "marca": "Dicomere",
-    "categoria": "Especias > Condimento en Polvo > Almacén",
-    "precio_antes": 1109.0,
-    "precio_hoy": 1699.0,
-    "precio_actual_hoy": 1699.0,
-    "diff_abs": 590.0,
-    "diff_pct": 53.2
-  },
-  {
     "plu": "485661",
     "nombre": "Provenzal Dicomere Dicomere Bol 50 Grm",
     "marca": "Dicomere",
@@ -154,10 +143,10 @@
     "diff_pct": 53.2
   },
   {
-    "plu": "485652",
-    "nombre": "Aji Molido Dicomere 50 Gr",
+    "plu": "548842",
+    "nombre": "Ajo Granulado Dicomere 50 Grm",
     "marca": "Dicomere",
-    "categoria": "Triturados > Especias > Almacén",
+    "categoria": "Especias > Condimento en Grano > Almacén",
     "precio_antes": 979.0,
     "precio_hoy": 1499.0,
     "precio_actual_hoy": 1499.0,
@@ -165,10 +154,10 @@
     "diff_pct": 53.12
   },
   {
-    "plu": "548842",
-    "nombre": "Ajo Granulado Dicomere 50 Grm",
+    "plu": "485652",
+    "nombre": "Aji Molido Dicomere 50 Gr",
     "marca": "Dicomere",
-    "categoria": "Especias > Condimento en Grano > Almacén",
+    "categoria": "Triturados > Especias > Almacén",
     "precio_antes": 979.0,
     "precio_hoy": 1499.0,
     "precio_actual_hoy": 1499.0,
@@ -207,6 +196,17 @@
     "precio_actual_hoy": 1059.0,
     "diff_abs": 360.0,
     "diff_pct": 51.5
+  },
+  {
+    "plu": "11973",
+    "nombre": "Leche Larga Vida Parcialmente Descremada COTO 1l",
+    "marca": "Coto",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 1599.41,
+    "diff_abs": 800.0,
+    "diff_pct": 50.03
   },
   {
     "plu": "213",

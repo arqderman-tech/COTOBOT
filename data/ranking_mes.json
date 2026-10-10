@@ -132,28 +132,6 @@
     "diff_pct": 95.5
   },
   {
-    "plu": "35100",
-    "nombre": "Tomate Perita Especial   Xkg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 3099.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2900.0,
-    "diff_pct": 93.58
-  },
-  {
-    "plu": "683",
-    "nombre": "Tomate Perit .   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4249.15,
-    "diff_abs": 2400.0,
-    "diff_pct": 92.34
-  },
-  {
     "plu": "16707",
     "nombre": "Tomate Cherry Kumato especial x Kg",
     "marca": "Cosecha Criolla",
@@ -161,17 +139,6 @@
     "precio_antes": 5999.0,
     "precio_hoy": 11499.0,
     "precio_actual_hoy": 9774.15,
-    "diff_abs": 5500.0,
-    "diff_pct": 91.68
-  },
-  {
-    "plu": "13419",
-    "nombre": "Tomate Cherry En Rama Especial X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 11499.0,
-    "precio_actual_hoy": 11499.0,
     "diff_abs": 5500.0,
     "diff_pct": 91.68
   },
@@ -218,5 +185,38 @@
     "precio_actual_hoy": 5499.0,
     "diff_abs": 2500.0,
     "diff_pct": 83.36
+  },
+  {
+    "plu": "15241",
+    "nombre": "Jamon Cocido Feteado. Primera Mar . 1 Kgm",
+    "marca": "Campo Austral",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 12999.0,
+    "precio_hoy": 22205.0,
+    "precio_actual_hoy": 22205.0,
+    "diff_abs": 9206.0,
+    "diff_pct": 70.82
+  },
+  {
+    "plu": "66177",
+    "nombre": "Tomate Cherri Amarillo   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 8499.0,
+    "precio_actual_hoy": 7224.15,
+    "diff_abs": 3500.0,
+    "diff_pct": 70.01
+  },
+  {
+    "plu": "83237",
+    "nombre": "Jamón Cocido Genuino CAGNOLI X Kg (Por pieza)",
+    "marca": "Cagnoli",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 31459.0,
+    "precio_actual_hoy": 31459.0,
+    "diff_abs": 12460.0,
+    "diff_pct": 65.58
   }
 ]
