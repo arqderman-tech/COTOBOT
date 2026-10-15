@@ -6,7 +6,7 @@
     "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1499.0,
     "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
+    "precio_actual_hoy": 4249.15,
     "diff_abs": 3500.0,
     "diff_pct": 233.49
   },
@@ -44,6 +44,17 @@
     "diff_pct": 150.15
   },
   {
+    "plu": "671",
+    "nombre": "Pimiento Rojo   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 11999.0,
+    "precio_actual_hoy": 11999.0,
+    "diff_abs": 7000.0,
+    "diff_pct": 140.03
+  },
+  {
     "plu": "688",
     "nombre": "Zapallo Anco X Kg",
     "marca": NaN,
@@ -66,26 +77,15 @@
     "diff_pct": 123.31
   },
   {
-    "plu": "671",
-    "nombre": "Pimiento Rojo   Xkg",
+    "plu": "709",
+    "nombre": "Pimiento Amarillo   Xkg   ",
     "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 10999.0,
-    "precio_actual_hoy": 10999.0,
-    "diff_abs": 6000.0,
-    "diff_pct": 120.02
-  },
-  {
-    "plu": "446",
-    "nombre": "Banana Cavendish X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
-    "precio_antes": 1899.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 2100.0,
-    "diff_pct": 110.58
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 5499.0,
+    "precio_hoy": 11999.0,
+    "precio_actual_hoy": 11999.0,
+    "diff_abs": 6500.0,
+    "diff_pct": 118.2
   },
   {
     "plu": "602",
@@ -108,17 +108,6 @@
     "precio_actual_hoy": 5999.0,
     "diff_abs": 3000.0,
     "diff_pct": 100.03
-  },
-  {
-    "plu": "709",
-    "nombre": "Pimiento Amarillo   Xkg   ",
-    "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 5499.0,
-    "precio_hoy": 10999.0,
-    "precio_actual_hoy": 10999.0,
-    "diff_abs": 5500.0,
-    "diff_pct": 100.02
   },
   {
     "plu": "92152",
@@ -160,9 +149,20 @@
     "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
     "precio_antes": 1299.0,
     "precio_hoy": 2499.0,
-    "precio_actual_hoy": 2499.0,
+    "precio_actual_hoy": 2124.15,
     "diff_abs": 1200.0,
     "diff_pct": 92.38
+  },
+  {
+    "plu": "13419",
+    "nombre": "Tomate Cherry En Rama Especial X Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 5999.0,
+    "precio_hoy": 11499.0,
+    "precio_actual_hoy": 8924.15,
+    "diff_abs": 5500.0,
+    "diff_pct": 91.68
   },
   {
     "plu": "12705",
@@ -209,9 +209,9 @@
     "diff_pct": 75.01
   },
   {
-    "plu": "46163",
-    "nombre": "Tomate Cherry Morado x Kg",
-    "marca": ".",
+    "plu": "47233",
+    "nombre": "Tomate Cherri En Rama X 1 Kgm",
+    "marca": "Coto",
     "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
     "precio_antes": 5499.0,
     "precio_hoy": 9499.0,

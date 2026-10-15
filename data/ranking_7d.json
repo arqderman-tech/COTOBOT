@@ -1,29 +1,51 @@
 [
   {
-    "plu": "446",
-    "nombre": "Banana Cavendish X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.05
+    "plu": "477735",
+    "nombre": "Vino Sauvignon Blanc ANTIGAL I Bot 750 Ml",
+    "marca": "Antigal I",
+    "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 648.76,
+    "precio_hoy": 18490.0,
+    "precio_actual_hoy": 18490.0,
+    "diff_abs": 17841.24,
+    "diff_pct": 2750.05
+  },
+  {
+    "plu": "477702",
+    "nombre": "Vino Cab.Sauv ANTIGAL I Bot 750 Ml",
+    "marca": "Antigal I",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 766.72,
+    "precio_hoy": 18490.0,
+    "precio_actual_hoy": 18490.0,
+    "diff_abs": 17723.28,
+    "diff_pct": 2311.57
+  },
+  {
+    "plu": "477705",
+    "nombre": "Vino Red Blend . ANTIGAL I Bot 750 Ml",
+    "marca": "Antigal I",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 813.91,
+    "precio_hoy": 18490.0,
+    "precio_actual_hoy": 18490.0,
+    "diff_abs": 17676.09,
+    "diff_pct": 2171.75
+  },
+  {
+    "plu": "477737",
+    "nombre": "Vino Malbec . ANTIGAL I Bot 750 Ml",
+    "marca": "Antigal I",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 950.0,
+    "precio_hoy": 18490.0,
+    "precio_actual_hoy": 18490.0,
+    "diff_abs": 17540.0,
+    "diff_pct": 1846.32
   },
   {
     "plu": "17705",
     "nombre": "Nalga  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -44,19 +66,30 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "625003",
-    "nombre": "Huevo blanco grande maple COTO 30u",
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
-    "categoria": "Huevos Blanco > Huevos > Frescos",
-    "precio_antes": 7490.0,
-    "precio_hoy": 12990.0,
-    "precio_actual_hoy": 12990.0,
-    "diff_abs": 5500.0,
-    "diff_pct": 73.43
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "plu": "677",
+    "nombre": "Remolacha X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Remolacha > Frutas y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 3824.15,
+    "diff_abs": 2200.0,
+    "diff_pct": 95.69
+  },
+  {
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -66,8 +99,8 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -94,20 +127,20 @@
     "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
     "precio_antes": 1599.0,
     "precio_hoy": 2499.0,
-    "precio_actual_hoy": 2499.0,
+    "precio_actual_hoy": 2124.15,
     "diff_abs": 900.0,
     "diff_pct": 56.29
   },
   {
-    "plu": "555",
-    "nombre": "Limón Caipirinha  X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.01
+    "plu": "288590",
+    "nombre": "Yerba Mate VERDE FLOR Hierbas Serranas Con Palo   Paquete 1 Kg",
+    "marca": "Verde Flor",
+    "categoria": "Yerba > Mate > Infusiones > Almacén",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4489.0,
+    "precio_actual_hoy": 4489.0,
+    "diff_abs": 1499.0,
+    "diff_pct": 50.13
   },
   {
     "plu": "42216",
@@ -121,15 +154,37 @@
     "diff_pct": 50.01
   },
   {
-    "plu": "795",
-    "nombre": "Berenjena Veteada  x Kg   ",
-    "marca": ".",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4399.0,
-    "precio_actual_hoy": 4399.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 46.68
+    "plu": "555",
+    "nombre": "Limón Caipirinha  X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 3999.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 50.01
+  },
+  {
+    "plu": "523606",
+    "nombre": "Sidra Cider Artesanal Pyrus Bot 500 Cmq",
+    "marca": "Pyrus",
+    "categoria": "Sidras y Bebidas Fizz > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 3750.0,
+    "precio_hoy": 5500.0,
+    "precio_actual_hoy": 4125.0,
+    "diff_abs": 1750.0,
+    "diff_pct": 46.67
+  },
+  {
+    "plu": "523605",
+    "nombre": "Sidra Pear Artesanal Pyrus Bot 500 Cmq",
+    "marca": "Pyrus",
+    "categoria": "Sidras y Bebidas Fizz > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 3750.0,
+    "precio_hoy": 5500.0,
+    "precio_actual_hoy": 4125.0,
+    "diff_abs": 1750.0,
+    "diff_pct": 46.67
   },
   {
     "plu": "17810",
@@ -143,80 +198,25 @@
     "diff_pct": 46.26
   },
   {
-    "plu": "18804",
-    "nombre": "Queso Cremoso Horma Puyehue X Kg",
-    "marca": "Puyehue",
-    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
-    "precio_antes": 9999.0,
-    "precio_hoy": 14399.0,
-    "precio_actual_hoy": 14399.0,
-    "diff_abs": 4400.0,
-    "diff_pct": 44.0
+    "plu": "262338",
+    "nombre": "Yerba Mate VERDE FLOR Hierbas Serranas Con Palo Paquete 500 Gr",
+    "marca": "Verde Flor",
+    "categoria": "Yerba > YERBA > Mate > Infusiones > INFUSIONES > Almacén > ALIMENTOS SECOS",
+    "precio_antes": 1752.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 748.0,
+    "diff_pct": 42.69
   },
   {
-    "plu": "32342",
-    "nombre": "Huevo Blanco Maple X 30u",
-    "marca": "Avicoper",
-    "categoria": "Huevos Blanco > Huevos > HUEVOS > Frescos > CARNICERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 6990.0,
-    "precio_hoy": 9990.0,
-    "precio_actual_hoy": 9990.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 42.92
-  },
-  {
-    "plu": "16853",
-    "nombre": "Chivito Entero Congelado X Kg",
-    "marca": "Nuestras Carnes",
-    "categoria": "Granja > GRANJA > Frescos > Carniceria > CARNICERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 18600.0,
-    "precio_hoy": 26500.0,
-    "precio_actual_hoy": 26500.0,
-    "diff_abs": 7900.0,
-    "diff_pct": 42.47
-  },
-  {
-    "plu": "17081",
-    "nombre": "Lechon Entero Congelado X Kg",
-    "marca": "Nuestras Carnes",
-    "categoria": "Granja > GRANJA > Frescos > Carniceria > CARNICERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 14700.0,
-    "precio_hoy": 20500.0,
-    "precio_actual_hoy": 20500.0,
-    "diff_abs": 5800.0,
-    "diff_pct": 39.46
-  },
-  {
-    "plu": "14059",
-    "nombre": "Queso Rallado LA PAULINA 150g",
-    "marca": "La Paulina",
-    "categoria": "Quesos > Queso Rallado > Frescos",
-    "precio_antes": 5075.0,
-    "precio_hoy": 7045.0,
-    "precio_actual_hoy": 5074.51,
-    "diff_abs": 1970.0,
-    "diff_pct": 38.82
-  },
-  {
-    "plu": "16854",
-    "nombre": "Cabrito En Caja Congelado X Kg",
-    "marca": ".",
-    "categoria": "Granja > Frescos > Carniceria",
-    "precio_antes": 22100.0,
-    "precio_hoy": 30500.0,
-    "precio_actual_hoy": 30500.0,
-    "diff_abs": 8400.0,
-    "diff_pct": 38.01
-  },
-  {
-    "plu": "576970",
-    "nombre": "Espumante Brut Nature Piattelli 752ml",
-    "marca": "Piattelli",
-    "categoria": "Espumantes > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 28000.0,
-    "precio_hoy": 38500.0,
-    "precio_actual_hoy": 38500.0,
-    "diff_abs": 10500.0,
-    "diff_pct": 37.5
+    "plu": "282605",
+    "nombre": "Yerba Mate VERDE FLOR Menta Con Palo Paquete 500 Gr",
+    "marca": "Verde Flor",
+    "categoria": "Yerba > YERBA > Mate > Infusiones > INFUSIONES > Almacén > ALIMENTOS SECOS",
+    "precio_antes": 1752.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 2500.0,
+    "diff_abs": 748.0,
+    "diff_pct": 42.69
   }
 ]
