@@ -1,7 +1,18 @@
 [
   {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
+    "plu": "17896",
+    "nombre": "Vieira 1/2valva   Xkg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Mariscos > Congelados",
+    "precio_antes": 30999.0,
+    "precio_hoy": 64999.0,
+    "precio_actual_hoy": 51999.2,
+    "diff_abs": 34000.0,
+    "diff_pct": 109.68
+  },
+  {
+    "plu": "17705",
+    "nombre": "Nalga  De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -22,8 +33,8 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "17705",
-    "nombre": "Nalga  De Cerdo X KG",
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -44,19 +55,30 @@
     "diff_pct": 94.17
   },
   {
-    "plu": "510425",
-    "nombre": "Yerba Mate Premium Verde Flor Paq 500 Grm",
-    "marca": "Verdeflor",
-    "categoria": "Yerba > Mate > Infusiones > Almacén",
-    "precio_antes": 2450.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 2049.0,
-    "diff_pct": 83.63
+    "plu": "490185",
+    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
+    "marca": "Schweppes",
+    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2700.0,
+    "precio_actual_hoy": 2700.0,
+    "diff_abs": 1080.0,
+    "diff_pct": 66.67
   },
   {
     "plu": "102942",
     "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "marca": "American Club",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 7109.0,
+    "precio_hoy": 11463.0,
+    "precio_actual_hoy": 11463.0,
+    "diff_abs": 4354.0,
+    "diff_pct": 61.25
+  },
+  {
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -88,17 +110,6 @@
     "diff_pct": 56.29
   },
   {
-    "plu": "288590",
-    "nombre": "Yerba Mate VERDE FLOR Hierbas Serranas Con Palo   Paquete 1 Kg",
-    "marca": "Verde Flor",
-    "categoria": "Yerba > Mate > Infusiones > Almacén",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4489.0,
-    "precio_actual_hoy": 4489.0,
-    "diff_abs": 1499.0,
-    "diff_pct": 50.13
-  },
-  {
     "plu": "555",
     "nombre": "Limón Caipirinha  X Kg",
     "marca": "Nuestras Frutas",
@@ -118,17 +129,6 @@
     "precio_hoy": 7499.0,
     "precio_actual_hoy": 7499.0,
     "diff_abs": 2500.0,
-    "diff_pct": 50.01
-  },
-  {
-    "plu": "465",
-    "nombre": "Platano X Kg",
-    "marca": NaN,
-    "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
-    "precio_antes": 3999.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2000.0,
     "diff_pct": 50.01
   },
   {
@@ -154,61 +154,6 @@
     "diff_pct": 46.19
   },
   {
-    "plu": "282606",
-    "nombre": "Yerba Mate VERDE FLOR Boldo Con Palo Paquete 500 Gr",
-    "marca": "Verde Flor",
-    "categoria": "Yerba > YERBA > Mate > Infusiones > INFUSIONES > Almacén > ALIMENTOS SECOS",
-    "precio_antes": 1752.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 748.0,
-    "diff_pct": 42.69
-  },
-  {
-    "plu": "282605",
-    "nombre": "Yerba Mate VERDE FLOR Menta Con Palo Paquete 500 Gr",
-    "marca": "Verde Flor",
-    "categoria": "Yerba > YERBA > Mate > Infusiones > INFUSIONES > Almacén > ALIMENTOS SECOS",
-    "precio_antes": 1752.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 748.0,
-    "diff_pct": 42.69
-  },
-  {
-    "plu": "569825",
-    "nombre": "Yerba Mate Menta Y Gengibre Verde Flor 500g",
-    "marca": "Verde Flor",
-    "categoria": "Yerba > Mate > Infusiones > Almacén",
-    "precio_antes": 1752.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 748.0,
-    "diff_pct": 42.69
-  },
-  {
-    "plu": "267942",
-    "nombre": "Yerba Mate VERDE FLOR Naranja Con Palo Paquete 500 Gr",
-    "marca": "Verde Flor",
-    "categoria": "Yerba > YERBA > Mate > Infusiones > INFUSIONES > Almacén > ALIMENTOS SECOS",
-    "precio_antes": 1752.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 748.0,
-    "diff_pct": 42.69
-  },
-  {
-    "plu": "262338",
-    "nombre": "Yerba Mate VERDE FLOR Hierbas Serranas Con Palo Paquete 500 Gr",
-    "marca": "Verde Flor",
-    "categoria": "Yerba > YERBA > Mate > Infusiones > INFUSIONES > Almacén > ALIMENTOS SECOS",
-    "precio_antes": 1752.0,
-    "precio_hoy": 2500.0,
-    "precio_actual_hoy": 2500.0,
-    "diff_abs": 748.0,
-    "diff_pct": 42.69
-  },
-  {
     "plu": "16853",
     "nombre": "Chivito Entero Congelado X Kg",
     "marca": "Nuestras Carnes",
@@ -218,5 +163,60 @@
     "precio_actual_hoy": 26500.0,
     "diff_abs": 7900.0,
     "diff_pct": 42.47
+  },
+  {
+    "plu": "17081",
+    "nombre": "Lechon Entero Congelado X Kg",
+    "marca": "Nuestras Carnes",
+    "categoria": "Granja > GRANJA > Frescos > Carniceria > CARNICERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 14700.0,
+    "precio_hoy": 20500.0,
+    "precio_actual_hoy": 20500.0,
+    "diff_abs": 5800.0,
+    "diff_pct": 39.46
+  },
+  {
+    "plu": "14059",
+    "nombre": "Queso Rallado LA PAULINA 150g",
+    "marca": "La Paulina",
+    "categoria": "Quesos > Queso Rallado > Frescos",
+    "precio_antes": 5075.0,
+    "precio_hoy": 7045.0,
+    "precio_actual_hoy": 5074.51,
+    "diff_abs": 1970.0,
+    "diff_pct": 38.82
+  },
+  {
+    "plu": "16854",
+    "nombre": "Cabrito En Caja Congelado X Kg",
+    "marca": ".",
+    "categoria": "Granja > Frescos > Carniceria",
+    "precio_antes": 22100.0,
+    "precio_hoy": 30500.0,
+    "precio_actual_hoy": 30500.0,
+    "diff_abs": 8400.0,
+    "diff_pct": 38.01
+  },
+  {
+    "plu": "465",
+    "nombre": "Platano X Kg",
+    "marca": NaN,
+    "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
+    "precio_antes": 3999.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 37.51
+  },
+  {
+    "plu": "524808",
+    "nombre": "Jugo Detox Naranja, Pera, Kale, Jengibre Y Espinaca Las Brisas Bot 330 Cmq",
+    "marca": "Las Brisas",
+    "categoria": "Productos Orgánicos > Orgánicos > Frutas y Verduras > Frescos",
+    "precio_antes": 3299.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 4499.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 36.37
   }
 ]
