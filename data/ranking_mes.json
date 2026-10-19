@@ -5,10 +5,10 @@
     "marca": NaN,
     "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1499.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4249.15,
-    "diff_abs": 3500.0,
-    "diff_pct": 233.49
+    "precio_hoy": 6299.0,
+    "precio_actual_hoy": 6299.0,
+    "diff_abs": 4800.0,
+    "diff_pct": 320.21
   },
   {
     "plu": "690",
@@ -16,10 +16,21 @@
     "marca": NaN,
     "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 2099.0,
-    "precio_hoy": 5899.0,
-    "precio_actual_hoy": 5899.0,
-    "diff_abs": 3800.0,
-    "diff_pct": 181.04
+    "precio_hoy": 6299.0,
+    "precio_actual_hoy": 6299.0,
+    "diff_abs": 4200.0,
+    "diff_pct": 200.1
+  },
+  {
+    "plu": "17625",
+    "nombre": "Zapallo Japones   Xkg",
+    "marca": NaN,
+    "categoria": "Zapallos > Verduras > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 2799.0,
+    "precio_actual_hoy": 2799.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 180.18
   },
   {
     "plu": "36144",
@@ -44,17 +55,6 @@
     "diff_pct": 154.57
   },
   {
-    "plu": "17625",
-    "nombre": "Zapallo Japones   Xkg",
-    "marca": NaN,
-    "categoria": "Zapallos > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 2499.0,
-    "precio_actual_hoy": 2499.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 150.15
-  },
-  {
     "plu": "671",
     "nombre": "Pimiento Rojo   Xkg",
     "marca": NaN,
@@ -77,6 +77,17 @@
     "diff_pct": 127.33
   },
   {
+    "plu": "12705",
+    "nombre": "Papa Blanca (Bolsa Entre 1,5 Kg A 2 Kg)",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 4399.0,
+    "precio_actual_hoy": 4399.0,
+    "diff_abs": 2300.0,
+    "diff_pct": 109.58
+  },
+  {
     "plu": "281972",
     "nombre": "Tomillo SUEÑO VERDE X 35 Gr",
     "marca": "Sueño Verde",
@@ -86,6 +97,28 @@
     "precio_actual_hoy": 4499.0,
     "diff_abs": 2350.0,
     "diff_pct": 109.35
+  },
+  {
+    "plu": "615",
+    "nombre": "Cebolla Seleccionada En Bolsita X Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
+    "precio_antes": 2199.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 4499.0,
+    "diff_abs": 2300.0,
+    "diff_pct": 104.59
+  },
+  {
+    "plu": "602",
+    "nombre": "Cebolla A Granel X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.05
   },
   {
     "plu": "555",
@@ -121,26 +154,26 @@
     "diff_pct": 95.82
   },
   {
-    "plu": "615",
-    "nombre": "Cebolla Seleccionada En Bolsita X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 3399.0,
-    "diff_abs": 2100.0,
-    "diff_pct": 95.5
-  },
-  {
     "plu": "548",
     "nombre": "Pomelo Blanco X Kg",
     "marca": "Nuestras Frutas",
     "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
     "precio_antes": 1299.0,
     "precio_hoy": 2499.0,
-    "precio_actual_hoy": 2124.15,
+    "precio_actual_hoy": 2499.0,
     "diff_abs": 1200.0,
     "diff_pct": 92.38
+  },
+  {
+    "plu": "695",
+    "nombre": "Papa Blanca .   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2099.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 90.52
   },
   {
     "plu": "523",
@@ -152,17 +185,6 @@
     "precio_actual_hoy": 1899.0,
     "diff_abs": 900.0,
     "diff_pct": 90.09
-  },
-  {
-    "plu": "12705",
-    "nombre": "Papa Blanca (Bolsa Entre 1,5 Kg A 2 Kg)",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2099.0,
-    "precio_hoy": 3899.0,
-    "precio_actual_hoy": 3899.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 85.76
   },
   {
     "plu": "72042",
@@ -187,36 +209,14 @@
     "diff_pct": 83.75
   },
   {
-    "plu": "13419",
-    "nombre": "Tomate Cherry En Rama Especial X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 10499.0,
-    "precio_actual_hoy": 8924.15,
-    "diff_abs": 4500.0,
-    "diff_pct": 75.01
-  },
-  {
-    "plu": "16707",
-    "nombre": "Tomate Cherry Kumato especial x Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 10499.0,
-    "precio_actual_hoy": 10499.0,
-    "diff_abs": 4500.0,
-    "diff_pct": 75.01
-  },
-  {
-    "plu": "46163",
-    "nombre": "Tomate Cherry Morado x Kg",
-    "marca": ".",
-    "categoria": "Verduras > Tomates > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 5499.0,
-    "precio_hoy": 9499.0,
-    "precio_actual_hoy": 9499.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 72.74
+    "plu": "628767",
+    "nombre": "Papas Mix Huercal del Famataca 500g",
+    "marca": "Huertos Del Ran",
+    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 83.36
   }
 ]
