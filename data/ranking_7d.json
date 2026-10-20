@@ -1,5 +1,16 @@
 [
   {
+    "plu": "497",
+    "nombre": "Frutillas Selección X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Frutillas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 9999.0,
+    "precio_hoy": 24999.0,
+    "precio_actual_hoy": 24999.0,
+    "diff_abs": 15000.0,
+    "diff_pct": 150.02
+  },
+  {
     "plu": "17896",
     "nombre": "Vieira 1/2valva   Xkg",
     "marca": "Nuestra Pescaderia",
@@ -64,17 +75,6 @@
     "precio_actual_hoy": 2700.0,
     "diff_abs": 1080.0,
     "diff_pct": 66.67
-  },
-  {
-    "plu": "607753",
-    "nombre": "Trigo Candeal Pelado Granero 400g",
-    "marca": "Granero",
-    "categoria": "Trigo > Legumbres > Arroz y Legumbres > Almacén",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2149.0,
-    "precio_actual_hoy": 2149.0,
-    "diff_abs": 850.0,
-    "diff_pct": 65.43
   },
   {
     "plu": "1842",
@@ -154,41 +154,8 @@
     "diff_pct": 50.01
   },
   {
-    "plu": "490643",
-    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "540349",
-    "nombre": "Leche con Prebióticos La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
     "plu": "559489",
     "nombre": "Leche Descremada Larga Vida Barista LA SERENISIMA 1 Ltr",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "625701",
-    "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
@@ -209,10 +176,43 @@
     "diff_pct": 49.98
   },
   {
+    "plu": "540349",
+    "nombre": "Leche con Prebióticos La Serenisima 1L",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3118.0,
+    "precio_actual_hoy": 3118.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 49.98
+  },
+  {
     "plu": "493118",
     "nombre": "Leche UAT Con Hierro La Serenisima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3118.0,
+    "precio_actual_hoy": 3118.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 49.98
+  },
+  {
+    "plu": "625701",
+    "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3118.0,
+    "precio_actual_hoy": 3118.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 49.98
+  },
+  {
+    "plu": "490643",
+    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3118.0,
     "precio_actual_hoy": 3118.0,

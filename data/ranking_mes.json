@@ -33,6 +33,28 @@
     "diff_pct": 180.18
   },
   {
+    "plu": "671",
+    "nombre": "Pimiento Rojo   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 13999.0,
+    "precio_actual_hoy": 13999.0,
+    "diff_abs": 9000.0,
+    "diff_pct": 180.04
+  },
+  {
+    "plu": "709",
+    "nombre": "Pimiento Amarillo   Xkg   ",
+    "marca": NaN,
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 5499.0,
+    "precio_hoy": 14999.0,
+    "precio_actual_hoy": 14999.0,
+    "diff_abs": 9500.0,
+    "diff_pct": 172.76
+  },
+  {
     "plu": "36144",
     "nombre": "Cebolla Roja   Xkg",
     "marca": NaN,
@@ -42,28 +64,6 @@
     "precio_actual_hoy": 4399.0,
     "diff_abs": 2700.0,
     "diff_pct": 158.92
-  },
-  {
-    "plu": "709",
-    "nombre": "Pimiento Amarillo   Xkg   ",
-    "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 5499.0,
-    "precio_hoy": 13999.0,
-    "precio_actual_hoy": 13999.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 154.57
-  },
-  {
-    "plu": "671",
-    "nombre": "Pimiento Rojo   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 11499.0,
-    "precio_actual_hoy": 11499.0,
-    "diff_abs": 6500.0,
-    "diff_pct": 130.03
   },
   {
     "plu": "688",
@@ -77,6 +77,17 @@
     "diff_pct": 127.33
   },
   {
+    "plu": "281972",
+    "nombre": "Tomillo SUEÑO VERDE X 35 Gr",
+    "marca": "Sueño Verde",
+    "categoria": "Hierbas Aromáticas > Frutas y Verduras > Frescos",
+    "precio_antes": 2149.0,
+    "precio_hoy": 4799.0,
+    "precio_actual_hoy": 4799.0,
+    "diff_abs": 2650.0,
+    "diff_pct": 123.31
+  },
+  {
     "plu": "12705",
     "nombre": "Papa Blanca (Bolsa Entre 1,5 Kg A 2 Kg)",
     "marca": "Cosecha Criolla",
@@ -86,17 +97,6 @@
     "precio_actual_hoy": 4399.0,
     "diff_abs": 2300.0,
     "diff_pct": 109.58
-  },
-  {
-    "plu": "281972",
-    "nombre": "Tomillo SUEÑO VERDE X 35 Gr",
-    "marca": "Sueño Verde",
-    "categoria": "Hierbas Aromáticas > Frutas y Verduras > Frescos",
-    "precio_antes": 2149.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 2350.0,
-    "diff_pct": 109.35
   },
   {
     "plu": "615",
@@ -187,6 +187,17 @@
     "diff_pct": 90.09
   },
   {
+    "plu": "61007",
+    "nombre": "Limón x Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1699.0,
+    "precio_actual_hoy": 1699.0,
+    "diff_abs": 800.0,
+    "diff_pct": 88.99
+  },
+  {
     "plu": "72042",
     "nombre": "Tomate Larga Vida Racimo X Kg",
     "marca": NaN,
@@ -207,16 +218,5 @@
     "precio_actual_hoy": 53389.0,
     "diff_abs": 24334.0,
     "diff_pct": 83.75
-  },
-  {
-    "plu": "628767",
-    "nombre": "Papas Mix Huercal del Famataca 500g",
-    "marca": "Huertos Del Ran",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 83.36
   }
 ]
