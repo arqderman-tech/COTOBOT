@@ -1,16 +1,5 @@
 [
   {
-    "plu": "497",
-    "nombre": "Frutillas Selección X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Frutillas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 9999.0,
-    "precio_hoy": 24999.0,
-    "precio_actual_hoy": 24999.0,
-    "diff_abs": 15000.0,
-    "diff_pct": 150.02
-  },
-  {
     "plu": "17896",
     "nombre": "Vieira 1/2valva   Xkg",
     "marca": "Nuestra Pescaderia",
@@ -77,50 +66,6 @@
     "diff_pct": 66.67
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 11463.0,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
-  },
-  {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 11463.0,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
-  },
-  {
-    "plu": "13238",
-    "nombre": "Lima Cosecha Criolla (Peso Aproximado 500g)",
-    "marca": "Cosecha Criolla",
-    "categoria": "Lima > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3499.0,
-    "precio_actual_hoy": 3499.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 59.12
-  },
-  {
-    "plu": "548",
-    "nombre": "Pomelo Blanco X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1599.0,
-    "precio_hoy": 2499.0,
-    "precio_actual_hoy": 2499.0,
-    "diff_abs": 900.0,
-    "diff_pct": 56.29
-  },
-  {
     "plu": "628765",
     "nombre": "Papas Baby HUERTOS DEL RANCO 500g",
     "marca": "Huertos Del Ranco",
@@ -130,6 +75,17 @@
     "precio_actual_hoy": 3999.0,
     "diff_abs": 1400.0,
     "diff_pct": 53.87
+  },
+  {
+    "plu": "862",
+    "nombre": "Chaucha Rolliza X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
+    "precio_antes": 5899.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 8999.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 52.55
   },
   {
     "plu": "17878",
@@ -143,15 +99,26 @@
     "diff_pct": 50.04
   },
   {
-    "plu": "555",
-    "nombre": "Limón Caipirinha  X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 50.01
+    "plu": "493118",
+    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3118.0,
+    "precio_actual_hoy": 3118.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 49.98
+  },
+  {
+    "plu": "490643",
+    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3118.0,
+    "precio_actual_hoy": 3118.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 49.98
   },
   {
     "plu": "559489",
@@ -165,30 +132,8 @@
     "diff_pct": 49.98
   },
   {
-    "plu": "508911",
-    "nombre": "Leche Protein La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
     "plu": "540349",
     "nombre": "Leche con Prebióticos La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "493118",
-    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
@@ -209,14 +154,69 @@
     "diff_pct": 49.98
   },
   {
-    "plu": "490643",
-    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
+    "plu": "508911",
+    "nombre": "Leche Protein La Serenisima 1L",
     "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3118.0,
     "precio_actual_hoy": 3118.0,
     "diff_abs": 1039.0,
     "diff_pct": 49.98
+  },
+  {
+    "plu": "42215",
+    "nombre": "Pata Muslo Sin Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Pata Muslo sin Piel > Frescos > Aves",
+    "precio_antes": 5999.0,
+    "precio_hoy": 8899.0,
+    "precio_actual_hoy": 8899.0,
+    "diff_abs": 2900.0,
+    "diff_pct": 48.34
+  },
+  {
+    "plu": "37672",
+    "nombre": "Cremoso PRIMERA MARCA Xkg",
+    "marca": "Primera Marca",
+    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
+    "precio_antes": 8499.0,
+    "precio_hoy": 12599.0,
+    "precio_actual_hoy": 12599.0,
+    "diff_abs": 4100.0,
+    "diff_pct": 48.24
+  },
+  {
+    "plu": "495915",
+    "nombre": "Chis Buby Frutilla Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 799.0,
+    "precio_hoy": 1159.0,
+    "precio_actual_hoy": 1159.0,
+    "diff_abs": 360.0,
+    "diff_pct": 45.06
+  },
+  {
+    "plu": "495917",
+    "nombre": "Pizzitos Jamón Y Queso Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 799.0,
+    "precio_hoy": 1159.0,
+    "precio_actual_hoy": 1159.0,
+    "diff_abs": 360.0,
+    "diff_pct": 45.06
+  },
+  {
+    "plu": "628768",
+    "nombre": "Papa ox HUERTOS DEL RANCO 650g",
+    "marca": "Huertos Del Ranco",
+    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2799.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 42.87
   }
 ]

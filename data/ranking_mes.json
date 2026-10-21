@@ -38,21 +38,10 @@
     "marca": NaN,
     "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 4999.0,
-    "precio_hoy": 13999.0,
-    "precio_actual_hoy": 13999.0,
-    "diff_abs": 9000.0,
-    "diff_pct": 180.04
-  },
-  {
-    "plu": "709",
-    "nombre": "Pimiento Amarillo   Xkg   ",
-    "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 5499.0,
-    "precio_hoy": 14999.0,
-    "precio_actual_hoy": 14999.0,
-    "diff_abs": 9500.0,
-    "diff_pct": 172.76
+    "precio_hoy": 12999.0,
+    "precio_actual_hoy": 12999.0,
+    "diff_abs": 8000.0,
+    "diff_pct": 160.03
   },
   {
     "plu": "36144",
@@ -64,6 +53,17 @@
     "precio_actual_hoy": 4399.0,
     "diff_abs": 2700.0,
     "diff_pct": 158.92
+  },
+  {
+    "plu": "709",
+    "nombre": "Pimiento Amarillo   Xkg   ",
+    "marca": NaN,
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 5499.0,
+    "precio_hoy": 12999.0,
+    "precio_actual_hoy": 12999.0,
+    "diff_abs": 7500.0,
+    "diff_pct": 136.39
   },
   {
     "plu": "688",
@@ -176,17 +176,6 @@
     "diff_pct": 90.52
   },
   {
-    "plu": "523",
-    "nombre": "Mandarina Ellendalle X Kg",
-    "marca": NaN,
-    "categoria": "Mandarinas > Frutas y Verduras > Frutas Y Verduras > Frutas > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1899.0,
-    "precio_actual_hoy": 1899.0,
-    "diff_abs": 900.0,
-    "diff_pct": 90.09
-  },
-  {
     "plu": "61007",
     "nombre": "Limón x Kg",
     "marca": "Nuestras Frutas",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 53389.0,
     "diff_abs": 24334.0,
     "diff_pct": 83.75
+  },
+  {
+    "plu": "628767",
+    "nombre": "Papas Mix Huercal del Famataca 500g",
+    "marca": "Huertos Del Ran",
+    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 83.36
   }
 ]
