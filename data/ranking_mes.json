@@ -33,17 +33,6 @@
     "diff_pct": 180.18
   },
   {
-    "plu": "671",
-    "nombre": "Pimiento Rojo   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 12999.0,
-    "precio_actual_hoy": 12999.0,
-    "diff_abs": 8000.0,
-    "diff_pct": 160.03
-  },
-  {
     "plu": "36144",
     "nombre": "Cebolla Roja   Xkg",
     "marca": NaN,
@@ -53,17 +42,6 @@
     "precio_actual_hoy": 4399.0,
     "diff_abs": 2700.0,
     "diff_pct": 158.92
-  },
-  {
-    "plu": "709",
-    "nombre": "Pimiento Amarillo   Xkg   ",
-    "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 5499.0,
-    "precio_hoy": 12999.0,
-    "precio_actual_hoy": 12999.0,
-    "diff_abs": 7500.0,
-    "diff_pct": 136.39
   },
   {
     "plu": "688",
@@ -88,6 +66,28 @@
     "diff_pct": 123.31
   },
   {
+    "plu": "671",
+    "nombre": "Pimiento Rojo   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 10999.0,
+    "precio_actual_hoy": 10999.0,
+    "diff_abs": 6000.0,
+    "diff_pct": 120.02
+  },
+  {
+    "plu": "709",
+    "nombre": "Pimiento Amarillo   Xkg   ",
+    "marca": NaN,
+    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 5499.0,
+    "precio_hoy": 11999.0,
+    "precio_actual_hoy": 11999.0,
+    "diff_abs": 6500.0,
+    "diff_pct": 118.2
+  },
+  {
     "plu": "12705",
     "nombre": "Papa Blanca (Bolsa Entre 1,5 Kg A 2 Kg)",
     "marca": "Cosecha Criolla",
@@ -99,26 +99,15 @@
     "diff_pct": 109.58
   },
   {
-    "plu": "615",
-    "nombre": "Cebolla Seleccionada En Bolsita X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 2199.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 2300.0,
-    "diff_pct": 104.59
-  },
-  {
-    "plu": "602",
-    "nombre": "Cebolla A Granel X Kg",
+    "plu": "516",
+    "nombre": "Mandarina Murcot   Xkg",
     "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.05
+    "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1699.15,
+    "diff_abs": 1000.0,
+    "diff_pct": 100.1
   },
   {
     "plu": "555",
@@ -152,17 +141,6 @@
     "precio_actual_hoy": 13999.0,
     "diff_abs": 6850.0,
     "diff_pct": 95.82
-  },
-  {
-    "plu": "548",
-    "nombre": "Pomelo Blanco X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2499.0,
-    "precio_actual_hoy": 2499.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 92.38
   },
   {
     "plu": "695",
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 5499.0,
     "diff_abs": 2500.0,
     "diff_pct": 83.36
+  },
+  {
+    "plu": "15241",
+    "nombre": "Jamon Cocido Feteado. Primera Mar . 1 Kgm",
+    "marca": "Campo Austral",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 12999.0,
+    "precio_hoy": 22205.0,
+    "precio_actual_hoy": 22205.0,
+    "diff_abs": 9206.0,
+    "diff_pct": 70.82
+  },
+  {
+    "plu": "590397",
+    "nombre": "Pure De Calabaza Cocida Al Vacío Sueño Verde 500g",
+    "marca": "Sueño Verde",
+    "categoria": "Verduras > Verdura Empacada > Frutas y Verduras > Frescos",
+    "precio_antes": 6699.0,
+    "precio_hoy": 11399.0,
+    "precio_actual_hoy": 11399.0,
+    "diff_abs": 4700.0,
+    "diff_pct": 70.16
   }
 ]

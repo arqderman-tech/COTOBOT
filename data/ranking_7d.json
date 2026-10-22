@@ -1,5 +1,16 @@
 [
   {
+    "plu": "566331",
+    "nombre": "Peras En Mitades Desecadas Natfood 150g",
+    "marca": "Natfood",
+    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2700.0,
+    "diff_pct": 117.44
+  },
+  {
     "plu": "17896",
     "nombre": "Vieira 1/2valva   Xkg",
     "marca": "Nuestra Pescaderia",
@@ -9,17 +20,6 @@
     "precio_actual_hoy": 51999.2,
     "diff_abs": 34000.0,
     "diff_pct": 109.68
-  },
-  {
-    "plu": "65008",
-    "nombre": "Tomate Deshidr.   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 12999.0,
-    "precio_hoy": 26999.0,
-    "precio_actual_hoy": 26999.0,
-    "diff_abs": 14000.0,
-    "diff_pct": 107.7
   },
   {
     "plu": "628767",
@@ -44,6 +44,17 @@
     "diff_pct": 100.18
   },
   {
+    "plu": "516",
+    "nombre": "Mandarina Murcot   Xkg",
+    "marca": NaN,
+    "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1699.15,
+    "diff_abs": 1000.0,
+    "diff_pct": 100.1
+  },
+  {
     "plu": "93545",
     "nombre": "Papa Asterix X Kg",
     "marca": "Coto",
@@ -53,6 +64,28 @@
     "precio_actual_hoy": 3299.0,
     "diff_abs": 1600.0,
     "diff_pct": 94.17
+  },
+  {
+    "plu": "566329",
+    "nombre": "Pasas De Uva Morenas Sin Semillas Natfood 150g",
+    "marca": "Natfood",
+    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3499.0,
+    "precio_actual_hoy": 3499.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 75.04
+  },
+  {
+    "plu": "566328",
+    "nombre": "Pasas De Uva Rubias Sin Semillas Nature Food 150g",
+    "marca": "Natfood",
+    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 1700.0,
+    "diff_pct": 73.95
   },
   {
     "plu": "490185",
@@ -66,6 +99,72 @@
     "diff_pct": 66.67
   },
   {
+    "plu": "424",
+    "nombre": "Lechuga Mantecosa X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras De Hoja > Verduras > Lechuga > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3699.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 60.9
+  },
+  {
+    "plu": "572570",
+    "nombre": "Tableta Postre Chocolate Con Maní Bon O Bon 95g",
+    "marca": "Bon O Bon",
+    "categoria": "Tabletas > Golosinas > Almacén",
+    "precio_antes": 2250.0,
+    "precio_hoy": 3600.99,
+    "precio_actual_hoy": 3600.99,
+    "diff_abs": 1350.99,
+    "diff_pct": 60.04
+  },
+  {
+    "plu": "572569",
+    "nombre": "Tableta Tentación Chocolate Con Maní Bon O Bon 120g",
+    "marca": "Bon O Bon",
+    "categoria": "Tabletas > Golosinas > Almacén",
+    "precio_antes": 3400.0,
+    "precio_hoy": 5400.99,
+    "precio_actual_hoy": 5400.99,
+    "diff_abs": 2000.99,
+    "diff_pct": 58.85
+  },
+  {
+    "plu": "523475",
+    "nombre": "Superbolls Rocklets Fwp 80 Grm",
+    "marca": "Rocklets",
+    "categoria": "Golosinas > Confituras > Confites > Almacén",
+    "precio_antes": 3850.0,
+    "precio_hoy": 5997.99,
+    "precio_actual_hoy": 5997.99,
+    "diff_abs": 2147.99,
+    "diff_pct": 55.79
+  },
+  {
+    "plu": "594047",
+    "nombre": "Cubanitos Crema De Maní Bon O Bon 78g",
+    "marca": "Bon O Bon",
+    "categoria": "Golosinas > Cubanitos > Bombones y Bocaditos > Almacén",
+    "precio_antes": 3850.0,
+    "precio_hoy": 5997.99,
+    "precio_actual_hoy": 5997.99,
+    "diff_abs": 2147.99,
+    "diff_pct": 55.79
+  },
+  {
+    "plu": "65678",
+    "nombre": "Espinaca X Uni",
+    "marca": NaN,
+    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Espinaca",
+    "precio_antes": 1299.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 700.0,
+    "diff_pct": 53.89
+  },
+  {
     "plu": "628765",
     "nombre": "Papas Baby HUERTOS DEL RANCO 500g",
     "marca": "Huertos Del Ranco",
@@ -75,6 +174,17 @@
     "precio_actual_hoy": 3999.0,
     "diff_abs": 1400.0,
     "diff_pct": 53.87
+  },
+  {
+    "plu": "65008",
+    "nombre": "Tomate Deshidr.   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 12999.0,
+    "precio_hoy": 19999.0,
+    "precio_actual_hoy": 19999.0,
+    "diff_abs": 7000.0,
+    "diff_pct": 53.85
   },
   {
     "plu": "862",
@@ -99,50 +209,6 @@
     "diff_pct": 50.04
   },
   {
-    "plu": "493118",
-    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "490643",
-    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "559489",
-    "nombre": "Leche Descremada Larga Vida Barista LA SERENISIMA 1 Ltr",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "540349",
-    "nombre": "Leche con Prebióticos La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
     "plu": "625701",
     "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
     "marca": "La Serenisima",
@@ -152,71 +218,5 @@
     "precio_actual_hoy": 3118.0,
     "diff_abs": 1039.0,
     "diff_pct": 49.98
-  },
-  {
-    "plu": "508911",
-    "nombre": "Leche Protein La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "42215",
-    "nombre": "Pata Muslo Sin Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Pata Muslo sin Piel > Frescos > Aves",
-    "precio_antes": 5999.0,
-    "precio_hoy": 8899.0,
-    "precio_actual_hoy": 8899.0,
-    "diff_abs": 2900.0,
-    "diff_pct": 48.34
-  },
-  {
-    "plu": "37672",
-    "nombre": "Cremoso PRIMERA MARCA Xkg",
-    "marca": "Primera Marca",
-    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
-    "precio_antes": 8499.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 12599.0,
-    "diff_abs": 4100.0,
-    "diff_pct": 48.24
-  },
-  {
-    "plu": "495915",
-    "nombre": "Chis Buby Frutilla Nikitos Paq 80 Grm",
-    "marca": "Nikitos",
-    "categoria": "Verduras > Frutas y Verduras > Frescos",
-    "precio_antes": 799.0,
-    "precio_hoy": 1159.0,
-    "precio_actual_hoy": 1159.0,
-    "diff_abs": 360.0,
-    "diff_pct": 45.06
-  },
-  {
-    "plu": "495917",
-    "nombre": "Pizzitos Jamón Y Queso Nikitos Paq 80 Grm",
-    "marca": "Nikitos",
-    "categoria": "Verduras > Frutas y Verduras > Frescos",
-    "precio_antes": 799.0,
-    "precio_hoy": 1159.0,
-    "precio_actual_hoy": 1159.0,
-    "diff_abs": 360.0,
-    "diff_pct": 45.06
-  },
-  {
-    "plu": "628768",
-    "nombre": "Papa ox HUERTOS DEL RANCO 650g",
-    "marca": "Huertos Del Ranco",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2799.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 42.87
   }
 ]
