@@ -11,15 +11,15 @@
     "diff_pct": 120.08
   },
   {
-    "plu": "17896",
-    "nombre": "Vieira 1/2valva   Xkg",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Mariscos > Congelados",
-    "precio_antes": 30999.0,
-    "precio_hoy": 64999.0,
-    "precio_actual_hoy": 51999.2,
-    "diff_abs": 34000.0,
-    "diff_pct": 109.68
+    "plu": "495916",
+    "nombre": "Burbuja De Queso Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 549.0,
+    "precio_hoy": 1159.0,
+    "precio_actual_hoy": 1159.0,
+    "diff_abs": 610.0,
+    "diff_pct": 111.11
   },
   {
     "plu": "628767",
@@ -44,15 +44,15 @@
     "diff_pct": 100.18
   },
   {
-    "plu": "490185",
-    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
-    "marca": "Schweppes",
-    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2700.0,
-    "precio_actual_hoy": 2700.0,
-    "diff_abs": 1080.0,
-    "diff_pct": 66.67
+    "plu": "495889",
+    "nombre": "Papas Pay NIKITOS Paq 100 Grm",
+    "marca": "Nikitos",
+    "categoria": "Frutas y Verduras > Frescos > Cereales y Harinas",
+    "precio_antes": 999.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 100.1
   },
   {
     "plu": "424",
@@ -110,10 +110,10 @@
     "diff_pct": 53.85
   },
   {
-    "plu": "613",
-    "nombre": "Chaucha Balina   Xkg",
+    "plu": "862",
+    "nombre": "Chaucha Rolliza X Kg",
     "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
+    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
     "precio_antes": 5899.0,
     "precio_hoy": 8999.0,
     "precio_actual_hoy": 8999.0,
@@ -121,10 +121,10 @@
     "diff_pct": 52.55
   },
   {
-    "plu": "862",
-    "nombre": "Chaucha Rolliza X Kg",
+    "plu": "613",
+    "nombre": "Chaucha Balina   Xkg",
     "marca": NaN,
-    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
     "precio_antes": 5899.0,
     "precio_hoy": 8999.0,
     "precio_actual_hoy": 8999.0,
@@ -143,8 +143,19 @@
     "diff_pct": 50.04
   },
   {
-    "plu": "493118",
-    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
+    "plu": "490643",
+    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3118.0,
+    "precio_actual_hoy": 3118.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 49.98
+  },
+  {
+    "plu": "559489",
+    "nombre": "Leche Descremada Larga Vida Barista LA SERENISIMA 1 Ltr",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
@@ -165,8 +176,8 @@
     "diff_pct": 49.98
   },
   {
-    "plu": "559489",
-    "nombre": "Leche Descremada Larga Vida Barista LA SERENISIMA 1 Ltr",
+    "plu": "625701",
+    "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
@@ -176,8 +187,8 @@
     "diff_pct": 49.98
   },
   {
-    "plu": "625701",
-    "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
+    "plu": "493118",
+    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
@@ -191,17 +202,6 @@
     "nombre": "Leche con Prebióticos La Serenisima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "490643",
-    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
     "precio_antes": 2079.0,
     "precio_hoy": 3118.0,
     "precio_actual_hoy": 3118.0,

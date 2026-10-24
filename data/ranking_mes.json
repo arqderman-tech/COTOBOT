@@ -1,14 +1,25 @@
 [
   {
+    "plu": "477714",
+    "nombre": "Agua Lavandina Aditivada Héroe Aroma Naranja 2 Lts",
+    "marca": "Heroe",
+    "categoria": "Limpieza > Lavandinas Liquidas > Lavandinas",
+    "precio_antes": 62.99,
+    "precio_hoy": 2169.99,
+    "precio_actual_hoy": 2169.99,
+    "diff_abs": 2107.0,
+    "diff_pct": 3344.98
+  },
+  {
     "plu": "862",
     "nombre": "Chaucha Rolliza X Kg",
     "marca": NaN,
     "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
-    "precio_antes": 3799.0,
+    "precio_antes": 4199.0,
     "precio_hoy": 8999.0,
     "precio_actual_hoy": 8999.0,
-    "diff_abs": 5200.0,
-    "diff_pct": 136.88
+    "diff_abs": 4800.0,
+    "diff_pct": 114.31
   },
   {
     "plu": "17896",
@@ -22,17 +33,6 @@
     "diff_pct": 109.68
   },
   {
-    "plu": "613",
-    "nombre": "Chaucha Balina   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
-    "precio_antes": 4299.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 4700.0,
-    "diff_pct": 109.33
-  },
-  {
     "plu": "502158",
     "nombre": "Manzana red TRES ASES 1 Kg",
     "marca": "Tres Ases",
@@ -42,6 +42,17 @@
     "precio_actual_hoy": 5999.0,
     "diff_abs": 3000.0,
     "diff_pct": 100.03
+  },
+  {
+    "plu": "613",
+    "nombre": "Chaucha Balina   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
+    "precio_antes": 4499.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 8999.0,
+    "diff_abs": 4500.0,
+    "diff_pct": 100.02
   },
   {
     "plu": "46851",
@@ -88,28 +99,6 @@
     "diff_pct": 82.51
   },
   {
-    "plu": "691",
-    "nombre": "Zapallito Redondo   Xkg",
-    "marca": NaN,
-    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 3399.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2600.0,
-    "diff_pct": 76.49
-  },
-  {
-    "plu": "35074",
-    "nombre": "Zapallito Redondo Esp. X   Xkg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 6999.0,
-    "precio_actual_hoy": 6999.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 75.02
-  },
-  {
     "plu": "548",
     "nombre": "Pomelo Blanco X Kg",
     "marca": "Nuestras Frutas",
@@ -119,28 +108,6 @@
     "precio_actual_hoy": 1699.15,
     "diff_abs": 800.0,
     "diff_pct": 66.72
-  },
-  {
-    "plu": "593",
-    "nombre": "Berenjena x kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3399.15,
-    "diff_abs": 1600.0,
-    "diff_pct": 66.69
-  },
-  {
-    "plu": "690",
-    "nombre": "Zapallito Largo X Kg",
-    "marca": NaN,
-    "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 3599.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 66.69
   },
   {
     "plu": "35068",
@@ -154,6 +121,17 @@
     "diff_pct": 66.69
   },
   {
+    "plu": "593",
+    "nombre": "Berenjena x kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3399.15,
+    "diff_abs": 1600.0,
+    "diff_pct": 66.69
+  },
+  {
     "plu": "795",
     "nombre": "Berenjena Veteada  x Kg   ",
     "marca": ".",
@@ -163,17 +141,6 @@
     "precio_actual_hoy": 3999.0,
     "diff_abs": 1600.0,
     "diff_pct": 66.69
-  },
-  {
-    "plu": "40344",
-    "nombre": "Mixto Palta/Limon   Xkg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Paltas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 4499.0,
-    "precio_hoy": 7499.0,
-    "precio_actual_hoy": 7499.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 66.68
   },
   {
     "plu": "490185",
@@ -218,5 +185,38 @@
     "precio_actual_hoy": 11463.0,
     "diff_abs": 4354.0,
     "diff_pct": 61.25
+  },
+  {
+    "plu": "549",
+    "nombre": "Pomelo Rojo .   Xkg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1599.0,
+    "precio_actual_hoy": 1359.15,
+    "diff_abs": 600.0,
+    "diff_pct": 60.06
+  },
+  {
+    "plu": "13238",
+    "nombre": "Lima Cosecha Criolla (Peso Aproximado 500g)",
+    "marca": "Cosecha Criolla",
+    "categoria": "Lima > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 3499.0,
+    "precio_actual_hoy": 3499.0,
+    "diff_abs": 1300.0,
+    "diff_pct": 59.12
+  },
+  {
+    "plu": "40156",
+    "nombre": "Acelga X Uni",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Acelga",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1699.0,
+    "precio_actual_hoy": 1699.0,
+    "diff_abs": 600.0,
+    "diff_pct": 54.6
   }
 ]
