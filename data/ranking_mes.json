@@ -33,6 +33,28 @@
     "diff_pct": 109.68
   },
   {
+    "plu": "593",
+    "nombre": "Berenjena x kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3399.15,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.05
+  },
+  {
+    "plu": "35068",
+    "nombre": "Berenjena Especial X Kg   Xkg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.04
+  },
+  {
     "plu": "502158",
     "nombre": "Manzana red TRES ASES 1 Kg",
     "marca": "Tres Ases",
@@ -88,6 +110,17 @@
     "diff_pct": 99.99
   },
   {
+    "plu": "549365",
+    "nombre": "Pesto Dicomere 30 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Polvo > Almacén",
+    "precio_antes": 799.0,
+    "precio_hoy": 1499.0,
+    "precio_actual_hoy": 1499.0,
+    "diff_abs": 700.0,
+    "diff_pct": 87.61
+  },
+  {
     "plu": "513680",
     "nombre": "Pesto De Rúcula Fres Sueño Verde Fra 160 Grm",
     "marca": "Sueño Verde",
@@ -108,28 +141,6 @@
     "precio_actual_hoy": 1699.15,
     "diff_abs": 800.0,
     "diff_pct": 66.72
-  },
-  {
-    "plu": "35068",
-    "nombre": "Berenjena Especial X Kg   Xkg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.69
-  },
-  {
-    "plu": "593",
-    "nombre": "Berenjena x kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3399.15,
-    "diff_abs": 1600.0,
-    "diff_pct": 66.69
   },
   {
     "plu": "795",
@@ -165,8 +176,8 @@
     "diff_pct": 65.03
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -176,8 +187,8 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -207,16 +218,5 @@
     "precio_actual_hoy": 3499.0,
     "diff_abs": 1300.0,
     "diff_pct": 59.12
-  },
-  {
-    "plu": "40156",
-    "nombre": "Acelga X Uni",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Acelga",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1699.0,
-    "precio_actual_hoy": 1699.0,
-    "diff_abs": 600.0,
-    "diff_pct": 54.6
   }
 ]

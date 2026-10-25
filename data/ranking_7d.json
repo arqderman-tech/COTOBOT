@@ -143,6 +143,17 @@
     "diff_pct": 50.04
   },
   {
+    "plu": "508911",
+    "nombre": "Leche Protein La Serenisima 1L",
+    "marca": "La Serenisima",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 2079.0,
+    "precio_hoy": 3118.0,
+    "precio_actual_hoy": 3118.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 49.98
+  },
+  {
     "plu": "490643",
     "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
     "marca": "La Serenisima",
@@ -165,19 +176,8 @@
     "diff_pct": 49.98
   },
   {
-    "plu": "508911",
-    "nombre": "Leche Protein La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "625701",
-    "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
+    "plu": "493118",
+    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
@@ -187,8 +187,8 @@
     "diff_pct": 49.98
   },
   {
-    "plu": "493118",
-    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
+    "plu": "625701",
+    "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 2079.0,
