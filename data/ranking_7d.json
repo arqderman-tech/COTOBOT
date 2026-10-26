@@ -1,5 +1,16 @@
 [
   {
+    "plu": "648",
+    "nombre": "Lechuga Capuchina X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 3700.0,
+    "diff_pct": 160.94
+  },
+  {
     "plu": "13158",
     "nombre": "Limón COSECHA CRIOLLA (Peso Aproximado 1.5 Kg)",
     "marca": "Cosecha Criolla",
@@ -22,28 +33,6 @@
     "diff_pct": 111.11
   },
   {
-    "plu": "628767",
-    "nombre": "Papas Mix Huercal del Famataca 500g",
-    "marca": "Huertos Del Ran",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2699.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2800.0,
-    "diff_pct": 103.74
-  },
-  {
-    "plu": "624912",
-    "nombre": "Bebida a base de avena NOT MILK 1L",
-    "marca": "Not Milk",
-    "categoria": "Lácteos > Leches > Frescos > Alimentos Vegetales",
-    "precio_antes": 2845.0,
-    "precio_hoy": 5695.0,
-    "precio_actual_hoy": 5695.0,
-    "diff_abs": 2850.0,
-    "diff_pct": 100.18
-  },
-  {
     "plu": "495889",
     "nombre": "Papas Pay NIKITOS Paq 100 Grm",
     "marca": "Nikitos",
@@ -53,6 +42,61 @@
     "precio_actual_hoy": 1999.0,
     "diff_abs": 1000.0,
     "diff_pct": 100.1
+  },
+  {
+    "plu": "42212",
+    "nombre": "Muslo Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Muslo con Piel > Frescos > Aves",
+    "precio_antes": 3999.0,
+    "precio_hoy": 7499.0,
+    "precio_actual_hoy": 7499.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 87.52
+  },
+  {
+    "plu": "19391",
+    "nombre": "Salame milán SARUBBI x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 34999.0,
+    "precio_actual_hoy": 34999.0,
+    "diff_abs": 16000.0,
+    "diff_pct": 84.21
+  },
+  {
+    "plu": "17048",
+    "nombre": "Salame milan al vacío SARUBBI x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 34999.0,
+    "precio_actual_hoy": 34999.0,
+    "diff_abs": 16000.0,
+    "diff_pct": 84.21
+  },
+  {
+    "plu": "19389",
+    "nombre": "Fiambre de Cerdo Sarubbi x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Lomo > Frescos > Fiambres",
+    "precio_antes": 17199.0,
+    "precio_hoy": 31349.0,
+    "precio_actual_hoy": 31349.0,
+    "diff_abs": 14150.0,
+    "diff_pct": 82.27
+  },
+  {
+    "plu": "11831",
+    "nombre": "Pechuga De Pavo Feteada El Pozo Xkg 1 Kgm",
+    "marca": "El Pozo",
+    "categoria": "Pechuga de Pavo > Frescos > Fiambres",
+    "precio_antes": 19799.0,
+    "precio_hoy": 35999.0,
+    "precio_actual_hoy": 35999.0,
+    "diff_abs": 16200.0,
+    "diff_pct": 81.82
   },
   {
     "plu": "424",
@@ -66,15 +110,26 @@
     "diff_pct": 60.9
   },
   {
-    "plu": "79",
-    "nombre": "Riñón    X KG",
+    "plu": "17843",
+    "nombre": "Filet de merluza despinado con piel x Kg",
     "marca": "Coto",
-    "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4800.0,
-    "precio_actual_hoy": 4800.0,
-    "diff_abs": 1801.0,
-    "diff_pct": 60.05
+    "categoria": "Pescaderia > Frescos > Filete",
+    "precio_antes": 9990.0,
+    "precio_hoy": 15999.0,
+    "precio_actual_hoy": 12799.2,
+    "diff_abs": 6009.0,
+    "diff_pct": 60.15
+  },
+  {
+    "plu": "42213",
+    "nombre": "Muslo Sin Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Muslo sin Piel > Frescos > Aves",
+    "precio_antes": 5599.0,
+    "precio_hoy": 8899.0,
+    "precio_actual_hoy": 8899.0,
+    "diff_abs": 3300.0,
+    "diff_pct": 58.94
   },
   {
     "plu": "65678",
@@ -88,25 +143,14 @@
     "diff_pct": 53.89
   },
   {
-    "plu": "628765",
-    "nombre": "Papas Baby HUERTOS DEL RANCO 500g",
-    "marca": "Huertos Del Ranco",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 53.87
-  },
-  {
-    "plu": "65008",
-    "nombre": "Tomate Deshidr.   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 12999.0,
-    "precio_hoy": 19999.0,
-    "precio_actual_hoy": 19999.0,
-    "diff_abs": 7000.0,
+    "plu": "12032",
+    "nombre": "Jamón Crudo Feteado El Pozo X Kg",
+    "marca": "El Pozo",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 45499.0,
+    "precio_hoy": 69999.0,
+    "precio_actual_hoy": 69999.0,
+    "diff_abs": 24500.0,
     "diff_pct": 53.85
   },
   {
@@ -132,91 +176,47 @@
     "diff_pct": 52.55
   },
   {
-    "plu": "17878",
-    "nombre": "Pulpo Español Congelado X Kg",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Especiales > Congelados",
-    "precio_antes": 39990.0,
-    "precio_hoy": 59999.0,
-    "precio_actual_hoy": 47999.2,
-    "diff_abs": 20009.0,
-    "diff_pct": 50.04
-  },
-  {
-    "plu": "508911",
-    "nombre": "Leche Protein La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "490643",
-    "nombre": "Leche UAT Zero lactosa La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Reducidas en Lactosa > Leches Larga Vida > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "559489",
-    "nombre": "Leche Descremada Larga Vida Barista LA SERENISIMA 1 Ltr",
+    "plu": "251876",
+    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
+    "precio_antes": 1939.0,
+    "precio_hoy": 2915.0,
+    "precio_actual_hoy": 2915.0,
+    "diff_abs": 976.0,
+    "diff_pct": 50.34
   },
   {
-    "plu": "493118",
-    "nombre": "Leche UAT Con Hierro La Serenisima 1L",
+    "plu": "251875",
+    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 2915.0,
+    "precio_actual_hoy": 2915.0,
+    "diff_abs": 976.0,
+    "diff_pct": 50.34
+  },
+  {
+    "plu": "483399",
+    "nombre": "Leche Larga Vida Parcialmente Descremada LA SERENISIMA 2% 1l",
     "marca": "La Serenisima",
     "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
+    "precio_antes": 1939.0,
+    "precio_hoy": 2915.0,
+    "precio_actual_hoy": 2915.0,
+    "diff_abs": 976.0,
+    "diff_pct": 50.34
   },
   {
-    "plu": "625701",
-    "nombre": "Leche UAT Extra calcio + colágeno La Serenísima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "540349",
-    "nombre": "Leche con Prebióticos La Serenisima 1L",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 2079.0,
-    "precio_hoy": 3118.0,
-    "precio_actual_hoy": 3118.0,
-    "diff_abs": 1039.0,
-    "diff_pct": 49.98
-  },
-  {
-    "plu": "42215",
-    "nombre": "Pata Muslo Sin Piel X Kg Congelados",
+    "plu": "42218",
+    "nombre": "Pechuga Con Piel X Kg Congelados",
     "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Pata Muslo sin Piel > Frescos > Aves",
-    "precio_antes": 5999.0,
-    "precio_hoy": 8899.0,
-    "precio_actual_hoy": 8899.0,
-    "diff_abs": 2900.0,
-    "diff_pct": 48.34
+    "categoria": "por Kg > Pollo Trozado Congelado > Pechuga con Piel > Frescos > Aves",
+    "precio_antes": 7999.0,
+    "precio_hoy": 11999.0,
+    "precio_actual_hoy": 11999.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 50.01
   }
 ]

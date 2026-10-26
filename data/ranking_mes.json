@@ -11,6 +11,17 @@
     "diff_pct": 3344.98
   },
   {
+    "plu": "648",
+    "nombre": "Lechuga Capuchina X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
+    "precio_antes": 2599.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 3400.0,
+    "diff_pct": 130.82
+  },
+  {
     "plu": "862",
     "nombre": "Chaucha Rolliza X Kg",
     "marca": NaN,
@@ -39,7 +50,7 @@
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
     "precio_antes": 1999.0,
     "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3399.15,
+    "precio_actual_hoy": 3999.0,
     "diff_abs": 2000.0,
     "diff_pct": 100.05
   },
@@ -138,7 +149,7 @@
     "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
     "precio_antes": 1199.0,
     "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1699.15,
+    "precio_actual_hoy": 1999.0,
     "diff_abs": 800.0,
     "diff_pct": 66.72
   },
@@ -176,8 +187,8 @@
     "diff_pct": 65.03
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -187,8 +198,8 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -204,19 +215,8 @@
     "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
     "precio_antes": 999.0,
     "precio_hoy": 1599.0,
-    "precio_actual_hoy": 1359.15,
+    "precio_actual_hoy": 1599.0,
     "diff_abs": 600.0,
     "diff_pct": 60.06
-  },
-  {
-    "plu": "13238",
-    "nombre": "Lima Cosecha Criolla (Peso Aproximado 500g)",
-    "marca": "Cosecha Criolla",
-    "categoria": "Lima > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 2199.0,
-    "precio_hoy": 3499.0,
-    "precio_actual_hoy": 3499.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 59.12
   }
 ]
