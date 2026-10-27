@@ -1,25 +1,14 @@
 [
   {
-    "plu": "477714",
-    "nombre": "Agua Lavandina Aditivada Héroe Aroma Naranja 2 Lts",
-    "marca": "Heroe",
-    "categoria": "Limpieza > Lavandinas Liquidas > Lavandinas",
-    "precio_antes": 62.99,
-    "precio_hoy": 2169.99,
-    "precio_actual_hoy": 2169.99,
-    "diff_abs": 2107.0,
-    "diff_pct": 3344.98
-  },
-  {
-    "plu": "648",
-    "nombre": "Lechuga Capuchina X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
-    "precio_antes": 2599.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 3400.0,
-    "diff_pct": 130.82
+    "plu": "593",
+    "nombre": "Berenjena x kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 2300.0,
+    "diff_pct": 115.06
   },
   {
     "plu": "862",
@@ -33,37 +22,15 @@
     "diff_pct": 114.31
   },
   {
-    "plu": "17896",
-    "nombre": "Vieira 1/2valva   Xkg",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Mariscos > Congelados",
-    "precio_antes": 30999.0,
-    "precio_hoy": 64999.0,
-    "precio_actual_hoy": 51999.2,
-    "diff_abs": 34000.0,
-    "diff_pct": 109.68
-  },
-  {
-    "plu": "593",
-    "nombre": "Berenjena x kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.05
-  },
-  {
     "plu": "35068",
     "nombre": "Berenjena Especial X Kg   Xkg",
     "marca": "Cosecha Criolla",
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
     "precio_antes": 2499.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.04
+    "precio_hoy": 5299.0,
+    "precio_actual_hoy": 5299.0,
+    "diff_abs": 2800.0,
+    "diff_pct": 112.04
   },
   {
     "plu": "502158",
@@ -121,6 +88,17 @@
     "diff_pct": 99.99
   },
   {
+    "plu": "513680",
+    "nombre": "Pesto De Rúcula Fres Sueño Verde Fra 160 Grm",
+    "marca": "Sueño Verde",
+    "categoria": "Salsas y Puré de Tomate > Pesto > Almacén",
+    "precio_antes": 7999.0,
+    "precio_hoy": 15399.0,
+    "precio_actual_hoy": 15399.0,
+    "diff_abs": 7400.0,
+    "diff_pct": 92.51
+  },
+  {
     "plu": "549365",
     "nombre": "Pesto Dicomere 30 Grm",
     "marca": "Dicomere",
@@ -132,15 +110,15 @@
     "diff_pct": 87.61
   },
   {
-    "plu": "513680",
-    "nombre": "Pesto De Rúcula Fres Sueño Verde Fra 160 Grm",
-    "marca": "Sueño Verde",
-    "categoria": "Salsas y Puré de Tomate > Pesto > Almacén",
-    "precio_antes": 7999.0,
-    "precio_hoy": 14599.0,
-    "precio_actual_hoy": 14599.0,
-    "diff_abs": 6600.0,
-    "diff_pct": 82.51
+    "plu": "795",
+    "nombre": "Berenjena Veteada  x Kg   ",
+    "marca": ".",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2399.0,
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 79.2
   },
   {
     "plu": "548",
@@ -154,15 +132,15 @@
     "diff_pct": 66.72
   },
   {
-    "plu": "795",
-    "nombre": "Berenjena Veteada  x Kg   ",
-    "marca": ".",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1600.0,
-    "diff_pct": 66.69
+    "plu": "665",
+    "nombre": "Pepino .   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 66.7
   },
   {
     "plu": "490185",
@@ -187,8 +165,8 @@
     "diff_pct": 65.03
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -198,8 +176,8 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 1599.0,
     "diff_abs": 600.0,
     "diff_pct": 60.06
+  },
+  {
+    "plu": "13238",
+    "nombre": "Lima Cosecha Criolla (Peso Aproximado 500g)",
+    "marca": "Cosecha Criolla",
+    "categoria": "Lima > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 2199.0,
+    "precio_hoy": 3499.0,
+    "precio_actual_hoy": 3499.0,
+    "diff_abs": 1300.0,
+    "diff_pct": 59.12
+  },
+  {
+    "plu": "19391",
+    "nombre": "Salame milán SARUBBI x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 22499.0,
+    "precio_hoy": 34999.0,
+    "precio_actual_hoy": 34999.0,
+    "diff_abs": 12500.0,
+    "diff_pct": 55.56
   }
 ]

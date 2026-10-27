@@ -1,16 +1,5 @@
 [
   {
-    "plu": "648",
-    "nombre": "Lechuga Capuchina X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
-    "precio_antes": 2299.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 3700.0,
-    "diff_pct": 160.94
-  },
-  {
     "plu": "13158",
     "nombre": "Limón COSECHA CRIOLLA (Peso Aproximado 1.5 Kg)",
     "marca": "Cosecha Criolla",
@@ -66,17 +55,6 @@
     "diff_pct": 84.21
   },
   {
-    "plu": "17048",
-    "nombre": "Salame milan al vacío SARUBBI x Kg",
-    "marca": "Sarubbi",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 18999.0,
-    "precio_hoy": 34999.0,
-    "precio_actual_hoy": 34999.0,
-    "diff_abs": 16000.0,
-    "diff_pct": 84.21
-  },
-  {
     "plu": "19389",
     "nombre": "Fiambre de Cerdo Sarubbi x Kg",
     "marca": "Sarubbi",
@@ -97,6 +75,17 @@
     "precio_actual_hoy": 35999.0,
     "diff_abs": 16200.0,
     "diff_pct": 81.82
+  },
+  {
+    "plu": "665",
+    "nombre": "Pepino .   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1699.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1300.0,
+    "diff_pct": 76.52
   },
   {
     "plu": "424",
@@ -132,6 +121,50 @@
     "diff_pct": 58.94
   },
   {
+    "plu": "251875",
+    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 3030.0,
+    "precio_actual_hoy": 3030.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 56.27
+  },
+  {
+    "plu": "251876",
+    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 3030.0,
+    "precio_actual_hoy": 3030.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 56.27
+  },
+  {
+    "plu": "483399",
+    "nombre": "Leche Larga Vida Parcialmente Descremada LA SERENISIMA 2% 1l",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 3030.0,
+    "precio_actual_hoy": 3030.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 56.27
+  },
+  {
+    "plu": "511515",
+    "nombre": "Leche Entera Larga Vida 3% Clásica La Serenísima 200 Ml",
+    "marca": "La Serenisima",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "precio_antes": 899.0,
+    "precio_hoy": 1400.0,
+    "precio_actual_hoy": 1400.0,
+    "diff_abs": 501.0,
+    "diff_pct": 55.73
+  },
+  {
     "plu": "65678",
     "nombre": "Espinaca X Uni",
     "marca": NaN,
@@ -141,6 +174,17 @@
     "precio_actual_hoy": 1999.0,
     "diff_abs": 700.0,
     "diff_pct": 53.89
+  },
+  {
+    "plu": "567",
+    "nombre": "Tomate Cherry  X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 6499.0,
+    "precio_hoy": 9999.0,
+    "precio_actual_hoy": 9999.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 53.85
   },
   {
     "plu": "12032",
@@ -154,17 +198,6 @@
     "diff_pct": 53.85
   },
   {
-    "plu": "862",
-    "nombre": "Chaucha Rolliza X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
-    "precio_antes": 5899.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 52.55
-  },
-  {
     "plu": "613",
     "nombre": "Chaucha Balina   Xkg",
     "marca": NaN,
@@ -176,47 +209,14 @@
     "diff_pct": 52.55
   },
   {
-    "plu": "251876",
-    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 2915.0,
-    "precio_actual_hoy": 2915.0,
-    "diff_abs": 976.0,
-    "diff_pct": 50.34
-  },
-  {
-    "plu": "251875",
-    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 2915.0,
-    "precio_actual_hoy": 2915.0,
-    "diff_abs": 976.0,
-    "diff_pct": 50.34
-  },
-  {
-    "plu": "483399",
-    "nombre": "Leche Larga Vida Parcialmente Descremada LA SERENISIMA 2% 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 2915.0,
-    "precio_actual_hoy": 2915.0,
-    "diff_abs": 976.0,
-    "diff_pct": 50.34
-  },
-  {
-    "plu": "42218",
-    "nombre": "Pechuga Con Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Pechuga con Piel > Frescos > Aves",
-    "precio_antes": 7999.0,
-    "precio_hoy": 11999.0,
-    "precio_actual_hoy": 11999.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 50.01
+    "plu": "862",
+    "nombre": "Chaucha Rolliza X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
+    "precio_antes": 5899.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 8999.0,
+    "diff_abs": 3100.0,
+    "diff_pct": 52.55
   }
 ]
