@@ -1,14 +1,36 @@
 [
   {
+    "plu": "2357",
+    "nombre": "Aper.Hierbas . Hesperidi Bot 1 Ltr",
+    "marca": "Hesperidina",
+    "categoria": "Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > Aperitivo Hierbas > APERITIVOS",
+    "precio_antes": 4343.0,
+    "precio_hoy": 15950.0,
+    "precio_actual_hoy": 15950.0,
+    "diff_abs": 11607.0,
+    "diff_pct": 267.26
+  },
+  {
     "plu": "593",
     "nombre": "Berenjena x kg",
     "marca": NaN,
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
     "precio_antes": 1999.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 4299.0,
-    "diff_abs": 2300.0,
-    "diff_pct": 115.06
+    "precio_hoy": 4699.0,
+    "precio_actual_hoy": 4699.0,
+    "diff_abs": 2700.0,
+    "diff_pct": 135.07
+  },
+  {
+    "plu": "35068",
+    "nombre": "Berenjena Especial X Kg   Xkg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2499.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 120.05
   },
   {
     "plu": "862",
@@ -22,15 +44,26 @@
     "diff_pct": 114.31
   },
   {
-    "plu": "35068",
-    "nombre": "Berenjena Especial X Kg   Xkg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 5299.0,
-    "precio_actual_hoy": 5299.0,
-    "diff_abs": 2800.0,
-    "diff_pct": 112.04
+    "plu": "17896",
+    "nombre": "Vieira 1/2valva   Xkg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Mariscos > Congelados",
+    "precio_antes": 30999.0,
+    "precio_hoy": 64999.0,
+    "precio_actual_hoy": 51999.2,
+    "diff_abs": 34000.0,
+    "diff_pct": 109.68
+  },
+  {
+    "plu": "665",
+    "nombre": "Pepino .   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3699.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 105.61
   },
   {
     "plu": "502158",
@@ -53,39 +86,6 @@
     "precio_actual_hoy": 8999.0,
     "diff_abs": 4500.0,
     "diff_pct": 100.02
-  },
-  {
-    "plu": "46851",
-    "nombre": "Queso De Cabra Chevrotin Cabaña Piedras Blancas X Kg",
-    "marca": "Cabañas Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > Frescos",
-    "precio_antes": 49859.0,
-    "precio_hoy": 99725.0,
-    "precio_actual_hoy": 99725.0,
-    "diff_abs": 49866.0,
-    "diff_pct": 100.01
-  },
-  {
-    "plu": "46849",
-    "nombre": "Queso.Cabra T/Feta Piedras Blancas X Kg",
-    "marca": "Cabañas Piedras Blancas",
-    "categoria": "Quesos Especiales > Quesos > QUESOS DE CABRA > QUESOS > Nacionales > Frescos > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 48089.0,
-    "precio_hoy": 96179.0,
-    "precio_actual_hoy": 96179.0,
-    "diff_abs": 48090.0,
-    "diff_pct": 100.0
-  },
-  {
-    "plu": "532472",
-    "nombre": "Queso De Cabra Cabrambrie Piedras Blancas Paq 160 Grm",
-    "marca": "Piedras Blancas",
-    "categoria": "de Cabra > Quesos Especiales > Quesos > Frescos > Blandos",
-    "precio_antes": 7575.0,
-    "precio_hoy": 15149.0,
-    "precio_actual_hoy": 15149.0,
-    "diff_abs": 7574.0,
-    "diff_pct": 99.99
   },
   {
     "plu": "513680",
@@ -115,10 +115,10 @@
     "marca": ".",
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
     "precio_antes": 2399.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 4299.0,
-    "diff_abs": 1900.0,
-    "diff_pct": 79.2
+    "precio_hoy": 4399.0,
+    "precio_actual_hoy": 4399.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 83.37
   },
   {
     "plu": "548",
@@ -130,17 +130,6 @@
     "precio_actual_hoy": 1999.0,
     "diff_abs": 800.0,
     "diff_pct": 66.72
-  },
-  {
-    "plu": "665",
-    "nombre": "Pepino .   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 66.7
   },
   {
     "plu": "490185",
@@ -165,6 +154,17 @@
     "diff_pct": 65.03
   },
   {
+    "plu": "42212",
+    "nombre": "Muslo Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Muslo con Piel > Frescos > Aves",
+    "precio_antes": 4599.0,
+    "precio_hoy": 7499.0,
+    "precio_actual_hoy": 7499.0,
+    "diff_abs": 2900.0,
+    "diff_pct": 63.06
+  },
+  {
     "plu": "1842",
     "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
@@ -187,17 +187,6 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "549",
-    "nombre": "Pomelo Rojo .   Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1599.0,
-    "precio_actual_hoy": 1599.0,
-    "diff_abs": 600.0,
-    "diff_pct": 60.06
-  },
-  {
     "plu": "13238",
     "nombre": "Lima Cosecha Criolla (Peso Aproximado 500g)",
     "marca": "Cosecha Criolla",
@@ -211,6 +200,17 @@
   {
     "plu": "19391",
     "nombre": "Salame milán SARUBBI x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 22499.0,
+    "precio_hoy": 34999.0,
+    "precio_actual_hoy": 34999.0,
+    "diff_abs": 12500.0,
+    "diff_pct": 55.56
+  },
+  {
+    "plu": "17048",
+    "nombre": "Salame milan al vacío SARUBBI x Kg",
     "marca": "Sarubbi",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 22499.0,

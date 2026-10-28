@@ -11,6 +11,17 @@
     "diff_pct": 120.08
   },
   {
+    "plu": "665",
+    "nombre": "Pepino .   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1699.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3699.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 117.72
+  },
+  {
     "plu": "495916",
     "nombre": "Burbuja De Queso Nikitos Paq 80 Grm",
     "marca": "Nikitos",
@@ -55,6 +66,17 @@
     "diff_pct": 84.21
   },
   {
+    "plu": "17048",
+    "nombre": "Salame milan al vacío SARUBBI x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 18999.0,
+    "precio_hoy": 34999.0,
+    "precio_actual_hoy": 34999.0,
+    "diff_abs": 16000.0,
+    "diff_pct": 84.21
+  },
+  {
     "plu": "19389",
     "nombre": "Fiambre de Cerdo Sarubbi x Kg",
     "marca": "Sarubbi",
@@ -77,26 +99,26 @@
     "diff_pct": 81.82
   },
   {
-    "plu": "665",
-    "nombre": "Pepino .   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1699.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 76.52
+    "plu": "35072",
+    "nombre": "Tomate Red Cosecha Criolla x Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.69
   },
   {
-    "plu": "424",
-    "nombre": "Lechuga Mantecosa X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras De Hoja > Verduras > Lechuga > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 2299.0,
-    "precio_hoy": 3699.0,
-    "precio_actual_hoy": 3699.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 60.9
+    "plu": "684",
+    "nombre": "Tomate Red X Kg",
+    "marca": "-",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.69
   },
   {
     "plu": "17843",
@@ -121,10 +143,10 @@
     "diff_pct": 58.94
   },
   {
-    "plu": "251875",
-    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
+    "plu": "251876",
+    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
     "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
     "precio_antes": 1939.0,
     "precio_hoy": 3030.0,
     "precio_actual_hoy": 3030.0,
@@ -132,10 +154,10 @@
     "diff_pct": 56.27
   },
   {
-    "plu": "251876",
-    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
+    "plu": "251875",
+    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
     "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
     "precio_antes": 1939.0,
     "precio_hoy": 3030.0,
     "precio_actual_hoy": 3030.0,
@@ -165,17 +187,6 @@
     "diff_pct": 55.73
   },
   {
-    "plu": "65678",
-    "nombre": "Espinaca X Uni",
-    "marca": NaN,
-    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Espinaca",
-    "precio_antes": 1299.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 700.0,
-    "diff_pct": 53.89
-  },
-  {
     "plu": "567",
     "nombre": "Tomate Cherry  X Kg",
     "marca": NaN,
@@ -202,17 +213,6 @@
     "nombre": "Chaucha Balina   Xkg",
     "marca": NaN,
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
-    "precio_antes": 5899.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 52.55
-  },
-  {
-    "plu": "862",
-    "nombre": "Chaucha Rolliza X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
     "precio_antes": 5899.0,
     "precio_hoy": 8999.0,
     "precio_actual_hoy": 8999.0,
