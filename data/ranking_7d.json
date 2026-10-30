@@ -1,25 +1,25 @@
 [
   {
-    "plu": "566326",
-    "nombre": "Ciruelas President Sin Carozo Natfood 150g",
+    "plu": "267681",
+    "nombre": "Mix Cervecero 100g",
     "marca": "Natfood",
-    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
-    "precio_antes": 799.0,
+    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > FRUTAS Y VERDURAS > FRUTAS SECAS > ALIMENTOS FRESCOS",
+    "precio_antes": 1099.0,
     "precio_hoy": 4499.0,
     "precio_actual_hoy": 4499.0,
-    "diff_abs": 3700.0,
-    "diff_pct": 463.08
+    "diff_abs": 3400.0,
+    "diff_pct": 309.37
   },
   {
-    "plu": "13158",
-    "nombre": "Limón COSECHA CRIOLLA (Peso Aproximado 1.5 Kg)",
-    "marca": "Cosecha Criolla",
-    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
+    "plu": "267682",
+    "nombre": "Mix Europeo 150g",
+    "marca": "Natfood",
+    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > FRUTAS Y VERDURAS > FRUTAS SECAS > ALIMENTOS FRESCOS",
     "precio_antes": 1499.0,
-    "precio_hoy": 3299.0,
-    "precio_actual_hoy": 3299.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 120.08
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 233.49
   },
   {
     "plu": "665",
@@ -27,10 +27,54 @@
     "marca": NaN,
     "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1699.0,
-    "precio_hoy": 3699.0,
-    "precio_actual_hoy": 3699.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 117.72
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 2600.0,
+    "diff_pct": 153.03
+  },
+  {
+    "plu": "614524",
+    "nombre": "Almendras Garrapiñadas Poema 80g",
+    "marca": "Poema",
+    "categoria": "Golosinas > Confituras > Almendras > Almacén",
+    "precio_antes": 2173.91,
+    "precio_hoy": 5174.99,
+    "precio_actual_hoy": 5174.99,
+    "diff_abs": 3001.08,
+    "diff_pct": 138.05
+  },
+  {
+    "plu": "614523",
+    "nombre": "Almendras Bañadas En Chocolate Poema 80g",
+    "marca": "Poema",
+    "categoria": "Golosinas > Confituras > Almendras > Almacén",
+    "precio_antes": 3260.87,
+    "precio_hoy": 6899.99,
+    "precio_actual_hoy": 6899.99,
+    "diff_abs": 3639.12,
+    "diff_pct": 111.6
+  },
+  {
+    "plu": "35072",
+    "nombre": "Tomate Red Cosecha Criolla x Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 5799.0,
+    "precio_actual_hoy": 4929.15,
+    "diff_abs": 2800.0,
+    "diff_pct": 93.36
+  },
+  {
+    "plu": "595531",
+    "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
+    "marca": "Tgi Fridays",
+    "categoria": "Almacén > Aderezos y Salsas",
+    "precio_antes": 8900.0,
+    "precio_hoy": 16950.0,
+    "precio_actual_hoy": 11865.0,
+    "diff_abs": 8050.0,
+    "diff_pct": 90.45
   },
   {
     "plu": "42212",
@@ -44,8 +88,19 @@
     "diff_pct": 87.52
   },
   {
-    "plu": "17048",
-    "nombre": "Salame milan al vacío SARUBBI x Kg",
+    "plu": "563830",
+    "nombre": "Salsa Bbq Miel Sweet Baby Rays 510g",
+    "marca": "Sweet Baby Rays",
+    "categoria": "Almacén > Aderezos y Salsas",
+    "precio_antes": 8900.0,
+    "precio_hoy": 16500.0,
+    "precio_actual_hoy": 11550.0,
+    "diff_abs": 7600.0,
+    "diff_pct": 85.39
+  },
+  {
+    "plu": "19391",
+    "nombre": "Salame milán SARUBBI x Kg",
     "marca": "Sarubbi",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -55,8 +110,8 @@
     "diff_pct": 84.21
   },
   {
-    "plu": "19391",
-    "nombre": "Salame milán SARUBBI x Kg",
+    "plu": "17048",
+    "nombre": "Salame milan al vacío SARUBBI x Kg",
     "marca": "Sarubbi",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 18999.0,
@@ -77,15 +132,48 @@
     "diff_pct": 82.27
   },
   {
+    "plu": "943",
+    "nombre": "Bondiola De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 10500.0,
+    "precio_actual_hoy": 10500.0,
+    "diff_abs": 4501.0,
+    "diff_pct": 75.03
+  },
+  {
     "plu": "684",
     "nombre": "Tomate Red X Kg",
     "marca": "-",
     "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 2799.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2200.0,
-    "diff_pct": 78.6
+    "precio_hoy": 4799.0,
+    "precio_actual_hoy": 4799.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 71.45
+  },
+  {
+    "plu": "616196",
+    "nombre": "Queso Parrillero Tradicional Quata 330g",
+    "marca": "Quata",
+    "categoria": "Quesos > Frescos",
+    "precio_antes": 7699.0,
+    "precio_hoy": 12799.0,
+    "precio_actual_hoy": 12799.0,
+    "diff_abs": 5100.0,
+    "diff_pct": 66.24
+  },
+  {
+    "plu": "602231",
+    "nombre": "Queso Parrillero Con Orégano Quata 300g",
+    "marca": "Quata",
+    "categoria": "Quesos > Frescos",
+    "precio_antes": 7699.0,
+    "precio_hoy": 12799.0,
+    "precio_actual_hoy": 12799.0,
+    "diff_abs": 5100.0,
+    "diff_pct": 66.24
   },
   {
     "plu": "17843",
@@ -110,15 +198,15 @@
     "diff_pct": 58.94
   },
   {
-    "plu": "251875",
-    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 3030.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
+    "plu": "614539",
+    "nombre": "Maní Con Chocolate Poema 80g",
+    "marca": "Poema",
+    "categoria": "Maní > Golosinas > Confituras > Almacén",
+    "precio_antes": 2173.91,
+    "precio_hoy": 3449.99,
+    "precio_actual_hoy": 3449.99,
+    "diff_abs": 1276.08,
+    "diff_pct": 58.7
   },
   {
     "plu": "251876",
@@ -130,93 +218,5 @@
     "precio_actual_hoy": 3030.0,
     "diff_abs": 1091.0,
     "diff_pct": 56.27
-  },
-  {
-    "plu": "483399",
-    "nombre": "Leche Larga Vida Parcialmente Descremada LA SERENISIMA 2% 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 3030.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
-  },
-  {
-    "plu": "64955",
-    "nombre": "Higo Turco X Kg",
-    "marca": NaN,
-    "categoria": "Higos > Frutas y Verduras > Frutas Y Verduras > Frutas Desecadas > Frutas > Frescos",
-    "precio_antes": 31999.0,
-    "precio_hoy": 49999.0,
-    "precio_actual_hoy": 49999.0,
-    "diff_abs": 18000.0,
-    "diff_pct": 56.25
-  },
-  {
-    "plu": "511515",
-    "nombre": "Leche Entera Larga Vida 3% Clásica La Serenísima 200 Ml",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
-    "precio_antes": 899.0,
-    "precio_hoy": 1400.0,
-    "precio_actual_hoy": 1400.0,
-    "diff_abs": 501.0,
-    "diff_pct": 55.73
-  },
-  {
-    "plu": "567",
-    "nombre": "Tomate Cherry  X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 6499.0,
-    "precio_hoy": 9999.0,
-    "precio_actual_hoy": 9999.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 53.85
-  },
-  {
-    "plu": "12032",
-    "nombre": "Jamón Crudo Feteado El Pozo X Kg",
-    "marca": "El Pozo",
-    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
-    "precio_antes": 45499.0,
-    "precio_hoy": 69999.0,
-    "precio_actual_hoy": 69999.0,
-    "diff_abs": 24500.0,
-    "diff_pct": 53.85
-  },
-  {
-    "plu": "613",
-    "nombre": "Chaucha Balina   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
-    "precio_antes": 5899.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 3100.0,
-    "diff_pct": 52.55
-  },
-  {
-    "plu": "35072",
-    "nombre": "Tomate Red Cosecha Criolla x Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4249.15,
-    "diff_abs": 1700.0,
-    "diff_pct": 51.53
-  },
-  {
-    "plu": "42218",
-    "nombre": "Pechuga Con Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Pechuga con Piel > Frescos > Aves",
-    "precio_antes": 7999.0,
-    "precio_hoy": 11999.0,
-    "precio_actual_hoy": 11999.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 50.01
   }
 ]

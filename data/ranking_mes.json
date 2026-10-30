@@ -5,21 +5,21 @@
     "marca": NaN,
     "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1699.0,
-    "precio_hoy": 3699.0,
-    "precio_actual_hoy": 3699.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 117.72
+    "precio_hoy": 4299.0,
+    "precio_actual_hoy": 4299.0,
+    "diff_abs": 2600.0,
+    "diff_pct": 153.03
   },
   {
-    "plu": "795",
-    "nombre": "Berenjena Veteada  x Kg   ",
-    "marca": ".",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2299.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2700.0,
-    "diff_pct": 117.44
+    "plu": "862",
+    "nombre": "Chaucha Rolliza X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
+    "precio_antes": 4499.0,
+    "precio_hoy": 9999.0,
+    "precio_actual_hoy": 9999.0,
+    "diff_abs": 5500.0,
+    "diff_pct": 122.25
   },
   {
     "plu": "17896",
@@ -33,37 +33,26 @@
     "diff_pct": 109.68
   },
   {
+    "plu": "795",
+    "nombre": "Berenjena Veteada  x Kg   ",
+    "marca": ".",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2299.0,
+    "precio_hoy": 4799.0,
+    "precio_actual_hoy": 4799.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 108.74
+  },
+  {
     "plu": "593",
     "nombre": "Berenjena x kg",
     "marca": NaN,
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
     "precio_antes": 2399.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2600.0,
-    "diff_pct": 108.38
-  },
-  {
-    "plu": "502158",
-    "nombre": "Manzana red TRES ASES 1 Kg",
-    "marca": "Tres Ases",
-    "categoria": "Manzanas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "35068",
-    "nombre": "Berenjena Especial X Kg   Xkg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 100.03
+    "precio_hoy": 4799.0,
+    "precio_actual_hoy": 4799.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 100.04
   },
   {
     "plu": "613",
@@ -71,21 +60,43 @@
     "marca": NaN,
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
     "precio_antes": 4499.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 4500.0,
-    "diff_pct": 100.02
+    "precio_hoy": 8799.0,
+    "precio_actual_hoy": 8799.0,
+    "diff_abs": 4300.0,
+    "diff_pct": 95.58
   },
   {
-    "plu": "862",
-    "nombre": "Chaucha Rolliza X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
-    "precio_antes": 4499.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 4500.0,
-    "diff_pct": 100.02
+    "plu": "595531",
+    "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
+    "marca": "Tgi Fridays",
+    "categoria": "Almacén > Aderezos y Salsas",
+    "precio_antes": 8900.0,
+    "precio_hoy": 16950.0,
+    "precio_actual_hoy": 11865.0,
+    "diff_abs": 8050.0,
+    "diff_pct": 90.45
+  },
+  {
+    "plu": "563830",
+    "nombre": "Salsa Bbq Miel Sweet Baby Rays 510g",
+    "marca": "Sweet Baby Rays",
+    "categoria": "Almacén > Aderezos y Salsas",
+    "precio_antes": 8900.0,
+    "precio_hoy": 16500.0,
+    "precio_actual_hoy": 11550.0,
+    "diff_abs": 7600.0,
+    "diff_pct": 85.39
+  },
+  {
+    "plu": "35068",
+    "nombre": "Berenjena Especial X Kg   Xkg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2999.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 83.36
   },
   {
     "plu": "513680",
@@ -93,10 +104,21 @@
     "marca": "Sueño Verde",
     "categoria": "Salsas y Puré de Tomate > Pesto > Almacén",
     "precio_antes": 7999.0,
-    "precio_hoy": 15399.0,
-    "precio_actual_hoy": 15399.0,
-    "diff_abs": 7400.0,
-    "diff_pct": 92.51
+    "precio_hoy": 14599.0,
+    "precio_actual_hoy": 14599.0,
+    "diff_abs": 6600.0,
+    "diff_pct": 82.51
+  },
+  {
+    "plu": "65678",
+    "nombre": "Espinaca X Uni",
+    "marca": NaN,
+    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Espinaca",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1699.15,
+    "diff_abs": 900.0,
+    "diff_pct": 81.89
   },
   {
     "plu": "424",
@@ -121,17 +143,6 @@
     "diff_pct": 66.72
   },
   {
-    "plu": "64953",
-    "nombre": "Higo Negro   Xkg",
-    "marca": NaN,
-    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
-    "precio_antes": 14999.0,
-    "precio_hoy": 24999.0,
-    "precio_actual_hoy": 24999.0,
-    "diff_abs": 10000.0,
-    "diff_pct": 66.67
-  },
-  {
     "plu": "490185",
     "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
     "marca": "Schweppes",
@@ -140,6 +151,17 @@
     "precio_hoy": 2700.0,
     "precio_actual_hoy": 2700.0,
     "diff_abs": 1080.0,
+    "diff_pct": 66.67
+  },
+  {
+    "plu": "64953",
+    "nombre": "Higo Negro   Xkg",
+    "marca": NaN,
+    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
+    "precio_antes": 14999.0,
+    "precio_hoy": 24999.0,
+    "precio_actual_hoy": 24999.0,
+    "diff_abs": 10000.0,
     "diff_pct": 66.67
   },
   {
@@ -165,8 +187,8 @@
     "diff_pct": 63.06
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -176,8 +198,8 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -196,27 +218,5 @@
     "precio_actual_hoy": 3499.0,
     "diff_abs": 1300.0,
     "diff_pct": 59.12
-  },
-  {
-    "plu": "64955",
-    "nombre": "Higo Turco X Kg",
-    "marca": NaN,
-    "categoria": "Higos > Frutas y Verduras > Frutas Y Verduras > Frutas Desecadas > Frutas > Frescos",
-    "precio_antes": 31999.0,
-    "precio_hoy": 49999.0,
-    "precio_actual_hoy": 49999.0,
-    "diff_abs": 18000.0,
-    "diff_pct": 56.25
-  },
-  {
-    "plu": "19391",
-    "nombre": "Salame milán SARUBBI x Kg",
-    "marca": "Sarubbi",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 22499.0,
-    "precio_hoy": 34999.0,
-    "precio_actual_hoy": 34999.0,
-    "diff_abs": 12500.0,
-    "diff_pct": 55.56
   }
 ]
