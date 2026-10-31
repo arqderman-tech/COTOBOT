@@ -11,17 +11,6 @@
     "diff_pct": 153.03
   },
   {
-    "plu": "862",
-    "nombre": "Chaucha Rolliza X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
-    "precio_antes": 4499.0,
-    "precio_hoy": 9999.0,
-    "precio_actual_hoy": 9999.0,
-    "diff_abs": 5500.0,
-    "diff_pct": 122.25
-  },
-  {
     "plu": "17896",
     "nombre": "Vieira 1/2valva   Xkg",
     "marca": "Nuestra Pescaderia",
@@ -44,26 +33,15 @@
     "diff_pct": 108.74
   },
   {
-    "plu": "593",
-    "nombre": "Berenjena x kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 4799.0,
-    "precio_actual_hoy": 4799.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 100.04
-  },
-  {
     "plu": "613",
     "nombre": "Chaucha Balina   Xkg",
     "marca": NaN,
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
     "precio_antes": 4499.0,
-    "precio_hoy": 8799.0,
-    "precio_actual_hoy": 8799.0,
-    "diff_abs": 4300.0,
-    "diff_pct": 95.58
+    "precio_hoy": 9299.0,
+    "precio_actual_hoy": 9299.0,
+    "diff_abs": 4800.0,
+    "diff_pct": 106.69
   },
   {
     "plu": "595531",
@@ -77,6 +55,17 @@
     "diff_pct": 90.45
   },
   {
+    "plu": "862",
+    "nombre": "Chaucha Rolliza X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
+    "precio_antes": 4499.0,
+    "precio_hoy": 8499.0,
+    "precio_actual_hoy": 8499.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 88.91
+  },
+  {
     "plu": "563830",
     "nombre": "Salsa Bbq Miel Sweet Baby Rays 510g",
     "marca": "Sweet Baby Rays",
@@ -86,17 +75,6 @@
     "precio_actual_hoy": 11550.0,
     "diff_abs": 7600.0,
     "diff_pct": 85.39
-  },
-  {
-    "plu": "35068",
-    "nombre": "Berenjena Especial X Kg   Xkg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2999.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 83.36
   },
   {
     "plu": "513680",
@@ -132,26 +110,15 @@
     "diff_pct": 72.03
   },
   {
-    "plu": "548",
-    "nombre": "Pomelo Blanco X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pomelos > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1699.15,
-    "diff_abs": 800.0,
-    "diff_pct": 66.72
-  },
-  {
-    "plu": "490185",
-    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
-    "marca": "Schweppes",
-    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2700.0,
-    "precio_actual_hoy": 2700.0,
-    "diff_abs": 1080.0,
-    "diff_pct": 66.67
+    "plu": "72041",
+    "nombre": "Batata X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Batatas",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 66.69
   },
   {
     "plu": "64953",
@@ -162,6 +129,17 @@
     "precio_hoy": 24999.0,
     "precio_actual_hoy": 24999.0,
     "diff_abs": 10000.0,
+    "diff_pct": 66.67
+  },
+  {
+    "plu": "490185",
+    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
+    "marca": "Schweppes",
+    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2700.0,
+    "precio_actual_hoy": 2700.0,
+    "diff_abs": 1080.0,
     "diff_pct": 66.67
   },
   {
@@ -187,17 +165,6 @@
     "diff_pct": 63.06
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 11463.0,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
-  },
-  {
     "plu": "1842",
     "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
@@ -209,6 +176,28 @@
     "diff_pct": 61.25
   },
   {
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "marca": "American Club",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 7109.0,
+    "precio_hoy": 11463.0,
+    "precio_actual_hoy": 11463.0,
+    "diff_abs": 4354.0,
+    "diff_pct": 61.25
+  },
+  {
+    "plu": "593",
+    "nombre": "Berenjena x kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4799.0,
+    "precio_actual_hoy": 4799.0,
+    "diff_abs": 1800.0,
+    "diff_pct": 60.02
+  },
+  {
     "plu": "13238",
     "nombre": "Lima Cosecha Criolla (Peso Aproximado 500g)",
     "marca": "Cosecha Criolla",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 3499.0,
     "diff_abs": 1300.0,
     "diff_pct": 59.12
+  },
+  {
+    "plu": "8899",
+    "nombre": "Leche Larga Vida Entera COTO Ttb 1 L",
+    "marca": "Coto",
+    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2499.0,
+    "precio_actual_hoy": 1699.07,
+    "diff_abs": 900.0,
+    "diff_pct": 56.29
   }
 ]
