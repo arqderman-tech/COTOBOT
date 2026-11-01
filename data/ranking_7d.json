@@ -1,5 +1,16 @@
 [
   {
+    "plu": "18117",
+    "nombre": "Garbanzo Cosecha Criolla 500g",
+    "marca": "Cosecha Criolla",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 1099.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1900.0,
+    "diff_pct": 172.88
+  },
+  {
     "plu": "665",
     "nombre": "Pepino .   Xkg",
     "marca": NaN,
@@ -9,6 +20,39 @@
     "precio_actual_hoy": 4299.0,
     "diff_abs": 2600.0,
     "diff_pct": 153.03
+  },
+  {
+    "plu": "73162",
+    "nombre": "Poroto Alubia A Granel Por Kg",
+    "marca": "Coto",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 2899.0,
+    "precio_hoy": 6499.0,
+    "precio_actual_hoy": 6499.0,
+    "diff_abs": 3600.0,
+    "diff_pct": 124.18
+  },
+  {
+    "plu": "18099",
+    "nombre": "Poroto Alubia Cosecha Criolla 500g",
+    "marca": "Cosecha Criolla",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 3799.0,
+    "precio_actual_hoy": 3799.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 111.17
+  },
+  {
+    "plu": "628744",
+    "nombre": "Porotos mung Cosecha Criolla 500g",
+    "marca": ".",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 100.04
   },
   {
     "plu": "35072",
@@ -33,6 +77,17 @@
     "diff_pct": 90.45
   },
   {
+    "plu": "73168",
+    "nombre": "Poroto De Soja A Granel Por Kg",
+    "marca": "Coto",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 87.55
+  },
+  {
     "plu": "42212",
     "nombre": "Muslo Con Piel X Kg Congelados",
     "marca": "Coto",
@@ -53,6 +108,39 @@
     "precio_actual_hoy": 11550.0,
     "diff_abs": 7600.0,
     "diff_pct": 85.39
+  },
+  {
+    "plu": "39957",
+    "nombre": "Arvejas Partida A Granel Por Kg",
+    "marca": "Coto",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 1799.0,
+    "precio_hoy": 3299.0,
+    "precio_actual_hoy": 3299.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 83.38
+  },
+  {
+    "plu": "18097",
+    "nombre": "Poroto Negro Cosecha Criolla 500g",
+    "marca": "Cosecha Criolla",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 1899.0,
+    "precio_hoy": 3399.0,
+    "precio_actual_hoy": 3399.0,
+    "diff_abs": 1500.0,
+    "diff_pct": 78.99
+  },
+  {
+    "plu": "73164",
+    "nombre": "Poroto manteca x Kg",
+    "marca": ".",
+    "categoria": "Legumbres > LEGUMBRES > Frutas y Verduras > Frescos > FRUTAS Y VERDURAS > ALIMENTOS FRESCOS",
+    "precio_antes": 3699.0,
+    "precio_hoy": 6499.0,
+    "precio_actual_hoy": 6499.0,
+    "diff_abs": 2800.0,
+    "diff_pct": 75.7
   },
   {
     "plu": "943",
@@ -77,6 +165,28 @@
     "diff_pct": 71.45
   },
   {
+    "plu": "18116",
+    "nombre": "Maíz Pisingallo Cosecha Criolla 500g",
+    "marca": "Cosecha Criolla",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1699.0,
+    "precio_actual_hoy": 1699.0,
+    "diff_abs": 700.0,
+    "diff_pct": 70.07
+  },
+  {
+    "plu": "73163",
+    "nombre": "Poroto Colorado A Granel Por Kg",
+    "marca": "Coto",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 3599.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 66.69
+  },
+  {
     "plu": "72041",
     "nombre": "Batata X Kg",
     "marca": NaN,
@@ -86,17 +196,6 @@
     "precio_actual_hoy": 3999.0,
     "diff_abs": 1600.0,
     "diff_pct": 66.69
-  },
-  {
-    "plu": "602231",
-    "nombre": "Queso Parrillero Con Orégano Quata 300g",
-    "marca": "Quata",
-    "categoria": "Quesos > Frescos",
-    "precio_antes": 7699.0,
-    "precio_hoy": 12799.0,
-    "precio_actual_hoy": 6399.5,
-    "diff_abs": 5100.0,
-    "diff_pct": 66.24
   },
   {
     "plu": "616196",
@@ -110,113 +209,14 @@
     "diff_pct": 66.24
   },
   {
-    "plu": "17843",
-    "nombre": "Filet de merluza despinado con piel x Kg",
-    "marca": "Coto",
-    "categoria": "Pescaderia > Frescos > Filete",
-    "precio_antes": 9990.0,
-    "precio_hoy": 15999.0,
-    "precio_actual_hoy": 12799.2,
-    "diff_abs": 6009.0,
-    "diff_pct": 60.15
-  },
-  {
-    "plu": "42213",
-    "nombre": "Muslo Sin Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Muslo sin Piel > Frescos > Aves",
-    "precio_antes": 5599.0,
-    "precio_hoy": 8899.0,
-    "precio_actual_hoy": 8899.0,
-    "diff_abs": 3300.0,
-    "diff_pct": 58.94
-  },
-  {
-    "plu": "251875",
-    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 2272.5,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
-  },
-  {
-    "plu": "251876",
-    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 2272.5,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
-  },
-  {
-    "plu": "483399",
-    "nombre": "Leche Larga Vida Parcialmente Descremada LA SERENISIMA 2% 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 2272.5,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
-  },
-  {
-    "plu": "64955",
-    "nombre": "Higo Turco X Kg",
-    "marca": NaN,
-    "categoria": "Higos > Frutas y Verduras > Frutas Y Verduras > Frutas Desecadas > Frutas > Frescos",
-    "precio_antes": 31999.0,
-    "precio_hoy": 49999.0,
-    "precio_actual_hoy": 49999.0,
-    "diff_abs": 18000.0,
-    "diff_pct": 56.25
-  },
-  {
-    "plu": "511515",
-    "nombre": "Leche Entera Larga Vida 3% Clásica La Serenísima 200 Ml",
-    "marca": "La Serenisima",
-    "categoria": "Sin Tacc > Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
-    "precio_antes": 899.0,
-    "precio_hoy": 1400.0,
-    "precio_actual_hoy": 1050.0,
-    "diff_abs": 501.0,
-    "diff_pct": 55.73
-  },
-  {
-    "plu": "12032",
-    "nombre": "Jamón Crudo Feteado El Pozo X Kg",
-    "marca": "El Pozo",
-    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
-    "precio_antes": 45499.0,
-    "precio_hoy": 69999.0,
-    "precio_actual_hoy": 69999.0,
-    "diff_abs": 24500.0,
-    "diff_pct": 53.85
-  },
-  {
-    "plu": "213",
-    "nombre": "Asado De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 9000.0,
-    "precio_actual_hoy": 9000.0,
-    "diff_abs": 3001.0,
-    "diff_pct": 50.03
-  },
-  {
-    "plu": "497",
-    "nombre": "Frutillas Selección X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Frutillas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 5999.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 3000.0,
-    "diff_pct": 50.01
+    "plu": "602231",
+    "nombre": "Queso Parrillero Con Orégano Quata 300g",
+    "marca": "Quata",
+    "categoria": "Quesos > Frescos",
+    "precio_antes": 7699.0,
+    "precio_hoy": 12799.0,
+    "precio_actual_hoy": 6399.5,
+    "diff_abs": 5100.0,
+    "diff_pct": 66.24
   }
 ]
