@@ -22,15 +22,15 @@
     "diff_pct": 153.03
   },
   {
-    "plu": "18099",
-    "nombre": "Poroto Alubia Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 3799.0,
-    "precio_actual_hoy": 3799.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 111.17
+    "plu": "65008",
+    "nombre": "Tomate Deshidr.   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 12999.0,
+    "precio_hoy": 28999.0,
+    "precio_actual_hoy": 28999.0,
+    "diff_abs": 16000.0,
+    "diff_pct": 123.09
   },
   {
     "plu": "17896",
@@ -50,9 +50,20 @@
     "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Espinaca",
     "precio_antes": 999.0,
     "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1699.15,
+    "precio_actual_hoy": 1999.0,
     "diff_abs": 1000.0,
     "diff_pct": 100.1
+  },
+  {
+    "plu": "446",
+    "nombre": "Banana Cavendish X Kg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3999.0,
+    "precio_actual_hoy": 3999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 100.05
   },
   {
     "plu": "795",
@@ -64,17 +75,6 @@
     "precio_actual_hoy": 4799.0,
     "diff_abs": 2300.0,
     "diff_pct": 92.04
-  },
-  {
-    "plu": "595531",
-    "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
-    "marca": "Tgi Fridays",
-    "categoria": "Almacén > Aderezos y Salsas",
-    "precio_antes": 8900.0,
-    "precio_hoy": 16950.0,
-    "precio_actual_hoy": 11865.0,
-    "diff_abs": 8050.0,
-    "diff_pct": 90.45
   },
   {
     "plu": "424",
@@ -154,6 +154,17 @@
     "diff_pct": 70.01
   },
   {
+    "plu": "420",
+    "nombre": "Naranja Ombl. .   Xkg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Naranjas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 800.0,
+    "diff_pct": 66.72
+  },
+  {
     "plu": "72041",
     "nombre": "Batata X Kg",
     "marca": NaN,
@@ -207,16 +218,5 @@
     "precio_actual_hoy": 1799.0,
     "diff_abs": 700.0,
     "diff_pct": 63.69
-  },
-  {
-    "plu": "42212",
-    "nombre": "Muslo Con Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Muslo con Piel > Frescos > Aves",
-    "precio_antes": 4599.0,
-    "precio_hoy": 7499.0,
-    "precio_actual_hoy": 7499.0,
-    "diff_abs": 2900.0,
-    "diff_pct": 63.06
   }
 ]
