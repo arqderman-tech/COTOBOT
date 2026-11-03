@@ -1,27 +1,5 @@
 [
   {
-    "plu": "18117",
-    "nombre": "Garbanzo Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1900.0,
-    "diff_pct": 172.88
-  },
-  {
-    "plu": "665",
-    "nombre": "Pepino .   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1699.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 4299.0,
-    "diff_abs": 2600.0,
-    "diff_pct": 153.03
-  },
-  {
     "plu": "65008",
     "nombre": "Tomate Deshidr.   Xkg",
     "marca": NaN,
@@ -31,6 +9,17 @@
     "precio_actual_hoy": 28999.0,
     "diff_abs": 16000.0,
     "diff_pct": 123.09
+  },
+  {
+    "plu": "665",
+    "nombre": "Pepino .   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1699.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3699.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 117.72
   },
   {
     "plu": "17896",
@@ -55,26 +44,15 @@
     "diff_pct": 100.1
   },
   {
-    "plu": "446",
-    "nombre": "Banana Cavendish X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 100.05
-  },
-  {
-    "plu": "795",
-    "nombre": "Berenjena Veteada  x Kg   ",
-    "marca": ".",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4799.0,
-    "precio_actual_hoy": 4799.0,
-    "diff_abs": 2300.0,
-    "diff_pct": 92.04
+    "plu": "595531",
+    "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
+    "marca": "Tgi Fridays",
+    "categoria": "Almacén > Aderezos y Salsas",
+    "precio_antes": 8900.0,
+    "precio_hoy": 16950.0,
+    "precio_actual_hoy": 11865.0,
+    "diff_abs": 8050.0,
+    "diff_pct": 90.45
   },
   {
     "plu": "424",
@@ -110,15 +88,15 @@
     "diff_pct": 85.39
   },
   {
-    "plu": "18097",
-    "nombre": "Poroto Negro Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1899.0,
-    "precio_hoy": 3399.0,
-    "precio_actual_hoy": 3399.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 78.99
+    "plu": "795",
+    "nombre": "Berenjena Veteada  x Kg   ",
+    "marca": ".",
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 4499.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 80.03
   },
   {
     "plu": "943",
@@ -132,17 +110,6 @@
     "diff_pct": 75.03
   },
   {
-    "plu": "18116",
-    "nombre": "Maíz Pisingallo Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1699.0,
-    "precio_actual_hoy": 1699.0,
-    "diff_abs": 700.0,
-    "diff_pct": 70.07
-  },
-  {
     "plu": "862",
     "nombre": "Chaucha Rolliza X Kg",
     "marca": NaN,
@@ -152,17 +119,6 @@
     "precio_actual_hoy": 8499.0,
     "diff_abs": 3500.0,
     "diff_pct": 70.01
-  },
-  {
-    "plu": "420",
-    "nombre": "Naranja Ombl. .   Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Naranjas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 800.0,
-    "diff_pct": 66.72
   },
   {
     "plu": "72041",
@@ -176,17 +132,6 @@
     "diff_pct": 66.69
   },
   {
-    "plu": "490185",
-    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
-    "marca": "Schweppes",
-    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2700.0,
-    "precio_actual_hoy": 2700.0,
-    "diff_abs": 1080.0,
-    "diff_pct": 66.67
-  },
-  {
     "plu": "64953",
     "nombre": "Higo Negro   Xkg",
     "marca": NaN,
@@ -195,6 +140,17 @@
     "precio_hoy": 24999.0,
     "precio_actual_hoy": 24999.0,
     "diff_abs": 10000.0,
+    "diff_pct": 66.67
+  },
+  {
+    "plu": "490185",
+    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
+    "marca": "Schweppes",
+    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2700.0,
+    "precio_actual_hoy": 2249.91,
+    "diff_abs": 1080.0,
     "diff_pct": 66.67
   },
   {
@@ -209,14 +165,58 @@
     "diff_pct": 65.03
   },
   {
-    "plu": "18119",
-    "nombre": "Arvejas Partidas Cosecha Criolla 500g",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "marca": "American Club",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 7109.0,
+    "precio_hoy": 11463.0,
+    "precio_actual_hoy": 11463.0,
+    "diff_abs": 4354.0,
+    "diff_pct": 61.25
+  },
+  {
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "marca": "American Club",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 7109.0,
+    "precio_hoy": 11463.0,
+    "precio_actual_hoy": 11463.0,
+    "diff_abs": 4354.0,
+    "diff_pct": 61.25
+  },
+  {
+    "plu": "64952",
+    "nombre": "Pasa De Uva Con Semillas Moscatel X Kg",
+    "marca": "Coto",
+    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
+    "precio_antes": 5299.0,
+    "precio_hoy": 8499.0,
+    "precio_actual_hoy": 8499.0,
+    "diff_abs": 3200.0,
+    "diff_pct": 60.39
+  },
+  {
+    "plu": "18118",
+    "nombre": "Poroto De Soja Cosecha Criolla 500g",
     "marca": "Cosecha Criolla",
     "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1799.0,
-    "precio_actual_hoy": 1799.0,
-    "diff_abs": 700.0,
-    "diff_pct": 63.69
+    "precio_antes": 999.0,
+    "precio_hoy": 1599.0,
+    "precio_actual_hoy": 1599.0,
+    "diff_abs": 600.0,
+    "diff_pct": 60.06
+  },
+  {
+    "plu": "17929",
+    "nombre": "Surubi Trozado Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado de Rio > Pescaderia > Congelados",
+    "precio_antes": 25999.0,
+    "precio_hoy": 40990.0,
+    "precio_actual_hoy": 40990.0,
+    "diff_abs": 14991.0,
+    "diff_pct": 57.66
   }
 ]

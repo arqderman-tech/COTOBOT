@@ -1,49 +1,5 @@
 [
   {
-    "plu": "18117",
-    "nombre": "Garbanzo Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1900.0,
-    "diff_pct": 172.88
-  },
-  {
-    "plu": "73162",
-    "nombre": "Poroto Alubia A Granel Por Kg",
-    "marca": "Coto",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 2899.0,
-    "precio_hoy": 6499.0,
-    "precio_actual_hoy": 6499.0,
-    "diff_abs": 3600.0,
-    "diff_pct": 124.18
-  },
-  {
-    "plu": "18099",
-    "nombre": "Poroto Alubia Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 3799.0,
-    "precio_actual_hoy": 3799.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 111.17
-  },
-  {
-    "plu": "628744",
-    "nombre": "Porotos mung Cosecha Criolla 500g",
-    "marca": ".",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 100.04
-  },
-  {
     "plu": "17705",
     "nombre": "Nalga  De Cerdo X KG",
     "marca": "Coto",
@@ -132,17 +88,6 @@
     "diff_pct": 85.39
   },
   {
-    "plu": "39957",
-    "nombre": "Arvejas Partida A Granel Por Kg",
-    "marca": "Coto",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 3299.0,
-    "precio_actual_hoy": 3299.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 83.38
-  },
-  {
     "plu": "467990",
     "nombre": "Salsa Barbacoa CASALTA   Pet 335 Gr",
     "marca": "Casalta",
@@ -152,17 +97,6 @@
     "precio_actual_hoy": 5649.0,
     "diff_abs": 2560.0,
     "diff_pct": 82.87
-  },
-  {
-    "plu": "18097",
-    "nombre": "Poroto Negro Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1899.0,
-    "precio_hoy": 3399.0,
-    "precio_actual_hoy": 3399.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 78.99
   },
   {
     "plu": "40333",
@@ -187,36 +121,102 @@
     "diff_pct": 75.7
   },
   {
-    "plu": "665",
-    "nombre": "Pepino .   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 4299.0,
-    "diff_abs": 1800.0,
-    "diff_pct": 72.03
+    "plu": "73163",
+    "nombre": "Poroto Colorado A Granel Por Kg",
+    "marca": "Coto",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 3599.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 3599.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 66.69
   },
   {
-    "plu": "18116",
-    "nombre": "Maíz Pisingallo Cosecha Criolla 500g",
+    "plu": "602231",
+    "nombre": "Queso Parrillero Con Orégano Quata 300g",
+    "marca": "Quata",
+    "categoria": "Quesos > Frescos",
+    "precio_antes": 7699.0,
+    "precio_hoy": 12799.0,
+    "precio_actual_hoy": 12799.0,
+    "diff_abs": 5100.0,
+    "diff_pct": 66.24
+  },
+  {
+    "plu": "45270",
+    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 32999.0,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
+    "plu": "45271",
+    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 32999.0,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
+    "plu": "64952",
+    "nombre": "Pasa De Uva Con Semillas Moscatel X Kg",
+    "marca": "Coto",
+    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
+    "precio_antes": 5299.0,
+    "precio_hoy": 8499.0,
+    "precio_actual_hoy": 8499.0,
+    "diff_abs": 3200.0,
+    "diff_pct": 60.39
+  },
+  {
+    "plu": "18118",
+    "nombre": "Poroto De Soja Cosecha Criolla 500g",
     "marca": "Cosecha Criolla",
     "categoria": "Legumbres > Frutas y Verduras > Frescos",
     "precio_antes": 999.0,
-    "precio_hoy": 1699.0,
-    "precio_actual_hoy": 1699.0,
-    "diff_abs": 700.0,
-    "diff_pct": 70.07
+    "precio_hoy": 1599.0,
+    "precio_actual_hoy": 1599.0,
+    "diff_abs": 600.0,
+    "diff_pct": 60.06
   },
   {
-    "plu": "420",
-    "nombre": "Naranja Ombl. .   Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Naranjas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 800.0,
-    "diff_pct": 66.72
+    "plu": "17939",
+    "nombre": "Langostino Entero Crudo Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Mariscos > Congelados",
+    "precio_antes": 18990.0,
+    "precio_hoy": 29990.0,
+    "precio_actual_hoy": 29990.0,
+    "diff_abs": 11000.0,
+    "diff_pct": 57.93
+  },
+  {
+    "plu": "17929",
+    "nombre": "Surubi Trozado Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado de Rio > Pescaderia > Congelados",
+    "precio_antes": 25999.0,
+    "precio_hoy": 40990.0,
+    "precio_actual_hoy": 40990.0,
+    "diff_abs": 14991.0,
+    "diff_pct": 57.66
+  },
+  {
+    "plu": "64955",
+    "nombre": "Higo Turco X Kg",
+    "marca": NaN,
+    "categoria": "Higos > Frutas y Verduras > Frutas Y Verduras > Frutas Desecadas > Frutas > Frescos",
+    "precio_antes": 31999.0,
+    "precio_hoy": 49999.0,
+    "precio_actual_hoy": 49999.0,
+    "diff_abs": 18000.0,
+    "diff_pct": 56.25
   }
 ]
