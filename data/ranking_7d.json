@@ -1,7 +1,7 @@
 [
   {
-    "plu": "17705",
-    "nombre": "Nalga  De Cerdo X KG",
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -22,8 +22,8 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
+    "plu": "17705",
+    "nombre": "Nalga  De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -50,7 +50,7 @@
     "categoria": "Almacén > Aderezos y Salsas",
     "precio_antes": 8900.0,
     "precio_hoy": 16950.0,
-    "precio_actual_hoy": 11865.0,
+    "precio_actual_hoy": 16950.0,
     "diff_abs": 8050.0,
     "diff_pct": 90.45
   },
@@ -83,7 +83,7 @@
     "categoria": "Almacén > Aderezos y Salsas",
     "precio_antes": 8900.0,
     "precio_hoy": 16500.0,
-    "precio_actual_hoy": 11550.0,
+    "precio_actual_hoy": 16500.0,
     "diff_abs": 7600.0,
     "diff_pct": 85.39
   },
@@ -121,17 +121,6 @@
     "diff_pct": 75.7
   },
   {
-    "plu": "73163",
-    "nombre": "Poroto Colorado A Granel Por Kg",
-    "marca": "Coto",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 3599.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 3599.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 66.69
-  },
-  {
     "plu": "602231",
     "nombre": "Queso Parrillero Con Orégano Quata 300g",
     "marca": "Quata",
@@ -163,6 +152,17 @@
     "precio_actual_hoy": 32999.0,
     "diff_abs": 13000.0,
     "diff_pct": 65.0
+  },
+  {
+    "plu": "571007",
+    "nombre": "Vino Malbec D.O.C. Norton 750ml",
+    "marca": "Norton",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 11746.0,
+    "precio_hoy": 19036.0,
+    "precio_actual_hoy": 19036.0,
+    "diff_abs": 7290.0,
+    "diff_pct": 62.06
   },
   {
     "plu": "64952",

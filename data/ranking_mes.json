@@ -50,7 +50,7 @@
     "categoria": "Almacén > Aderezos y Salsas",
     "precio_antes": 8900.0,
     "precio_hoy": 16950.0,
-    "precio_actual_hoy": 11865.0,
+    "precio_actual_hoy": 16950.0,
     "diff_abs": 8050.0,
     "diff_pct": 90.45
   },
@@ -83,7 +83,7 @@
     "categoria": "Almacén > Aderezos y Salsas",
     "precio_antes": 8900.0,
     "precio_hoy": 16500.0,
-    "precio_actual_hoy": 11550.0,
+    "precio_actual_hoy": 16500.0,
     "diff_abs": 7600.0,
     "diff_pct": 85.39
   },
@@ -132,17 +132,6 @@
     "diff_pct": 66.69
   },
   {
-    "plu": "64953",
-    "nombre": "Higo Negro   Xkg",
-    "marca": NaN,
-    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
-    "precio_antes": 14999.0,
-    "precio_hoy": 24999.0,
-    "precio_actual_hoy": 24999.0,
-    "diff_abs": 10000.0,
-    "diff_pct": 66.67
-  },
-  {
     "plu": "490185",
     "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
     "marca": "Schweppes",
@@ -151,6 +140,17 @@
     "precio_hoy": 2700.0,
     "precio_actual_hoy": 2249.91,
     "diff_abs": 1080.0,
+    "diff_pct": 66.67
+  },
+  {
+    "plu": "64953",
+    "nombre": "Higo Negro   Xkg",
+    "marca": NaN,
+    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
+    "precio_antes": 14999.0,
+    "precio_hoy": 24999.0,
+    "precio_actual_hoy": 24999.0,
+    "diff_abs": 10000.0,
     "diff_pct": 66.67
   },
   {
@@ -165,8 +165,19 @@
     "diff_pct": 65.03
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "plu": "571007",
+    "nombre": "Vino Malbec D.O.C. Norton 750ml",
+    "marca": "Norton",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 11746.0,
+    "precio_hoy": 19036.0,
+    "precio_actual_hoy": 19036.0,
+    "diff_abs": 7290.0,
+    "diff_pct": 62.06
+  },
+  {
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -176,8 +187,8 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -207,16 +218,5 @@
     "precio_actual_hoy": 1599.0,
     "diff_abs": 600.0,
     "diff_pct": 60.06
-  },
-  {
-    "plu": "17929",
-    "nombre": "Surubi Trozado Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescado de Rio > Pescaderia > Congelados",
-    "precio_antes": 25999.0,
-    "precio_hoy": 40990.0,
-    "precio_actual_hoy": 40990.0,
-    "diff_abs": 14991.0,
-    "diff_pct": 57.66
   }
 ]
