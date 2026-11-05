@@ -1,5 +1,38 @@
 [
   {
+    "plu": "258490",
+    "nombre": "Secavidrios VIRULANA 1u",
+    "marca": "Virulana",
+    "categoria": "Secavidrios > Secadores y Cepillos > Secadores De Pisos / Sopapas > Limpieza > Accesorios de Limpieza > Accesorios De Limpieza",
+    "precio_antes": 1992.99,
+    "precio_hoy": 4118.99,
+    "precio_actual_hoy": 4118.99,
+    "diff_abs": 2126.0,
+    "diff_pct": 106.67
+  },
+  {
+    "plu": "219663",
+    "nombre": "Pala Residuos Click Virulana 1u",
+    "marca": "Virulana",
+    "categoria": "Palas y Cabos > Palas de Residuos > PALAS DE RESIDUOS > Limpieza > LIMPIEZA > Accesorios de Limpieza",
+    "precio_antes": 2589.99,
+    "precio_hoy": 5213.99,
+    "precio_actual_hoy": 5213.99,
+    "diff_abs": 2624.0,
+    "diff_pct": 101.31
+  },
+  {
+    "plu": "17705",
+    "nombre": "Nalga  De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
+  },
+  {
     "plu": "17726",
     "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
@@ -20,28 +53,6 @@
     "precio_actual_hoy": 12000.0,
     "diff_abs": 6001.0,
     "diff_pct": 100.03
-  },
-  {
-    "plu": "17705",
-    "nombre": "Nalga  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "11864",
-    "nombre": "Jamon Cocido Español Fetead El Pozo Xkg 1 Kgm",
-    "marca": "El Pozo",
-    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
-    "precio_antes": 17999.0,
-    "precio_hoy": 35999.0,
-    "precio_actual_hoy": 35999.0,
-    "diff_abs": 18000.0,
-    "diff_pct": 100.01
   },
   {
     "plu": "595531",
@@ -75,6 +86,17 @@
     "precio_actual_hoy": 7499.0,
     "diff_abs": 3500.0,
     "diff_pct": 87.52
+  },
+  {
+    "plu": "480567",
+    "nombre": "Pala Plegable Con Cabo Virulana 1u",
+    "marca": "Virulana",
+    "categoria": "Palas y Cabos > Palas de Residuos > Limpieza > Accesorios de Limpieza",
+    "precio_antes": 7333.99,
+    "precio_hoy": 13598.99,
+    "precio_actual_hoy": 13598.99,
+    "diff_abs": 6265.0,
+    "diff_pct": 85.42
   },
   {
     "plu": "563830",
@@ -121,6 +143,17 @@
     "diff_pct": 75.7
   },
   {
+    "plu": "258487",
+    "nombre": "Secador Piso Secarapid Virulana 1u",
+    "marca": "Virulana",
+    "categoria": "Secadores y Cepillos > Secadores de Piso > Secadores De Pisos / Sopapas > Limpieza > Accesorios de Limpieza > Accesorios De Limpieza",
+    "precio_antes": 3500.99,
+    "precio_hoy": 5860.99,
+    "precio_actual_hoy": 5860.99,
+    "diff_abs": 2360.0,
+    "diff_pct": 67.41
+  },
+  {
     "plu": "602231",
     "nombre": "Queso Parrillero Con Orégano Quata 300g",
     "marca": "Quata",
@@ -132,24 +165,24 @@
     "diff_pct": 66.24
   },
   {
-    "plu": "45270",
-    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Especiales > Congelados",
-    "precio_antes": 19999.0,
-    "precio_hoy": 32999.0,
-    "precio_actual_hoy": 32999.0,
-    "diff_abs": 13000.0,
-    "diff_pct": 65.0
-  },
-  {
     "plu": "45271",
     "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Especiales > Congelados",
     "precio_antes": 19999.0,
     "precio_hoy": 32999.0,
-    "precio_actual_hoy": 32999.0,
+    "precio_actual_hoy": 26399.2,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
+    "plu": "45270",
+    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 26399.2,
     "diff_abs": 13000.0,
     "diff_pct": 65.0
   },
@@ -160,20 +193,9 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
     "precio_antes": 11746.0,
     "precio_hoy": 19036.0,
-    "precio_actual_hoy": 19036.0,
+    "precio_actual_hoy": 11421.6,
     "diff_abs": 7290.0,
     "diff_pct": 62.06
-  },
-  {
-    "plu": "64952",
-    "nombre": "Pasa De Uva Con Semillas Moscatel X Kg",
-    "marca": "Coto",
-    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
-    "precio_antes": 5299.0,
-    "precio_hoy": 8499.0,
-    "precio_actual_hoy": 8499.0,
-    "diff_abs": 3200.0,
-    "diff_pct": 60.39
   },
   {
     "plu": "18118",
@@ -193,30 +215,8 @@
     "categoria": "Pescaderia > Mariscos > Congelados",
     "precio_antes": 18990.0,
     "precio_hoy": 29990.0,
-    "precio_actual_hoy": 29990.0,
+    "precio_actual_hoy": 23992.0,
     "diff_abs": 11000.0,
     "diff_pct": 57.93
-  },
-  {
-    "plu": "17929",
-    "nombre": "Surubi Trozado Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescado de Rio > Pescaderia > Congelados",
-    "precio_antes": 25999.0,
-    "precio_hoy": 40990.0,
-    "precio_actual_hoy": 40990.0,
-    "diff_abs": 14991.0,
-    "diff_pct": 57.66
-  },
-  {
-    "plu": "64955",
-    "nombre": "Higo Turco X Kg",
-    "marca": NaN,
-    "categoria": "Higos > Frutas y Verduras > Frutas Y Verduras > Frutas Desecadas > Frutas > Frescos",
-    "precio_antes": 31999.0,
-    "precio_hoy": 49999.0,
-    "precio_actual_hoy": 49999.0,
-    "diff_abs": 18000.0,
-    "diff_pct": 56.25
   }
 ]

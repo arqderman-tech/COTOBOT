@@ -11,26 +11,26 @@
     "diff_pct": 123.09
   },
   {
-    "plu": "665",
-    "nombre": "Pepino .   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1699.0,
-    "precio_hoy": 3699.0,
-    "precio_actual_hoy": 3699.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 117.72
-  },
-  {
     "plu": "17896",
     "nombre": "Vieira 1/2valva   Xkg",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Mariscos > Congelados",
     "precio_antes": 30999.0,
     "precio_hoy": 64999.0,
-    "precio_actual_hoy": 64999.0,
+    "precio_actual_hoy": 51999.2,
     "diff_abs": 34000.0,
     "diff_pct": 109.68
+  },
+  {
+    "plu": "628767",
+    "nombre": "Papas Mix Huercal del Famataca 500g",
+    "marca": "Huertos Del Ran",
+    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2699.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 2800.0,
+    "diff_pct": 103.74
   },
   {
     "plu": "65678",
@@ -44,6 +44,61 @@
     "diff_pct": 100.1
   },
   {
+    "plu": "17703",
+    "nombre": "Bola De Lomo  De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
+  },
+  {
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
+  },
+  {
+    "plu": "17705",
+    "nombre": "Nalga  De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
+  },
+  {
+    "plu": "665",
+    "nombre": "Pepino .   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3899.0,
+    "precio_actual_hoy": 3314.15,
+    "diff_abs": 1900.0,
+    "diff_pct": 95.05
+  },
+  {
+    "plu": "93545",
+    "nombre": "Papa Asterix X Kg",
+    "marca": "Coto",
+    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 1699.0,
+    "precio_hoy": 3299.0,
+    "precio_actual_hoy": 3299.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 94.17
+  },
+  {
     "plu": "595531",
     "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
     "marca": "Tgi Fridays",
@@ -53,28 +108,6 @@
     "precio_actual_hoy": 16950.0,
     "diff_abs": 8050.0,
     "diff_pct": 90.45
-  },
-  {
-    "plu": "424",
-    "nombre": "Lechuga Mantecosa X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras De Hoja > Verduras > Lechuga > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 2299.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 4299.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 86.99
-  },
-  {
-    "plu": "613",
-    "nombre": "Chaucha Balina   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
-    "precio_antes": 4999.0,
-    "precio_hoy": 9299.0,
-    "precio_actual_hoy": 9299.0,
-    "diff_abs": 4300.0,
-    "diff_pct": 86.02
   },
   {
     "plu": "563830",
@@ -88,26 +121,15 @@
     "diff_pct": 85.39
   },
   {
-    "plu": "795",
-    "nombre": "Berenjena Veteada  x Kg   ",
-    "marca": ".",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 80.03
-  },
-  {
-    "plu": "943",
-    "nombre": "Bondiola De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 10500.0,
-    "precio_actual_hoy": 10500.0,
-    "diff_abs": 4501.0,
-    "diff_pct": 75.03
+    "plu": "613",
+    "nombre": "Chaucha Balina   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
+    "precio_antes": 4999.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 8999.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 80.02
   },
   {
     "plu": "862",
@@ -127,20 +149,9 @@
     "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Batatas",
     "precio_antes": 2399.0,
     "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
+    "precio_actual_hoy": 3399.15,
     "diff_abs": 1600.0,
     "diff_pct": 66.69
-  },
-  {
-    "plu": "490185",
-    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
-    "marca": "Schweppes",
-    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2700.0,
-    "precio_actual_hoy": 2249.91,
-    "diff_abs": 1080.0,
-    "diff_pct": 66.67
   },
   {
     "plu": "64953",
@@ -151,6 +162,17 @@
     "precio_hoy": 24999.0,
     "precio_actual_hoy": 24999.0,
     "diff_abs": 10000.0,
+    "diff_pct": 66.67
+  },
+  {
+    "plu": "490185",
+    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
+    "marca": "Schweppes",
+    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+    "precio_antes": 1620.0,
+    "precio_hoy": 2700.0,
+    "precio_actual_hoy": 2249.91,
+    "diff_abs": 1080.0,
     "diff_pct": 66.67
   },
   {
@@ -171,20 +193,9 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
     "precio_antes": 11746.0,
     "precio_hoy": 19036.0,
-    "precio_actual_hoy": 19036.0,
+    "precio_actual_hoy": 11421.6,
     "diff_abs": 7290.0,
     "diff_pct": 62.06
-  },
-  {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 11463.0,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
   },
   {
     "plu": "102942",
@@ -198,25 +209,14 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "64952",
-    "nombre": "Pasa De Uva Con Semillas Moscatel X Kg",
-    "marca": "Coto",
-    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
-    "precio_antes": 5299.0,
-    "precio_hoy": 8499.0,
-    "precio_actual_hoy": 8499.0,
-    "diff_abs": 3200.0,
-    "diff_pct": 60.39
-  },
-  {
-    "plu": "18118",
-    "nombre": "Poroto De Soja Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1599.0,
-    "precio_actual_hoy": 1599.0,
-    "diff_abs": 600.0,
-    "diff_pct": 60.06
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "marca": "American Club",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 7109.0,
+    "precio_hoy": 11463.0,
+    "precio_actual_hoy": 11463.0,
+    "diff_abs": 4354.0,
+    "diff_pct": 61.25
   }
 ]
