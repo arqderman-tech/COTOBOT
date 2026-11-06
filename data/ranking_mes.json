@@ -55,8 +55,8 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
+    "plu": "17705",
+    "nombre": "Nalga  De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -66,8 +66,8 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "17705",
-    "nombre": "Nalga  De Cerdo X KG",
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -121,50 +121,6 @@
     "diff_pct": 85.39
   },
   {
-    "plu": "613",
-    "nombre": "Chaucha Balina   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
-    "precio_antes": 4999.0,
-    "precio_hoy": 8999.0,
-    "precio_actual_hoy": 8999.0,
-    "diff_abs": 4000.0,
-    "diff_pct": 80.02
-  },
-  {
-    "plu": "862",
-    "nombre": "Chaucha Rolliza X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos > Chauchas",
-    "precio_antes": 4999.0,
-    "precio_hoy": 8499.0,
-    "precio_actual_hoy": 8499.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 70.01
-  },
-  {
-    "plu": "72041",
-    "nombre": "Batata X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Batatas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3399.15,
-    "diff_abs": 1600.0,
-    "diff_pct": 66.69
-  },
-  {
-    "plu": "64953",
-    "nombre": "Higo Negro   Xkg",
-    "marca": NaN,
-    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Desecadas > Frescos",
-    "precio_antes": 14999.0,
-    "precio_hoy": 24999.0,
-    "precio_actual_hoy": 24999.0,
-    "diff_abs": 10000.0,
-    "diff_pct": 66.67
-  },
-  {
     "plu": "490185",
     "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
     "marca": "Schweppes",
@@ -198,6 +154,17 @@
     "diff_pct": 62.06
   },
   {
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "marca": "American Club",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 7109.0,
+    "precio_hoy": 11463.0,
+    "precio_actual_hoy": 11463.0,
+    "diff_abs": 4354.0,
+    "diff_pct": 61.25
+  },
+  {
     "plu": "102942",
     "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
@@ -209,14 +176,47 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 11463.0,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
+    "plu": "424",
+    "nombre": "Lechuga Mantecosa X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras De Hoja > Verduras > Lechuga > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3144.15,
+    "diff_abs": 1400.0,
+    "diff_pct": 60.9
+  },
+  {
+    "plu": "18118",
+    "nombre": "Poroto De Soja Cosecha Criolla 500g",
+    "marca": "Cosecha Criolla",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1599.0,
+    "precio_actual_hoy": 1599.0,
+    "diff_abs": 600.0,
+    "diff_pct": 60.06
+  },
+  {
+    "plu": "489269",
+    "nombre": "Vino Cabernet Franc Séptima Obra 750ml",
+    "marca": "Septima Obra",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 10528.0,
+    "precio_hoy": 16850.0,
+    "precio_actual_hoy": 10110.0,
+    "diff_abs": 6322.0,
+    "diff_pct": 60.05
+  },
+  {
+    "plu": "613",
+    "nombre": "Chaucha Balina   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
+    "precio_antes": 4999.0,
+    "precio_hoy": 7999.0,
+    "precio_actual_hoy": 7999.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 60.01
   }
 ]
