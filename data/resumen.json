@@ -1,27 +1,27 @@
 {
-  "fecha": "20261106",
-  "total_productos": 14914,
-  "variacion_dia": -0.13,
-  "variacion_7d": 0.44,
-  "variacion_mes": 1.63,
-  "variacion_6m": 8.62,
+  "fecha": "20261107",
+  "total_productos": 14896,
+  "variacion_dia": 0.02,
+  "variacion_7d": 0.42,
+  "variacion_mes": 2.19,
+  "variacion_6m": 8.35,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": -0.51,
-      "productos_subieron": 0,
-      "productos_bajaron": 56,
-      "productos_sin_cambio": 2845,
-      "total_productos": 2901
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 20,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2874,
+      "total_productos": 2894
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 10,
-      "productos_bajaron": 13,
-      "productos_sin_cambio": 1654,
-      "total_productos": 1677
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1681,
+      "total_productos": 1681
     },
     {
       "categoria": "Congelados",
@@ -36,16 +36,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 366,
-      "total_productos": 366
+      "productos_sin_cambio": 365,
+      "total_productos": 365
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 704,
-      "total_productos": 704
+      "productos_sin_cambio": 703,
+      "total_productos": 703
     },
     {
       "categoria": "Vinos > Moscato > Bebidas con Alcohol > Bebidas",
@@ -241,10 +241,10 @@
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -2.08,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 7,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 8,
       "total_productos": 8
     },
     {
@@ -257,10 +257,10 @@
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -2.78,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -353,11 +353,11 @@
     },
     {
       "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas sin Gas > Aguas",
-      "variacion_pct_promedio": 0.24,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 56,
-      "total_productos": 57
+      "total_productos": 56
     },
     {
       "categoria": "Bebidas sin Alcohol > Bebidas > Amargos",
@@ -476,8 +476,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 44,
-      "total_productos": 44
+      "productos_sin_cambio": 43,
+      "total_productos": 43
     },
     {
       "categoria": "Arroz y Legumbres > Arroz Preparado > Arroz > Almacén",
@@ -516,8 +516,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 8
+      "productos_sin_cambio": 9,
+      "total_productos": 9
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite Maiz",
@@ -540,8 +540,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 78,
-      "total_productos": 78
+      "productos_sin_cambio": 77,
+      "total_productos": 77
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite de Coco",
@@ -740,8 +740,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 38,
-      "total_productos": 38
+      "productos_sin_cambio": 39,
+      "total_productos": 39
     },
     {
       "categoria": "Frutillas > Frutas y Verduras > Frutas > Frescos",
@@ -761,10 +761,10 @@
     },
     {
       "categoria": "Frescos > Embutidos > EMBUTIDOS > Carniceria > CARNICERIA > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": -6.46,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 8,
-      "productos_sin_cambio": 5,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 13,
       "total_productos": 13
     },
     {
@@ -884,23 +884,23 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 26,
-      "total_productos": 26
+      "productos_sin_cambio": 24,
+      "total_productos": 24
     },
     {
       "categoria": "Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
-      "variacion_pct_promedio": -18.19,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "Legumbres > Frutas y Verduras > Frescos > Dietetica > Arvejas > Arroz y Legumbres > Almacén",
-      "variacion_pct_promedio": -18.19,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -1340,8 +1340,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 64,
-      "total_productos": 64
+      "productos_sin_cambio": 63,
+      "total_productos": 63
     },
     {
       "categoria": "Medallones de Carne Vacuna > Hamburguesas y Milanesas > Hamburguesas y Medallones > Congelados",
@@ -1436,8 +1436,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 10,
-      "total_productos": 10
+      "productos_sin_cambio": 9,
+      "total_productos": 9
     },
     {
       "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
@@ -1692,8 +1692,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 27,
-      "total_productos": 27
+      "productos_sin_cambio": 28,
+      "total_productos": 28
     },
     {
       "categoria": "Nuggets, Patitas y Bocaditos > Nuggets > Congelados",
@@ -1801,10 +1801,10 @@
     },
     {
       "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": -12.92,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 4,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 6,
       "total_productos": 6
     },
     {
@@ -1849,10 +1849,10 @@
     },
     {
       "categoria": "Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 14.31,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
+      "productos_sin_cambio": 0,
       "total_productos": 2
     },
     {
@@ -1881,10 +1881,10 @@
     },
     {
       "categoria": "Panaderia Propia > Panaderia > Facturas y Media Lunas > Almacén",
-      "variacion_pct_promedio": 4.9,
-      "productos_subieron": 7,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
+      "productos_sin_cambio": 14,
       "total_productos": 14
     },
     {
@@ -1908,8 +1908,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas > Dulces > Almacén",
@@ -1937,11 +1937,11 @@
     },
     {
       "categoria": "Panaderia > Obleas > Galletitas Rellenas y Obleas > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 2.17,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
       "productos_sin_cambio": 12,
-      "total_productos": 12
+      "total_productos": 14
     },
     {
       "categoria": "Panaderia > Obleas > Galletitas Y Bizcochos > Galletitas Rellenas y Obleas > Galletitas Rellenas > Galletitas > Almacén",
@@ -1980,8 +1980,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 14,
-      "total_productos": 14
+      "productos_sin_cambio": 13,
+      "total_productos": 13
     },
     {
       "categoria": "Panaderia > Galletitas Crackers > Galletitas > Almacén",
@@ -2052,8 +2052,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
+      "productos_sin_cambio": 7,
+      "total_productos": 7
     },
     {
       "categoria": "Panaderia > Dulces > Bizcochos > Almacén",
@@ -2081,10 +2081,10 @@
     },
     {
       "categoria": "Panaderia > Galletas, Tostadas y Grisines > Galletas y Grisines > Galletas de Arroz > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.9,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
+      "productos_sin_cambio": 6,
       "total_productos": 7
     },
     {
@@ -2105,10 +2105,10 @@
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Pan de Naranja > Almacén",
-      "variacion_pct_promedio": 9.84,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -2121,10 +2121,10 @@
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Pan de Trenza > Almacén",
-      "variacion_pct_promedio": 5.51,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -2145,18 +2145,18 @@
     },
     {
       "categoria": "Panificados > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Pan Por Kilo Y Por Unidad > Ciabatta > Almacén",
-      "variacion_pct_promedio": 9.97,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Figazzita > Figacitas > Almacén",
-      "variacion_pct_promedio": 2.74,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -2169,10 +2169,10 @@
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Galleta Campera > Almacén",
-      "variacion_pct_promedio": 2.5,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -2193,10 +2193,10 @@
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Pan Pebete > Almacén",
-      "variacion_pct_promedio": 4.77,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -2233,18 +2233,18 @@
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Bollitos > Almacén",
-      "variacion_pct_promedio": 2.46,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
+      "productos_sin_cambio": 4,
       "total_productos": 4
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Chips > Almacén",
-      "variacion_pct_promedio": 2.39,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -2257,18 +2257,18 @@
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Cremona > Almacén",
-      "variacion_pct_promedio": 4.95,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Cuernitos > Almacén",
-      "variacion_pct_promedio": 5.26,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -2289,10 +2289,10 @@
     },
     {
       "categoria": "Panadería Elaboración Propia > Panaderia Propia > Panaderia > Facturas, Masas Y Galletitas > Facturas y Media Lunas > Facturas > Almacén",
-      "variacion_pct_promedio": 10.01,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -2321,10 +2321,10 @@
     },
     {
       "categoria": "Panificados > Panaderia > Molde > Almacén",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -0.7,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 62,
+      "productos_bajaron": 7,
+      "productos_sin_cambio": 55,
       "total_productos": 62
     },
     {
@@ -2452,8 +2452,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 75,
-      "total_productos": 75
+      "productos_sin_cambio": 76,
+      "total_productos": 76
     },
     {
       "categoria": "Pastas Rellenas > Pastas Frescas y Tapas > PASTAS > Frescos > ELABORACIÓN PROPIA > ALIMENTOS FRESCOS",
@@ -2473,10 +2473,10 @@
     },
     {
       "categoria": "Papaya > Frutas y Verduras > Frutas > Frescos",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -10.0,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 0,
       "total_productos": 1
     },
     {
@@ -2553,18 +2553,18 @@
     },
     {
       "categoria": "Panificados > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Pan de Campo > Pan Por Kilo Y Por Unidad > Almacén",
-      "variacion_pct_promedio": 4.92,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "Panificados > Panecillos Rellenos > Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 9.68,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -2660,8 +2660,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Perfumería > Desodorantes y Antitranspirantes > Desodorantes",
@@ -2700,8 +2700,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 72,
-      "total_productos": 72
+      "productos_sin_cambio": 71,
+      "total_productos": 71
     },
     {
       "categoria": "Perfumería > Locion > Cuidado de la Piel",
@@ -2780,8 +2780,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 52,
-      "total_productos": 52
+      "productos_sin_cambio": 51,
+      "total_productos": 51
     },
     {
       "categoria": "Perfumería > Desodorantes y Antitranspirantes > Antitranspirantes Masculinos > Antitranspirantes Femeninos > Antitranspirantes",
@@ -2993,10 +2993,10 @@
     },
     {
       "categoria": "Pescado de Mar > Pescaderia > Filete > Congelados",
-      "variacion_pct_promedio": -3.11,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 12,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 14,
       "total_productos": 14
     },
     {
@@ -3012,8 +3012,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 17,
-      "total_productos": 17
+      "productos_sin_cambio": 18,
+      "total_productos": 18
     },
     {
       "categoria": "Pescado de Rio > Pescaderia > PESCADOS Y MARISCOS > PESCADOS > Congelados > ALIMENTOS FRESCOS",
@@ -3065,19 +3065,19 @@
     },
     {
       "categoria": "Pescaderia > Frescos > Filete",
-      "variacion_pct_promedio": -2.87,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 6,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 7,
       "total_productos": 7
     },
     {
       "categoria": "Pescaderia > Mariscos > Congelados",
-      "variacion_pct_promedio": -0.86,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 28,
-      "total_productos": 29
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 30,
+      "total_productos": 30
     },
     {
       "categoria": "Pescaderia > Mariscos > Congelados > Camarones Y Langostinos",
@@ -3233,11 +3233,11 @@
     },
     {
       "categoria": "Rebozados > Pescaderia > Congelados",
-      "variacion_pct_promedio": 0.23,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 33,
-      "total_productos": 34
+      "productos_sin_cambio": 39,
+      "total_productos": 39
     },
     {
       "categoria": "Productos Navideños > Panaderia Propia > Panaderia > Budines y Muffins > Budines > Bizcochuelos, Budines Y Otros > Almacén",
@@ -3249,18 +3249,18 @@
     },
     {
       "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -2.68,
-      "productos_subieron": 1,
-      "productos_bajaron": 4,
-      "productos_sin_cambio": 22,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 27,
       "total_productos": 27
     },
     {
       "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > Dietetica",
-      "variacion_pct_promedio": -14.64,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
@@ -3316,8 +3316,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 28,
-      "total_productos": 28
+      "productos_sin_cambio": 26,
+      "total_productos": 26
     },
     {
       "categoria": "Premezcla Postres > Polvo para Postres y Reposteria > Helados > Almacén",
@@ -3345,18 +3345,18 @@
     },
     {
       "categoria": "Prepizza > Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 2.17,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
+      "productos_sin_cambio": 9,
       "total_productos": 9
     },
     {
       "categoria": "Prepizza > Pizzas Y Sándwiches > Pizzas Y Pizzetas > Panificados > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 2.57,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -3409,11 +3409,11 @@
     },
     {
       "categoria": "Sandias > Frutas y Verduras > Frutas > Frescos",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -8.34,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 1,
       "productos_sin_cambio": 2,
-      "total_productos": 2
+      "total_productos": 3
     },
     {
       "categoria": "Sandwiches > Panaderia > Galletitas Crackers > Galletitas > Almacén",
@@ -3644,8 +3644,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 288,
-      "total_productos": 288
+      "productos_sin_cambio": 290,
+      "total_productos": 290
     },
     {
       "categoria": "Sidras > Bebidas sin Alcohol > Bebidas",
@@ -3708,8 +3708,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 19,
-      "total_productos": 19
+      "productos_sin_cambio": 18,
+      "total_productos": 18
     },
     {
       "categoria": "Semillas > Panaderia > Galletitas Y Bizcochos > Galletitas Crackers > Galletitas > Crackers > Almacén",
@@ -3721,10 +3721,10 @@
     },
     {
       "categoria": "Semola > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
-      "variacion_pct_promedio": -14.3,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -3732,8 +3732,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 143,
-      "total_productos": 143
+      "productos_sin_cambio": 141,
+      "total_productos": 141
     },
     {
       "categoria": "Semola > Pastas Secas > Pasta Seca, Lista y Rellenas > Fideos > Almacén",
@@ -3777,10 +3777,10 @@
     },
     {
       "categoria": "Secas > Rellenas Dulces > Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 3.37,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_sin_cambio": 0,
       "total_productos": 1
     },
     {
@@ -3873,11 +3873,11 @@
     },
     {
       "categoria": "Secas > Panaderia > Galletitas Dulces > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.35,
+      "productos_subieron": 3,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 113,
-      "total_productos": 113
+      "productos_sin_cambio": 109,
+      "total_productos": 112
     },
     {
       "categoria": "Sin Tacc > Postres Helados > Helados y Postres > Congelados",
@@ -3980,8 +3980,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 29,
-      "total_productos": 29
+      "productos_sin_cambio": 27,
+      "total_productos": 27
     },
     {
       "categoria": "Sin Tacc > Miel > Mermeladas y Dulces > Almacén",
@@ -4209,10 +4209,10 @@
     },
     {
       "categoria": "Surtidas > Panaderia > Galletitas Dulces > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 3.03,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
+      "productos_sin_cambio": 5,
       "total_productos": 6
     },
     {
@@ -4393,10 +4393,10 @@
     },
     {
       "categoria": "Trigo > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
-      "variacion_pct_promedio": -27.1,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -4412,16 +4412,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Turrones y Confituras > Productos Navideños > Panaderia > Confituras > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
-      "total_productos": 9
+      "productos_sin_cambio": 13,
+      "total_productos": 13
     },
     {
       "categoria": "Turrones y Confituras > Productos Navideños > Panaderia > Golosinas Navidad > Confituras > Almacén",
@@ -4436,8 +4436,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 10,
-      "total_productos": 10
+      "productos_sin_cambio": 12,
+      "total_productos": 12
     },
     {
       "categoria": "Uvas > Frutas y Verduras > Frutas > Frescos",
@@ -4465,10 +4465,10 @@
     },
     {
       "categoria": "Tostadas Y Grisines > Panificados > Panaderia > Galletas, Tostadas y Grisines > Galletas y Grisines > Galletas de Arroz > Galletas Y Grisines > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 13.33,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
+      "productos_sin_cambio": 0,
       "total_productos": 1
     },
     {
@@ -4500,8 +4500,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 78,
-      "total_productos": 78
+      "productos_sin_cambio": 76,
+      "total_productos": 76
     },
     {
       "categoria": "Trenzas > Panificados > Panaderia Propia > Panaderia > Almacén",
@@ -4553,34 +4553,34 @@
     },
     {
       "categoria": "Tortas > Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 4.13,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
+      "productos_sin_cambio": 10,
       "total_productos": 10
     },
     {
       "categoria": "Tortas > Rotisería > Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 10.0,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "Tortillas > Panificados > Panaderia > Almacén",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -3.05,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 12,
-      "total_productos": 12
+      "productos_bajaron": 7,
+      "productos_sin_cambio": 6,
+      "total_productos": 13
     },
     {
       "categoria": "Tortitas > Panificados > Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 2.66,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
+      "productos_sin_cambio": 6,
       "total_productos": 6
     },
     {
@@ -4689,10 +4689,10 @@
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Cebolla de Verdeo",
-      "variacion_pct_promedio": -6.45,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -4721,10 +4721,10 @@
     },
     {
       "categoria": "Verduras > Jengibre > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -30.0,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -4737,10 +4737,10 @@
     },
     {
       "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -8.57,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 4,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 7,
       "total_productos": 7
     },
     {
@@ -4753,26 +4753,26 @@
     },
     {
       "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -18.16,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
       "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -2.79,
-      "productos_subieron": 3,
-      "productos_bajaron": 5,
-      "productos_sin_cambio": 3,
-      "total_productos": 11
+      "variacion_pct_promedio": -1.27,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 11,
+      "total_productos": 12
     },
     {
       "categoria": "Verduras > Verdura Empacada > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.5,
+      "productos_subieron": 2,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 79,
+      "productos_sin_cambio": 77,
       "total_productos": 79
     },
     {
@@ -4793,34 +4793,34 @@
     },
     {
       "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajo",
-      "variacion_pct_promedio": -22.62,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
       "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajíes",
-      "variacion_pct_promedio": 11.92,
-      "productos_subieron": 2,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -9.61,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
       "productos_sin_cambio": 2,
       "total_productos": 4
     },
     {
       "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Batatas",
-      "variacion_pct_promedio": -7.48,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
       "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Berenjenas",
-      "variacion_pct_promedio": 1.92,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
@@ -4833,10 +4833,10 @@
     },
     {
       "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Chauchas",
-      "variacion_pct_promedio": -11.11,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -4844,8 +4844,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
-      "total_productos": 7
+      "productos_sin_cambio": 6,
+      "total_productos": 6
     },
     {
       "categoria": "Vainillas > Panaderia > Galletitas Y Bizcochos > Dulces > Bizcochuelos y Especialidades > Bizcochuelos Y Especialidades > Almacén",
@@ -4865,18 +4865,18 @@
     },
     {
       "categoria": "Varios > Panaderia > Galletitas Y Bizcochos > Bizcochuelos y Especialidades > Bizcochuelos Y Especialidades > Biscuits > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 7.59,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
+      "productos_sin_cambio": 1,
       "total_productos": 2
     },
     {
       "categoria": "Varios > Panaderia > Galletitas Y Bizcochos > Dulces > Bizcochos > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 4.44,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
+      "productos_sin_cambio": 3,
       "total_productos": 4
     },
     {
@@ -4889,18 +4889,18 @@
     },
     {
       "categoria": "Varios > Salados > Panaderia > Galletitas Y Bizcochos > Bizcochos > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 8.88,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
+      "productos_sin_cambio": 1,
       "total_productos": 2
     },
     {
       "categoria": "Varitas de Surimi > Pescaderia > Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 4.79,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
+      "productos_sin_cambio": 5,
       "total_productos": 6
     },
     {
@@ -4921,10 +4921,10 @@
     },
     {
       "categoria": "Frescos > Carniceria > Carnes > Bovinos",
-      "variacion_pct_promedio": -0.94,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 31,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 33,
       "total_productos": 33
     },
     {
@@ -5132,8 +5132,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 190,
-      "total_productos": 190
+      "productos_sin_cambio": 188,
+      "total_productos": 188
     },
     {
       "categoria": "Vodka > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
@@ -5201,26 +5201,26 @@
     },
     {
       "categoria": "Zanahoria > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -6.9,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
       "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -11.25,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
       "categoria": "Zapallos > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -3.33,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
@@ -5233,11 +5233,11 @@
     },
     {
       "categoria": "con Relleno > Panaderia > Galletitas Dulces > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.25,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 75,
-      "total_productos": 75
+      "productos_sin_cambio": 73,
+      "total_productos": 74
     },
     {
       "categoria": "con Relleno > Panaderia > Galletitas Rellenas > Galletitas Dulces > Galletitas > Almacén",
@@ -5268,8 +5268,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
-      "total_productos": 7
+      "productos_sin_cambio": 6,
+      "total_productos": 6
     },
     {
       "categoria": "con Sal > Panaderia > Galletitas Y Bizcochos > Galletitas Cereales > Galletitas > Dulces > Almacén",
@@ -5284,8 +5284,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 70,
-      "total_productos": 70
+      "productos_sin_cambio": 71,
+      "total_productos": 71
     },
     {
       "categoria": "para Auto > Limpieza > Desodorantes de Ambiente > Aromatizantes de Ambiente",
@@ -5313,42 +5313,42 @@
     },
     {
       "categoria": "para Hamburguesa > Panificados > Panaderia > Almacén",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -1.89,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 18,
+      "productos_bajaron": 6,
+      "productos_sin_cambio": 12,
       "total_productos": 18
     },
     {
       "categoria": "para Hamburguesa > Panificados > Panaderia Propia > Panaderia > Pan de Hamburguesa > Pan Para Hamburguesas Y Panchos > Pan Para Hamburguesas > Almacén",
-      "variacion_pct_promedio": 5.37,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "para Panchos > Panificados > Panaderia > Almacén",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -1.42,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 12,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 9,
       "total_productos": 12
     },
     {
       "categoria": "para Panchos > Panificados > Panaderia Propia > Panaderia > Pan para Panchos > Almacén",
-      "variacion_pct_promedio": 5.01,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "para Panchos > Panificados > Panaderia Propia > Panaderia > Pan para Panchos > Pan Para Panchos > Pan Para Hamburguesas Y Panchos > Almacén",
-      "variacion_pct_promedio": 6.07,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -5378,117 +5378,117 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "543420",
-      "nombre": "Fécula De Mandioca Dicomere 450 Grm",
-      "marca": "Dicomere",
-      "categoria": "Sémola > Harinas > Frutas y Verduras > Frescos > Dietetica > Almacén",
-      "precio_antes": 3749.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -1750.0,
-      "diff_pct": -46.68
+      "plu": "443",
+      "nombre": "Sandia Mini X Kg",
+      "marca": NaN,
+      "categoria": "Sandias > Frutas y Verduras > Frutas > Frescos",
+      "precio_antes": 3999.0,
+      "precio_hoy": 2999.0,
+      "precio_actual_hoy": 2999.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -25.01
     },
     {
-      "plu": "564525",
-      "nombre": "Cacao Amargo En Polvo Dicomere 200g",
-      "marca": "Dicomere",
-      "categoria": "Infusiones > Frutas y Verduras > Frescos > Dietetica > Cacao en Polvo > Almacén",
-      "precio_antes": 7799.0,
-      "precio_hoy": 4499.0,
-      "precio_actual_hoy": 4499.0,
-      "diff_abs": -3300.0,
-      "diff_pct": -42.31
+      "plu": "36482",
+      "nombre": "Aji Jalapeño X Kg",
+      "marca": NaN,
+      "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajíes",
+      "precio_antes": 6299.0,
+      "precio_hoy": 4999.0,
+      "precio_actual_hoy": 4999.0,
+      "diff_abs": -1300.0,
+      "diff_pct": -20.64
     },
     {
-      "plu": "548921",
-      "nombre": "Condimento Para Arroz Dicomere 50 Grm",
-      "marca": "Dicomere",
-      "categoria": "Especias > Condimento en Polvo > Almacén",
-      "precio_antes": 999.0,
-      "precio_hoy": 599.0,
-      "precio_actual_hoy": 599.0,
-      "diff_abs": -400.0,
-      "diff_pct": -40.04
+      "plu": "14023",
+      "nombre": "Aji Jalapeño Cosecha Criolla x Kg",
+      "marca": "Coto",
+      "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajíes",
+      "precio_antes": 7299.0,
+      "precio_hoy": 5999.0,
+      "precio_actual_hoy": 5999.0,
+      "diff_abs": -1300.0,
+      "diff_pct": -17.81
     },
     {
-      "plu": "549363",
-      "nombre": "Perejil Dicomere 30 Grm",
-      "marca": "Dicomere",
-      "categoria": "Especias > Condimento en Polvo > Almacén",
-      "precio_antes": 1099.0,
-      "precio_hoy": 659.0,
-      "precio_actual_hoy": 659.0,
-      "diff_abs": -440.0,
-      "diff_pct": -40.04
+      "plu": "35072",
+      "nombre": "Tomate Red Cosecha Criolla x Kg",
+      "marca": "Cosecha Criolla",
+      "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+      "precio_antes": 5899.0,
+      "precio_hoy": 4999.0,
+      "precio_actual_hoy": 4249.15,
+      "diff_abs": -900.0,
+      "diff_pct": -15.26
     },
     {
-      "plu": "548842",
-      "nombre": "Ajo Granulado Dicomere 50 Grm",
-      "marca": "Dicomere",
-      "categoria": "Especias > Condimento en Grano > Almacén",
-      "precio_antes": 1499.0,
-      "precio_hoy": 899.0,
-      "precio_actual_hoy": 899.0,
-      "diff_abs": -600.0,
-      "diff_pct": -40.03
+      "plu": "706",
+      "nombre": "Papaya .   Xkg",
+      "marca": "Nuestras Frutas",
+      "categoria": "Papaya > Frutas y Verduras > Frutas > Frescos",
+      "precio_antes": 9999.0,
+      "precio_hoy": 8999.0,
+      "precio_actual_hoy": 8999.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -10.0
     },
     {
-      "plu": "585831",
-      "nombre": "Coco Rallado Sin Gluten Dicomere 50g",
-      "marca": "Dicomere",
-      "categoria": "Repostería > Polvo para Postres y Reposteria > Elaboración > Almacén",
-      "precio_antes": 1399.0,
-      "precio_hoy": 839.0,
-      "precio_actual_hoy": 839.0,
-      "diff_abs": -560.0,
-      "diff_pct": -40.03
+      "plu": "638270",
+      "nombre": "Pan Lactal Blanco 550g",
+      "marca": "Lactal",
+      "categoria": "Panificados > Panaderia > Molde > Almacén",
+      "precio_antes": 5684.8,
+      "precio_hoy": 5263.99,
+      "precio_actual_hoy": 5263.99,
+      "diff_abs": -420.81,
+      "diff_pct": -7.4
     },
     {
-      "plu": "485651",
-      "nombre": "Chimichurri Dicomere Dicomere Bol 50 Grm",
-      "marca": "Dicomere",
-      "categoria": "Especias > Condimento en Hojas > Almacén",
-      "precio_antes": 1599.0,
-      "precio_hoy": 959.0,
-      "precio_actual_hoy": 959.0,
-      "diff_abs": -640.0,
-      "diff_pct": -40.03
+      "plu": "638269",
+      "nombre": "Pan de Salvado Lactal 615g",
+      "marca": "Lactal",
+      "categoria": "Panificados > Panaderia > Molde > Almacén",
+      "precio_antes": 6559.0,
+      "precio_hoy": 6073.99,
+      "precio_actual_hoy": 6073.99,
+      "diff_abs": -485.01,
+      "diff_pct": -7.39
     },
     {
-      "plu": "548840",
-      "nombre": "Pimenton Ahumado Dicomere 50 Grm",
-      "marca": "Dicomere",
-      "categoria": "Especias > Condimento en Polvo > Almacén",
-      "precio_antes": 1399.0,
-      "precio_hoy": 839.0,
-      "precio_actual_hoy": 839.0,
-      "diff_abs": -560.0,
-      "diff_pct": -40.03
+      "plu": "557921",
+      "nombre": "Pan de Papa de Hamburguesa Bimbo Artesano 4u\r\n",
+      "marca": "Bimbo",
+      "categoria": "para Hamburguesa > Panificados > Panaderia > Almacén",
+      "precio_antes": 5747.0,
+      "precio_hoy": 5420.99,
+      "precio_actual_hoy": 5420.99,
+      "diff_abs": -326.01,
+      "diff_pct": -5.67
     },
     {
-      "plu": "485650",
-      "nombre": "Adobo Para Pizza Dicomere 50 Gr",
-      "marca": "Dicomere",
-      "categoria": "Especias > Condimento en Hojas > Almacén",
-      "precio_antes": 1399.0,
-      "precio_hoy": 839.0,
-      "precio_actual_hoy": 839.0,
-      "diff_abs": -560.0,
-      "diff_pct": -40.03
+      "plu": "622885",
+      "nombre": "Pan de Pancho Brioche Artesano 240g\r\n",
+      "marca": "Artesano",
+      "categoria": "para Panchos > Panificados > Panaderia > Almacén",
+      "precio_antes": 5747.0,
+      "precio_hoy": 5420.99,
+      "precio_actual_hoy": 5420.99,
+      "diff_abs": -326.01,
+      "diff_pct": -5.67
     },
     {
-      "plu": "485652",
-      "nombre": "Aji Molido Dicomere 50 Gr",
-      "marca": "Dicomere",
-      "categoria": "Triturados > Especias > Almacén",
-      "precio_antes": 1499.0,
-      "precio_hoy": 899.0,
-      "precio_actual_hoy": 899.0,
-      "diff_abs": -600.0,
-      "diff_pct": -40.03
+      "plu": "557917",
+      "nombre": "Pan Brioche de Hamburguesa Bimbo Artesano 4u\r\n",
+      "marca": "Bimbo",
+      "categoria": "para Hamburguesa > Panificados > Panaderia > Almacén",
+      "precio_antes": 5747.0,
+      "precio_hoy": 5420.99,
+      "precio_actual_hoy": 5420.99,
+      "diff_abs": -326.01,
+      "diff_pct": -5.67
     }
   ],
-  "productos_subieron_dia": 55,
-  "productos_bajaron_dia": 122,
-  "productos_sin_cambio_dia": 14688
+  "productos_subieron_dia": 38,
+  "productos_bajaron_dia": 28,
+  "productos_sin_cambio_dia": 14796
 }

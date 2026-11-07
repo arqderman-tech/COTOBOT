@@ -1,5 +1,16 @@
 [
   {
+    "plu": "17703",
+    "nombre": "Bola De Lomo  De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
+  },
+  {
     "plu": "17726",
     "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
@@ -20,28 +31,6 @@
     "precio_actual_hoy": 12000.0,
     "diff_abs": 6001.0,
     "diff_pct": 100.03
-  },
-  {
-    "plu": "17703",
-    "nombre": "Bola De Lomo  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "73168",
-    "nombre": "Poroto De Soja A Granel Por Kg",
-    "marca": "Coto",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 1599.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 87.55
   },
   {
     "plu": "42216",
@@ -198,17 +187,6 @@
     "diff_pct": 51.53
   },
   {
-    "plu": "73066",
-    "nombre": "Garrapiñada X Kg",
-    "marca": ".",
-    "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frutas Secas > Frescos",
-    "precio_antes": 7299.0,
-    "precio_hoy": 10999.0,
-    "precio_actual_hoy": 10999.0,
-    "diff_abs": 3700.0,
-    "diff_pct": 50.69
-  },
-  {
     "plu": "17833",
     "nombre": "Cornalito Congelado X Kg\r\n",
     "marca": "Nuestra Pescaderia",
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 11999.2,
     "diff_abs": 5009.0,
     "diff_pct": 50.14
+  },
+  {
+    "plu": "17936",
+    "nombre": "Varita De Surimi Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Varitas de Surimi > Pescaderia > Congelados",
+    "precio_antes": 17990.0,
+    "precio_hoy": 26999.0,
+    "precio_actual_hoy": 21599.2,
+    "diff_abs": 9009.0,
+    "diff_pct": 50.08
+  },
+  {
+    "plu": "46551",
+    "nombre": "Fiambrin SPALEN x Kg",
+    "marca": "Spalen",
+    "categoria": "Quesos > Queso Semiduro > QUESOS > QUESO FUNDIDO > Frescos > Fiambrin > FIAMBRERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 9999.0,
+    "precio_hoy": 14999.0,
+    "precio_actual_hoy": 14999.0,
+    "diff_abs": 5000.0,
+    "diff_pct": 50.01
   }
 ]
