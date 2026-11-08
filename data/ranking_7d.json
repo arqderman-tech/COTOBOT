@@ -1,5 +1,16 @@
 [
   {
+    "plu": "602234",
+    "nombre": "Queso Parmesano QUATA 160g",
+    "marca": "Quata",
+    "categoria": "Quesos Duros > Quesos > Queso Parmesano > Frescos",
+    "precio_antes": 4999.0,
+    "precio_hoy": 12599.0,
+    "precio_actual_hoy": 12599.0,
+    "diff_abs": 7600.0,
+    "diff_pct": 152.03
+  },
+  {
     "plu": "17703",
     "nombre": "Bola De Lomo  De Cerdo X KG",
     "marca": "Coto",
@@ -55,6 +66,17 @@
     "diff_pct": 82.87
   },
   {
+    "plu": "79891",
+    "nombre": "Cebolla Blanca X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas Pesadas > Hortalizas > HORTALIZAS PESADAS > Frutas y Verduras > Frutas Y Verduras > Frescos > FRUTAS Y VERDURAS > Cebollas > ALIMENTOS FRESCOS",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 4499.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 80.03
+  },
+  {
     "plu": "40333",
     "nombre": "Dce.Membrillo . . 1 Kgm",
     "marca": "Primera Marca",
@@ -64,17 +86,6 @@
     "precio_actual_hoy": 4399.0,
     "diff_abs": 1900.0,
     "diff_pct": 76.03
-  },
-  {
-    "plu": "73164",
-    "nombre": "Poroto manteca x Kg",
-    "marca": ".",
-    "categoria": "Legumbres > LEGUMBRES > Frutas y Verduras > Frescos > FRUTAS Y VERDURAS > ALIMENTOS FRESCOS",
-    "precio_antes": 3699.0,
-    "precio_hoy": 6499.0,
-    "precio_actual_hoy": 6499.0,
-    "diff_abs": 2800.0,
-    "diff_pct": 75.7
   },
   {
     "plu": "564524",
@@ -119,17 +130,6 @@
     "precio_actual_hoy": 11421.6,
     "diff_abs": 7290.0,
     "diff_pct": 62.06
-  },
-  {
-    "plu": "18118",
-    "nombre": "Poroto De Soja Cosecha Criolla 500g",
-    "marca": "Cosecha Criolla",
-    "categoria": "Legumbres > Frutas y Verduras > Frescos",
-    "precio_antes": 999.0,
-    "precio_hoy": 1599.0,
-    "precio_actual_hoy": 1599.0,
-    "diff_abs": 600.0,
-    "diff_pct": 60.06
   },
   {
     "plu": "562870",
