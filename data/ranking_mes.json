@@ -1,5 +1,16 @@
 [
   {
+    "plu": "648",
+    "nombre": "Lechuga Capuchina X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 3700.0,
+    "diff_pct": 160.94
+  },
+  {
     "plu": "65008",
     "nombre": "Tomate Deshidr.   Xkg",
     "marca": NaN,
@@ -17,7 +28,7 @@
     "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1799.0,
     "precio_hoy": 3899.0,
-    "precio_actual_hoy": 3314.15,
+    "precio_actual_hoy": 3899.0,
     "diff_abs": 2100.0,
     "diff_pct": 116.73
   },
@@ -55,39 +66,6 @@
     "diff_pct": 100.1
   },
   {
-    "plu": "17703",
-    "nombre": "Bola De Lomo  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "17705",
-    "nombre": "Nalga  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
     "plu": "93545",
     "nombre": "Papa Asterix X Kg",
     "marca": "Coto",
@@ -121,15 +99,15 @@
     "diff_pct": 85.39
   },
   {
-    "plu": "510425",
-    "nombre": "Yerba Mate Premium Verde Flor Paq 500 Grm",
-    "marca": "Verdeflor",
-    "categoria": "Yerba > Mate > Infusiones > Almacén",
-    "precio_antes": 2450.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 2049.0,
-    "diff_pct": 83.63
+    "plu": "42210",
+    "nombre": "Pata Muslo Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > X Kg > Pollo Trozado Congelado > Pata Muslo con Piel > Frescos > Aves",
+    "precio_antes": 3999.0,
+    "precio_hoy": 7199.0,
+    "precio_actual_hoy": 7199.0,
+    "diff_abs": 3200.0,
+    "diff_pct": 80.02
   },
   {
     "plu": "73164",
@@ -152,6 +130,17 @@
     "precio_actual_hoy": 3999.0,
     "diff_abs": 1700.0,
     "diff_pct": 73.95
+  },
+  {
+    "plu": "625003",
+    "nombre": "Huevo blanco grande maple COTO 30u",
+    "marca": "Coto",
+    "categoria": "Huevos Blanco > Huevos > Frescos",
+    "precio_antes": 7490.0,
+    "precio_hoy": 12990.0,
+    "precio_actual_hoy": 12990.0,
+    "diff_abs": 5500.0,
+    "diff_pct": 73.43
   },
   {
     "plu": "490185",
@@ -198,6 +187,17 @@
     "diff_pct": 62.06
   },
   {
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "marca": "American Club",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 7109.0,
+    "precio_hoy": 11463.0,
+    "precio_actual_hoy": 11463.0,
+    "diff_abs": 4354.0,
+    "diff_pct": 61.25
+  },
+  {
     "plu": "102942",
     "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
@@ -209,14 +209,14 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 11463.0,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
+    "plu": "424",
+    "nombre": "Lechuga Mantecosa X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras De Hoja > Verduras > Lechuga > Frutas y Verduras > Frutas Y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3699.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 60.9
   }
 ]

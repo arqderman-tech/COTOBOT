@@ -11,103 +11,48 @@
     "diff_pct": 152.03
   },
   {
-    "plu": "17703",
-    "nombre": "Bola De Lomo  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "17705",
-    "nombre": "Nalga  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "42216",
-    "nombre": "Pata Con Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Pata con Piel > Frescos > Aves",
-    "precio_antes": 3999.0,
-    "precio_hoy": 7499.0,
-    "precio_actual_hoy": 7499.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 87.52
-  },
-  {
-    "plu": "467990",
-    "nombre": "Salsa Barbacoa CASALTA   Pet 335 Gr",
-    "marca": "Casalta",
-    "categoria": "Barbacoa > Almacén > Aderezos y Salsas",
-    "precio_antes": 3089.0,
-    "precio_hoy": 5649.0,
-    "precio_actual_hoy": 5649.0,
-    "diff_abs": 2560.0,
-    "diff_pct": 82.87
-  },
-  {
-    "plu": "79891",
-    "nombre": "Cebolla Blanca X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas Pesadas > Hortalizas > HORTALIZAS PESADAS > Frutas y Verduras > Frutas Y Verduras > Frescos > FRUTAS Y VERDURAS > Cebollas > ALIMENTOS FRESCOS",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 80.03
-  },
-  {
-    "plu": "40333",
-    "nombre": "Dce.Membrillo . . 1 Kgm",
-    "marca": "Primera Marca",
-    "categoria": "Quesos > Membrillo > Frescos > Dulces",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4399.0,
-    "precio_actual_hoy": 4399.0,
-    "diff_abs": 1900.0,
-    "diff_pct": 76.03
-  },
-  {
-    "plu": "564524",
-    "nombre": "Harina De Garbanzo Dicomere 450g",
-    "marca": "Dicomere",
-    "categoria": "Harinas > Garbanzo > Frutas y Verduras > Frescos > Dietetica > Almacén",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3499.0,
-    "precio_actual_hoy": 3499.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 75.04
-  },
-  {
-    "plu": "45271",
-    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "plu": "17859",
+    "nombre": "Mejillon Pelado Cocido Chileno Congelado X Kg\r\n",
     "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Especiales > Congelados",
-    "precio_antes": 19999.0,
-    "precio_hoy": 32999.0,
-    "precio_actual_hoy": 26399.2,
-    "diff_abs": 13000.0,
-    "diff_pct": 65.0
+    "categoria": "Pescaderia > Mariscos > Congelados",
+    "precio_antes": 9990.0,
+    "precio_hoy": 23999.0,
+    "precio_actual_hoy": 19199.2,
+    "diff_abs": 14009.0,
+    "diff_pct": 140.23
+  },
+  {
+    "plu": "648",
+    "nombre": "Lechuga Capuchina X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
+    "precio_antes": 2499.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 140.06
+  },
+  {
+    "plu": "42210",
+    "nombre": "Pata Muslo Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > X Kg > Pollo Trozado Congelado > Pata Muslo con Piel > Frescos > Aves",
+    "precio_antes": 3599.0,
+    "precio_hoy": 7199.0,
+    "precio_actual_hoy": 7199.0,
+    "diff_abs": 3600.0,
+    "diff_pct": 100.03
+  },
+  {
+    "plu": "42215",
+    "nombre": "Pata Muslo Sin Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Pata Muslo sin Piel > Frescos > Aves",
+    "precio_antes": 4999.0,
+    "precio_hoy": 8899.0,
+    "precio_actual_hoy": 8899.0,
+    "diff_abs": 3900.0,
+    "diff_pct": 78.02
   },
   {
     "plu": "45270",
@@ -121,6 +66,39 @@
     "diff_pct": 65.0
   },
   {
+    "plu": "45271",
+    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 26399.2,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
+    "plu": "95836",
+    "nombre": "Mortadela Cañón EBRO X Kg (Por pieza)",
+    "marca": "Ebro",
+    "categoria": "Mortadela > Frescos > Fiambres",
+    "precio_antes": 9699.0,
+    "precio_hoy": 15749.0,
+    "precio_actual_hoy": 15749.0,
+    "diff_abs": 6050.0,
+    "diff_pct": 62.38
+  },
+  {
+    "plu": "37751",
+    "nombre": "Mortadela Feteada Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Mortadela > Frescos > Fiambres",
+    "precio_antes": 9699.0,
+    "precio_hoy": 15749.0,
+    "precio_actual_hoy": 15749.0,
+    "diff_abs": 6050.0,
+    "diff_pct": 62.38
+  },
+  {
     "plu": "571007",
     "nombre": "Vino Malbec D.O.C. Norton 750ml",
     "marca": "Norton",
@@ -132,37 +110,15 @@
     "diff_pct": 62.06
   },
   {
-    "plu": "562870",
-    "nombre": "Semillas Mix Buenos Dias Kos Food 250g",
-    "marca": "Kos Food",
-    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > Dietetica",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3399.15,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.02
-  },
-  {
-    "plu": "17939",
-    "nombre": "Langostino Entero Crudo Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Mariscos > Congelados",
-    "precio_antes": 18990.0,
-    "precio_hoy": 29990.0,
-    "precio_actual_hoy": 23992.0,
-    "diff_abs": 11000.0,
-    "diff_pct": 57.93
-  },
-  {
-    "plu": "17929",
-    "nombre": "Surubi Trozado Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescado de Rio > Pescaderia > Congelados",
-    "precio_antes": 25999.0,
-    "precio_hoy": 40990.0,
-    "precio_actual_hoy": 32792.0,
-    "diff_abs": 14991.0,
-    "diff_pct": 57.66
+    "plu": "17843",
+    "nombre": "Filet de merluza despinado con piel x Kg",
+    "marca": "Coto",
+    "categoria": "Pescaderia > Frescos > Filete",
+    "precio_antes": 9990.0,
+    "precio_hoy": 15999.0,
+    "precio_actual_hoy": 12799.2,
+    "diff_abs": 6009.0,
+    "diff_pct": 60.15
   },
   {
     "plu": "590071",
@@ -176,47 +132,91 @@
     "diff_pct": 55.56
   },
   {
-    "plu": "585",
-    "nombre": "Manzana Royal Gala   Xkg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Manzanas > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 3299.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 51.53
+    "plu": "18804",
+    "nombre": "Queso Cremoso Horma Puyehue X Kg",
+    "marca": "Puyehue",
+    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
+    "precio_antes": 9299.0,
+    "precio_hoy": 14399.0,
+    "precio_actual_hoy": 14399.0,
+    "diff_abs": 5100.0,
+    "diff_pct": 54.84
   },
   {
-    "plu": "17833",
-    "nombre": "Cornalito Congelado X Kg\r\n",
+    "plu": "12032",
+    "nombre": "Jamón Crudo Feteado El Pozo X Kg",
+    "marca": "El Pozo",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 45499.0,
+    "precio_hoy": 69999.0,
+    "precio_actual_hoy": 69999.0,
+    "diff_abs": 24500.0,
+    "diff_pct": 53.85
+  },
+  {
+    "plu": "35170",
+    "nombre": "Fiamb.D/Cerdo Feteado Primera Marc Xkg",
+    "marca": "Primera Marca",
+    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
+    "precio_antes": 8189.0,
+    "precio_hoy": 12509.0,
+    "precio_actual_hoy": 12509.0,
+    "diff_abs": 4320.0,
+    "diff_pct": 52.75
+  },
+  {
+    "plu": "35169",
+    "nombre": "Fiambre De Cerdo La Octava x Kg (Por pieza)",
+    "marca": "Primera Marca",
+    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
+    "precio_antes": 8189.0,
+    "precio_hoy": 12509.0,
+    "precio_actual_hoy": 12509.0,
+    "diff_abs": 4320.0,
+    "diff_pct": 52.75
+  },
+  {
+    "plu": "34910",
+    "nombre": "Salame Milan Feteado Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 16799.0,
+    "precio_hoy": 25199.0,
+    "precio_actual_hoy": 25199.0,
+    "diff_abs": 8400.0,
+    "diff_pct": 50.0
+  },
+  {
+    "plu": "945",
+    "nombre": "Salame Milán EBRO X Kg (Por pieza)",
+    "marca": "Ebro",
+    "categoria": "Salame > Frescos > Fiambres",
+    "precio_antes": 16799.0,
+    "precio_hoy": 25199.0,
+    "precio_actual_hoy": 25199.0,
+    "diff_abs": 8400.0,
+    "diff_pct": 50.0
+  },
+  {
+    "plu": "53513",
+    "nombre": "Queso Azul SAN IGNACIO X Kg",
+    "marca": "San Ignacio",
+    "categoria": "Quesos > Queso Semiduro > Frescos > Azul",
+    "precio_antes": 19299.0,
+    "precio_hoy": 27649.0,
+    "precio_actual_hoy": 27649.0,
+    "diff_abs": 8350.0,
+    "diff_pct": 43.27
+  },
+  {
+    "plu": "17885",
+    "nombre": "Sabalo Entero Eviscerado Congelado X Kg",
     "marca": "Nuestra Pescaderia",
-    "categoria": "Pescado de Mar > Pescaderia > Entero Eviscerado > Delicias > Congelados",
-    "precio_antes": 9990.0,
-    "precio_hoy": 14999.0,
-    "precio_actual_hoy": 11999.2,
-    "diff_abs": 5009.0,
-    "diff_pct": 50.14
-  },
-  {
-    "plu": "17936",
-    "nombre": "Varita De Surimi Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Varitas de Surimi > Pescaderia > Congelados",
-    "precio_antes": 17990.0,
-    "precio_hoy": 26999.0,
-    "precio_actual_hoy": 21599.2,
-    "diff_abs": 9009.0,
-    "diff_pct": 50.08
-  },
-  {
-    "plu": "46551",
-    "nombre": "Fiambrin SPALEN x Kg",
-    "marca": "Spalen",
-    "categoria": "Quesos > Queso Semiduro > QUESOS > QUESO FUNDIDO > Frescos > Fiambrin > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 9999.0,
-    "precio_hoy": 14999.0,
-    "precio_actual_hoy": 14999.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 50.01
+    "categoria": "Pescado de Rio > Pescaderia > Congelados",
+    "precio_antes": 6990.0,
+    "precio_hoy": 9999.0,
+    "precio_actual_hoy": 7999.2,
+    "diff_abs": 3009.0,
+    "diff_pct": 43.05
   }
 ]
