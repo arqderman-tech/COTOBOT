@@ -1,16 +1,5 @@
 [
   {
-    "plu": "648",
-    "nombre": "Lechuga Capuchina X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
-    "precio_antes": 2299.0,
-    "precio_hoy": 5999.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 3700.0,
-    "diff_pct": 160.94
-  },
-  {
     "plu": "65008",
     "nombre": "Tomate Deshidr.   Xkg",
     "marca": NaN,
@@ -86,6 +75,17 @@
     "precio_actual_hoy": 16950.0,
     "diff_abs": 8050.0,
     "diff_pct": 90.45
+  },
+  {
+    "plu": "73168",
+    "nombre": "Poroto De Soja A Granel Por Kg",
+    "marca": "Coto",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 87.55
   },
   {
     "plu": "563830",
@@ -187,8 +187,8 @@
     "diff_pct": 62.06
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
+    "plu": "102942",
+    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
@@ -198,8 +198,8 @@
     "diff_pct": 61.25
   },
   {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
+    "plu": "1842",
+    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
     "marca": "American Club",
     "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
     "precio_antes": 7109.0,
