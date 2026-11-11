@@ -66,17 +66,6 @@
     "diff_pct": 62.38
   },
   {
-    "plu": "571007",
-    "nombre": "Vino Malbec D.O.C. Norton 750ml",
-    "marca": "Norton",
-    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 11746.0,
-    "precio_hoy": 19036.0,
-    "precio_actual_hoy": 11421.6,
-    "diff_abs": 7290.0,
-    "diff_pct": 62.06
-  },
-  {
     "plu": "17843",
     "nombre": "Filet de merluza despinado con piel x Kg",
     "marca": "Coto",
@@ -132,8 +121,8 @@
     "diff_pct": 52.75
   },
   {
-    "plu": "34910",
-    "nombre": "Salame Milan Feteado Ebro Xkg",
+    "plu": "945",
+    "nombre": "Salame Milán EBRO X Kg (Por pieza)",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 16799.0,
@@ -143,8 +132,8 @@
     "diff_pct": 50.0
   },
   {
-    "plu": "945",
-    "nombre": "Salame Milán EBRO X Kg (Por pieza)",
+    "plu": "34910",
+    "nombre": "Salame Milan Feteado Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Salame > Frescos > Fiambres",
     "precio_antes": 16799.0,
@@ -198,6 +187,17 @@
     "diff_pct": 42.94
   },
   {
+    "plu": "13379",
+    "nombre": "Jamon Cocido Clasico Lario x Kg (Por pieza)",
+    "marca": "Lario",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 16125.0,
+    "precio_hoy": 23039.0,
+    "precio_actual_hoy": 23039.0,
+    "diff_abs": 6914.0,
+    "diff_pct": 42.88
+  },
+  {
     "plu": "13380",
     "nombre": "Jamon Cocido Clásico Fetead Lario X Kg",
     "marca": "Lario",
@@ -209,14 +209,14 @@
     "diff_pct": 42.88
   },
   {
-    "plu": "13379",
-    "nombre": "Jamon Cocido Clasico Lario x Kg (Por pieza)",
-    "marca": "Lario",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 16125.0,
-    "precio_hoy": 23039.0,
-    "precio_actual_hoy": 23039.0,
-    "diff_abs": 6914.0,
-    "diff_pct": 42.88
+    "plu": "571055",
+    "nombre": "Queso Mozzarella Silvia 1kg",
+    "marca": "Silvia",
+    "categoria": "Quesos Blandos > Quesos > Queso Muzzarella > Frescos",
+    "precio_antes": 14999.0,
+    "precio_hoy": 20599.0,
+    "precio_actual_hoy": 20599.0,
+    "diff_abs": 5600.0,
+    "diff_pct": 37.34
   }
 ]
