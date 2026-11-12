@@ -22,6 +22,28 @@
     "diff_pct": 140.23
   },
   {
+    "plu": "677",
+    "nombre": "Remolacha X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Remolacha > Frutas y Verduras > Frescos",
+    "precio_antes": 1999.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 3824.15,
+    "diff_abs": 2500.0,
+    "diff_pct": 125.06
+  },
+  {
+    "plu": "516",
+    "nombre": "Mandarina Murcot   Xkg",
+    "marca": NaN,
+    "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 100.1
+  },
+  {
     "plu": "42210",
     "nombre": "Pata Muslo Con Piel X Kg Congelados",
     "marca": "Coto",
@@ -31,6 +53,17 @@
     "precio_actual_hoy": 7199.0,
     "diff_abs": 3600.0,
     "diff_pct": 100.03
+  },
+  {
+    "plu": "46632",
+    "nombre": "Puerro X Uni",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1699.15,
+    "diff_abs": 900.0,
+    "diff_pct": 81.89
   },
   {
     "plu": "42215",
@@ -44,8 +77,41 @@
     "diff_pct": 78.02
   },
   {
-    "plu": "95836",
-    "nombre": "Mortadela Cañón EBRO X Kg (Por pieza)",
+    "plu": "633501",
+    "nombre": "Jamón Cocido Lario Feteado 200g",
+    "marca": "Lario",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 3769.0,
+    "precio_hoy": 6289.0,
+    "precio_actual_hoy": 3773.4,
+    "diff_abs": 2520.0,
+    "diff_pct": 66.86
+  },
+  {
+    "plu": "13343",
+    "nombre": "Jamon Cocido Feteado Lario X 150 Grm",
+    "marca": "Lario",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 3019.0,
+    "precio_hoy": 5035.0,
+    "precio_actual_hoy": 3018.48,
+    "diff_abs": 2016.0,
+    "diff_pct": 66.78
+  },
+  {
+    "plu": "522386",
+    "nombre": "Whisky MONKEY SHOULDER 700 Ml",
+    "marca": "Monkey Shoulder",
+    "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 58719.0,
+    "precio_hoy": 96000.0,
+    "precio_actual_hoy": 62400.0,
+    "diff_abs": 37281.0,
+    "diff_pct": 63.49
+  },
+  {
+    "plu": "37751",
+    "nombre": "Mortadela Feteada Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Mortadela > Frescos > Fiambres",
     "precio_antes": 9699.0,
@@ -55,8 +121,8 @@
     "diff_pct": 62.38
   },
   {
-    "plu": "37751",
-    "nombre": "Mortadela Feteada Ebro Xkg",
+    "plu": "95836",
+    "nombre": "Mortadela Cañón EBRO X Kg (Por pieza)",
     "marca": "Ebro",
     "categoria": "Mortadela > Frescos > Fiambres",
     "precio_antes": 9699.0,
@@ -75,17 +141,6 @@
     "precio_actual_hoy": 12799.2,
     "diff_abs": 6009.0,
     "diff_pct": 60.15
-  },
-  {
-    "plu": "18804",
-    "nombre": "Queso Cremoso Horma Puyehue X Kg",
-    "marca": "Puyehue",
-    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
-    "precio_antes": 9299.0,
-    "precio_hoy": 14399.0,
-    "precio_actual_hoy": 14399.0,
-    "diff_abs": 5100.0,
-    "diff_pct": 54.84
   },
   {
     "plu": "12032",
@@ -154,69 +209,14 @@
     "diff_pct": 49.17
   },
   {
-    "plu": "53513",
-    "nombre": "Queso Azul SAN IGNACIO X Kg",
-    "marca": "San Ignacio",
-    "categoria": "Quesos > Queso Semiduro > Frescos > Azul",
-    "precio_antes": 19299.0,
-    "precio_hoy": 27649.0,
-    "precio_actual_hoy": 27649.0,
-    "diff_abs": 8350.0,
-    "diff_pct": 43.27
-  },
-  {
-    "plu": "17885",
-    "nombre": "Sabalo Entero Eviscerado Congelado X Kg",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescado de Rio > Pescaderia > Congelados",
-    "precio_antes": 6990.0,
-    "precio_hoy": 9999.0,
-    "precio_actual_hoy": 7999.2,
-    "diff_abs": 3009.0,
-    "diff_pct": 43.05
-  },
-  {
-    "plu": "11378",
-    "nombre": "Agua Mineralizada Artificialmente Glaciar 2 L\r\n",
-    "marca": "Glaciar",
-    "categoria": "Bebidas sin Alcohol > Bebidas > Aguas y Sodas > Aguas sin Gas > Aguas",
-    "precio_antes": 2445.0,
-    "precio_hoy": 3495.0,
-    "precio_actual_hoy": 2446.5,
-    "diff_abs": 1050.0,
-    "diff_pct": 42.94
-  },
-  {
-    "plu": "13379",
-    "nombre": "Jamon Cocido Clasico Lario x Kg (Por pieza)",
-    "marca": "Lario",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 16125.0,
-    "precio_hoy": 23039.0,
-    "precio_actual_hoy": 23039.0,
-    "diff_abs": 6914.0,
-    "diff_pct": 42.88
-  },
-  {
-    "plu": "13380",
-    "nombre": "Jamon Cocido Clásico Fetead Lario X Kg",
-    "marca": "Lario",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 16125.0,
-    "precio_hoy": 23039.0,
-    "precio_actual_hoy": 23039.0,
-    "diff_abs": 6914.0,
-    "diff_pct": 42.88
-  },
-  {
-    "plu": "571055",
-    "nombre": "Queso Mozzarella Silvia 1kg",
-    "marca": "Silvia",
-    "categoria": "Quesos Blandos > Quesos > Queso Muzzarella > Frescos",
-    "precio_antes": 14999.0,
-    "precio_hoy": 20599.0,
-    "precio_actual_hoy": 20599.0,
-    "diff_abs": 5600.0,
-    "diff_pct": 37.34
+    "plu": "7487",
+    "nombre": "Licor A/Whis Crema Drambuie Bot 750 Cmq",
+    "marca": "Drambui",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 57164.0,
+    "precio_hoy": 83000.0,
+    "precio_actual_hoy": 53950.0,
+    "diff_abs": 25836.0,
+    "diff_pct": 45.2
   }
 ]
