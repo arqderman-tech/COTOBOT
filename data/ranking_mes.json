@@ -1,5 +1,16 @@
 [
   {
+    "plu": "13158",
+    "nombre": "Limón COSECHA CRIOLLA (Peso Aproximado 1.5 Kg)",
+    "marca": "Cosecha Criolla",
+    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 1499.0,
+    "precio_hoy": 3699.0,
+    "precio_actual_hoy": 3699.0,
+    "diff_abs": 2200.0,
+    "diff_pct": 146.76
+  },
+  {
     "plu": "65008",
     "nombre": "Tomate Deshidr.   Xkg",
     "marca": NaN,
@@ -55,17 +66,6 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "677",
-    "nombre": "Remolacha X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Remolacha > Frutas y Verduras > Frescos",
-    "precio_antes": 2299.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 3824.15,
-    "diff_abs": 2200.0,
-    "diff_pct": 95.69
-  },
-  {
     "plu": "93545",
     "nombre": "Papa Asterix X Kg",
     "marca": "Coto",
@@ -99,39 +99,6 @@
     "diff_pct": 85.39
   },
   {
-    "plu": "13158",
-    "nombre": "Limón COSECHA CRIOLLA (Peso Aproximado 1.5 Kg)",
-    "marca": "Cosecha Criolla",
-    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3699.0,
-    "precio_actual_hoy": 3699.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 85.04
-  },
-  {
-    "plu": "46632",
-    "nombre": "Puerro X Uni",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1699.15,
-    "diff_abs": 900.0,
-    "diff_pct": 81.89
-  },
-  {
-    "plu": "61007",
-    "nombre": "Limón x Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 1299.0,
-    "precio_hoy": 2299.0,
-    "precio_actual_hoy": 2299.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 76.98
-  },
-  {
     "plu": "73164",
     "nombre": "Poroto manteca x Kg",
     "marca": ".",
@@ -141,6 +108,17 @@
     "precio_actual_hoy": 6499.0,
     "diff_abs": 2800.0,
     "diff_pct": 75.7
+  },
+  {
+    "plu": "585",
+    "nombre": "Manzana Royal Gala   Xkg",
+    "marca": "Nuestras Frutas",
+    "categoria": "Manzanas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 2899.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2100.0,
+    "diff_pct": 72.44
   },
   {
     "plu": "665",
@@ -187,28 +165,6 @@
     "diff_pct": 62.06
   },
   {
-    "plu": "1842",
-    "nombre": "Licor Exotic P Colada American Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 7450.95,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
-  },
-  {
-    "plu": "102942",
-    "nombre": "Licor Exotico Frutilla Colad American Cl Bot 750 Cmq",
-    "marca": "American Club",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 7109.0,
-    "precio_hoy": 11463.0,
-    "precio_actual_hoy": 7450.95,
-    "diff_abs": 4354.0,
-    "diff_pct": 61.25
-  },
-  {
     "plu": "17843",
     "nombre": "Filet de merluza despinado con piel x Kg",
     "marca": "Coto",
@@ -218,5 +174,49 @@
     "precio_actual_hoy": 12799.2,
     "diff_abs": 6009.0,
     "diff_pct": 60.15
+  },
+  {
+    "plu": "18118",
+    "nombre": "Poroto De Soja Cosecha Criolla 500g",
+    "marca": "Cosecha Criolla",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1599.0,
+    "precio_actual_hoy": 1599.0,
+    "diff_abs": 600.0,
+    "diff_pct": 60.06
+  },
+  {
+    "plu": "489269",
+    "nombre": "Vino Cabernet Franc Séptima Obra 750ml",
+    "marca": "Septima Obra",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 10528.0,
+    "precio_hoy": 16850.0,
+    "precio_actual_hoy": 11233.9,
+    "diff_abs": 6322.0,
+    "diff_pct": 60.05
+  },
+  {
+    "plu": "17929",
+    "nombre": "Surubi Trozado Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado de Rio > Pescaderia > Congelados",
+    "precio_antes": 25999.0,
+    "precio_hoy": 40990.0,
+    "precio_actual_hoy": 32792.0,
+    "diff_abs": 14991.0,
+    "diff_pct": 57.66
+  },
+  {
+    "plu": "649",
+    "nombre": "Lechuga Criolla X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 3599.0,
+    "precio_actual_hoy": 3059.15,
+    "diff_abs": 1300.0,
+    "diff_pct": 56.55
   }
 ]

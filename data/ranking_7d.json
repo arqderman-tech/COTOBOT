@@ -11,28 +11,6 @@
     "diff_pct": 152.03
   },
   {
-    "plu": "17859",
-    "nombre": "Mejillon Pelado Cocido Chileno Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Mariscos > Congelados",
-    "precio_antes": 9990.0,
-    "precio_hoy": 23999.0,
-    "precio_actual_hoy": 19199.2,
-    "diff_abs": 14009.0,
-    "diff_pct": 140.23
-  },
-  {
-    "plu": "677",
-    "nombre": "Remolacha X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Remolacha > Frutas y Verduras > Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 3824.15,
-    "diff_abs": 2500.0,
-    "diff_pct": 125.06
-  },
-  {
     "plu": "516",
     "nombre": "Mandarina Murcot   Xkg",
     "marca": NaN,
@@ -55,15 +33,15 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "46632",
-    "nombre": "Puerro X Uni",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1699.15,
-    "diff_abs": 900.0,
-    "diff_pct": 81.89
+    "plu": "543420",
+    "nombre": "Fécula De Mandioca Dicomere 450 Grm",
+    "marca": "Dicomere",
+    "categoria": "Sémola > Harinas > Frutas y Verduras > Frescos > Dietetica > Almacén",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3749.0,
+    "precio_actual_hoy": 3749.0,
+    "diff_abs": 1750.0,
+    "diff_pct": 87.54
   },
   {
     "plu": "42215",
@@ -77,26 +55,48 @@
     "diff_pct": 78.02
   },
   {
-    "plu": "633501",
-    "nombre": "Jamón Cocido Lario Feteado 200g",
-    "marca": "Lario",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 3769.0,
-    "precio_hoy": 6289.0,
-    "precio_actual_hoy": 3773.4,
-    "diff_abs": 2520.0,
-    "diff_pct": 66.86
+    "plu": "564525",
+    "nombre": "Cacao Amargo En Polvo Dicomere 200g",
+    "marca": "Dicomere",
+    "categoria": "Infusiones > Frutas y Verduras > Frescos > Dietetica > Cacao en Polvo > Almacén",
+    "precio_antes": 4499.0,
+    "precio_hoy": 7799.0,
+    "precio_actual_hoy": 7799.0,
+    "diff_abs": 3300.0,
+    "diff_pct": 73.35
   },
   {
-    "plu": "13343",
-    "nombre": "Jamon Cocido Feteado Lario X 150 Grm",
-    "marca": "Lario",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 3019.0,
-    "precio_hoy": 5035.0,
-    "precio_actual_hoy": 3018.48,
-    "diff_abs": 2016.0,
-    "diff_pct": 66.78
+    "plu": "564528",
+    "nombre": "Harina De Arvejas Dicomere 450g",
+    "marca": "Dicomere",
+    "categoria": "Harinas > Harina de Legumbres > Frutas y Verduras > Frescos > Dietetica > Almacén",
+    "precio_antes": 1199.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1699.15,
+    "diff_abs": 800.0,
+    "diff_pct": 66.72
+  },
+  {
+    "plu": "78",
+    "nombre": "Molleja    X KG",
+    "marca": "Coto",
+    "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 14999.0,
+    "precio_hoy": 25000.0,
+    "precio_actual_hoy": 25000.0,
+    "diff_abs": 10001.0,
+    "diff_pct": 66.68
+  },
+  {
+    "plu": "562871",
+    "nombre": "Semillas Mix Chef Kos Food 250g",
+    "marca": "Kos Food",
+    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > Dietetica",
+    "precio_antes": 2499.0,
+    "precio_hoy": 4099.0,
+    "precio_actual_hoy": 4099.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 64.03
   },
   {
     "plu": "522386",
@@ -110,8 +110,8 @@
     "diff_pct": 63.49
   },
   {
-    "plu": "37751",
-    "nombre": "Mortadela Feteada Ebro Xkg",
+    "plu": "95836",
+    "nombre": "Mortadela Cañón EBRO X Kg (Por pieza)",
     "marca": "Ebro",
     "categoria": "Mortadela > Frescos > Fiambres",
     "precio_antes": 9699.0,
@@ -121,8 +121,8 @@
     "diff_pct": 62.38
   },
   {
-    "plu": "95836",
-    "nombre": "Mortadela Cañón EBRO X Kg (Por pieza)",
+    "plu": "37751",
+    "nombre": "Mortadela Feteada Ebro Xkg",
     "marca": "Ebro",
     "categoria": "Mortadela > Frescos > Fiambres",
     "precio_antes": 9699.0,
@@ -143,80 +143,80 @@
     "diff_pct": 60.15
   },
   {
-    "plu": "12032",
-    "nombre": "Jamón Crudo Feteado El Pozo X Kg",
-    "marca": "El Pozo",
-    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
-    "precio_antes": 45499.0,
-    "precio_hoy": 69999.0,
-    "precio_actual_hoy": 69999.0,
-    "diff_abs": 24500.0,
-    "diff_pct": 53.85
+    "plu": "79",
+    "nombre": "Riñón    X KG",
+    "marca": "Coto",
+    "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4800.0,
+    "precio_actual_hoy": 4800.0,
+    "diff_abs": 1801.0,
+    "diff_pct": 60.05
   },
   {
-    "plu": "35169",
-    "nombre": "Fiambre De Cerdo La Octava x Kg (Por pieza)",
-    "marca": "Primera Marca",
-    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
-    "precio_antes": 8189.0,
-    "precio_hoy": 12509.0,
-    "precio_actual_hoy": 12509.0,
-    "diff_abs": 4320.0,
-    "diff_pct": 52.75
+    "plu": "543421",
+    "nombre": "Fécula De Maíz Dicomere 450 Grm",
+    "marca": "Dicomere",
+    "categoria": "Sémola > Harinas > Frutas y Verduras > Frescos > Dietetica > Almacén",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 2399.0,
+    "diff_abs": 900.0,
+    "diff_pct": 60.04
   },
   {
-    "plu": "35170",
-    "nombre": "Fiamb.D/Cerdo Feteado Primera Marc Xkg",
-    "marca": "Primera Marca",
-    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
-    "precio_antes": 8189.0,
-    "precio_hoy": 12509.0,
-    "precio_actual_hoy": 12509.0,
-    "diff_abs": 4320.0,
-    "diff_pct": 52.75
+    "plu": "607753",
+    "nombre": "Trigo Candeal Pelado Granero 400g",
+    "marca": "Granero",
+    "categoria": "Trigo > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 2039.15,
+    "diff_abs": 900.0,
+    "diff_pct": 60.04
   },
   {
-    "plu": "945",
-    "nombre": "Salame Milán EBRO X Kg (Por pieza)",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 16799.0,
-    "precio_hoy": 25199.0,
-    "precio_actual_hoy": 25199.0,
-    "diff_abs": 8400.0,
-    "diff_pct": 50.0
+    "plu": "569956",
+    "nombre": "Harina De Arroz Integral Yamani Dicomere 450g",
+    "marca": "Dicomere",
+    "categoria": "Harinas > Harina de Arroz > Frutas y Verduras > Frescos > Dietetica > Almacén",
+    "precio_antes": 1999.0,
+    "precio_hoy": 3199.0,
+    "precio_actual_hoy": 3199.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 60.03
   },
   {
-    "plu": "34910",
-    "nombre": "Salame Milan Feteado Ebro Xkg",
-    "marca": "Ebro",
-    "categoria": "Salame > Frescos > Fiambres",
-    "precio_antes": 16799.0,
-    "precio_hoy": 25199.0,
-    "precio_actual_hoy": 25199.0,
-    "diff_abs": 8400.0,
-    "diff_pct": 50.0
+    "plu": "545082",
+    "nombre": "Cereal Granola Energética Kos Food 350 Grm",
+    "marca": "Kos Food",
+    "categoria": "Frutas y Verduras > Frescos > Dietetica > Cereales > Break Saludables > Almacén",
+    "precio_antes": 3499.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 57.16
   },
   {
-    "plu": "39557",
-    "nombre": "Muzzarella LA PAULINA x Kg",
-    "marca": "La Paulina",
-    "categoria": "Quesos Blandos > Quesos > Queso Muzzarella > Frescos",
-    "precio_antes": 11999.0,
-    "precio_hoy": 17899.0,
-    "precio_actual_hoy": 17899.0,
-    "diff_abs": 5900.0,
-    "diff_pct": 49.17
+    "plu": "545081",
+    "nombre": "Cereal Granola Berries Kos Food 350 Grm",
+    "marca": "Kos Food",
+    "categoria": "Frutas y Verduras > Frescos > Dietetica > Cereales > Break Saludables > Almacén",
+    "precio_antes": 3499.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 5499.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 57.16
   },
   {
-    "plu": "7487",
-    "nombre": "Licor A/Whis Crema Drambuie Bot 750 Cmq",
-    "marca": "Drambui",
-    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
-    "precio_antes": 57164.0,
-    "precio_hoy": 83000.0,
-    "precio_actual_hoy": 53950.0,
-    "diff_abs": 25836.0,
-    "diff_pct": 45.2
+    "plu": "569958",
+    "nombre": "Fécula De Papa Dicomere 450g",
+    "marca": "Dicomere",
+    "categoria": "Sémola > Harinas > Frutas y Verduras > Frescos > Dietetica > Almacén",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4649.0,
+    "precio_actual_hoy": 3951.65,
+    "diff_abs": 1650.0,
+    "diff_pct": 55.02
   }
 ]
