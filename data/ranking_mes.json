@@ -66,17 +66,6 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "93545",
-    "nombre": "Papa Asterix X Kg",
-    "marca": "Coto",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1699.0,
-    "precio_hoy": 3299.0,
-    "precio_actual_hoy": 3299.0,
-    "diff_abs": 1600.0,
-    "diff_pct": 94.17
-  },
-  {
     "plu": "595531",
     "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
     "marca": "Tgi Fridays",
@@ -86,6 +75,17 @@
     "precio_actual_hoy": 16950.0,
     "diff_abs": 8050.0,
     "diff_pct": 90.45
+  },
+  {
+    "plu": "73168",
+    "nombre": "Poroto De Soja A Granel Por Kg",
+    "marca": "Coto",
+    "categoria": "Legumbres > Frutas y Verduras > Frescos",
+    "precio_antes": 1599.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 87.55
   },
   {
     "plu": "563830",
@@ -143,6 +143,28 @@
     "diff_pct": 66.67
   },
   {
+    "plu": "45271",
+    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 26399.2,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
+    "plu": "45270",
+    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 26399.2,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
     "plu": "522386",
     "nombre": "Whisky MONKEY SHOULDER 700 Ml",
     "marca": "Monkey Shoulder",
@@ -152,17 +174,6 @@
     "precio_actual_hoy": 62400.0,
     "diff_abs": 37281.0,
     "diff_pct": 63.49
-  },
-  {
-    "plu": "571007",
-    "nombre": "Vino Malbec D.O.C. Norton 750ml",
-    "marca": "Norton",
-    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 11746.0,
-    "precio_hoy": 19036.0,
-    "precio_actual_hoy": 12691.3,
-    "diff_abs": 7290.0,
-    "diff_pct": 62.06
   },
   {
     "plu": "17843",
@@ -187,14 +198,14 @@
     "diff_pct": 60.06
   },
   {
-    "plu": "489269",
-    "nombre": "Vino Cabernet Franc Séptima Obra 750ml",
-    "marca": "Septima Obra",
-    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
-    "precio_antes": 10528.0,
-    "precio_hoy": 16850.0,
-    "precio_actual_hoy": 11233.9,
-    "diff_abs": 6322.0,
+    "plu": "79",
+    "nombre": "Riñón    X KG",
+    "marca": "Coto",
+    "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4800.0,
+    "precio_actual_hoy": 4800.0,
+    "diff_abs": 1801.0,
     "diff_pct": 60.05
   },
   {
@@ -207,16 +218,5 @@
     "precio_actual_hoy": 32792.0,
     "diff_abs": 14991.0,
     "diff_pct": 57.66
-  },
-  {
-    "plu": "649",
-    "nombre": "Lechuga Criolla X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
-    "precio_antes": 2299.0,
-    "precio_hoy": 3599.0,
-    "precio_actual_hoy": 3059.15,
-    "diff_abs": 1300.0,
-    "diff_pct": 56.55
   }
 ]

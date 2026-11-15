@@ -1,16 +1,5 @@
 [
   {
-    "plu": "602234",
-    "nombre": "Queso Parmesano QUATA 160g",
-    "marca": "Quata",
-    "categoria": "Quesos Duros > Quesos > Queso Parmesano > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 12599.0,
-    "diff_abs": 7600.0,
-    "diff_pct": 152.03
-  },
-  {
     "plu": "516",
     "nombre": "Mandarina Murcot   Xkg",
     "marca": NaN,
@@ -165,17 +154,6 @@
     "diff_pct": 60.04
   },
   {
-    "plu": "607753",
-    "nombre": "Trigo Candeal Pelado Granero 400g",
-    "marca": "Granero",
-    "categoria": "Trigo > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2399.0,
-    "precio_actual_hoy": 2039.15,
-    "diff_abs": 900.0,
-    "diff_pct": 60.04
-  },
-  {
     "plu": "569956",
     "nombre": "Harina De Arroz Integral Yamani Dicomere 450g",
     "marca": "Dicomere",
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 3951.65,
     "diff_abs": 1650.0,
     "diff_pct": 55.02
+  },
+  {
+    "plu": "12032",
+    "nombre": "Jamón Crudo Feteado El Pozo X Kg",
+    "marca": "El Pozo",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 45499.0,
+    "precio_hoy": 69999.0,
+    "precio_actual_hoy": 69999.0,
+    "diff_abs": 24500.0,
+    "diff_pct": 53.85
+  },
+  {
+    "plu": "35169",
+    "nombre": "Fiambre De Cerdo La Octava x Kg (Por pieza)",
+    "marca": "Primera Marca",
+    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
+    "precio_antes": 8189.0,
+    "precio_hoy": 12509.0,
+    "precio_actual_hoy": 12509.0,
+    "diff_abs": 4320.0,
+    "diff_pct": 52.75
   }
 ]

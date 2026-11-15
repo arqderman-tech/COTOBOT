@@ -1,35 +1,35 @@
 {
-  "fecha": "20261113",
-  "total_productos": 14855,
+  "fecha": "20261115",
+  "total_productos": 14839,
   "variacion_dia": 0.01,
-  "variacion_7d": 0.4,
-  "variacion_mes": 1.45,
-  "variacion_6m": 7.9,
+  "variacion_7d": 0.36,
+  "variacion_mes": 1.43,
+  "variacion_6m": 7.6,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.24,
-      "productos_subieron": 86,
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 8,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2785,
-      "total_productos": 2871
+      "productos_sin_cambio": 2866,
+      "total_productos": 2874
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.08,
-      "productos_subieron": 4,
-      "productos_bajaron": 12,
-      "productos_sin_cambio": 1670,
-      "total_productos": 1686
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 2,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1678,
+      "total_productos": 1680
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 137,
-      "total_productos": 138
+      "total_productos": 137
     },
     {
       "categoria": "Limpieza",
@@ -41,35 +41,11 @@
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.73,
-      "productos_subieron": 88,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 614,
-      "total_productos": 702
-    },
-    {
-      "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 314,
-      "total_productos": 314
-    },
-    {
-      "categoria": "Vinos Generosos > Champañas > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Vinos Generosos > Vinos > Moscato > Bebidas con Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 701,
+      "total_productos": 701
     },
     {
       "categoria": "Vinos Generosos > Vinos > Oporto > Bebidas con Alcohol > Bebidas",
@@ -84,16 +60,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 87,
-      "total_productos": 87
+      "productos_sin_cambio": 85,
+      "total_productos": 85
     },
     {
       "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1016,
-      "total_productos": 1016
+      "productos_sin_cambio": 1015,
+      "total_productos": 1015
     },
     {
       "categoria": "Vinos Tintos > Vinos > Orgánicos > Bebidas con Alcohol > Bebidas",
@@ -112,7 +88,15 @@
       "total_productos": 53
     },
     {
-      "categoria": "Vinagres de Manzana > Vinagres > Sin Tacc > Almacén > Aceites y Condimentos",
+      "categoria": "Vodka > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Waffles > Panificados > Panaderia > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -120,15 +104,7 @@
       "total_productos": 1
     },
     {
-      "categoria": "Vinagres de Vino > Vinagres > Almacén > Aceites y Condimentos",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 8
-    },
-    {
-      "categoria": "Vinagres de Vino > Vinagres > Sin Tacc > Almacén > Aceites y Condimentos",
+      "categoria": "Waffles > Panificados > Panaderia Propia > Panaderia > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -176,15 +152,15 @@
       "total_productos": 1
     },
     {
-      "categoria": "Vidrios Y Multiuso > Limpieza de Pisos y Superficies > Limpieza > Limpiadores > Limpia Vidrios",
+      "categoria": "Vinos Blancos > Vinos > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 312,
+      "total_productos": 312
     },
     {
-      "categoria": "Vidrios Y Multiuso > Limpieza de Pisos y Superficies > Limpieza > Limpiadores de Pisos y Superficies > Limpiadores",
+      "categoria": "Vinos Generosos > Champañas > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -192,7 +168,7 @@
       "total_productos": 1
     },
     {
-      "categoria": "Vinagres Balsámicos > Vinagres > Almacén > Aceites y Condimentos",
+      "categoria": "Vinos Generosos > Vinos > Moscato > Bebidas con Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -240,15 +216,7 @@
       "total_productos": 12
     },
     {
-      "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -45.02,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Verduras de Hoja > Verduras > Rabanito > Frutas y Verduras > Frescos",
+      "categoria": "Vinagres de Manzana > Vinagres > Sin Tacc > Almacén > Aceites y Condimentos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -256,35 +224,43 @@
       "total_productos": 1
     },
     {
-      "categoria": "Verduras de Hoja > Verduras > Radicheta > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -21.44,
+      "categoria": "Vinagres de Vino > Vinagres > Almacén > Aceites y Condimentos",
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 8,
+      "total_productos": 8
+    },
+    {
+      "categoria": "Vinagres de Vino > Vinagres > Sin Tacc > Almacén > Aceites y Condimentos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Remolacha > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -55.57,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Repollo > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -10.36,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Rucula > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -18.2,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -302,6 +278,30 @@
       "productos_bajaron": 0,
       "productos_sin_cambio": 3,
       "total_productos": 3
+    },
+    {
+      "categoria": "Vidrios Y Multiuso > Limpieza de Pisos y Superficies > Limpieza > Limpiadores > Limpia Vidrios",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Vidrios Y Multiuso > Limpieza de Pisos y Superficies > Limpieza > Limpiadores de Pisos y Superficies > Limpiadores",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Vinagres Balsámicos > Vinagres > Almacén > Aceites y Condimentos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL > Aperitivos > Aperitivo Bitter > APERITIVOS",
@@ -356,8 +356,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 57,
-      "total_productos": 57
+      "productos_sin_cambio": 56,
+      "total_productos": 56
     },
     {
       "categoria": "Bebidas sin Alcohol > Bebidas > Amargos",
@@ -441,9 +441,9 @@
     },
     {
       "categoria": "Almacén > Aderezos y Salsas > Aderezo Caesar",
-      "variacion_pct_promedio": -1.25,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
+      "variacion_pct_promedio": 1.74,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
       "productos_sin_cambio": 7,
       "total_productos": 8
     },
@@ -489,19 +489,19 @@
     },
     {
       "categoria": "Babaganush > Almacén > Aderezos y Salsas",
-      "variacion_pct_promedio": -5.97,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Vodka > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 76,
+      "total_productos": 76
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite Canola",
@@ -513,11 +513,11 @@
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite Girasol",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 1.75,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
       "productos_sin_cambio": 9,
-      "total_productos": 9
+      "total_productos": 10
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite Maiz",
@@ -537,11 +537,11 @@
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite Oliva",
-      "variacion_pct_promedio": 0.78,
-      "productos_subieron": 10,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 67,
-      "total_productos": 77
+      "productos_sin_cambio": 75,
+      "total_productos": 75
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite de Coco",
@@ -556,16 +556,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 30,
-      "total_productos": 30
-    },
-    {
-      "categoria": "Grappa > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 29,
+      "total_productos": 29
     },
     {
       "categoria": "Grappa > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
@@ -577,10 +569,10 @@
     },
     {
       "categoria": "Helados y Postres > Helados en Palito > Congelados",
-      "variacion_pct_promedio": 0.46,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 38,
+      "productos_sin_cambio": 40,
       "total_productos": 40
     },
     {
@@ -593,11 +585,11 @@
     },
     {
       "categoria": "Helados y Postres > Helados en Pote > Congelados",
-      "variacion_pct_promedio": 1.08,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 40,
-      "total_productos": 44
+      "productos_sin_cambio": 43,
+      "total_productos": 43
     },
     {
       "categoria": "Helados y Postres > Helados en Pote > Helados > Congelados",
@@ -609,10 +601,10 @@
     },
     {
       "categoria": "Hierbas Aromáticas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -6.25,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -624,12 +616,12 @@
       "total_productos": 2
     },
     {
-      "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+      "categoria": "JUGOS > Bebidas sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 114,
-      "total_productos": 114
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Gaseosas > GASEOSAS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
@@ -688,6 +680,14 @@
       "total_productos": 6
     },
     {
+      "categoria": "Grappa > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
       "categoria": "Frutas y Verduras > Frutas > Frescos > Ciruelas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
@@ -697,19 +697,11 @@
     },
     {
       "categoria": "Frutas y Verduras > Frutas > Frescos > Duraznos",
-      "variacion_pct_promedio": -5.56,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1,
-      "total_productos": 2
-    },
-    {
-      "categoria": "Frutas y Verduras > Frutas > Frescos > Dátiles",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Frutas y Verduras > Frutas Secas y Desecadas > Frescos",
@@ -752,6 +744,14 @@
       "total_productos": 3
     },
     {
+      "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 114,
+      "total_productos": 114
+    },
+    {
       "categoria": "Frescos > Embutidos > Carniceria",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
@@ -772,15 +772,15 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 17,
-      "total_productos": 17
+      "productos_sin_cambio": 16,
+      "total_productos": 16
     },
     {
       "categoria": "Frutas y Verduras > Frescos > Champignones",
-      "variacion_pct_promedio": -10.15,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 6,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 6,
       "total_productos": 6
     },
     {
@@ -809,19 +809,11 @@
     },
     {
       "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
-      "variacion_pct_promedio": -6.52,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1,
-      "total_productos": 2
-    },
-    {
-      "categoria": "Lentejas > Legumbres > Arroz y Legumbres > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Lentejas > Legumbres > LEGUMBRES > Arroz y Legumbres > Almacén > ALIMENTOS SECOS",
@@ -872,27 +864,27 @@
       "total_productos": 3
     },
     {
-      "categoria": "Legumbres > Arvejas > Arroz y Legumbres > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
-    },
-    {
-      "categoria": "Legumbres > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -0.45,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 25,
-      "total_productos": 26
-    },
-    {
-      "categoria": "Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
+      "categoria": "Limpieza > Accesorios de Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Legumbres > Frutas y Verduras > Frescos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 26,
+      "total_productos": 26
+    },
+    {
+      "categoria": "Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
+      "variacion_pct_promedio": -18.19,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 0,
       "total_productos": 1
     },
     {
@@ -936,7 +928,7 @@
       "total_productos": 1
     },
     {
-      "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
+      "categoria": "Lentejas > Legumbres > Arroz y Legumbres > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -1000,7 +992,7 @@
       "total_productos": 34
     },
     {
-      "categoria": "JUGOS > Bebidas sin Alcohol > Bebidas Isotónicas > Bebidas > BEBIDAS SIN ALCOHOL",
+      "categoria": "Legumbres > Arvejas > Arroz y Legumbres > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -1064,12 +1056,12 @@
       "total_productos": 18
     },
     {
-      "categoria": "Limpieza de Baño > Limpieza > Desodorantes de Inodoro > Bloques para Mochila",
+      "categoria": "Jugos Refrigerados > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     },
     {
       "categoria": "Limpieza de Baño > Limpieza > Desodorantes de Inodoro > Canastas",
@@ -1128,12 +1120,12 @@
       "total_productos": 13
     },
     {
-      "categoria": "Limpieza > Escobas y Escobillones > Accesorios de Limpieza",
+      "categoria": "Limpieza de Baño > Limpieza > Limpiadores para Inodoro > Limpiadores de Baño",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 35,
-      "total_productos": 35
+      "productos_sin_cambio": 12,
+      "total_productos": 12
     },
     {
       "categoria": "Limpieza > Esponjas y Guantes > Esponjas > Accesorios de Limpieza",
@@ -1192,7 +1184,7 @@
       "total_productos": 5
     },
     {
-      "categoria": "Limpieza > Desodorantes de Ambiente > Aromatizantes de Ambiente",
+      "categoria": "Limpieza de Baño > Limpieza > Desodorantes de Inodoro > Bloques para Mochila",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -1256,12 +1248,12 @@
       "total_productos": 28
     },
     {
-      "categoria": "Limpieza > Accesorios de Limpieza",
+      "categoria": "Limpieza > Escobas y Escobillones > Accesorios de Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 35,
+      "total_productos": 35
     },
     {
       "categoria": "Limpieza > Baldes y Mopas > Accesorios de Limpieza",
@@ -1320,19 +1312,19 @@
       "total_productos": 25
     },
     {
-      "categoria": "Manzanas > Frutas y Verduras > Frutas > Frescos",
+      "categoria": "Limpieza > Desodorantes de Ambiente > Aromatizantes de Ambiente",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 10,
-      "total_productos": 10
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Mayonesas > Almacén > Aderezos y Salsas",
-      "variacion_pct_promedio": -0.09,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 63,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 64,
       "total_productos": 64
     },
     {
@@ -1369,10 +1361,10 @@
     },
     {
       "categoria": "Medallones de Pollo > Hamburguesas y Milanesas > Hamburguesas y Medallones > Congelados",
-      "variacion_pct_promedio": 0.55,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
+      "productos_sin_cambio": 10,
       "total_productos": 10
     },
     {
@@ -1384,12 +1376,12 @@
       "total_productos": 53
     },
     {
-      "categoria": "Limpieza de Pisos y Superficies > Limpieza > Limpiadores Cremosos",
+      "categoria": "Melones > Frutas y Verduras > Frutas > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Limpieza de Pisos y Superficies > Limpieza > Limpiadores Desinfectantes",
@@ -1448,12 +1440,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Limpieza de Cocina > Limpieza > Limpiadores de Cocina > Limpiadores Antigrasa > Limpiadores > Cocina",
+      "categoria": "Manzanas > Frutas y Verduras > Frutas > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 10,
+      "total_productos": 10
     },
     {
       "categoria": "Limpieza de Cocina > Limpieza > Limpiadores de Horno > Limpiadores de Cocina",
@@ -1512,12 +1504,12 @@
       "total_productos": 21
     },
     {
-      "categoria": "Limpieza de Baño > Limpieza > Limpiadores para Inodoro > Limpiadores de Baño",
+      "categoria": "Limpieza de Pisos y Superficies > Limpieza > Limpiadores Cremosos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 12,
-      "total_productos": 12
+      "productos_sin_cambio": 6,
+      "total_productos": 6
     },
     {
       "categoria": "Limpieza de Baño > Limpieza > Limpiadores para Inodoro > Limpiadores de Baño > Limpiadores > Baño",
@@ -1548,8 +1540,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 61,
-      "total_productos": 61
+      "productos_sin_cambio": 60,
+      "total_productos": 60
     },
     {
       "categoria": "Limpieza de Cocina > Limpieza > Fósforos",
@@ -1576,12 +1568,12 @@
       "total_productos": 25
     },
     {
-      "categoria": "Palas y Cabos > Palas de Residuos > Limpieza > Accesorios de Limpieza",
+      "categoria": "Limpieza de Cocina > Limpieza > Limpiadores de Cocina > Limpiadores Antigrasa > Limpiadores > Cocina",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 12,
-      "total_productos": 12
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Palas y Cabos > Palas de Residuos > PALAS DE RESIDUOS > Limpieza > LIMPIEZA > Accesorios de Limpieza",
@@ -1640,12 +1632,12 @@
       "total_productos": 4
     },
     {
-      "categoria": "Mostazas > Almacén > Aderezos y Salsas",
-      "variacion_pct_promedio": -0.33,
+      "categoria": "Panaderia > Budines > Almacén",
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 16,
-      "total_productos": 17
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 44,
+      "total_productos": 44
     },
     {
       "categoria": "Naranjas > Frutas y Verduras > Frutas > Frescos",
@@ -1673,18 +1665,18 @@
     },
     {
       "categoria": "Nuggets, Patitas y Bocaditos > Congelados > Bocaditos y Formitas",
-      "variacion_pct_promedio": 0.61,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 24,
+      "productos_sin_cambio": 27,
       "total_productos": 27
     },
     {
       "categoria": "Nuggets, Patitas y Bocaditos > Nuggets > Congelados",
-      "variacion_pct_promedio": -0.33,
-      "productos_subieron": 3,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 23,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 27,
       "total_productos": 27
     },
     {
@@ -1704,12 +1696,12 @@
       "total_productos": 13
     },
     {
-      "categoria": "Miel > Mermeladas y Dulces > Almacén",
+      "categoria": "Palas y Cabos > Palas de Residuos > Limpieza > Accesorios de Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 18,
-      "total_productos": 18
+      "productos_sin_cambio": 12,
+      "total_productos": 12
     },
     {
       "categoria": "Milanesas y Supremas > Milanesas de Carne Vacuna > Hamburguesas y Milanesas > Congelados",
@@ -1768,12 +1760,12 @@
       "total_productos": 32
     },
     {
-      "categoria": "Melones > Frutas y Verduras > Frutas > Frescos",
+      "categoria": "Mostazas > Almacén > Aderezos y Salsas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 17,
+      "total_productos": 17
     },
     {
       "categoria": "Menudencias > Frescos > Carniceria > Carnes",
@@ -1832,12 +1824,12 @@
       "total_productos": 2
     },
     {
-      "categoria": "Panaderia > Pan Dulces > Pan Dulce > Bizcochuelos, Budines Y Otros > Almacén",
+      "categoria": "Miel > Mermeladas y Dulces > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 18,
+      "total_productos": 18
     },
     {
       "categoria": "Panaderia Propia > Panaderia > Almacén",
@@ -1896,7 +1888,7 @@
       "total_productos": 3
     },
     {
-      "categoria": "Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas > Dulces > Almacén",
+      "categoria": "Panadería Elaboración Propia > Panaderia Propia > Panaderia > Facturas, Masas Y Galletitas > Facturas y Media Lunas > Facturas > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -1960,20 +1952,20 @@
       "total_productos": 7
     },
     {
-      "categoria": "Panaderia > Galletitas Cereales > Galletitas > Dulces > Almacén",
+      "categoria": "Panaderia > Pan Dulces > Pan Dulce > Bizcochuelos, Budines Y Otros > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 13,
-      "total_productos": 13
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Panaderia > Galletitas Crackers > Galletitas > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
-      "total_productos": 7
+      "productos_sin_cambio": 6,
+      "total_productos": 6
     },
     {
       "categoria": "Panaderia > Galletitas Crackers > Galletitas > Almacén > Agua",
@@ -2024,12 +2016,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Panaderia > Budines > Almacén",
+      "categoria": "Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas > Dulces > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 44,
-      "total_productos": 44
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Panaderia > Budines > Bizcochuelos, Budines Y Otros > Bizcochuelos Y Especialidades > Almacén",
@@ -2049,10 +2041,10 @@
     },
     {
       "categoria": "Panaderia > Galletas, Tostadas y Grisines > Galletas y Grisines > Fajitas > Almacén",
-      "variacion_pct_promedio": 3.43,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
+      "productos_sin_cambio": 8,
       "total_productos": 8
     },
     {
@@ -2088,12 +2080,12 @@
       "total_productos": 5
     },
     {
-      "categoria": "Panificados > Panaderia Propia > Panaderia > Pan de Molde > Almacén",
+      "categoria": "Panaderia > Galletitas Cereales > Galletitas > Dulces > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 13,
+      "total_productos": 13
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Pan de Naranja > Almacén",
@@ -2152,7 +2144,7 @@
       "total_productos": 1
     },
     {
-      "categoria": "Panificados > Panaderia Propia > Panaderia > Flautitas > Almacén",
+      "categoria": "Panificados > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Pan Por Kilo Y Por Unidad > Mignon > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -2216,12 +2208,12 @@
       "total_productos": 2
     },
     {
-      "categoria": "Panificados > Panaderia Propia > Panaderia > Bizcochos > Almacén",
+      "categoria": "Panificados > Panaderia Propia > Panaderia > Pan de Molde > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Panificados > Panaderia Propia > Panaderia > Bollitos > Almacén",
@@ -2280,7 +2272,7 @@
       "total_productos": 2
     },
     {
-      "categoria": "Panadería Elaboración Propia > Panaderia Propia > Panaderia > Facturas, Masas Y Galletitas > Facturas y Media Lunas > Facturas > Almacén",
+      "categoria": "Panificados > Panaderia Propia > Panaderia > Flautitas > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -2313,10 +2305,10 @@
     },
     {
       "categoria": "Panificados > Panaderia > Molde > Almacén",
-      "variacion_pct_promedio": 0.39,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.74,
+      "productos_subieron": 9,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 58,
+      "productos_sin_cambio": 53,
       "total_productos": 62
     },
     {
@@ -2344,12 +2336,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Pastas Secas > Pasta Seca, Lista y Rellenas > Dkt > Almacén",
+      "categoria": "Panificados > Panaderia Propia > Panaderia > Bizcochos > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Pastas Secas > Pasta Seca, Lista y Rellenas > Fideos > Dkt > Almacén",
@@ -2404,16 +2396,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
-      "total_productos": 9
+      "productos_sin_cambio": 8,
+      "total_productos": 8
     },
     {
-      "categoria": "Pastas Frescas y Tapas > Masas Preparadas > Masa Tortafritas > Frescos",
+      "categoria": "Paños > Limpieza > Accesorios de Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 39,
+      "total_productos": 39
     },
     {
       "categoria": "Pastas Frescas y Tapas > Masas Preparadas > Masa Tortafritas > Frescos > Bollos y Tapas",
@@ -2472,12 +2464,12 @@
       "total_productos": 4
     },
     {
-      "categoria": "Papel Aluminio > Limpieza > Accesorios de Limpieza",
+      "categoria": "Pastas Secas > Pasta Seca, Lista y Rellenas > Dkt > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
-      "total_productos": 7
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     },
     {
       "categoria": "Papel Manteca > Limpieza > Accesorios de Limpieza",
@@ -2536,7 +2528,7 @@
       "total_productos": 16
     },
     {
-      "categoria": "Panificados > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Pan Por Kilo Y Por Unidad > Mignon > Almacén",
+      "categoria": "Pastas Frescas y Tapas > Masas Preparadas > Masa Tortafritas > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -2600,12 +2592,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Perfumería > PERFUMERÍA > OJOS > MAQUILLAJE > Accesorios",
+      "categoria": "Papel Aluminio > Limpieza > Accesorios de Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 7,
+      "total_productos": 7
     },
     {
       "categoria": "Perfumería > PERFUMERÍA > PEINES / CEPILLOS / ACCESORIOS > Elementos para el Cabello > CUIDADO DEL CABELLO > Accesorios",
@@ -2664,20 +2656,20 @@
       "total_productos": 10
     },
     {
-      "categoria": "Perfumería > Desodorantes y Antitranspirantes > Desodorantes Femeninos > Desodorantes",
+      "categoria": "Pescaderia > Frescos > Entero Eviscerado",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
-      "total_productos": 7
+      "productos_sin_cambio": 9,
+      "total_productos": 9
     },
     {
       "categoria": "Perfumería > Desodorantes y Antitranspirantes > Desodorantes Masculinos > Desodorantes",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 34,
-      "total_productos": 34
+      "productos_sin_cambio": 33,
+      "total_productos": 33
     },
     {
       "categoria": "Perfumería > Desodorantes y Antitranspirantes > Desodorantes Masculinos > Desodorantes > Antitranspirantes Masculinos > Antitranspirantes",
@@ -2708,8 +2700,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 39,
-      "total_productos": 39
+      "productos_sin_cambio": 38,
+      "total_productos": 38
     },
     {
       "categoria": "Perfumería > Modeladores de Peinado > Gel / Fijador > Cuidado del Cabello",
@@ -2728,12 +2720,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Perfumería > Cuidado del Cabello > Coloración Femenina > Coloración",
+      "categoria": "Perfumería > PERFUMERÍA > OJOS > MAQUILLAJE > Accesorios",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 217,
-      "total_productos": 217
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Perfumería > Cuidado del Cabello > Coloración Masculina > Coloración",
@@ -2792,12 +2784,12 @@
       "total_productos": 5
     },
     {
-      "categoria": "Paños > Limpieza > Accesorios de Limpieza",
+      "categoria": "Perfumería > Desodorantes y Antitranspirantes > Desodorantes Femeninos > Desodorantes",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 39,
-      "total_productos": 39
+      "productos_sin_cambio": 7,
+      "total_productos": 7
     },
     {
       "categoria": "Peras > Frutas y Verduras > Frutas > Frescos",
@@ -2844,8 +2836,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 191,
-      "total_productos": 191
+      "productos_sin_cambio": 189,
+      "total_productos": 189
     },
     {
       "categoria": "Perfumería > Cuidado del Cabello > Coloración",
@@ -2856,12 +2848,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": -4.51,
+      "categoria": "Perfumería > Cuidado del Cabello > Coloración Femenina > Coloración",
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 5,
-      "productos_sin_cambio": 17,
-      "total_productos": 22
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 216,
+      "total_productos": 216
     },
     {
       "categoria": "Porcinos envasados al vacío > Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
@@ -2897,10 +2889,10 @@
     },
     {
       "categoria": "Postres Helados > Helados y Postres > Congelados",
-      "variacion_pct_promedio": 1.34,
-      "productos_subieron": 5,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 38,
+      "productos_sin_cambio": 43,
       "total_productos": 43
     },
     {
@@ -2920,12 +2912,12 @@
       "total_productos": 5
     },
     {
-      "categoria": "Pisco > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
+      "categoria": "Premezcla Postres > Polvo para Postres y Reposteria > Gelatinas > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 26,
+      "total_productos": 26
     },
     {
       "categoria": "Pisos > Limpieza de Pisos y Superficies > Limpieza > Limpiadores de Pisos y Superficies > Limpiadores",
@@ -2984,12 +2976,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Pescado de Mar > Pescaderia > Filete > Congelados",
-      "variacion_pct_promedio": -2.23,
+      "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 14,
-      "total_productos": 15
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 22,
+      "total_productos": 22
     },
     {
       "categoria": "Pescado de Mar > Pescaderia > PESCADOS Y MARISCOS > MARISCOS > Entero Eviscerado > Congelados > ALIMENTOS FRESCOS",
@@ -3048,27 +3040,27 @@
       "total_productos": 3
     },
     {
-      "categoria": "Pescaderia > Frescos > Entero Eviscerado",
+      "categoria": "Pisco > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 8
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Pescaderia > Frescos > Filete",
-      "variacion_pct_promedio": -2.74,
-      "productos_subieron": 1,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 7,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 9,
       "total_productos": 9
     },
     {
       "categoria": "Pescaderia > Mariscos > Congelados",
-      "variacion_pct_promedio": -1.95,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 29,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 30,
       "total_productos": 30
     },
     {
@@ -3112,12 +3104,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Rebozados De Pollo > Prefritos De Pollo > Medallones de Pollo > Medallones De Pollo > Hamburguesas y Milanesas > Hamburguesas y Medallones > Congelados",
-      "variacion_pct_promedio": -25.0,
+      "categoria": "Pescado de Mar > Pescaderia > Filete > Congelados",
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
-      "total_productos": 1
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 15,
+      "total_productos": 15
     },
     {
       "categoria": "Refrescos > Bebidas sin Alcohol > Bebidas",
@@ -3176,12 +3168,12 @@
       "total_productos": 11
     },
     {
-      "categoria": "Productos para Lavavajillas > Limpieza de Cocina > Limpieza > Abrillantadores",
+      "categoria": "Ron > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Productos para Lavavajillas > Limpieza de Cocina > Limpieza > Detergente en Polvo",
@@ -3196,8 +3188,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 83,
-      "total_productos": 83
+      "productos_sin_cambio": 82,
+      "total_productos": 82
     },
     {
       "categoria": "Puré de Frutas > Almacén > Alimentos para Bebé > Alimento de Bebés y Niños",
@@ -3225,27 +3217,27 @@
     },
     {
       "categoria": "Rebozados > Pescaderia > Congelados",
-      "variacion_pct_promedio": -0.76,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 38,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 39,
       "total_productos": 39
     },
     {
       "categoria": "Rebozados De Pollo > Nuggets, Patitas y Bocaditos > Nuggets > Congelados > Bocaditos De Pollo",
-      "variacion_pct_promedio": -25.0,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
-      "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -0.24,
+      "categoria": "Rebozados De Pollo > Prefritos De Pollo > Medallones de Pollo > Medallones De Pollo > Hamburguesas y Milanesas > Hamburguesas y Medallones > Congelados",
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 25,
-      "total_productos": 26
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > Dietetica",
@@ -3265,10 +3257,10 @@
     },
     {
       "categoria": "Productos Orgánicos > Orgánicos > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -1.91,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
@@ -3304,12 +3296,12 @@
       "total_productos": 2
     },
     {
-      "categoria": "Premezcla Postres > Polvo para Postres y Reposteria > Gelatinas > Almacén",
+      "categoria": "Productos para Lavavajillas > Limpieza de Cocina > Limpieza > Abrillantadores",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 26,
-      "total_productos": 26
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
       "categoria": "Premezcla Postres > Polvo para Postres y Reposteria > Helados > Almacén",
@@ -3368,12 +3360,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Salsas y Puré de Tomate > Puré de Tomate > Almacén",
+      "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 18,
-      "total_productos": 18
+      "productos_sin_cambio": 26,
+      "total_productos": 26
     },
     {
       "categoria": "Salsas y Puré de Tomate > Puré de Tomate > Conservas De Tomate > Almacén",
@@ -3401,10 +3393,10 @@
     },
     {
       "categoria": "Sandias > Frutas y Verduras > Frutas > Frescos",
-      "variacion_pct_promedio": -8.34,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -3432,12 +3424,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Salsa de Ajo > Almacén > Aderezos y Salsas",
+      "categoria": "Sandwiches > Pizzas Y Sándwiches > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Baguettin > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Salsa de Ostras > Almacén > Aderezos y Salsas",
@@ -3473,10 +3465,10 @@
     },
     {
       "categoria": "Salsas y Puré de Tomate > Pesto > Almacén",
-      "variacion_pct_promedio": -5.2,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -3496,12 +3488,12 @@
       "total_productos": 2
     },
     {
-      "categoria": "Salmón y Trucha > Pescaderia > Congelados",
+      "categoria": "Salsas y Puré de Tomate > Puré de Tomate > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 11,
-      "total_productos": 11
+      "productos_sin_cambio": 18,
+      "total_productos": 18
     },
     {
       "categoria": "Salmón y Trucha > Pescaderia > PESCADOS Y MARISCOS > PESCADOS > Congelados > ALIMENTOS FRESCOS",
@@ -3560,7 +3552,7 @@
       "total_productos": 1
     },
     {
-      "categoria": "Ron > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
+      "categoria": "Salsa de Ajo > Almacén > Aderezos y Salsas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -3577,10 +3569,10 @@
     },
     {
       "categoria": "Sal > Condimentos > Almacén > Aceites y Condimentos",
-      "variacion_pct_promedio": 0.21,
-      "productos_subieron": 2,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 70,
+      "productos_sin_cambio": 72,
       "total_productos": 72
     },
     {
@@ -3624,20 +3616,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Shampoo + Acondicionador > Perfumería > Cuidado del Cabello",
+      "categoria": "Salmón y Trucha > Pescaderia > Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Shampoo > Perfumería > Cuidado del Cabello",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 287,
-      "total_productos": 287
+      "productos_sin_cambio": 11,
+      "total_productos": 11
     },
     {
       "categoria": "Sidras > Bebidas sin Alcohol > Bebidas",
@@ -3672,14 +3656,6 @@
       "total_productos": 2
     },
     {
-      "categoria": "Sin Tacc > Almacén > Aceites y Condimentos > Aceites > Aceite Canola",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
       "categoria": "Sin Tacc > Almacén > Aceites y Condimentos > Aceites > Aceite Maiz",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
@@ -3688,20 +3664,28 @@
       "total_productos": 1
     },
     {
-      "categoria": "Semiconserva > Pescaderia > PESCADOS Y MARISCOS > Frescos > ESPECIALIDADES > ALIMENTOS FRESCOS",
+      "categoria": "Sin Tacc > Almacén > Aderezos y Salsas > Aderezo Caesar",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Sin Tacc > Arroz y Legumbres > Arroz > Almacén",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 5,
+      "total_productos": 5
+    },
+    {
+      "categoria": "Sin Tacc > Arroz y Legumbres > Arroz > Almacén > ARROZ > ALIMENTOS SECOS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 1,
       "total_productos": 1
-    },
-    {
-      "categoria": "Semillas > Panaderia > Galletitas Crackers > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 16,
-      "total_productos": 16
     },
     {
       "categoria": "Semillas > Panaderia > Galletitas Y Bizcochos > Galletitas Crackers > Galletitas > Crackers > Almacén",
@@ -3724,8 +3708,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 139,
-      "total_productos": 139
+      "productos_sin_cambio": 138,
+      "total_productos": 138
     },
     {
       "categoria": "Semola > Pastas Secas > Pasta Seca, Lista y Rellenas > Fideos > Almacén",
@@ -3752,15 +3736,7 @@
       "total_productos": 6
     },
     {
-      "categoria": "Secas > Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas > Dulces > Almacén",
-      "variacion_pct_promedio": 1.19,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
-      "total_productos": 8
-    },
-    {
-      "categoria": "Secas > Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas Cereales > Galletitas > Dulces > Almacén",
+      "categoria": "Shampoo + Acondicionador > Perfumería > Cuidado del Cabello",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -3768,7 +3744,15 @@
       "total_productos": 1
     },
     {
-      "categoria": "Secas > Rellenas Dulces > Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas > Almacén",
+      "categoria": "Shampoo > Perfumería > Cuidado del Cabello",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 287,
+      "total_productos": 287
+    },
+    {
+      "categoria": "Secas > Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas Cereales > Galletitas > Dulces > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -3816,12 +3800,20 @@
       "total_productos": 3
     },
     {
-      "categoria": "Sandwiches > Pizzas Y Sándwiches > Panadería Elaboración Propia > Panaderia Propia > Panaderia > Baguettin > Almacén",
+      "categoria": "Semiconserva > Pescaderia > PESCADOS Y MARISCOS > Frescos > ESPECIALIDADES > ALIMENTOS FRESCOS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 1,
       "total_productos": 1
+    },
+    {
+      "categoria": "Semillas > Panaderia > Galletitas Crackers > Galletitas > Almacén",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 16,
+      "total_productos": 16
     },
     {
       "categoria": "Sandwiches de Miga > Sandwiches > Panaderia Propia > Panaderia > Almacén",
@@ -3865,11 +3857,11 @@
     },
     {
       "categoria": "Secas > Panaderia > Galletitas Dulces > Galletitas > Almacén",
-      "variacion_pct_promedio": 0.34,
-      "productos_subieron": 4,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 109,
-      "total_productos": 113
+      "productos_sin_cambio": 114,
+      "total_productos": 114
     },
     {
       "categoria": "Secas > Panaderia > Galletitas Dulces > Galletitas > GALLETITAS > DULCES > Almacén > ALIMENTOS SECOS",
@@ -3880,28 +3872,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Sin Tacc > Premezcla Postres > Polvo para Postres y Reposteria > Flanes > Almacén",
+      "categoria": "Secas > Panaderia > Galletitas Y Bizcochos > Galletitas Dulces > Galletitas > Dulces > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
-    },
-    {
-      "categoria": "Sin Tacc > Premezcla Postres > Polvo para Postres y Reposteria > Gelatinas > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Sin Tacc > Premezcla Postres > Polvo para Postres y Reposteria > Mousse > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 8,
+      "total_productos": 8
     },
     {
       "categoria": "Sin Tacc > Premezcla Postres > Postres > Polvo para Postres y Reposteria > Almacén",
@@ -3944,28 +3920,28 @@
       "total_productos": 1
     },
     {
-      "categoria": "Sin Tacc > Medallones de Carne Vacuna > Hamburguesas y Milanesas > Hamburguesas y Medallones > Hamburguesas > Congelados",
+      "categoria": "Sin Tacc > Salsas y Puré de Tomate > Puré de Tomate > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
-      "categoria": "Sin Tacc > Mermeladas y Dulces > Dulce > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
-    },
-    {
-      "categoria": "Sin Tacc > Mermeladas y Dulces > Jalea > Almacén",
+      "categoria": "Sin Tacc > Salsas y Puré de Tomate > Puré de Tomate > Conservas De Tomate > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 1,
       "total_productos": 1
+    },
+    {
+      "categoria": "Sin Tacc > Salsas y Puré de Tomate > Salsas Preparadas > Almacén",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 11,
+      "total_productos": 11
     },
     {
       "categoria": "Sin Tacc > Mermeladas y Dulces > Mermeladas > Almacén",
@@ -4008,7 +3984,7 @@
       "total_productos": 2
     },
     {
-      "categoria": "Sin Tacc > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
+      "categoria": "Sin Tacc > Premezcla Postres > Polvo para Postres y Reposteria > Flanes > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4016,7 +3992,7 @@
       "total_productos": 2
     },
     {
-      "categoria": "Sin Tacc > Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
+      "categoria": "Sin Tacc > Premezcla Postres > Polvo para Postres y Reposteria > Gelatinas > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4024,12 +4000,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
+      "categoria": "Sin Tacc > Premezcla Postres > Polvo para Postres y Reposteria > Mousse > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Sin Tacc > Jugos Naturales > Jugos > Bebidas sin Alcohol > Bebidas",
@@ -4072,7 +4048,7 @@
       "total_productos": 9
     },
     {
-      "categoria": "Sin Tacc > Almacén > Aderezos y Salsas > Aderezo Caesar",
+      "categoria": "Sin Tacc > Medallones de Carne Vacuna > Hamburguesas y Milanesas > Hamburguesas y Medallones > Hamburguesas > Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4080,15 +4056,15 @@
       "total_productos": 2
     },
     {
-      "categoria": "Sin Tacc > Arroz y Legumbres > Arroz > Almacén",
+      "categoria": "Sin Tacc > Mermeladas y Dulces > Dulce > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
-      "categoria": "Sin Tacc > Arroz y Legumbres > Arroz > Almacén > ARROZ > ALIMENTOS SECOS",
+      "categoria": "Sin Tacc > Mermeladas y Dulces > Jalea > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4136,28 +4112,28 @@
       "total_productos": 3
     },
     {
-      "categoria": "Talle Xg > Perfumería > Pañales y Productos para Incontinencia > Pañales para Bebé",
+      "categoria": "Sin Tacc > Jugos Frescos > Jugos > Bebidas sin Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 23,
-      "total_productos": 23
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
-      "categoria": "Talle Xxg > Perfumería > Pañales y Productos para Incontinencia > Pañales para Bebé",
+      "categoria": "Sin Tacc > Jugos Listos > Jugos > Bebidas sin Alcohol > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 21,
-      "total_productos": 21
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
-      "categoria": "Talle Xxxg > Perfumería > Pañales y Productos para Incontinencia > Pañales para Bebé",
+      "categoria": "Sin Tacc > Jugos Listos > Jugos > JUGOS > Bebidas sin Alcohol > Bebidas > BEBIDAS SIN ALCOHOL",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
-      "total_productos": 9
+      "productos_sin_cambio": 6,
+      "total_productos": 6
     },
     {
       "categoria": "Tapas de Maicena > Panaderia > Bizcochuelos y Especialidades > Almacén",
@@ -4200,23 +4176,23 @@
       "total_productos": 25
     },
     {
-      "categoria": "Surtidas > Panaderia > Galletitas Dulces > Galletitas > Almacén",
+      "categoria": "Tapas para Pascualinas > Tapas para Pascualina y Empanadas > TAPAS > Pastas Frescas y Tapas > PASTAS > Frescos > ALIMENTOS FRESCOS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
-      "categoria": "Tabasco > Almacén > Aderezos y Salsas",
+      "categoria": "Tapones > Panificados > Panaderia Propia > Panaderia > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
-      "categoria": "Tabletas > Productos para Lavavajillas > Limpieza de Cocina > Limpieza",
+      "categoria": "Tequila > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4264,28 +4240,28 @@
       "total_productos": 7
     },
     {
-      "categoria": "Sopapas, Escobillas y Destapa Cañerias > Limpieza de Baño > Limpieza > Destapa Cañerias",
+      "categoria": "Talle Xg > Perfumería > Pañales y Productos para Incontinencia > Pañales para Bebé",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 23,
+      "total_productos": 23
     },
     {
-      "categoria": "Sopapas, Escobillas y Destapa Cañerias > Sopapas > Limpieza de Baño > Limpieza",
+      "categoria": "Talle Xxg > Perfumería > Pañales y Productos para Incontinencia > Pañales para Bebé",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
+      "productos_sin_cambio": 19,
+      "total_productos": 19
     },
     {
-      "categoria": "Sopas, Caldos, Puré y Saborizantes > Puré de Papas > Mezcla Lista > Almacén",
+      "categoria": "Talle Xxxg > Perfumería > Pañales y Productos para Incontinencia > Pañales para Bebé",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 17,
-      "total_productos": 17
+      "productos_sin_cambio": 9,
+      "total_productos": 9
     },
     {
       "categoria": "Sopas, Caldos, Puré y Saborizantes > Sopas y Saborizantes > Caldos > Almacén",
@@ -4321,35 +4297,35 @@
     },
     {
       "categoria": "Supremas de Pollo > Milanesas y Supremas > Hamburguesas y Milanesas > Congelados",
-      "variacion_pct_promedio": -2.78,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
+      "productos_bajaron": 0,
       "productos_sin_cambio": 8,
-      "total_productos": 9
+      "total_productos": 8
     },
     {
-      "categoria": "Sin Tacc > Salsas y Puré de Tomate > Puré de Tomate > Almacén",
+      "categoria": "Surtidas > Panaderia > Galletitas Dulces > Galletitas > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 3,
-      "total_productos": 3
+      "productos_sin_cambio": 6,
+      "total_productos": 6
     },
     {
-      "categoria": "Sin Tacc > Salsas y Puré de Tomate > Puré de Tomate > Conservas De Tomate > Almacén",
+      "categoria": "Tabasco > Almacén > Aderezos y Salsas",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
-      "categoria": "Sin Tacc > Salsas y Puré de Tomate > Salsas Preparadas > Almacén",
+      "categoria": "Tabletas > Productos para Lavavajillas > Limpieza de Cocina > Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 11,
-      "total_productos": 11
+      "productos_sin_cambio": 8,
+      "total_productos": 8
     },
     {
       "categoria": "Sin Tacc > Sidras y Bebidas Fizz > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
@@ -4392,7 +4368,7 @@
       "total_productos": 2
     },
     {
-      "categoria": "Trigo > Legumbres > LEGUMBRES > Arroz y Legumbres > Almacén > ALIMENTOS SECOS",
+      "categoria": "Sopapas, Escobillas y Destapa Cañerias > Limpieza de Baño > Limpieza > Destapa Cañerias",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4400,20 +4376,20 @@
       "total_productos": 1
     },
     {
-      "categoria": "Turrones y Confituras > Productos Navideños > Panaderia > Almacén",
+      "categoria": "Sopapas, Escobillas y Destapa Cañerias > Sopapas > Limpieza de Baño > Limpieza",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 6
+      "productos_sin_cambio": 3,
+      "total_productos": 3
     },
     {
-      "categoria": "Turrones y Confituras > Productos Navideños > Panaderia > Confituras > Almacén",
+      "categoria": "Sopas, Caldos, Puré y Saborizantes > Puré de Papas > Mezcla Lista > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 13,
-      "total_productos": 13
+      "productos_sin_cambio": 17,
+      "total_productos": 17
     },
     {
       "categoria": "Turrones y Confituras > Productos Navideños > Panaderia > Golosinas Navidad > Confituras > Almacén",
@@ -4456,7 +4432,7 @@
       "total_productos": 5
     },
     {
-      "categoria": "Tostadas Y Grisines > Panificados > Panaderia > Galletas, Tostadas y Grisines > Galletas y Grisines > Galletas de Arroz > Galletas Y Grisines > Almacén",
+      "categoria": "Vainillas > Panaderia > Galletitas Y Bizcochos > Dulces > Bizcochuelos y Especialidades > Bizcochuelos Y Especialidades > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4464,7 +4440,7 @@
       "total_productos": 1
     },
     {
-      "categoria": "Tostadas Y Grisines > Sin Tacc > Panificados > Panaderia > Galletas, Tostadas y Grisines > Galletas y Grisines > Galletas de Arroz > Galletas Y Grisines > Almacén",
+      "categoria": "Vainillas > Panificados > Panaderia > Bizcochuelos y Especialidades > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4472,12 +4448,12 @@
       "total_productos": 1
     },
     {
-      "categoria": "Trapo de Pisos > Limpieza > Accesorios de Limpieza",
+      "categoria": "Varios > Panaderia > Galletitas Y Bizcochos > Bizcochuelos y Especialidades > Bizcochuelos Y Especialidades > Biscuits > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 28,
-      "total_productos": 28
+      "productos_sin_cambio": 2,
+      "total_productos": 2
     },
     {
       "categoria": "Trapo de Pisos > TRAPOS > Limpieza > LIMPIEZA > DE PISOS > Accesorios de Limpieza",
@@ -4513,22 +4489,14 @@
     },
     {
       "categoria": "Trigo > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
-      "variacion_pct_promedio": 0.0,
+      "variacion_pct_promedio": -10.42,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 1,
       "total_productos": 2
     },
     {
-      "categoria": "Tomate Triturado > Salsas y Puré de Tomate > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
-      "total_productos": 9
-    },
-    {
-      "categoria": "Tomate Triturado > Salsas y Puré de Tomate > Conservas De Tomate > Almacén",
+      "categoria": "Trigo > Legumbres > LEGUMBRES > Arroz y Legumbres > Almacén > ALIMENTOS SECOS",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4536,12 +4504,20 @@
       "total_productos": 1
     },
     {
-      "categoria": "Tomate Triturado > Sin Tacc > Salsas y Puré de Tomate > Almacén",
+      "categoria": "Turrones y Confituras > Productos Navideños > Panaderia > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 6,
+      "total_productos": 6
+    },
+    {
+      "categoria": "Turrones y Confituras > Productos Navideños > Panaderia > Confituras > Almacén",
+      "variacion_pct_promedio": 5.92,
+      "productos_subieron": 3,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 13,
+      "total_productos": 16
     },
     {
       "categoria": "Tortas > Panaderia Propia > Panaderia > Almacén",
@@ -4561,7 +4537,7 @@
     },
     {
       "categoria": "Tortillas > Panificados > Panaderia > Almacén",
-      "variacion_pct_promedio": 1.29,
+      "variacion_pct_promedio": 1.21,
       "productos_subieron": 3,
       "productos_bajaron": 0,
       "productos_sin_cambio": 11,
@@ -4584,15 +4560,7 @@
       "total_productos": 39
     },
     {
-      "categoria": "Tapas para Pascualinas > Tapas para Pascualina y Empanadas > TAPAS > Pastas Frescas y Tapas > PASTAS > Frescos > ALIMENTOS FRESCOS",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
-    },
-    {
-      "categoria": "Tapones > Panificados > Panaderia Propia > Panaderia > Almacén",
+      "categoria": "Tostadas Y Grisines > Panificados > Panaderia > Galletas, Tostadas y Grisines > Galletas y Grisines > Galletas de Arroz > Galletas Y Grisines > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4600,12 +4568,20 @@
       "total_productos": 1
     },
     {
-      "categoria": "Tequila > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
+      "categoria": "Tostadas Y Grisines > Sin Tacc > Panificados > Panaderia > Galletas, Tostadas y Grisines > Galletas y Grisines > Galletas de Arroz > Galletas Y Grisines > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 8,
-      "total_productos": 8
+      "productos_sin_cambio": 1,
+      "total_productos": 1
+    },
+    {
+      "categoria": "Trapo de Pisos > Limpieza > Accesorios de Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 28,
+      "total_productos": 28
     },
     {
       "categoria": "Tequila > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas > BEBIDAS CON ALCOHOL > BEBIDAS BLANCAS Y DESTILADAS",
@@ -4648,28 +4624,28 @@
       "total_productos": 1
     },
     {
-      "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Albahaca",
-      "variacion_pct_promedio": -31.05,
+      "categoria": "Tomate Triturado > Salsas y Puré de Tomate > Almacén",
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Apio",
-      "variacion_pct_promedio": 22.23,
-      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 0,
-      "total_productos": 1
+      "productos_sin_cambio": 9,
+      "total_productos": 9
     },
     {
-      "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Berro",
+      "categoria": "Tomate Triturado > Salsas y Puré de Tomate > Conservas De Tomate > Almacén",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 1,
       "total_productos": 1
+    },
+    {
+      "categoria": "Tomate Triturado > Sin Tacc > Salsas y Puré de Tomate > Almacén",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 5,
+      "total_productos": 5
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Brocoli",
@@ -4689,18 +4665,18 @@
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Kale > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -7.69,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -4.12,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 5,
-      "productos_sin_cambio": 3,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 8,
       "total_productos": 8
     },
     {
@@ -4712,7 +4688,7 @@
       "total_productos": 1
     },
     {
-      "categoria": "Verduras > Jengibre > Hortalizas > Frutas y Verduras > Frescos",
+      "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4720,15 +4696,15 @@
       "total_productos": 1
     },
     {
-      "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": 8.34,
-      "productos_subieron": 2,
+      "categoria": "Verduras de Hoja > Verduras > Rabanito > Frutas y Verduras > Frescos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 6,
-      "total_productos": 8
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
-      "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
+      "categoria": "Verduras de Hoja > Verduras > Radicheta > Frutas y Verduras > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4737,34 +4713,34 @@
     },
     {
       "categoria": "Verduras > Pimientos Morrones > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -11.17,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 3,
       "total_productos": 3
     },
     {
       "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -1.06,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 10,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 12,
       "total_productos": 12
     },
     {
       "categoria": "Verduras > Verdura Empacada > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -7.74,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 75,
-      "productos_sin_cambio": 6,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 81,
       "total_productos": 81
     },
     {
       "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Acelga",
-      "variacion_pct_promedio": -5.88,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -4776,28 +4752,28 @@
       "total_productos": 1
     },
     {
-      "categoria": "Verduras > Frutas y Verduras > Frescos",
+      "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Albahaca",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 7,
-      "total_productos": 7
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
-      "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajo",
+      "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Apio",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
-      "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajíes",
+      "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Berro",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 4,
-      "total_productos": 4
+      "productos_sin_cambio": 1,
+      "total_productos": 1
     },
     {
       "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Batatas",
@@ -4840,7 +4816,7 @@
       "total_productos": 2
     },
     {
-      "categoria": "Vainillas > Panaderia > Galletitas Y Bizcochos > Dulces > Bizcochuelos y Especialidades > Bizcochuelos Y Especialidades > Almacén",
+      "categoria": "Verduras > Jengibre > Hortalizas > Frutas y Verduras > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -4848,20 +4824,20 @@
       "total_productos": 1
     },
     {
-      "categoria": "Vainillas > Panificados > Panaderia > Bizcochuelos y Especialidades > Almacén",
+      "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+      "variacion_pct_promedio": -7.73,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 6,
+      "total_productos": 8
+    },
+    {
+      "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
       "productos_sin_cambio": 1,
       "total_productos": 1
-    },
-    {
-      "categoria": "Varios > Panaderia > Galletitas Y Bizcochos > Bizcochuelos y Especialidades > Bizcochuelos Y Especialidades > Biscuits > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 2,
-      "total_productos": 2
     },
     {
       "categoria": "Varios > Panaderia > Galletitas Y Bizcochos > Dulces > Bizcochos > Almacén",
@@ -4897,6 +4873,30 @@
     },
     {
       "categoria": "Velas > Limpieza de Cocina > Limpieza",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 4,
+      "total_productos": 4
+    },
+    {
+      "categoria": "Verduras > Frutas y Verduras > Frescos",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 7,
+      "total_productos": 7
+    },
+    {
+      "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajo",
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
+      "total_productos": 2
+    },
+    {
+      "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Ajíes",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
@@ -5020,8 +5020,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 11,
-      "total_productos": 11
+      "productos_sin_cambio": 10,
+      "total_productos": 10
     },
     {
       "categoria": "Champañas > Champagne y Espumantes > Bebidas con Alcohol > Bebidas",
@@ -5057,10 +5057,10 @@
     },
     {
       "categoria": "Coleslaw > Almacén > Aderezos y Salsas",
-      "variacion_pct_promedio": -10.0,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -5092,8 +5092,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 32,
-      "total_productos": 32
+      "productos_sin_cambio": 31,
+      "total_productos": 31
     },
     {
       "categoria": "Brandy > Bebidas con Alcohol > Bebidas Blancas y Destiladas > Bebidas",
@@ -5136,30 +5136,6 @@
       "total_productos": 189
     },
     {
-      "categoria": "Waffles > Panificados > Panaderia > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Waffles > Panificados > Panaderia Propia > Panaderia > Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1,
-      "total_productos": 1
-    },
-    {
-      "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 76,
-      "total_productos": 76
-    },
-    {
       "categoria": "Whiskys > WHISKYS > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
@@ -5169,10 +5145,10 @@
     },
     {
       "categoria": "X Kg > Supremas de Pollo > Supremas De Pollo > Rebozados De Pollo > Milanesas y Supremas > Hamburguesas y Milanesas > Congelados",
-      "variacion_pct_promedio": -25.0,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1,
       "total_productos": 1
     },
     {
@@ -5193,10 +5169,10 @@
     },
     {
       "categoria": "Zapallito > Verduras > Hortalizas > Frutas y Verduras > Frescos",
-      "variacion_pct_promedio": -1.43,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2,
       "total_productos": 2
     },
     {
@@ -5244,8 +5220,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     },
     {
       "categoria": "con Sal > Panaderia > Galletitas Y Bizcochos > Galletitas Cereales > Galletitas > Dulces > Almacén",
@@ -5260,8 +5236,8 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 73,
-      "total_productos": 73
+      "productos_sin_cambio": 72,
+      "total_productos": 72
     },
     {
       "categoria": "para Auto > Limpieza > Desodorantes de Ambiente > Aromatizantes de Ambiente",
@@ -5289,11 +5265,11 @@
     },
     {
       "categoria": "para Hamburguesa > Panificados > Panaderia > Almacén",
-      "variacion_pct_promedio": 2.0,
-      "productos_subieron": 6,
+      "variacion_pct_promedio": 0.59,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 12,
-      "total_productos": 18
+      "productos_sin_cambio": 16,
+      "total_productos": 17
     },
     {
       "categoria": "para Hamburguesa > Panificados > Panaderia Propia > Panaderia > Pan de Hamburguesa > Pan Para Hamburguesas Y Panchos > Pan Para Hamburguesas > Almacén",
@@ -5305,10 +5281,10 @@
     },
     {
       "categoria": "para Panchos > Panificados > Panaderia > Almacén",
-      "variacion_pct_promedio": 1.5,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0.83,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 9,
+      "productos_sin_cambio": 11,
       "total_productos": 12
     },
     {
@@ -5332,16 +5308,16 @@
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 5,
-      "total_productos": 5
+      "productos_sin_cambio": 4,
+      "total_productos": 4
     },
     {
       "categoria": "Ñoquis > Pastas Frescas y Tapas > Frescos > Fideos y Ñoquis",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 16,
-      "total_productos": 16
+      "productos_sin_cambio": 17,
+      "total_productos": 17
     },
     {
       "categoria": "Almacén > Aceites y Condimentos > Aceites > Aceite Aerosol",
@@ -5354,117 +5330,117 @@
   ],
   "ranking_baja_dia": [
     {
-      "plu": "17859",
-      "nombre": "Mejillon Pelado Cocido Chileno Congelado X Kg\r\n",
-      "marca": "Nuestra Pescaderia",
-      "categoria": "Pescaderia > Mariscos > Congelados",
-      "precio_antes": 23999.0,
-      "precio_hoy": 9990.0,
-      "precio_actual_hoy": 9990.0,
-      "diff_abs": -14009.0,
-      "diff_pct": -58.37
+      "plu": "12705",
+      "nombre": "Papa Blanca (Bolsa Entre 1,5 Kg A 2 Kg)",
+      "marca": "Cosecha Criolla",
+      "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
+      "precio_antes": 4399.0,
+      "precio_hoy": 2999.0,
+      "precio_actual_hoy": 2549.15,
+      "diff_abs": -1400.0,
+      "diff_pct": -31.83
     },
     {
-      "plu": "677",
-      "nombre": "Remolacha X Kg",
-      "marca": "Nuestras Verduras",
-      "categoria": "Verduras de Hoja > Verduras > Remolacha > Frutas y Verduras > Frescos",
-      "precio_antes": 4499.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1699.15,
-      "diff_abs": -2500.0,
-      "diff_pct": -55.57
-    },
-    {
-      "plu": "46632",
-      "nombre": "Puerro X Uni",
-      "marca": "Nuestras Verduras",
-      "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
-      "precio_antes": 1999.0,
-      "precio_hoy": 1099.0,
-      "precio_actual_hoy": 934.15,
-      "diff_abs": -900.0,
-      "diff_pct": -45.02
-    },
-    {
-      "plu": "39688",
-      "nombre": "Filete De Merluza Despinado Congelado X Kg\r\n",
-      "marca": "Nuestra Pescaderia",
-      "categoria": "Pescado de Mar > Pescaderia > Filete > Congelados",
-      "precio_antes": 14999.0,
-      "precio_hoy": 9990.0,
-      "precio_actual_hoy": 9990.0,
-      "diff_abs": -5009.0,
-      "diff_pct": -33.4
-    },
-    {
-      "plu": "17834",
-      "nombre": "Filete De Merluza Despinado Fresco X Kg\r\n",
-      "marca": "Nuestra Pescaderia",
-      "categoria": "Pescaderia > Frescos > Filete",
-      "precio_antes": 14999.0,
-      "precio_hoy": 9990.0,
-      "precio_actual_hoy": 9990.0,
-      "diff_abs": -5009.0,
-      "diff_pct": -33.4
-    },
-    {
-      "plu": "213",
-      "nombre": "Asado De Cerdo X KG",
-      "marca": "Coto",
-      "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-      "precio_antes": 9000.0,
-      "precio_hoy": 5999.0,
-      "precio_actual_hoy": 5999.0,
-      "diff_abs": -3001.0,
-      "diff_pct": -33.34
-    },
-    {
-      "plu": "98589",
-      "nombre": "Rucula ROCKY X 100 Grm",
-      "marca": "Rocky",
-      "categoria": "Verduras > Verdura Empacada > Frutas y Verduras > Frescos",
+      "plu": "695",
+      "nombre": "Papa Blanca .   Xkg",
+      "marca": NaN,
+      "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
       "precio_antes": 3999.0,
-      "precio_hoy": 2699.0,
-      "precio_actual_hoy": 2294.15,
-      "diff_abs": -1300.0,
-      "diff_pct": -32.51
+      "precio_hoy": 2799.0,
+      "precio_actual_hoy": 2799.0,
+      "diff_abs": -1200.0,
+      "diff_pct": -30.01
     },
     {
-      "plu": "37201",
-      "nombre": "Albahaca X Uni",
-      "marca": "Nuestras Verduras",
-      "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Albahaca",
-      "precio_antes": 2899.0,
-      "precio_hoy": 1999.0,
-      "precio_actual_hoy": 1999.0,
-      "diff_abs": -900.0,
-      "diff_pct": -31.05
+      "plu": "607753",
+      "nombre": "Trigo Candeal Pelado Granero 400g",
+      "marca": "Granero",
+      "categoria": "Trigo > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
+      "precio_antes": 2399.0,
+      "precio_hoy": 1899.0,
+      "precio_actual_hoy": 1614.15,
+      "diff_abs": -500.0,
+      "diff_pct": -20.84
     },
     {
-      "plu": "485761",
-      "nombre": "Coleslaw ROCKY X 250 Grm",
-      "marca": "Rocky",
-      "categoria": "Verduras > Verdura Empacada > Frutas y Verduras > Frescos",
-      "precio_antes": 3299.0,
-      "precio_hoy": 2299.0,
-      "precio_actual_hoy": 1954.15,
-      "diff_abs": -1000.0,
-      "diff_pct": -30.31
+      "plu": "607752",
+      "nombre": "Jardinera Granero 400g",
+      "marca": "Granero",
+      "categoria": "Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
+      "precio_antes": 2199.0,
+      "precio_hoy": 1799.0,
+      "precio_actual_hoy": 1529.15,
+      "diff_abs": -400.0,
+      "diff_pct": -18.19
     },
     {
-      "plu": "715",
-      "nombre": "Jamón Cocido Clasico PALADINI X Kg (Por pieza)",
-      "marca": "Paladini",
-      "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-      "precio_antes": 34679.0,
-      "precio_hoy": 24269.0,
-      "precio_actual_hoy": 24269.0,
-      "diff_abs": -10410.0,
-      "diff_pct": -30.02
+      "plu": "44297",
+      "nombre": "Ravioles Verdura Y Queso 520g",
+      "marca": "Pastas Elaboracion Propia",
+      "categoria": "Pastas Rellenas > Pastas Frescas y Tapas > Frescos",
+      "precio_antes": 9899.0,
+      "precio_hoy": 9899.0,
+      "precio_actual_hoy": 4948.51,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "568036",
+      "nombre": "Capellettis 4 Quesos Ciudad Del Lago 500g",
+      "marca": "Ciudad Del Lago",
+      "categoria": "Pastas Rellenas > Pastas Frescas y Tapas > Frescos",
+      "precio_antes": 3979.0,
+      "precio_hoy": 3979.0,
+      "precio_actual_hoy": 3979.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "13866",
+      "nombre": "Sorrentinos Salmon Con Tinta 320g",
+      "marca": "Pastas Elaboracion Propia",
+      "categoria": "Pastas Rellenas > Pastas Frescas y Tapas > Frescos",
+      "precio_antes": 12099.0,
+      "precio_hoy": 12099.0,
+      "precio_actual_hoy": 12099.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "589074",
+      "nombre": "Panzotti Ricota Y Queso Ciudad Del Lago 500g",
+      "marca": "Ciudad Del Lago",
+      "categoria": "Pastas Rellenas > Pastas Frescas y Tapas > Frescos",
+      "precio_antes": 4259.0,
+      "precio_hoy": 4259.0,
+      "precio_actual_hoy": 4259.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "194584",
+      "nombre": "Tapas Para Pasteles Pack X24 U. 330g",
+      "marca": "Mendia",
+      "categoria": "Tapas para Pascualina y Empanadas > Tapa para Pastelitos > Pastas Frescas y Tapas > Frescos",
+      "precio_antes": 2179.0,
+      "precio_hoy": 2179.0,
+      "precio_actual_hoy": 2179.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
+    },
+    {
+      "plu": "461478",
+      "nombre": "Capelettis Rellenos Con Pollo Y Verdura MENDIA 500g",
+      "marca": "Mendia",
+      "categoria": "Pastas Rellenas > Pastas Frescas y Tapas > Frescos",
+      "precio_antes": 3869.0,
+      "precio_hoy": 3869.0,
+      "precio_actual_hoy": 3869.0,
+      "diff_abs": 0.0,
+      "diff_pct": 0.0
     }
   ],
-  "productos_subieron_dia": 238,
-  "productos_bajaron_dia": 140,
-  "productos_sin_cambio_dia": 14451
+  "productos_subieron_dia": 29,
+  "productos_bajaron_dia": 4,
+  "productos_sin_cambio_dia": 14766
 }
