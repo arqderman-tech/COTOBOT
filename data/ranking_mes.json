@@ -11,28 +11,6 @@
     "diff_pct": 146.76
   },
   {
-    "plu": "65008",
-    "nombre": "Tomate Deshidr.   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 12999.0,
-    "precio_hoy": 28999.0,
-    "precio_actual_hoy": 28999.0,
-    "diff_abs": 16000.0,
-    "diff_pct": 123.09
-  },
-  {
-    "plu": "17896",
-    "nombre": "Vieira 1/2valva   Xkg",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescaderia > Mariscos > Congelados",
-    "precio_antes": 30999.0,
-    "precio_hoy": 64999.0,
-    "precio_actual_hoy": 51999.2,
-    "diff_abs": 34000.0,
-    "diff_pct": 109.68
-  },
-  {
     "plu": "628767",
     "nombre": "Papas Mix Huercal del Famataca 500g",
     "marca": "Huertos Del Ran",
@@ -55,15 +33,15 @@
     "diff_pct": 100.1
   },
   {
-    "plu": "42210",
-    "nombre": "Pata Muslo Con Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > X Kg > Pollo Trozado Congelado > Pata Muslo con Piel > Frescos > Aves",
-    "precio_antes": 3599.0,
-    "precio_hoy": 7199.0,
-    "precio_actual_hoy": 7199.0,
-    "diff_abs": 3600.0,
-    "diff_pct": 100.03
+    "plu": "65008",
+    "nombre": "Tomate Deshidr.   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 12999.0,
+    "precio_hoy": 24999.0,
+    "precio_actual_hoy": 24999.0,
+    "diff_abs": 12000.0,
+    "diff_pct": 92.31
   },
   {
     "plu": "595531",
@@ -99,6 +77,50 @@
     "diff_pct": 85.39
   },
   {
+    "plu": "19390",
+    "nombre": "Fiambre de Cerdo SARUBBI Cocido x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
+    "precio_antes": 9349.0,
+    "precio_hoy": 16999.0,
+    "precio_actual_hoy": 16999.0,
+    "diff_abs": 7650.0,
+    "diff_pct": 81.83
+  },
+  {
+    "plu": "11864",
+    "nombre": "Jamon Cocido Español Fetead El Pozo Xkg 1 Kgm",
+    "marca": "El Pozo",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 19799.0,
+    "precio_hoy": 35999.0,
+    "precio_actual_hoy": 35999.0,
+    "diff_abs": 16200.0,
+    "diff_pct": 81.82
+  },
+  {
+    "plu": "19388",
+    "nombre": "Jamón Cocido Sarubbi x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 14849.0,
+    "precio_hoy": 26999.0,
+    "precio_actual_hoy": 26999.0,
+    "diff_abs": 12150.0,
+    "diff_pct": 81.82
+  },
+  {
+    "plu": "495889",
+    "nombre": "Papas Pay NIKITOS Paq 100 Grm",
+    "marca": "Nikitos",
+    "categoria": "Frutas y Verduras > Frescos > Cereales y Harinas",
+    "precio_antes": 999.0,
+    "precio_hoy": 1799.0,
+    "precio_actual_hoy": 1799.0,
+    "diff_abs": 800.0,
+    "diff_pct": 80.08
+  },
+  {
     "plu": "73164",
     "nombre": "Poroto manteca x Kg",
     "marca": ".",
@@ -108,6 +130,17 @@
     "precio_actual_hoy": 6499.0,
     "diff_abs": 2800.0,
     "diff_pct": 75.7
+  },
+  {
+    "plu": "495916",
+    "nombre": "Burbuja De Queso Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 549.0,
+    "precio_hoy": 959.0,
+    "precio_actual_hoy": 959.0,
+    "diff_abs": 410.0,
+    "diff_pct": 74.68
   },
   {
     "plu": "585",
@@ -127,24 +160,13 @@
     "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 1799.0,
     "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2549.15,
+    "precio_actual_hoy": 2999.0,
     "diff_abs": 1200.0,
     "diff_pct": 66.7
   },
   {
-    "plu": "490185",
-    "nombre": "Gaseosa Schweppes Zero Pomelo 500 Ml\r\n",
-    "marca": "Schweppes",
-    "categoria": "Gaseosas > Bebidas sin Alcohol > Bebidas",
-    "precio_antes": 1620.0,
-    "precio_hoy": 2700.0,
-    "precio_actual_hoy": 2249.91,
-    "diff_abs": 1080.0,
-    "diff_pct": 66.67
-  },
-  {
-    "plu": "45271",
-    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "plu": "45270",
+    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Especiales > Congelados",
     "precio_antes": 19999.0,
@@ -154,8 +176,8 @@
     "diff_pct": 65.0
   },
   {
-    "plu": "45270",
-    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
+    "plu": "45271",
+    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Especiales > Congelados",
     "precio_antes": 19999.0,
@@ -176,15 +198,15 @@
     "diff_pct": 63.49
   },
   {
-    "plu": "17843",
-    "nombre": "Filet de merluza despinado con piel x Kg",
-    "marca": "Coto",
-    "categoria": "Pescaderia > Frescos > Filete",
-    "precio_antes": 9990.0,
-    "precio_hoy": 15999.0,
-    "precio_actual_hoy": 12799.2,
-    "diff_abs": 6009.0,
-    "diff_pct": 60.15
+    "plu": "571007",
+    "nombre": "Vino Malbec D.O.C. Norton 750ml",
+    "marca": "Norton",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 11746.0,
+    "precio_hoy": 19036.0,
+    "precio_actual_hoy": 12691.3,
+    "diff_abs": 7290.0,
+    "diff_pct": 62.06
   },
   {
     "plu": "18118",
@@ -196,27 +218,5 @@
     "precio_actual_hoy": 1599.0,
     "diff_abs": 600.0,
     "diff_pct": 60.06
-  },
-  {
-    "plu": "79",
-    "nombre": "Riñón    X KG",
-    "marca": "Coto",
-    "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4800.0,
-    "precio_actual_hoy": 4800.0,
-    "diff_abs": 1801.0,
-    "diff_pct": 60.05
-  },
-  {
-    "plu": "17929",
-    "nombre": "Surubi Trozado Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescado de Rio > Pescaderia > Congelados",
-    "precio_antes": 25999.0,
-    "precio_hoy": 40990.0,
-    "precio_actual_hoy": 32792.0,
-    "diff_abs": 14991.0,
-    "diff_pct": 57.66
   }
 ]
