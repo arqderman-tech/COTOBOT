@@ -1,16 +1,5 @@
 [
   {
-    "plu": "13011",
-    "nombre": "Mozzarella Noalsa X Kg",
-    "marca": "Las Tres",
-    "categoria": "Quesos Blandos > Quesos > Queso Muzzarella > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 12999.0,
-    "precio_actual_hoy": 12999.0,
-    "diff_abs": 11200.0,
-    "diff_pct": 622.57
-  },
-  {
     "plu": "42212",
     "nombre": "Muslo Con Piel X Kg Congelados",
     "marca": "Coto",
@@ -55,8 +44,8 @@
     "diff_pct": 73.35
   },
   {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
+    "plu": "17703",
+    "nombre": "Bola De Lomo  De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 6999.0,
@@ -66,8 +55,8 @@
     "diff_pct": 71.45
   },
   {
-    "plu": "17703",
-    "nombre": "Bola De Lomo  De Cerdo X KG",
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 6999.0,
@@ -121,15 +110,15 @@
     "diff_pct": 63.49
   },
   {
-    "plu": "615",
-    "nombre": "Cebolla Seleccionada En Bolsita X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 2799.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 60.74
+    "plu": "607753",
+    "nombre": "Trigo Candeal Pelado Granero 400g",
+    "marca": "Granero",
+    "categoria": "Trigo > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
+    "precio_antes": 1499.0,
+    "precio_hoy": 2399.0,
+    "precio_actual_hoy": 2399.0,
+    "diff_abs": 900.0,
+    "diff_pct": 60.04
   },
   {
     "plu": "543421",
@@ -154,19 +143,8 @@
     "diff_pct": 60.03
   },
   {
-    "plu": "602",
-    "nombre": "Cebolla A Granel X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.02
-  },
-  {
-    "plu": "545081",
-    "nombre": "Cereal Granola Berries Kos Food 350 Grm",
+    "plu": "545082",
+    "nombre": "Cereal Granola Energética Kos Food 350 Grm",
     "marca": "Kos Food",
     "categoria": "Frutas y Verduras > Frescos > Dietetica > Cereales > Break Saludables > Almacén",
     "precio_antes": 3499.0,
@@ -176,8 +154,8 @@
     "diff_pct": 57.16
   },
   {
-    "plu": "545082",
-    "nombre": "Cereal Granola Energética Kos Food 350 Grm",
+    "plu": "545081",
+    "nombre": "Cereal Granola Berries Kos Food 350 Grm",
     "marca": "Kos Food",
     "categoria": "Frutas y Verduras > Frescos > Dietetica > Cereales > Break Saludables > Almacén",
     "precio_antes": 3499.0,
@@ -198,8 +176,30 @@
     "diff_pct": 55.02
   },
   {
-    "plu": "69977",
-    "nombre": "Bondiola PALADINI X Kg (Por pieza)",
+    "plu": "495915",
+    "nombre": "Chis Buby Frutilla Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1159.0,
+    "precio_actual_hoy": 1159.0,
+    "diff_abs": 410.0,
+    "diff_pct": 54.74
+  },
+  {
+    "plu": "495891",
+    "nombre": "Bolitas Dulce Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1159.0,
+    "precio_actual_hoy": 1159.0,
+    "diff_abs": 410.0,
+    "diff_pct": 54.74
+  },
+  {
+    "plu": "34913",
+    "nombre": "Bondiola Feteada PALADINI Xkg",
     "marca": "Paladini",
     "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 53675.0,
@@ -209,8 +209,8 @@
     "diff_pct": 53.85
   },
   {
-    "plu": "34913",
-    "nombre": "Bondiola Feteada PALADINI Xkg",
+    "plu": "69977",
+    "nombre": "Bondiola PALADINI X Kg (Por pieza)",
     "marca": "Paladini",
     "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 53675.0,

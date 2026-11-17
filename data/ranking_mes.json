@@ -11,6 +11,17 @@
     "diff_pct": 146.76
   },
   {
+    "plu": "495916",
+    "nombre": "Burbuja De Queso Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 549.0,
+    "precio_hoy": 1159.0,
+    "precio_actual_hoy": 1159.0,
+    "diff_abs": 610.0,
+    "diff_pct": 111.11
+  },
+  {
     "plu": "628767",
     "nombre": "Papas Mix Huercal del Famataca 500g",
     "marca": "Huertos Del Ran",
@@ -26,6 +37,17 @@
     "nombre": "Mandarina Murcot   Xkg",
     "marca": NaN,
     "categoria": "Mandarinas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 999.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 100.1
+  },
+  {
+    "plu": "495889",
+    "nombre": "Papas Pay NIKITOS Paq 100 Grm",
+    "marca": "Nikitos",
+    "categoria": "Frutas y Verduras > Frescos > Cereales y Harinas",
     "precio_antes": 999.0,
     "precio_hoy": 1999.0,
     "precio_actual_hoy": 1999.0,
@@ -66,17 +88,6 @@
     "diff_pct": 87.55
   },
   {
-    "plu": "563830",
-    "nombre": "Salsa Bbq Miel Sweet Baby Rays 510g",
-    "marca": "Sweet Baby Rays",
-    "categoria": "Almacén > Aderezos y Salsas",
-    "precio_antes": 8900.0,
-    "precio_hoy": 16500.0,
-    "precio_actual_hoy": 16500.0,
-    "diff_abs": 7600.0,
-    "diff_pct": 85.39
-  },
-  {
     "plu": "19390",
     "nombre": "Fiambre de Cerdo SARUBBI Cocido x Kg",
     "marca": "Sarubbi",
@@ -110,17 +121,6 @@
     "diff_pct": 81.82
   },
   {
-    "plu": "495889",
-    "nombre": "Papas Pay NIKITOS Paq 100 Grm",
-    "marca": "Nikitos",
-    "categoria": "Frutas y Verduras > Frescos > Cereales y Harinas",
-    "precio_antes": 999.0,
-    "precio_hoy": 1799.0,
-    "precio_actual_hoy": 1799.0,
-    "diff_abs": 800.0,
-    "diff_pct": 80.08
-  },
-  {
     "plu": "73164",
     "nombre": "Poroto manteca x Kg",
     "marca": ".",
@@ -132,17 +132,6 @@
     "diff_pct": 75.7
   },
   {
-    "plu": "495916",
-    "nombre": "Burbuja De Queso Nikitos Paq 80 Grm",
-    "marca": "Nikitos",
-    "categoria": "Verduras > Frutas y Verduras > Frescos",
-    "precio_antes": 549.0,
-    "precio_hoy": 959.0,
-    "precio_actual_hoy": 959.0,
-    "diff_abs": 410.0,
-    "diff_pct": 74.68
-  },
-  {
     "plu": "585",
     "nombre": "Manzana Royal Gala   Xkg",
     "marca": "Nuestras Frutas",
@@ -152,17 +141,6 @@
     "precio_actual_hoy": 4999.0,
     "diff_abs": 2100.0,
     "diff_pct": 72.44
-  },
-  {
-    "plu": "665",
-    "nombre": "Pepino .   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Pepino > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 1799.0,
-    "precio_hoy": 2999.0,
-    "precio_actual_hoy": 2999.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 66.7
   },
   {
     "plu": "45270",
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 1599.0,
     "diff_abs": 600.0,
     "diff_pct": 60.06
+  },
+  {
+    "plu": "79",
+    "nombre": "Riñón    X KG",
+    "marca": "Coto",
+    "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4800.0,
+    "precio_actual_hoy": 4800.0,
+    "diff_abs": 1801.0,
+    "diff_pct": 60.05
+  },
+  {
+    "plu": "17929",
+    "nombre": "Surubi Trozado Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado de Rio > Pescaderia > Congelados",
+    "precio_antes": 25999.0,
+    "precio_hoy": 40990.0,
+    "precio_actual_hoy": 32792.0,
+    "diff_abs": 14991.0,
+    "diff_pct": 57.66
   }
 ]
