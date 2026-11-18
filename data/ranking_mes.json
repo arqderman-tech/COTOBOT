@@ -22,17 +22,6 @@
     "diff_pct": 111.11
   },
   {
-    "plu": "628767",
-    "nombre": "Papas Mix Huercal del Famataca 500g",
-    "marca": "Huertos Del Ran",
-    "categoria": "Verduras > Papa > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2699.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2800.0,
-    "diff_pct": 103.74
-  },
-  {
     "plu": "516",
     "nombre": "Mandarina Murcot   Xkg",
     "marca": NaN,
@@ -42,39 +31,6 @@
     "precio_actual_hoy": 1999.0,
     "diff_abs": 1000.0,
     "diff_pct": 100.1
-  },
-  {
-    "plu": "495889",
-    "nombre": "Papas Pay NIKITOS Paq 100 Grm",
-    "marca": "Nikitos",
-    "categoria": "Frutas y Verduras > Frescos > Cereales y Harinas",
-    "precio_antes": 999.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 100.1
-  },
-  {
-    "plu": "65008",
-    "nombre": "Tomate Deshidr.   Xkg",
-    "marca": NaN,
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 12999.0,
-    "precio_hoy": 24999.0,
-    "precio_actual_hoy": 24999.0,
-    "diff_abs": 12000.0,
-    "diff_pct": 92.31
-  },
-  {
-    "plu": "595531",
-    "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
-    "marca": "Tgi Fridays",
-    "categoria": "Almacén > Aderezos y Salsas",
-    "precio_antes": 8900.0,
-    "precio_hoy": 16950.0,
-    "precio_actual_hoy": 16950.0,
-    "diff_abs": 8050.0,
-    "diff_pct": 90.45
   },
   {
     "plu": "73168",
@@ -88,37 +44,26 @@
     "diff_pct": 87.55
   },
   {
-    "plu": "19390",
-    "nombre": "Fiambre de Cerdo SARUBBI Cocido x Kg",
-    "marca": "Sarubbi",
-    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
-    "precio_antes": 9349.0,
-    "precio_hoy": 16999.0,
-    "precio_actual_hoy": 16999.0,
-    "diff_abs": 7650.0,
-    "diff_pct": 81.83
+    "plu": "42212",
+    "nombre": "Muslo Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Muslo con Piel > Frescos > Aves",
+    "precio_antes": 3999.0,
+    "precio_hoy": 7499.0,
+    "precio_actual_hoy": 7499.0,
+    "diff_abs": 3500.0,
+    "diff_pct": 87.52
   },
   {
-    "plu": "11864",
-    "nombre": "Jamon Cocido Español Fetead El Pozo Xkg 1 Kgm",
-    "marca": "El Pozo",
-    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
-    "precio_antes": 19799.0,
-    "precio_hoy": 35999.0,
-    "precio_actual_hoy": 35999.0,
-    "diff_abs": 16200.0,
-    "diff_pct": 81.82
-  },
-  {
-    "plu": "19388",
-    "nombre": "Jamón Cocido Sarubbi x Kg",
-    "marca": "Sarubbi",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 14849.0,
-    "precio_hoy": 26999.0,
-    "precio_actual_hoy": 26999.0,
-    "diff_abs": 12150.0,
-    "diff_pct": 81.82
+    "plu": "563830",
+    "nombre": "Salsa Bbq Miel Sweet Baby Rays 510g",
+    "marca": "Sweet Baby Rays",
+    "categoria": "Almacén > Aderezos y Salsas",
+    "precio_antes": 8900.0,
+    "precio_hoy": 16500.0,
+    "precio_actual_hoy": 16500.0,
+    "diff_abs": 7600.0,
+    "diff_pct": 85.39
   },
   {
     "plu": "73164",
@@ -141,6 +86,17 @@
     "precio_actual_hoy": 4999.0,
     "diff_abs": 2100.0,
     "diff_pct": 72.44
+  },
+  {
+    "plu": "35072",
+    "nombre": "Tomate Red Cosecha Criolla x Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 2000.0,
+    "diff_pct": 66.69
   },
   {
     "plu": "45270",
@@ -171,7 +127,7 @@
     "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
     "precio_antes": 58719.0,
     "precio_hoy": 96000.0,
-    "precio_actual_hoy": 62400.0,
+    "precio_actual_hoy": 96000.0,
     "diff_abs": 37281.0,
     "diff_pct": 63.49
   },
@@ -182,7 +138,7 @@
     "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
     "precio_antes": 11746.0,
     "precio_hoy": 19036.0,
-    "precio_actual_hoy": 12691.3,
+    "precio_actual_hoy": 19036.0,
     "diff_abs": 7290.0,
     "diff_pct": 62.06
   },
@@ -198,15 +154,26 @@
     "diff_pct": 60.06
   },
   {
-    "plu": "79",
-    "nombre": "Riñón    X KG",
+    "plu": "42213",
+    "nombre": "Muslo Sin Piel X Kg Congelados",
     "marca": "Coto",
-    "categoria": "Menudencias > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4800.0,
-    "precio_actual_hoy": 4800.0,
-    "diff_abs": 1801.0,
-    "diff_pct": 60.05
+    "categoria": "por Kg > Pollo Trozado Congelado > Muslo sin Piel > Frescos > Aves",
+    "precio_antes": 5599.0,
+    "precio_hoy": 8899.0,
+    "precio_actual_hoy": 8899.0,
+    "diff_abs": 3300.0,
+    "diff_pct": 58.94
+  },
+  {
+    "plu": "72041",
+    "nombre": "Batata X Kg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Batatas",
+    "precio_antes": 2399.0,
+    "precio_hoy": 3799.0,
+    "precio_actual_hoy": 3799.0,
+    "diff_abs": 1400.0,
+    "diff_pct": 58.36
   },
   {
     "plu": "17929",
@@ -218,5 +185,38 @@
     "precio_actual_hoy": 32792.0,
     "diff_abs": 14991.0,
     "diff_pct": 57.66
+  },
+  {
+    "plu": "251876",
+    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 3030.0,
+    "precio_actual_hoy": 3030.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 56.27
+  },
+  {
+    "plu": "251875",
+    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 3030.0,
+    "precio_actual_hoy": 3030.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 56.27
+  },
+  {
+    "plu": "483399",
+    "nombre": "Leche Larga Vida Parcialmente Descremada LA SERENISIMA 2% 1l",
+    "marca": "La Serenisima",
+    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
+    "precio_antes": 1939.0,
+    "precio_hoy": 3030.0,
+    "precio_actual_hoy": 3030.0,
+    "diff_abs": 1091.0,
+    "diff_pct": 56.27
   }
 ]

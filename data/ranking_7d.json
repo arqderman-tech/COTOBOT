@@ -22,30 +22,8 @@
     "diff_pct": 100.1
   },
   {
-    "plu": "543420",
-    "nombre": "Fécula De Mandioca Dicomere 450 Grm",
-    "marca": "Dicomere",
-    "categoria": "Sémola > Harinas > Frutas y Verduras > Frescos > Dietetica > Almacén",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3749.0,
-    "precio_actual_hoy": 3749.0,
-    "diff_abs": 1750.0,
-    "diff_pct": 87.54
-  },
-  {
-    "plu": "564525",
-    "nombre": "Cacao Amargo En Polvo Dicomere 200g",
-    "marca": "Dicomere",
-    "categoria": "Infusiones > Frutas y Verduras > Frescos > Dietetica > Cacao en Polvo > Almacén",
-    "precio_antes": 4499.0,
-    "precio_hoy": 7799.0,
-    "precio_actual_hoy": 7799.0,
-    "diff_abs": 3300.0,
-    "diff_pct": 73.35
-  },
-  {
-    "plu": "17703",
-    "nombre": "Bola De Lomo  De Cerdo X KG",
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 6999.0,
@@ -55,8 +33,8 @@
     "diff_pct": 71.45
   },
   {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
+    "plu": "17703",
+    "nombre": "Bola De Lomo  De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 6999.0,
@@ -77,26 +55,92 @@
     "diff_pct": 71.45
   },
   {
-    "plu": "564528",
-    "nombre": "Harina De Arvejas Dicomere 450g",
+    "plu": "548921",
+    "nombre": "Condimento Para Arroz Dicomere 50 Grm",
     "marca": "Dicomere",
-    "categoria": "Harinas > Harina de Legumbres > Frutas y Verduras > Frescos > Dietetica > Almacén",
-    "precio_antes": 1199.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 800.0,
-    "diff_pct": 66.72
+    "categoria": "Especias > Condimento en Polvo > Almacén",
+    "precio_antes": 599.0,
+    "precio_hoy": 999.0,
+    "precio_actual_hoy": 999.0,
+    "diff_abs": 400.0,
+    "diff_pct": 66.78
   },
   {
-    "plu": "562871",
-    "nombre": "Semillas Mix Chef Kos Food 250g",
-    "marca": "Kos Food",
-    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > Dietetica",
-    "precio_antes": 2499.0,
-    "precio_hoy": 4099.0,
-    "precio_actual_hoy": 4099.0,
-    "diff_abs": 1600.0,
-    "diff_pct": 64.03
+    "plu": "485660",
+    "nombre": "Curry Dicomere Dicomere Bol 50 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Polvo > Almacén",
+    "precio_antes": 839.0,
+    "precio_hoy": 1399.0,
+    "precio_actual_hoy": 1399.0,
+    "diff_abs": 560.0,
+    "diff_pct": 66.75
+  },
+  {
+    "plu": "485651",
+    "nombre": "Chimichurri Dicomere Dicomere Bol 50 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Hojas > Almacén",
+    "precio_antes": 959.0,
+    "precio_hoy": 1599.0,
+    "precio_actual_hoy": 1599.0,
+    "diff_abs": 640.0,
+    "diff_pct": 66.74
+  },
+  {
+    "plu": "549365",
+    "nombre": "Pesto Dicomere 30 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Polvo > Almacén",
+    "precio_antes": 899.0,
+    "precio_hoy": 1499.0,
+    "precio_actual_hoy": 1499.0,
+    "diff_abs": 600.0,
+    "diff_pct": 66.74
+  },
+  {
+    "plu": "485661",
+    "nombre": "Provenzal Dicomere Dicomere Bol 50 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Grano > Almacén",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1699.0,
+    "precio_actual_hoy": 1699.0,
+    "diff_abs": 680.0,
+    "diff_pct": 66.73
+  },
+  {
+    "plu": "548843",
+    "nombre": "Comino Molido Dicomere 40 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Polvo > Almacén",
+    "precio_antes": 1019.0,
+    "precio_hoy": 1699.0,
+    "precio_actual_hoy": 1699.0,
+    "diff_abs": 680.0,
+    "diff_pct": 66.73
+  },
+  {
+    "plu": "485657",
+    "nombre": "Pimienta Nga E/Grano Dicome Dicomere Bol 50 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Grano > Almacén",
+    "precio_antes": 1799.0,
+    "precio_hoy": 2999.0,
+    "precio_actual_hoy": 2999.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 66.7
+  },
+  {
+    "plu": "485653",
+    "nombre": "Oregano Dicomere Dicomere Bol 25 Grm",
+    "marca": "Dicomere",
+    "categoria": "Especias > Condimento en Hojas > Almacén",
+    "precio_antes": 639.0,
+    "precio_hoy": 1059.0,
+    "precio_actual_hoy": 1059.0,
+    "diff_abs": 420.0,
+    "diff_pct": 65.73
   },
   {
     "plu": "522386",
@@ -105,75 +149,9 @@
     "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
     "precio_antes": 58719.0,
     "precio_hoy": 96000.0,
-    "precio_actual_hoy": 62400.0,
+    "precio_actual_hoy": 96000.0,
     "diff_abs": 37281.0,
     "diff_pct": 63.49
-  },
-  {
-    "plu": "607753",
-    "nombre": "Trigo Candeal Pelado Granero 400g",
-    "marca": "Granero",
-    "categoria": "Trigo > Legumbres > Frutas y Verduras > Frescos > Dietetica > Arroz y Legumbres > Almacén",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2399.0,
-    "precio_actual_hoy": 2399.0,
-    "diff_abs": 900.0,
-    "diff_pct": 60.04
-  },
-  {
-    "plu": "543421",
-    "nombre": "Fécula De Maíz Dicomere 450 Grm",
-    "marca": "Dicomere",
-    "categoria": "Sémola > Harinas > Frutas y Verduras > Frescos > Dietetica > Almacén",
-    "precio_antes": 1499.0,
-    "precio_hoy": 2399.0,
-    "precio_actual_hoy": 2399.0,
-    "diff_abs": 900.0,
-    "diff_pct": 60.04
-  },
-  {
-    "plu": "569956",
-    "nombre": "Harina De Arroz Integral Yamani Dicomere 450g",
-    "marca": "Dicomere",
-    "categoria": "Harinas > Harina de Arroz > Frutas y Verduras > Frescos > Dietetica > Almacén",
-    "precio_antes": 1999.0,
-    "precio_hoy": 3199.0,
-    "precio_actual_hoy": 3199.0,
-    "diff_abs": 1200.0,
-    "diff_pct": 60.03
-  },
-  {
-    "plu": "545082",
-    "nombre": "Cereal Granola Energética Kos Food 350 Grm",
-    "marca": "Kos Food",
-    "categoria": "Frutas y Verduras > Frescos > Dietetica > Cereales > Break Saludables > Almacén",
-    "precio_antes": 3499.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 57.16
-  },
-  {
-    "plu": "545081",
-    "nombre": "Cereal Granola Berries Kos Food 350 Grm",
-    "marca": "Kos Food",
-    "categoria": "Frutas y Verduras > Frescos > Dietetica > Cereales > Break Saludables > Almacén",
-    "precio_antes": 3499.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 57.16
-  },
-  {
-    "plu": "569958",
-    "nombre": "Fécula De Papa Dicomere 450g",
-    "marca": "Dicomere",
-    "categoria": "Sémola > Harinas > Frutas y Verduras > Frescos > Dietetica > Almacén",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4649.0,
-    "precio_actual_hoy": 4649.0,
-    "diff_abs": 1650.0,
-    "diff_pct": 55.02
   },
   {
     "plu": "495915",
@@ -198,25 +176,47 @@
     "diff_pct": 54.74
   },
   {
-    "plu": "34913",
-    "nombre": "Bondiola Feteada PALADINI Xkg",
-    "marca": "Paladini",
-    "categoria": "Frescos > Fiambres > Bondiola",
-    "precio_antes": 53675.0,
-    "precio_hoy": 82579.0,
-    "precio_actual_hoy": 82579.0,
-    "diff_abs": 28904.0,
-    "diff_pct": 53.85
+    "plu": "42218",
+    "nombre": "Pechuga Con Piel X Kg Congelados",
+    "marca": "Coto",
+    "categoria": "por Kg > Pollo Trozado Congelado > Pechuga con Piel > Frescos > Aves",
+    "precio_antes": 7999.0,
+    "precio_hoy": 11999.0,
+    "precio_actual_hoy": 11999.0,
+    "diff_abs": 4000.0,
+    "diff_pct": 50.01
   },
   {
-    "plu": "69977",
-    "nombre": "Bondiola PALADINI X Kg (Por pieza)",
-    "marca": "Paladini",
-    "categoria": "Frescos > Fiambres > Bondiola",
-    "precio_antes": 53675.0,
-    "precio_hoy": 82579.0,
-    "precio_actual_hoy": 82579.0,
-    "diff_abs": 28904.0,
-    "diff_pct": 53.85
+    "plu": "618185",
+    "nombre": "Barrita Helada X6 Mantecol Cja 240 Grm",
+    "marca": "Mantecol",
+    "categoria": "Postres Helados > Helados y Postres > Congelados",
+    "precio_antes": 13900.0,
+    "precio_hoy": 20699.0,
+    "precio_actual_hoy": 20699.0,
+    "diff_abs": 6799.0,
+    "diff_pct": 48.91
+  },
+  {
+    "plu": "7487",
+    "nombre": "Licor A/Whis Crema Drambuie Bot 750 Cmq",
+    "marca": "Drambui",
+    "categoria": "Licores > LICORES > Bebidas con Alcohol > Bebidas > BEBIDAS CON ALCOHOL",
+    "precio_antes": 57164.0,
+    "precio_hoy": 83000.0,
+    "precio_actual_hoy": 83000.0,
+    "diff_abs": 25836.0,
+    "diff_pct": 45.2
+  },
+  {
+    "plu": "17614",
+    "nombre": "Alcaucil Argent.   Xkg",
+    "marca": NaN,
+    "categoria": "Verduras > Hortalizas > HORTALIZAS LIVIANAS > Frutas y Verduras > Frutas Y Verduras > Frescos > FRUTAS Y VERDURAS > Especias > Alcaucil > ALIMENTOS FRESCOS",
+    "precio_antes": 6999.0,
+    "precio_hoy": 9999.0,
+    "precio_actual_hoy": 9999.0,
+    "diff_abs": 3000.0,
+    "diff_pct": 42.86
   }
 ]
