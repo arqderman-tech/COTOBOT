@@ -6,7 +6,7 @@
     "categoria": "Limones > Frutas y Verduras > Frutas > Frescos",
     "precio_antes": 1499.0,
     "precio_hoy": 3699.0,
-    "precio_actual_hoy": 3699.0,
+    "precio_actual_hoy": 3144.15,
     "diff_abs": 2200.0,
     "diff_pct": 146.76
   },
@@ -31,6 +31,28 @@
     "precio_actual_hoy": 1999.0,
     "diff_abs": 1000.0,
     "diff_pct": 100.1
+  },
+  {
+    "plu": "495889",
+    "nombre": "Papas Pay NIKITOS Paq 100 Grm",
+    "marca": "Nikitos",
+    "categoria": "Frutas y Verduras > Frescos > Cereales y Harinas",
+    "precio_antes": 999.0,
+    "precio_hoy": 1999.0,
+    "precio_actual_hoy": 1999.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 100.1
+  },
+  {
+    "plu": "595531",
+    "nombre": "Salsa Signature Whiskey Tgi Fridays 454g",
+    "marca": "Tgi Fridays",
+    "categoria": "Almacén > Aderezos y Salsas",
+    "precio_antes": 8900.0,
+    "precio_hoy": 16950.0,
+    "precio_actual_hoy": 16950.0,
+    "diff_abs": 8050.0,
+    "diff_pct": 90.45
   },
   {
     "plu": "73168",
@@ -66,6 +88,50 @@
     "diff_pct": 85.39
   },
   {
+    "plu": "35072",
+    "nombre": "Tomate Red Cosecha Criolla x Kg",
+    "marca": "Cosecha Criolla",
+    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
+    "precio_antes": 2999.0,
+    "precio_hoy": 5499.0,
+    "precio_actual_hoy": 4674.15,
+    "diff_abs": 2500.0,
+    "diff_pct": 83.36
+  },
+  {
+    "plu": "19390",
+    "nombre": "Fiambre de Cerdo SARUBBI Cocido x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
+    "precio_antes": 9349.0,
+    "precio_hoy": 16999.0,
+    "precio_actual_hoy": 16999.0,
+    "diff_abs": 7650.0,
+    "diff_pct": 81.83
+  },
+  {
+    "plu": "11864",
+    "nombre": "Jamon Cocido Español Fetead El Pozo Xkg 1 Kgm",
+    "marca": "El Pozo",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 19799.0,
+    "precio_hoy": 35999.0,
+    "precio_actual_hoy": 35999.0,
+    "diff_abs": 16200.0,
+    "diff_pct": 81.82
+  },
+  {
+    "plu": "19388",
+    "nombre": "Jamón Cocido Sarubbi x Kg",
+    "marca": "Sarubbi",
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 14849.0,
+    "precio_hoy": 26999.0,
+    "precio_actual_hoy": 26999.0,
+    "diff_abs": 12150.0,
+    "diff_pct": 81.82
+  },
+  {
     "plu": "73164",
     "nombre": "Poroto manteca x Kg",
     "marca": ".",
@@ -88,19 +154,19 @@
     "diff_pct": 72.44
   },
   {
-    "plu": "35072",
-    "nombre": "Tomate Red Cosecha Criolla x Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 2000.0,
-    "diff_pct": 66.69
+    "plu": "17577",
+    "nombre": "Uva Blanca importada x Kg",
+    "marca": NaN,
+    "categoria": "Uvas > Frutas y Verduras > Frutas > Frescos",
+    "precio_antes": 9999.0,
+    "precio_hoy": 16999.0,
+    "precio_actual_hoy": 16999.0,
+    "diff_abs": 7000.0,
+    "diff_pct": 70.01
   },
   {
-    "plu": "45270",
-    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
+    "plu": "45271",
+    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Especiales > Congelados",
     "precio_antes": 19999.0,
@@ -110,8 +176,8 @@
     "diff_pct": 65.0
   },
   {
-    "plu": "45271",
-    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "plu": "45270",
+    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Especiales > Congelados",
     "precio_antes": 19999.0,
@@ -152,71 +218,5 @@
     "precio_actual_hoy": 1599.0,
     "diff_abs": 600.0,
     "diff_pct": 60.06
-  },
-  {
-    "plu": "42213",
-    "nombre": "Muslo Sin Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Muslo sin Piel > Frescos > Aves",
-    "precio_antes": 5599.0,
-    "precio_hoy": 8899.0,
-    "precio_actual_hoy": 8899.0,
-    "diff_abs": 3300.0,
-    "diff_pct": 58.94
-  },
-  {
-    "plu": "72041",
-    "nombre": "Batata X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Batatas",
-    "precio_antes": 2399.0,
-    "precio_hoy": 3799.0,
-    "precio_actual_hoy": 3799.0,
-    "diff_abs": 1400.0,
-    "diff_pct": 58.36
-  },
-  {
-    "plu": "17929",
-    "nombre": "Surubi Trozado Congelado X Kg\r\n",
-    "marca": "Nuestra Pescaderia",
-    "categoria": "Pescado de Rio > Pescaderia > Congelados",
-    "precio_antes": 25999.0,
-    "precio_hoy": 40990.0,
-    "precio_actual_hoy": 32792.0,
-    "diff_abs": 14991.0,
-    "diff_pct": 57.66
-  },
-  {
-    "plu": "251876",
-    "nombre": "Leche Larga Vida Parcialmente Descremada Liviana 1% La Serenisima 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 3030.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
-  },
-  {
-    "plu": "251875",
-    "nombre": "Leche Larga Vida Entera Ua Clasica 3% LA SERENISIMA 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Enteras > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 3030.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
-  },
-  {
-    "plu": "483399",
-    "nombre": "Leche Larga Vida Parcialmente Descremada LA SERENISIMA 2% 1l",
-    "marca": "La Serenisima",
-    "categoria": "Lácteos > Leches Larga Vida > Leches Descremadas > Leches > Frescos",
-    "precio_antes": 1939.0,
-    "precio_hoy": 3030.0,
-    "precio_actual_hoy": 3030.0,
-    "diff_abs": 1091.0,
-    "diff_pct": 56.27
   }
 ]
