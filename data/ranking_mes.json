@@ -50,7 +50,7 @@
     "categoria": "Almacén > Aderezos y Salsas",
     "precio_antes": 8900.0,
     "precio_hoy": 16950.0,
-    "precio_actual_hoy": 16950.0,
+    "precio_actual_hoy": 11865.0,
     "diff_abs": 8050.0,
     "diff_pct": 90.45
   },
@@ -110,17 +110,6 @@
     "diff_pct": 81.83
   },
   {
-    "plu": "11864",
-    "nombre": "Jamon Cocido Español Fetead El Pozo Xkg 1 Kgm",
-    "marca": "El Pozo",
-    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
-    "precio_antes": 19799.0,
-    "precio_hoy": 35999.0,
-    "precio_actual_hoy": 35999.0,
-    "diff_abs": 16200.0,
-    "diff_pct": 81.82
-  },
-  {
     "plu": "19388",
     "nombre": "Jamón Cocido Sarubbi x Kg",
     "marca": "Sarubbi",
@@ -129,6 +118,17 @@
     "precio_hoy": 26999.0,
     "precio_actual_hoy": 26999.0,
     "diff_abs": 12150.0,
+    "diff_pct": 81.82
+  },
+  {
+    "plu": "11864",
+    "nombre": "Jamon Cocido Español Fetead El Pozo Xkg 1 Kgm",
+    "marca": "El Pozo",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 19799.0,
+    "precio_hoy": 35999.0,
+    "precio_actual_hoy": 35999.0,
+    "diff_abs": 16200.0,
     "diff_pct": 81.82
   },
   {
@@ -165,8 +165,8 @@
     "diff_pct": 70.01
   },
   {
-    "plu": "45271",
-    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "plu": "45270",
+    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Especiales > Congelados",
     "precio_antes": 19999.0,
@@ -176,8 +176,8 @@
     "diff_pct": 65.0
   },
   {
-    "plu": "45270",
-    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
+    "plu": "45271",
+    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
     "marca": "Nuestra Pescaderia",
     "categoria": "Pescaderia > Especiales > Congelados",
     "precio_antes": 19999.0,
