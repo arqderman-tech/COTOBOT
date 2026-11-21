@@ -1,16 +1,5 @@
 [
   {
-    "plu": "709",
-    "nombre": "Pimiento Amarillo   Xkg   ",
-    "marca": NaN,
-    "categoria": "Verduras > Pimientos Morrones > Hortalizas Livianas > Hortalizas > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 6499.0,
-    "precio_hoy": 14999.0,
-    "precio_actual_hoy": 14999.0,
-    "diff_abs": 8500.0,
-    "diff_pct": 130.79
-  },
-  {
     "plu": "42212",
     "nombre": "Muslo Con Piel X Kg Congelados",
     "marca": "Coto",
@@ -20,17 +9,6 @@
     "precio_actual_hoy": 7499.0,
     "diff_abs": 3900.0,
     "diff_pct": 108.36
-  },
-  {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
   },
   {
     "plu": "17703",
@@ -55,26 +33,15 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "443",
-    "nombre": "Sandia Mini X Kg",
-    "marca": NaN,
-    "categoria": "Sandias > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3399.15,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.02
-  },
-  {
-    "plu": "495891",
-    "nombre": "Bolitas Dulce Nikitos Paq 80 Grm",
-    "marca": "Nikitos",
-    "categoria": "Verduras > Frutas y Verduras > Frescos",
-    "precio_antes": 749.0,
-    "precio_hoy": 1159.0,
-    "precio_actual_hoy": 1159.0,
-    "diff_abs": 410.0,
-    "diff_pct": 54.74
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
   },
   {
     "plu": "495915",
@@ -88,8 +55,19 @@
     "diff_pct": 54.74
   },
   {
-    "plu": "69977",
-    "nombre": "Bondiola PALADINI X Kg (Por pieza)",
+    "plu": "495891",
+    "nombre": "Bolitas Dulce Nikitos Paq 80 Grm",
+    "marca": "Nikitos",
+    "categoria": "Verduras > Frutas y Verduras > Frescos",
+    "precio_antes": 749.0,
+    "precio_hoy": 1159.0,
+    "precio_actual_hoy": 1159.0,
+    "diff_abs": 410.0,
+    "diff_pct": 54.74
+  },
+  {
+    "plu": "34913",
+    "nombre": "Bondiola Feteada PALADINI Xkg",
     "marca": "Paladini",
     "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 53675.0,
@@ -99,8 +77,8 @@
     "diff_pct": 53.85
   },
   {
-    "plu": "34913",
-    "nombre": "Bondiola Feteada PALADINI Xkg",
+    "plu": "69977",
+    "nombre": "Bondiola PALADINI X Kg (Por pieza)",
     "marca": "Paladini",
     "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 53675.0,
@@ -165,17 +143,6 @@
     "diff_pct": 45.92
   },
   {
-    "plu": "34878",
-    "nombre": "Jamon Cocido Feteado Paladini Xkg",
-    "marca": "Paladini",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 24269.0,
-    "precio_hoy": 34679.0,
-    "precio_actual_hoy": 34679.0,
-    "diff_abs": 10410.0,
-    "diff_pct": 42.89
-  },
-  {
     "plu": "715",
     "nombre": "Jamón Cocido Clasico PALADINI X Kg (Por pieza)",
     "marca": "Paladini",
@@ -187,15 +154,15 @@
     "diff_pct": 42.89
   },
   {
-    "plu": "69980",
-    "nombre": "Mortadela Cañón PALADINI X Kg (Por pieza)",
+    "plu": "34878",
+    "nombre": "Jamon Cocido Feteado Paladini Xkg",
     "marca": "Paladini",
-    "categoria": "Mortadela > Frescos > Fiambres",
-    "precio_antes": 14319.0,
-    "precio_hoy": 20459.0,
-    "precio_actual_hoy": 20459.0,
-    "diff_abs": 6140.0,
-    "diff_pct": 42.88
+    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
+    "precio_antes": 24269.0,
+    "precio_hoy": 34679.0,
+    "precio_actual_hoy": 34679.0,
+    "diff_abs": 10410.0,
+    "diff_pct": 42.89
   },
   {
     "plu": "34942",
@@ -209,6 +176,28 @@
     "diff_pct": 42.88
   },
   {
+    "plu": "69980",
+    "nombre": "Mortadela Cañón PALADINI X Kg (Por pieza)",
+    "marca": "Paladini",
+    "categoria": "Mortadela > Frescos > Fiambres",
+    "precio_antes": 14319.0,
+    "precio_hoy": 20459.0,
+    "precio_actual_hoy": 20459.0,
+    "diff_abs": 6140.0,
+    "diff_pct": 42.88
+  },
+  {
+    "plu": "11260",
+    "nombre": "Jamon Crudo Serrano Fetead Artysan X Kg",
+    "marca": "Artysán",
+    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
+    "precio_antes": 48299.0,
+    "precio_hoy": 68999.0,
+    "precio_actual_hoy": 68999.0,
+    "diff_abs": 20700.0,
+    "diff_pct": 42.86
+  },
+  {
     "plu": "11097",
     "nombre": "Jamon Crudo Serrano Artysan X 1 Kgm",
     "marca": "Artysán",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 68999.0,
     "diff_abs": 20700.0,
     "diff_pct": 42.86
+  },
+  {
+    "plu": "43620",
+    "nombre": "Suprema De Merluza Rebozado Natural Prefrita Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Rebozados > Pescaderia > Congelados",
+    "precio_antes": 5990.0,
+    "precio_hoy": 8499.0,
+    "precio_actual_hoy": 6799.2,
+    "diff_abs": 2509.0,
+    "diff_pct": 41.89
   }
 ]
