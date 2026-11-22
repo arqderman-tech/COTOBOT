@@ -11,17 +11,6 @@
     "diff_pct": 108.36
   },
   {
-    "plu": "17703",
-    "nombre": "Bola De Lomo  De Cerdo X KG",
-    "marca": "Coto",
-    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
-    "precio_antes": 5999.0,
-    "precio_hoy": 12000.0,
-    "precio_actual_hoy": 12000.0,
-    "diff_abs": 6001.0,
-    "diff_pct": 100.03
-  },
-  {
     "plu": "17705",
     "nombre": "Nalga  De Cerdo X KG",
     "marca": "Coto",
@@ -35,6 +24,17 @@
   {
     "plu": "17726",
     "nombre": "Cuadrada De Cerdo X KG",
+    "marca": "Coto",
+    "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
+    "precio_antes": 5999.0,
+    "precio_hoy": 12000.0,
+    "precio_actual_hoy": 12000.0,
+    "diff_abs": 6001.0,
+    "diff_pct": 100.03
+  },
+  {
+    "plu": "17703",
+    "nombre": "Bola De Lomo  De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -66,8 +66,8 @@
     "diff_pct": 54.74
   },
   {
-    "plu": "34913",
-    "nombre": "Bondiola Feteada PALADINI Xkg",
+    "plu": "69977",
+    "nombre": "Bondiola PALADINI X Kg (Por pieza)",
     "marca": "Paladini",
     "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 53675.0,
@@ -77,8 +77,8 @@
     "diff_pct": 53.85
   },
   {
-    "plu": "69977",
-    "nombre": "Bondiola PALADINI X Kg (Por pieza)",
+    "plu": "34913",
+    "nombre": "Bondiola Feteada PALADINI Xkg",
     "marca": "Paladini",
     "categoria": "Frescos > Fiambres > Bondiola",
     "precio_antes": 53675.0,
@@ -132,17 +132,6 @@
     "diff_pct": 45.99
   },
   {
-    "plu": "289079",
-    "nombre": "Almendras Bañadas En Chocolate Gerstner 80g",
-    "marca": "Gerstner",
-    "categoria": "Turrones y Confituras > Productos de Navidad > Productos Navideños > Panaderia > Confituras > Almacén",
-    "precio_antes": 6147.0,
-    "precio_hoy": 8969.99,
-    "precio_actual_hoy": 8969.99,
-    "diff_abs": 2822.99,
-    "diff_pct": 45.92
-  },
-  {
     "plu": "715",
     "nombre": "Jamón Cocido Clasico PALADINI X Kg (Por pieza)",
     "marca": "Paladini",
@@ -187,8 +176,8 @@
     "diff_pct": 42.88
   },
   {
-    "plu": "11260",
-    "nombre": "Jamon Crudo Serrano Fetead Artysan X Kg",
+    "plu": "11097",
+    "nombre": "Jamon Crudo Serrano Artysan X 1 Kgm",
     "marca": "Artysán",
     "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
     "precio_antes": 48299.0,
@@ -198,8 +187,8 @@
     "diff_pct": 42.86
   },
   {
-    "plu": "11097",
-    "nombre": "Jamon Crudo Serrano Artysan X 1 Kgm",
+    "plu": "11260",
+    "nombre": "Jamon Crudo Serrano Fetead Artysan X Kg",
     "marca": "Artysán",
     "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
     "precio_antes": 48299.0,
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 6799.2,
     "diff_abs": 2509.0,
     "diff_pct": 41.89
+  },
+  {
+    "plu": "128957",
+    "nombre": "Choclo Grano INCA Lat 202 Grm",
+    "marca": "Inca",
+    "categoria": "Conservas Vegetal > Conservas > Choclo > Almacén",
+    "precio_antes": 1769.0,
+    "precio_hoy": 2500.0,
+    "precio_actual_hoy": 1875.0,
+    "diff_abs": 731.0,
+    "diff_pct": 41.32
   }
 ]
