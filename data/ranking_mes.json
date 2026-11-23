@@ -1,51 +1,18 @@
 [
   {
-    "plu": "267681",
-    "nombre": "Mix Cervecero 100g",
-    "marca": "Natfood",
-    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > FRUTAS Y VERDURAS > FRUTAS SECAS > ALIMENTOS FRESCOS",
-    "precio_antes": 1099.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 3400.0,
-    "diff_pct": 309.37
+    "plu": "648",
+    "nombre": "Lechuga Capuchina X Kg",
+    "marca": "Nuestras Verduras",
+    "categoria": "Verduras de Hoja > Verduras > Lechuga > Frutas y Verduras > Frescos",
+    "precio_antes": 2299.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 3700.0,
+    "diff_pct": 160.94
   },
   {
-    "plu": "267682",
-    "nombre": "Mix Europeo 150g",
-    "marca": "Natfood",
-    "categoria": "Productos Orgánicos > Frutas y Verduras > Frescos > FRUTAS Y VERDURAS > FRUTAS SECAS > ALIMENTOS FRESCOS",
-    "precio_antes": 1499.0,
-    "precio_hoy": 4999.0,
-    "precio_actual_hoy": 4999.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 233.49
-  },
-  {
-    "plu": "614524",
-    "nombre": "Almendras Garrapiñadas Poema 80g",
-    "marca": "Poema",
-    "categoria": "Golosinas > Confituras > Almendras > Almacén",
-    "precio_antes": 2173.91,
-    "precio_hoy": 5174.99,
-    "precio_actual_hoy": 5174.99,
-    "diff_abs": 3001.08,
-    "diff_pct": 138.05
-  },
-  {
-    "plu": "614523",
-    "nombre": "Almendras Bañadas En Chocolate Poema 80g",
-    "marca": "Poema",
-    "categoria": "Golosinas > Confituras > Almendras > Almacén",
-    "precio_antes": 3260.87,
-    "precio_hoy": 6899.99,
-    "precio_actual_hoy": 6899.99,
-    "diff_abs": 3639.12,
-    "diff_pct": 111.6
-  },
-  {
-    "plu": "17705",
-    "nombre": "Nalga  De Cerdo X KG",
+    "plu": "17726",
+    "nombre": "Cuadrada De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -66,8 +33,8 @@
     "diff_pct": 100.03
   },
   {
-    "plu": "17726",
-    "nombre": "Cuadrada De Cerdo X KG",
+    "plu": "17705",
+    "nombre": "Nalga  De Cerdo X KG",
     "marca": "Coto",
     "categoria": "Porcinos > Frescos > Carniceria > Carnes > CARNICERIA > CARNES > ALIMENTOS FRESCOS",
     "precio_antes": 5999.0,
@@ -99,17 +66,6 @@
     "diff_pct": 87.55
   },
   {
-    "plu": "42212",
-    "nombre": "Muslo Con Piel X Kg Congelados",
-    "marca": "Coto",
-    "categoria": "por Kg > Pollo Trozado Congelado > Muslo con Piel > Frescos > Aves",
-    "precio_antes": 3999.0,
-    "precio_hoy": 7499.0,
-    "precio_actual_hoy": 7499.0,
-    "diff_abs": 3500.0,
-    "diff_pct": 87.52
-  },
-  {
     "plu": "563830",
     "nombre": "Salsa Bbq Miel Sweet Baby Rays 510g",
     "marca": "Sweet Baby Rays",
@@ -127,7 +83,7 @@
     "categoria": "Verduras > Tomates > Hortalizas > Frutas y Verduras > Frescos",
     "precio_antes": 2999.0,
     "precio_hoy": 5499.0,
-    "precio_actual_hoy": 4674.15,
+    "precio_actual_hoy": 5499.0,
     "diff_abs": 2500.0,
     "diff_pct": 83.36
   },
@@ -198,6 +154,17 @@
     "diff_pct": 70.01
   },
   {
+    "plu": "616196",
+    "nombre": "Queso Parrillero Tradicional Quata 330g",
+    "marca": "Quata",
+    "categoria": "Quesos > Frescos",
+    "precio_antes": 7699.0,
+    "precio_hoy": 12799.0,
+    "precio_actual_hoy": 12799.0,
+    "diff_abs": 5100.0,
+    "diff_pct": 66.24
+  },
+  {
     "plu": "602231",
     "nombre": "Queso Parrillero Con Orégano Quata 300g",
     "marca": "Quata",
@@ -209,14 +176,47 @@
     "diff_pct": 66.24
   },
   {
-    "plu": "616196",
-    "nombre": "Queso Parrillero Tradicional Quata 330g",
-    "marca": "Quata",
-    "categoria": "Quesos > Frescos",
-    "precio_antes": 7699.0,
-    "precio_hoy": 12799.0,
-    "precio_actual_hoy": 12799.0,
-    "diff_abs": 5100.0,
-    "diff_pct": 66.24
+    "plu": "45271",
+    "nombre": "Filete De Bacalao Salado Hidratado Congelado X Kg",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 26399.2,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
+    "plu": "45270",
+    "nombre": "Bacalao Salado Lomo Hidratado X Kg \r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 19999.0,
+    "precio_hoy": 32999.0,
+    "precio_actual_hoy": 26399.2,
+    "diff_abs": 13000.0,
+    "diff_pct": 65.0
+  },
+  {
+    "plu": "522386",
+    "nombre": "Whisky MONKEY SHOULDER 700 Ml",
+    "marca": "Monkey Shoulder",
+    "categoria": "Whiskys > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 58719.0,
+    "precio_hoy": 96000.0,
+    "precio_actual_hoy": 96000.0,
+    "diff_abs": 37281.0,
+    "diff_pct": 63.49
+  },
+  {
+    "plu": "571007",
+    "nombre": "Vino Malbec D.O.C. Norton 750ml",
+    "marca": "Norton",
+    "categoria": "Vinos Tintos > Vinos > Bebidas con Alcohol > Bebidas",
+    "precio_antes": 11746.0,
+    "precio_hoy": 19036.0,
+    "precio_actual_hoy": 19036.0,
+    "diff_abs": 7290.0,
+    "diff_pct": 62.06
   }
 ]
