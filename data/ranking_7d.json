@@ -1,5 +1,27 @@
 [
   {
+    "plu": "480139",
+    "nombre": "Bolsa Compresora Dressware 40 X 60 Cm 1 U. Plana Manual",
+    "marca": "Dressware",
+    "categoria": "Limpieza > Bolsas Compresoras > Bolsas > Accesorios de Limpieza",
+    "precio_antes": 320.99,
+    "precio_hoy": 8520.99,
+    "precio_actual_hoy": 8520.99,
+    "diff_abs": 8200.0,
+    "diff_pct": 2554.6
+  },
+  {
+    "plu": "480144",
+    "nombre": "Bolsa Compresora Dressware 48 X 60 Cm 1 U. Formato Plana",
+    "marca": "Dressware",
+    "categoria": "Limpieza > Bolsas Compresoras > Bolsas > Accesorios de Limpieza",
+    "precio_antes": 2087.86,
+    "precio_hoy": 12710.99,
+    "precio_actual_hoy": 12710.99,
+    "diff_abs": 10623.13,
+    "diff_pct": 508.8
+  },
+  {
     "plu": "17859",
     "nombre": "Mejillon Pelado Cocido Chileno Congelado X Kg\r\n",
     "marca": "Nuestra Pescaderia",
@@ -11,59 +33,15 @@
     "diff_pct": 140.23
   },
   {
-    "plu": "450",
-    "nombre": "Cereza  X Kg",
-    "marca": NaN,
-    "categoria": "Frutas y Verduras > Frutas > Frescos > Cerezas",
-    "precio_antes": 7999.0,
-    "precio_hoy": 16999.0,
-    "precio_actual_hoy": 16999.0,
-    "diff_abs": 9000.0,
-    "diff_pct": 112.51
-  },
-  {
-    "plu": "545",
-    "nombre": "Pelon Amarillo X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Pelon > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 3999.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 7999.0,
+    "plu": "32342",
+    "nombre": "Huevo Blanco Maple X 30u",
+    "marca": "Avicoper",
+    "categoria": "Huevos Blanco > Huevos > HUEVOS > Frescos > CARNICERIA > ALIMENTOS FRESCOS",
+    "precio_antes": 5990.0,
+    "precio_hoy": 9990.0,
+    "precio_actual_hoy": 9990.0,
     "diff_abs": 4000.0,
-    "diff_pct": 100.03
-  },
-  {
-    "plu": "66586",
-    "nombre": "Pelón Amarillo Selección X Kg",
-    "marca": NaN,
-    "categoria": "Pelon > Frutas y Verduras > Frutas > Frescos",
-    "precio_antes": 4999.0,
-    "precio_hoy": 9999.0,
-    "precio_actual_hoy": 9999.0,
-    "diff_abs": 5000.0,
-    "diff_pct": 100.02
-  },
-  {
-    "plu": "446",
-    "nombre": "Banana Cavendish X Kg",
-    "marca": "Nuestras Frutas",
-    "categoria": "Frutas y Verduras > Frutas > Frescos > Bananas",
-    "precio_antes": 2299.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 73.95
-  },
-  {
-    "plu": "615",
-    "nombre": "Cebolla Seleccionada En Bolsita X Kg",
-    "marca": "Cosecha Criolla",
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 2799.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 4499.0,
-    "diff_abs": 1700.0,
-    "diff_pct": 60.74
+    "diff_pct": 66.78
   },
   {
     "plu": "17843",
@@ -77,39 +55,6 @@
     "diff_pct": 60.15
   },
   {
-    "plu": "602",
-    "nombre": "Cebolla A Granel X Kg",
-    "marca": NaN,
-    "categoria": "Verduras > Hortalizas > Frutas y Verduras > Frescos > Cebollas",
-    "precio_antes": 2499.0,
-    "precio_hoy": 3999.0,
-    "precio_actual_hoy": 3999.0,
-    "diff_abs": 1500.0,
-    "diff_pct": 60.02
-  },
-  {
-    "plu": "37672",
-    "nombre": "Cremoso PRIMERA MARCA Xkg",
-    "marca": "Primera Marca",
-    "categoria": "Quesos Blandos > Quesos > Queso Cremoso > Frescos",
-    "precio_antes": 7999.0,
-    "precio_hoy": 12599.0,
-    "precio_actual_hoy": 12599.0,
-    "diff_abs": 4600.0,
-    "diff_pct": 57.51
-  },
-  {
-    "plu": "12032",
-    "nombre": "Jamón Crudo Feteado El Pozo X Kg",
-    "marca": "El Pozo",
-    "categoria": "Jamón Crudo > Jamón > Frescos > Fiambres",
-    "precio_antes": 45499.0,
-    "precio_hoy": 69999.0,
-    "precio_actual_hoy": 69999.0,
-    "diff_abs": 24500.0,
-    "diff_pct": 53.85
-  },
-  {
     "plu": "17543",
     "nombre": "Queso Cremoso La Maria Pilar X Kg",
     "marca": "La Maria Pilar",
@@ -119,17 +64,6 @@
     "precio_actual_hoy": 14399.0,
     "diff_abs": 4900.0,
     "diff_pct": 51.58
-  },
-  {
-    "plu": "3548",
-    "nombre": "Lata De Duraznos Inca 820g",
-    "marca": "Inca",
-    "categoria": "Durazno > Conservas de Frutas > Conservas > Almacén",
-    "precio_antes": 3999.0,
-    "precio_hoy": 6000.0,
-    "precio_actual_hoy": 6000.0,
-    "diff_abs": 2001.0,
-    "diff_pct": 50.04
   },
   {
     "plu": "17939",
@@ -152,39 +86,6 @@
     "precio_actual_hoy": 8899.0,
     "diff_abs": 2900.0,
     "diff_pct": 48.34
-  },
-  {
-    "plu": "15241",
-    "nombre": "Jamon Cocido Feteado. Primera Mar . 1 Kgm",
-    "marca": "Campo Austral",
-    "categoria": "Jamón Cocido > Jamón > Frescos > Fiambres",
-    "precio_antes": 15539.0,
-    "precio_hoy": 22905.0,
-    "precio_actual_hoy": 22905.0,
-    "diff_abs": 7366.0,
-    "diff_pct": 47.4
-  },
-  {
-    "plu": "126",
-    "nombre": "Fiambre De Cerdo CAMPO AUSTRAL X Kg (Por pieza)",
-    "marca": "Campo Austral",
-    "categoria": "JAMON Y PALETA COCIDA > Frescos > Fiambres > Fiambre de Cerdo > FIAMBRES > FIAMBRERIA > ALIMENTOS FRESCOS",
-    "precio_antes": 11529.0,
-    "precio_hoy": 16965.0,
-    "precio_actual_hoy": 16965.0,
-    "diff_abs": 5436.0,
-    "diff_pct": 47.15
-  },
-  {
-    "plu": "34896",
-    "nombre": "Fiamb.D/Cerdo Feteado Campo Austra Xkg",
-    "marca": "Campo Austral",
-    "categoria": "Frescos > Fiambres > Fiambre de Cerdo",
-    "precio_antes": 11529.0,
-    "precio_hoy": 16965.0,
-    "precio_actual_hoy": 16965.0,
-    "diff_abs": 5436.0,
-    "diff_pct": 47.15
   },
   {
     "plu": "258623",
@@ -218,5 +119,104 @@
     "precio_actual_hoy": 17899.0,
     "diff_abs": 5400.0,
     "diff_pct": 43.2
+  },
+  {
+    "plu": "38097",
+    "nombre": "Bacalao Noruego Ling X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescaderia > Especiales > Congelados",
+    "precio_antes": 25990.0,
+    "precio_hoy": 36999.0,
+    "precio_actual_hoy": 29599.2,
+    "diff_abs": 11009.0,
+    "diff_pct": 42.36
+  },
+  {
+    "plu": "37191",
+    "nombre": "Queso Azul San Gotardo X Kg",
+    "marca": "San Gotardo",
+    "categoria": "Quesos Especiales > Quesos > Frescos > Blandos > Azul",
+    "precio_antes": 18999.0,
+    "precio_hoy": 26999.0,
+    "precio_actual_hoy": 26999.0,
+    "diff_abs": 8000.0,
+    "diff_pct": 42.11
+  },
+  {
+    "plu": "94544",
+    "nombre": "Medallon De Merluza Rebozado Natural Prefrito Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Rebozados > Pescaderia > Congelados",
+    "precio_antes": 5990.0,
+    "precio_hoy": 8499.0,
+    "precio_actual_hoy": 6799.2,
+    "diff_abs": 2509.0,
+    "diff_pct": 41.89
+  },
+  {
+    "plu": "40294",
+    "nombre": "Raba Rebozada Prefrita Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Rebozados > Pescaderia > Congelados",
+    "precio_antes": 29990.0,
+    "precio_hoy": 41999.0,
+    "precio_actual_hoy": 33599.2,
+    "diff_abs": 12009.0,
+    "diff_pct": 40.04
+  },
+  {
+    "plu": "492886",
+    "nombre": "Varitas De Surimi Kanikama 250 Gr\r\n",
+    "marca": "Kanikama",
+    "categoria": "Varitas de Surimi > Pescaderia > Congelados",
+    "precio_antes": 4999.0,
+    "precio_hoy": 6999.0,
+    "precio_actual_hoy": 5599.2,
+    "diff_abs": 2000.0,
+    "diff_pct": 40.01
+  },
+  {
+    "plu": "590071",
+    "nombre": "Salmon Rosado Ahumado Con Pimienta Latitude 45 113g",
+    "marca": "Latitude 45",
+    "categoria": "Salmón y Trucha > Pescaderia > Congelados",
+    "precio_antes": 9999.0,
+    "precio_hoy": 13999.0,
+    "precio_actual_hoy": 11199.2,
+    "diff_abs": 4000.0,
+    "diff_pct": 40.0
+  },
+  {
+    "plu": "544391",
+    "nombre": "Maquina De Afeitar Sensitive Shaver Bic 7 Uni",
+    "marca": "Bic",
+    "categoria": "Productos Masculinos > Perfumería > Cuidado Personal > Afeitado",
+    "precio_antes": 2527.0,
+    "precio_hoy": 3496.99,
+    "precio_actual_hoy": 3496.99,
+    "diff_abs": 969.99,
+    "diff_pct": 38.39
+  },
+  {
+    "plu": "28470",
+    "nombre": "Filete De Gatuzo Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado de Mar > Pescaderia > Entero Eviscerado > Congelados",
+    "precio_antes": 15990.0,
+    "precio_hoy": 21999.0,
+    "precio_actual_hoy": 17599.2,
+    "diff_abs": 6009.0,
+    "diff_pct": 37.58
+  },
+  {
+    "plu": "17833",
+    "nombre": "Cornalito Congelado X Kg\r\n",
+    "marca": "Nuestra Pescaderia",
+    "categoria": "Pescado de Mar > Pescaderia > Entero Eviscerado > Delicias > Congelados",
+    "precio_antes": 10990.0,
+    "precio_hoy": 14999.0,
+    "precio_actual_hoy": 11999.2,
+    "diff_abs": 4009.0,
+    "diff_pct": 36.48
   }
 ]
