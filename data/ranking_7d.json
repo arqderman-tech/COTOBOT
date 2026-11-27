@@ -1,5 +1,27 @@
 [
   {
+    "plu": "543221",
+    "nombre": "Queso Azul Le Blue President 100 Grm",
+    "marca": "President",
+    "categoria": "Quesos > Queso Semiduro > Frescos > Azul",
+    "precio_antes": 599.0,
+    "precio_hoy": 11489.0,
+    "precio_actual_hoy": 11489.0,
+    "diff_abs": 10890.0,
+    "diff_pct": 1818.03
+  },
+  {
+    "plu": "116675",
+    "nombre": "Queso Feteado PRESIDENT Sandwich Paq 200 Grm",
+    "marca": "President",
+    "categoria": "Quesos Especiales > Quesos > Frescos",
+    "precio_antes": 719.0,
+    "precio_hoy": 10899.0,
+    "precio_actual_hoy": 10899.0,
+    "diff_abs": 10180.0,
+    "diff_pct": 1415.86
+  },
+  {
     "plu": "17859",
     "nombre": "Mejillon Pelado Cocido Chileno Congelado X Kg\r\n",
     "marca": "Nuestra Pescaderia",
@@ -9,50 +31,6 @@
     "precio_actual_hoy": 19199.2,
     "diff_abs": 14009.0,
     "diff_pct": 140.23
-  },
-  {
-    "plu": "677",
-    "nombre": "Remolacha X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Remolacha > Frutas y Verduras > Frescos",
-    "precio_antes": 1999.0,
-    "precio_hoy": 4499.0,
-    "precio_actual_hoy": 3824.15,
-    "diff_abs": 2500.0,
-    "diff_pct": 125.06
-  },
-  {
-    "plu": "598",
-    "nombre": "Brocoli X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Brocoli",
-    "precio_antes": 3699.0,
-    "precio_hoy": 7999.0,
-    "precio_actual_hoy": 6799.15,
-    "diff_abs": 4300.0,
-    "diff_pct": 116.25
-  },
-  {
-    "plu": "619",
-    "nombre": "Coliflor X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras De Hoja > Verduras > Frutas y Verduras > Frutas Y Verduras > Frescos > Coliflor",
-    "precio_antes": 3499.0,
-    "precio_hoy": 6499.0,
-    "precio_actual_hoy": 5524.15,
-    "diff_abs": 3000.0,
-    "diff_pct": 85.74
-  },
-  {
-    "plu": "46632",
-    "nombre": "Puerro X Uni",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Puerro > Frutas y Verduras > Frescos",
-    "precio_antes": 1099.0,
-    "precio_hoy": 1999.0,
-    "precio_actual_hoy": 1999.0,
-    "diff_abs": 900.0,
-    "diff_pct": 81.89
   },
   {
     "plu": "17843",
@@ -143,28 +121,6 @@
     "diff_pct": 47.15
   },
   {
-    "plu": "258623",
-    "nombre": "Condimentos Humo Solido San Giorgio Fra 30 Grm",
-    "marca": "San Giorgio",
-    "categoria": "Humo > Condimentos > Almacén > Aceites y Condimentos",
-    "precio_antes": 5669.0,
-    "precio_hoy": 8276.0,
-    "precio_actual_hoy": 8276.0,
-    "diff_abs": 2607.0,
-    "diff_pct": 45.99
-  },
-  {
-    "plu": "37201",
-    "nombre": "Albahaca X Uni",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras > Frutas y Verduras > Frescos > Albahaca",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2899.0,
-    "precio_actual_hoy": 2899.0,
-    "diff_abs": 900.0,
-    "diff_pct": 45.02
-  },
-  {
     "plu": "40610",
     "nombre": "Reggianito Xkg",
     "marca": "Primera Marca",
@@ -176,20 +132,20 @@
     "diff_pct": 45.0
   },
   {
-    "plu": "424",
-    "nombre": "Lechuga Mantecosa X Kg",
-    "marca": "Nuestras Verduras",
-    "categoria": "Verduras de Hoja > Verduras De Hoja > Verduras > Lechuga > Frutas y Verduras > Frutas Y Verduras > Frescos",
-    "precio_antes": 2999.0,
-    "precio_hoy": 4299.0,
-    "precio_actual_hoy": 4299.0,
-    "diff_abs": 1300.0,
-    "diff_pct": 43.35
+    "plu": "14863",
+    "nombre": "Turron Mani Con Chocolate Georgalos Fwp 90 Grm",
+    "marca": "Georgalos",
+    "categoria": "Turrones y Confituras > Turrones > Productos de Navidad > Productos Navideños > Panaderia > Almacén",
+    "precio_antes": 2289.0,
+    "precio_hoy": 3284.99,
+    "precio_actual_hoy": 3284.99,
+    "diff_abs": 995.99,
+    "diff_pct": 43.51
   },
   {
     "plu": "40612",
-    "nombre": "Queso De Maquina Xkg",
-    "marca": "Primera Marca",
+    "nombre": "Queso danbo La Paulina Xkg",
+    "marca": "La Paulina",
     "categoria": "Quesos > Queso Semiduro > Frescos > Danbo",
     "precio_antes": 12499.0,
     "precio_hoy": 17899.0,
@@ -218,5 +174,49 @@
     "precio_actual_hoy": 34555.0,
     "diff_abs": 10376.0,
     "diff_pct": 42.91
+  },
+  {
+    "plu": "34890",
+    "nombre": "Salchichon Primav. Fetead Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salchichón > Frescos > Fiambres",
+    "precio_antes": 8509.0,
+    "precio_hoy": 12159.0,
+    "precio_actual_hoy": 12159.0,
+    "diff_abs": 3650.0,
+    "diff_pct": 42.9
+  },
+  {
+    "plu": "949",
+    "nombre": "Salchichón Primavera EBRO X Kg (Por pieza)",
+    "marca": "Ebro",
+    "categoria": "Salchichón > Frescos > Fiambres",
+    "precio_antes": 8509.0,
+    "precio_hoy": 12159.0,
+    "precio_actual_hoy": 12159.0,
+    "diff_abs": 3650.0,
+    "diff_pct": 42.9
+  },
+  {
+    "plu": "34891",
+    "nombre": "Salchichon C/Jam. Feteado Ebro Xkg",
+    "marca": "Ebro",
+    "categoria": "Salchichón > Frescos > Fiambres",
+    "precio_antes": 8509.0,
+    "precio_hoy": 12159.0,
+    "precio_actual_hoy": 12159.0,
+    "diff_abs": 3650.0,
+    "diff_pct": 42.9
+  },
+  {
+    "plu": "954",
+    "nombre": "Salchichón Con Jamón EBRO X Kg (Por pieza)",
+    "marca": "Ebro",
+    "categoria": "Salchichón > Frescos > Fiambres",
+    "precio_antes": 8509.0,
+    "precio_hoy": 12159.0,
+    "precio_actual_hoy": 12159.0,
+    "diff_abs": 3650.0,
+    "diff_pct": 42.9
   }
 ]
